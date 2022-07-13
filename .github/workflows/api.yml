@@ -18,6 +18,12 @@ jobs:
       - name: Update summary & API
         shell: bash
         run: deno task start
-      - name: Commit and push changes
+      - name: Set git user and pull
         shell: bash
-        run: "git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com' && git config --global user.name 'github-actions[bot]' && git pull && git diff --quiet && git diff --staged --quiet || git commit -am ':bento: Update api.json and README.md [skip ci]' && git push"
+        run: "git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com' && git config --global user.name 'github-actions[bot]' && git pull && git add ."
+      - name: Commit changes
+        shell: bash
+        run: "git commit -m ':bento: Update api.json and README.md [skip ci]' || echo 'No changes to commit'"
+      - name: Push changes
+        shell: bash
+        run: "git push"
