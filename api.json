@@ -1,0 +1,2631 @@
+[
+  {
+    "type": "okr",
+    "url": "https://anandchowdhary.com/life/okrs/2022/3.json",
+    "source": "https://anandchowdhary.github.io/okrs/okrs/2022/3.json",
+    "title": "Published OKRs for Q3 2022",
+    "date": "2022-07-01",
+    "description": "Improve physical and mental health, Get engaged to be married, Start planning for the long term",
+    "data": {
+      "name": 3,
+      "progress": 0.06,
+      "success": 0.59,
+      "objectives": [
+        {
+          "name": "Improve physical and mental health",
+          "progress": 0.01,
+          "success": 0.11,
+          "key_results": [
+            {
+              "name": "Work out 3 or more times weekly",
+              "current_result": 0,
+              "target_result": 39,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "Complete one book every month",
+              "current_result": 0.1,
+              "target_result": 3,
+              "progress": 0.03,
+              "success": 0.33
+            },
+            {
+              "name": "Meditate or breathwork once a week",
+              "current_result": 0,
+              "target_result": 13,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        },
+        {
+          "name": "Get engaged to be married",
+          "progress": 0.07,
+          "success": 0.67,
+          "key_results": [
+            {
+              "name": "Hold engagement celebration in India",
+              "current_result": 0.1,
+              "target_result": 1,
+              "progress": 0.1,
+              "success": 1
+            },
+            {
+              "name": "Plan wedding (venue, date, guests)",
+              "current_result": 0.1,
+              "target_result": 1,
+              "progress": 0.1,
+              "success": 1
+            },
+            {
+              "name": "Set up and use personal CRM",
+              "current_result": 0,
+              "target_result": 1,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        },
+        {
+          "name": "Start planning for the long term",
+          "progress": 0.1,
+          "success": 1,
+          "key_results": [
+            {
+              "name": "[redacted]",
+              "current_result": 0,
+              "target_result": 1,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "Get residence permit with HSM",
+              "current_result": 0.2,
+              "target_result": 1,
+              "progress": 0.2,
+              "success": 2
+            },
+            {
+              "name": "Finalize mortgage or rent for Q4",
+              "current_result": 0.1,
+              "target_result": 1,
+              "progress": 0.1,
+              "success": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "2022-06-24T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2022/iima-inclusive-entrepreneurship",
+    "source": "https://anandchowdhary.github.io/events/events/2022/iima-inclusive-entrepreneurship",
+    "title": "Guest lecture on inclusive entrepreneurship",
+    "data": {
+      "location": "Indian Institute of Management, Ahmedabad, Ahmedabad, India",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2022-06-01",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/milestones/2022/got-engaged",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
+    "title": "Got engaged"
+  },
+  {
+    "date": "2022-05-12T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2022/twitter-space-open-source",
+    "source": "https://anandchowdhary.github.io/events/events/2022/twitter-space-open-source",
+    "title": "Twitter Space on \"Why make your product open source?\"",
+    "data": {
+      "location": "Twitter Space, Remote",
+      "emoji": "🇺🇸"
+    }
+  },
+  {
+    "date": "2022-04-25T05:58:39.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2022/talking-to-strangers",
+    "source": "https://github.com/AnandChowdhary/books/issues/41",
+    "title": "Talking to Strangers",
+    "data": {
+      "image": "http://books.google.com/books/content?id=VnuGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Malcolm Gladwell"
+      ]
+    }
+  },
+  {
+    "type": "okr",
+    "url": "https://anandchowdhary.com/life/okrs/2022/2.json",
+    "source": "https://anandchowdhary.github.io/okrs/okrs/2022/2.json",
+    "title": "Published OKRs for Q2 2022",
+    "date": "2022-04-01",
+    "description": "Accelerate body and mind progress, Invest in support system, Work harder and smarter",
+    "data": {
+      "name": 2,
+      "progress": 0.38,
+      "success": 0.38,
+      "objectives": [
+        {
+          "name": "Accelerate body and mind progress",
+          "progress": 0.47,
+          "success": 0.47,
+          "key_results": [
+            {
+              "name": "Work out twice every week",
+              "current_result": 15,
+              "target_result": 26,
+              "progress": 0.58,
+              "success": 0.58
+            },
+            {
+              "name": "Complete one book every month",
+              "current_result": 1,
+              "target_result": 3,
+              "progress": 0.33,
+              "success": 0.33
+            },
+            {
+              "name": "Take structured days off",
+              "current_result": 10,
+              "target_result": 20,
+              "progress": 0.5,
+              "success": 0.5
+            }
+          ]
+        },
+        {
+          "name": "Invest in support system",
+          "progress": 0.4,
+          "success": 0.4,
+          "key_results": [
+            {
+              "name": "Weekly date nights",
+              "current_result": 7,
+              "target_result": 13,
+              "progress": 0.54,
+              "success": 0.54
+            },
+            {
+              "name": "Biweekly round-robin calls home",
+              "current_result": 12,
+              "target_result": 26,
+              "progress": 0.46,
+              "success": 0.46
+            },
+            {
+              "name": "Set up and use personal CRM",
+              "current_result": 0.2,
+              "target_result": 1,
+              "progress": 0.2,
+              "success": 0.2
+            }
+          ]
+        },
+        {
+          "name": "Work harder and smarter",
+          "progress": 0.27,
+          "success": 0.27,
+          "key_results": [
+            {
+              "name": "[redacted]",
+              "current_result": 0.5,
+              "target_result": 1,
+              "progress": 0.5,
+              "success": 0.5
+            },
+            {
+              "name": "Well-prepared 1:1s with direct reports",
+              "current_result": 4,
+              "target_result": 13,
+              "progress": 0.31,
+              "success": 0.31
+            },
+            {
+              "name": "Invest €1000 × [redacted]",
+              "current_result": 0,
+              "target_result": 1000,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "2022-03-21T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2022/startup-school",
+    "source": "https://anandchowdhary.github.io/events/events/2022/startup-school",
+    "title": "Startup School Kickoff Call Q&A",
+    "data": {
+      "location": "Y Combinator Startup School, Remote",
+      "emoji": "🇺🇸"
+    }
+  },
+  {
+    "date": "2022-02-20T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2022/the-one-minute-manager",
+    "source": "https://github.com/AnandChowdhary/books/issues/40",
+    "title": "The One Minute Manager",
+    "data": {
+      "image": "http://books.google.com/books/content?id=hbQco6gUKm4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "authors": [
+        "Kenneth Blanchard",
+        "Kenneth H. Blanchard",
+        "Spencer Johnson"
+      ]
+    }
+  },
+  {
+    "type": "okr",
+    "url": "https://anandchowdhary.com/life/okrs/2022/1.json",
+    "source": "https://anandchowdhary.github.io/okrs/okrs/2022/1.json",
+    "title": "Published OKRs for Q1 2022",
+    "date": "2022-01-01",
+    "description": "Keep body and mind on track, Set up for a great 2022, Manage money better",
+    "data": {
+      "name": 1,
+      "progress": 0.62,
+      "success": 0.61,
+      "objectives": [
+        {
+          "name": "Keep body and mind on track",
+          "progress": 0.5,
+          "success": 0.49,
+          "key_results": [
+            {
+              "name": "Maintain weight of less than 75 kg",
+              "current_result": 13,
+              "target_result": 13,
+              "progress": 1,
+              "success": 1
+            },
+            {
+              "name": "Work out twice every week",
+              "current_result": 4,
+              "target_result": 26,
+              "progress": 0.15,
+              "success": 0.15
+            },
+            {
+              "name": "Read one book every month",
+              "current_result": 1,
+              "target_result": 3,
+              "progress": 0.33,
+              "success": 0.33
+            }
+          ]
+        },
+        {
+          "name": "Set up for a great 2022",
+          "progress": 0.35,
+          "success": 0.35,
+          "key_results": [
+            {
+              "name": "[redacted]",
+              "current_result": 0.5,
+              "target_result": 1,
+              "progress": 0.5,
+              "success": 0.5
+            },
+            {
+              "name": "Buy a ring and plan proposal",
+              "current_result": 0.35,
+              "target_result": 1,
+              "progress": 0.35,
+              "success": 0.35
+            },
+            {
+              "name": "Convert engineering to autopilot",
+              "current_result": 0.6,
+              "target_result": 3,
+              "progress": 0.2,
+              "success": 0.2
+            }
+          ]
+        },
+        {
+          "name": "Manage money better",
+          "progress": 1,
+          "success": 1,
+          "key_results": [
+            {
+              "name": "Breakeven every month",
+              "current_result": 3,
+              "target_result": 3,
+              "progress": 1,
+              "success": 1
+            },
+            {
+              "name": "Set up 2021 personal and corporate taxes",
+              "current_result": 1,
+              "target_result": 1,
+              "progress": 1,
+              "success": 1
+            },
+            {
+              "name": "Renew residence permit until Q2 2023",
+              "current_result": 1,
+              "target_result": 1,
+              "progress": 1,
+              "success": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "2021-12-29T19:04:50.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2021/year-of-teamwork",
+    "source": "https://anandchowdhary.github.io/blog/blog/2021/year-of-teamwork",
+    "title": "2022 will be the Year of Teamwork",
+    "data": {
+      "words": 1159
+    }
+  },
+  {
+    "date": "2021-12-15",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2021/furniture-rental-company-pabio-expands-to-germany",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Furniture rental company Pabio expands to Germany",
+    "data": {
+      "publisher": "TechCrunch",
+      "author": "Haje Jan Kamps"
+    }
+  },
+  {
+    "date": "2021-12-12T18:04:50.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2021/yc-batch-size",
+    "source": "https://anandchowdhary.github.io/blog/blog/2021/yc-batch-size",
+    "title": "1,000 companies per batch? OMG Y Combinator",
+    "data": {
+      "words": 961
+    }
+  },
+  {
+    "date": "2021-11-09T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2021/ddog-8",
+    "source": "https://anandchowdhary.github.io/events/events/2021/ddog-8",
+    "title": "COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community",
+    "data": {
+      "location": "OGD ict diensten, Utrecht",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2021-10-11T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2021/open-source-vit",
+    "source": "https://anandchowdhary.github.io/events/events/2021/open-source-vit",
+    "title": "Open source from scratch for CodeChef-VIT",
+    "data": {
+      "location": "Vellore Institute of Technology, Vellore",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2021-10-05T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2021/github-nova",
+    "source": "https://anandchowdhary.github.io/events/events/2021/github-nova",
+    "title": "Open source as a startup at GitHub Nova 2021",
+    "data": {
+      "location": "GitHub Nova 2021, Remote",
+      "emoji": "🇺🇸"
+    }
+  },
+  {
+    "type": "okr",
+    "url": "https://anandchowdhary.com/life/okrs/2021/4.json",
+    "source": "https://anandchowdhary.github.io/okrs/okrs/2021/4.json",
+    "title": "Published OKRs for Q4 2021",
+    "date": "2021-10-01",
+    "description": "Start getting healthy, Get back to work, Get ready for 2022",
+    "data": {
+      "name": 4,
+      "progress": 0.64,
+      "success": 0.64,
+      "objectives": [
+        {
+          "name": "Start getting healthy",
+          "progress": 0.83,
+          "success": 0.83,
+          "key_results": [
+            {
+              "name": "Work out twice a week",
+              "current_result": 12,
+              "target_result": 24,
+              "progress": 0.5,
+              "success": 0.5
+            },
+            {
+              "name": "Stay under 1,700 kcal/day",
+              "current_result": 90,
+              "target_result": 91,
+              "progress": 0.99,
+              "success": 0.99
+            },
+            {
+              "name": "Lose 10 kg by birthday",
+              "current_result": 10,
+              "target_result": 10,
+              "progress": 1,
+              "success": 1
+            }
+          ]
+        },
+        {
+          "name": "Get back to work",
+          "progress": 0.43,
+          "success": 0.43,
+          "key_results": [
+            {
+              "name": "[redacted]",
+              "current_result": 0.4485,
+              "target_result": 1,
+              "progress": 0.45,
+              "success": 0.45
+            },
+            {
+              "name": "Do proper 1:1s with reports",
+              "current_result": 10,
+              "target_result": 12,
+              "progress": 0.83,
+              "success": 0.83
+            },
+            {
+              "name": "Read 1 book per month",
+              "current_result": 0,
+              "target_result": 3,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        },
+        {
+          "name": "Get ready for 2022",
+          "progress": 0.67,
+          "success": 0.67,
+          "key_results": [
+            {
+              "name": "Register Dutch subsidiary",
+              "current_result": 1,
+              "target_result": 1,
+              "progress": 1,
+              "success": 1
+            },
+            {
+              "name": "Apply for residence permit",
+              "current_result": 1,
+              "target_result": 1,
+              "progress": 1,
+              "success": 1
+            },
+            {
+              "name": "Have [redacted] in savings",
+              "current_result": 0,
+              "target_result": 1000,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "date": "2021-09-13T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2021/ut-opportunity-recognition",
+    "source": "https://anandchowdhary.github.io/events/events/2021/ut-opportunity-recognition",
+    "title": "Guest lecture at University of Twente",
+    "data": {
+      "location": "University of Twente, Enschede",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2021-08-13T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2021/minet-x",
+    "source": "https://anandchowdhary.github.io/events/events/2021/minet-x",
+    "title": "MINET X 2021 keynote",
+    "data": {
+      "location": "The Mother's International School, Remote",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2021-06-31",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/milestones/2021/became-a-y-combinator-alum",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
+    "title": "Became a Y Combinator alum",
+    "description": "Pabio was part of Y Combinator's S21 batch, being one of the first Swiss companies to be funded by YC. I was the third ever from my university to be part of YC and we raised a $2.2 million seed round after the batch."
+  },
+  {
+    "date": "2021-04-05",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/milestones/2021/moved-to-groningen-the-netherlands",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
+    "title": "Moved to Groningen, the Netherlands"
+  },
+  {
+    "date": "2021-03-27",
+    "type": "podcast-interview",
+    "url": "https://anandchowdhary.com/press/2021/anand-chowdhary-on-his-new-startup-typescript-and-other-things",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Anand Chowdhary on his new startup, Typescript and other things",
+    "data": {
+      "publisher": "Minimum Viable Podcast"
+    }
+  },
+  {
+    "date": "2021-03-26T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2021/github-satellite",
+    "source": "https://anandchowdhary.github.io/events/events/2021/github-satellite",
+    "title": "Helping fight COVID-19 using GitHub at GitHub Satellite 2021",
+    "data": {
+      "location": "GitHub Satellite 2021, Remote",
+      "emoji": "🇺🇸"
+    }
+  },
+  {
+    "date": "2021-03-26",
+    "type": "video",
+    "url": "https://anandchowdhary.com/press/2021/helping-fight-covid19-using-github",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
+    "title": "Helping fight COVID-19 using GitHub",
+    "data": {
+      "city": "San Francisco Bay Area",
+      "country": "US",
+      "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/github-satellite-2021.png",
+      "publisher": "GitHub",
+      "duration": "27:04"
+    }
+  },
+  {
+    "date": "2021-02-10T16:52:45Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/bookshelf-action",
+    "url": "https://anandchowdhary.com/projects/2021/bookshelf-action",
+    "source": "https://github.com/AnandChowdhary/bookshelf-action",
+    "data": {
+      "description": "📚 Track your reading using GitHub Actions",
+      "stars": 53,
+      "issues": 9,
+      "forks": 6,
+      "watchers": 53,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2021-02-09",
+    "type": "award",
+    "url": "https://anandchowdhary.com/press/2021/github-stars",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "GitHub Stars",
+    "data": {
+      "publisher": "GitHub"
+    }
+  },
+  {
+    "date": "2021-01-28",
+    "type": "award",
+    "url": "https://anandchowdhary.com/press/2021/karmaveer-chakra-award",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Karmaveer Chakra Award",
+    "data": {
+      "publisher": "iCONGO"
+    }
+  },
+  {
+    "date": "2021-01-24T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2021/dotslash-svnit",
+    "source": "https://anandchowdhary.github.io/events/events/2021/dotslash-svnit",
+    "title": "Innovation & Entrepreneurship at DotSlash, SVNIT",
+    "data": {
+      "location": "Sardar Vallabhbhai National Institute of Technology, Surat",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2020-11-18T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2020/ut-global-entrepreneurship-week",
+    "source": "https://anandchowdhary.github.io/events/events/2020/ut-global-entrepreneurship-week",
+    "title": "Guest Lecture for Global Entrepreneurship Week",
+    "data": {
+      "location": "University of Twente, Enschede",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2020-09-10T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2020/lying",
+    "source": "https://github.com/AnandChowdhary/books/issues/9",
+    "title": "Lying",
+    "data": {
+      "image": "http://books.google.com/books/content?id=aVz_BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Sam Harris"
+      ]
+    }
+  },
+  {
+    "date": "2020-09-07T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2020/ut-opportunity-recognition",
+    "source": "https://anandchowdhary.github.io/events/events/2020/ut-opportunity-recognition",
+    "title": "Guest Lecture on Opportunity Recognition",
+    "data": {
+      "location": "University of Twente, Enschede",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2020-08-31T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2020/supreme-incubator",
+    "source": "https://anandchowdhary.github.io/events/events/2020/supreme-incubator",
+    "title": "Mentoring for Supreme Incubator",
+    "data": {
+      "location": "New Delhi",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2020-08-12T08:16:16Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/update-template",
+    "url": "https://anandchowdhary.com/projects/2020/update-template",
+    "source": "https://github.com/AnandChowdhary/update-template",
+    "data": {
+      "description": "📠 Easily update repos created with GitHub templates",
+      "stars": 30,
+      "issues": 1,
+      "forks": 3,
+      "watchers": 30,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2020-08-08T16:34:41Z",
+    "type": "open-source-project",
+    "title": "upptime/upptime",
+    "url": "https://anandchowdhary.com/projects/2020/upptime",
+    "source": "https://github.com/upptime/upptime",
+    "data": {
+      "description": "⬆️ Free uptime monitor and status page powered by GitHub",
+      "stars": 10894,
+      "issues": 54,
+      "forks": 587,
+      "watchers": 10894,
+      "language": null,
+      "languageColor": null
+    }
+  },
+  {
+    "date": "2020-07-17T07:25:45Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/twt",
+    "url": "https://anandchowdhary.com/projects/2020/twt",
+    "source": "https://github.com/AnandChowdhary/twt",
+    "data": {
+      "description": "🤏 Tiny Web Tokens (TWT) are like like JWTs but tiny",
+      "stars": 6,
+      "issues": 7,
+      "forks": 2,
+      "watchers": 6,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2020-07-15T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2020/enactus-iitd-panel",
+    "source": "https://anandchowdhary.github.io/events/events/2020/enactus-iitd-panel",
+    "title": "Changemaker Workshop at Enactus, IIT Delhi",
+    "data": {
+      "location": "Indian Institute of Technology Delhi, New Delhi",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2020-07-04",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/milestones/2020/graduated-from-university-of-twente",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
+    "title": "Graduated from University of Twente",
+    "description": "Earned a BSc degree in Creative Technology, an interdisciplinary engineering and design program from the Faculty of Electrical Engineering, Mathematics and Computer Science, with specialization in smart technology and extra credits (Honors program in Science). My bachelor thesis on Email-based Intelligent Virtual Assistants under Dr. J. Zwiers was graded 9/10 and nominated for the Bachelor Award."
+  },
+  {
+    "date": "2020-07-01",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/milestones/2020/cofounded-pabio",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
+    "title": "Co-founded Pabio",
+    "description": "Pabio offers rent-to-own furniture with personalized interior design. Carlo Badini and I co-founded Pabio after getting to know each other over a period of a few months remotely during the COVID-19 pandemic."
+  },
+  {
+    "date": "2020-06-30",
+    "type": "video",
+    "url": "https://anandchowdhary.com/press/2020/building-technology-for-the-next-billion",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
+    "title": "Building Technology for the Next Billion",
+    "data": {
+      "city": "New Delhi",
+      "country": "IN",
+      "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/going-to-school.png",
+      "publisher": "Going to School",
+      "duration": "4:28"
+    }
+  },
+  {
+    "date": "2020-06-28T10:18:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2020/automated-journalism-authorship",
+    "source": "https://anandchowdhary.github.io/blog/blog/2020/automated-journalism-authorship",
+    "title": "Who is the author of an AI-generated news article?",
+    "data": {
+      "words": 393
+    }
+  },
+  {
+    "date": "2020-06-28T08:17:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2020/microsoft-open-source",
+    "source": "https://anandchowdhary.github.io/blog/blog/2020/microsoft-open-source",
+    "title": "Microsoft is the most important company in the open-source ecosystem",
+    "data": {
+      "words": 257
+    }
+  },
+  {
+    "date": "2020-06-13T16:08:43Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/carpent",
+    "url": "https://anandchowdhary.com/projects/2020/carpent",
+    "source": "https://github.com/AnandChowdhary/carpent",
+    "data": {
+      "description": "🔨 Bootstrap and configure any project using its template",
+      "stars": 3,
+      "issues": 15,
+      "forks": 1,
+      "watchers": 3,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2020-05-25T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2020/tuesdays-with-morrie",
+    "source": "https://github.com/AnandChowdhary/books/issues/25",
+    "title": "Tuesdays with Morrie",
+    "data": {
+      "image": "http://books.google.com/books/content?id=z2z_6hLoPmgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Mitch Albom"
+      ]
+    }
+  },
+  {
+    "date": "2020-03-01T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2020/sapiens",
+    "source": "https://github.com/AnandChowdhary/books/issues/10",
+    "title": "Sapiens",
+    "data": {
+      "image": "http://books.google.com/books/content?id=FmyBAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Yuval Noah Harari"
+      ]
+    }
+  },
+  {
+    "date": "2020-02-21T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2020/outliers",
+    "source": "https://github.com/AnandChowdhary/books/issues/11",
+    "title": "Outliers",
+    "data": {
+      "image": "http://books.google.com/books/content?id=3NSImqqnxnkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Malcolm Gladwell"
+      ]
+    }
+  },
+  {
+    "date": "2020-02-09T19:08:44Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/archiver",
+    "url": "https://anandchowdhary.com/projects/2020/archiver",
+    "source": "https://github.com/AnandChowdhary/archiver",
+    "data": {
+      "description": "🗄️ Auto-archive your webpages on the Internet Archive",
+      "stars": 6,
+      "issues": 7,
+      "forks": 1,
+      "watchers": 6,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2020-01-03T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2020/introducing-uppload-v2",
+    "source": "https://anandchowdhary.github.io/blog/blog/2020/introducing-uppload-v2",
+    "title": "Introducing Uppload v2",
+    "data": {
+      "words": 90
+    }
+  },
+  {
+    "date": "2020-01-01T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2020/uppload",
+    "source": "https://anandchowdhary.github.io/projects/projects/2020/uppload",
+    "title": "Uppload"
+  },
+  {
+    "date": "2020-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2020/karuna-2020-using-github-actions-in-the-covid19-response-efforts",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Karuna 2020: Using GitHub Actions in the COVID-19 response efforts",
+    "data": {
+      "publisher": "GitHub",
+      "author": "Michelle Mannering"
+    }
+  },
+  {
+    "date": "2019-12-09T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2019/type-with-tobias",
+    "source": "https://anandchowdhary.github.io/projects/projects/2019/type-with-tobias",
+    "title": "Type with Tobias"
+  },
+  {
+    "date": "2019-12-04",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/milestones/2019/studied-at-santa-clara-university",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
+    "title": "Studied at Santa Clara University",
+    "description": "I was the first student in my program to study for a semester at Santa Clara University in Silicon Valley as part of the Global Engineering Education Exchange (Global E3). I was a recipient of the Twente Mobility Fund Scholarship and my coursework consisted of computer graphics, venture capital, marketing, and typography."
+  },
+  {
+    "date": "2019-11-13T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2019/the-innovators",
+    "source": "https://github.com/AnandChowdhary/books/issues/12",
+    "title": "The Innovators",
+    "data": {
+      "image": "http://books.google.com/books/content?id=aFapBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Walter Isaacson"
+      ]
+    }
+  },
+  {
+    "date": "2019-10-28",
+    "type": "video",
+    "url": "https://anandchowdhary.com/press/2019/forbes-30-under-30-at-santa-clara-university",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
+    "title": "Forbes 30 Under 30 at Santa Clara University",
+    "data": {
+      "city": "San Francisco Bay Area",
+      "country": "US",
+      "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/oneup.png",
+      "publisher": "Christian Yang / OneUp",
+      "duration": "0:59"
+    }
+  },
+  {
+    "date": "2019-10-21T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2019/oneup-scu",
+    "source": "https://anandchowdhary.github.io/events/events/2019/oneup-scu",
+    "title": "Keynote for OneUp, Santa Clara University",
+    "data": {
+      "location": "Santa Clara University, San Francisco Bay Area",
+      "emoji": "🇺🇸"
+    }
+  },
+  {
+    "date": "2019-09-29T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2019/wwcode-cloud",
+    "source": "https://anandchowdhary.github.io/events/events/2019/wwcode-cloud",
+    "title": "Women Who Code Cloud 2019",
+    "data": {
+      "location": "Accenture, Salesforce Tower, San Francisco Bay Area",
+      "emoji": "🇺🇸"
+    }
+  },
+  {
+    "date": "2019-09-28",
+    "type": "video",
+    "url": "https://anandchowdhary.com/press/2019/women-who-code-cloud-2019",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
+    "title": "Women Who Code Cloud 2019",
+    "data": {
+      "city": "San Francisco Bay Area",
+      "country": "US",
+      "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/wwcode.png",
+      "publisher": "Anand Chowdhary",
+      "duration": "37:57"
+    }
+  },
+  {
+    "date": "2019-09-01T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2019/staart",
+    "source": "https://anandchowdhary.github.io/projects/projects/2019/staart",
+    "title": "Staart"
+  },
+  {
+    "date": "2019-08-31T12:05:38.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2019/google-play-badges",
+    "source": "https://anandchowdhary.github.io/blog/blog/2019/google-play-badges",
+    "title": "New Google Play Badges",
+    "data": {
+      "words": 226
+    }
+  },
+  {
+    "date": "2019-08-21T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2019/minet-x-2019",
+    "source": "https://anandchowdhary.github.io/events/events/2019/minet-x-2019",
+    "title": "MINET X 2019",
+    "data": {
+      "location": "The Mother's International School, New Delhi",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2019-07-24T06:21:53Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/feeedback",
+    "url": "https://anandchowdhary.com/projects/2019/feeedback",
+    "source": "https://github.com/AnandChowdhary/feeedback",
+    "data": {
+      "description": "🙋 Collect feedback from your users on the web",
+      "stars": 6,
+      "issues": 14,
+      "forks": 2,
+      "watchers": 6,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2019-07-08T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2019/el-nino-design",
+    "source": "https://anandchowdhary.github.io/events/events/2019/el-nino-design",
+    "title": "Design workshop for El Niño",
+    "data": {
+      "location": "El Niño, Enschede",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2019-06-20",
+    "type": "video",
+    "url": "https://anandchowdhary.com/press/2019/the-best-entrepreneurs-in-the-ut-de-beste-ondernemers-van-de-ut",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
+    "title": "The best entrepreneurs in the UT (De beste ondernemers van de UT)",
+    "data": {
+      "city": "Enschede",
+      "country": "NL",
+      "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/rtvoost.png",
+      "publisher": "RTV Oost",
+      "duration": "1:47"
+    }
+  },
+  {
+    "date": "2019-06-12T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2019/dutch-design-week",
+    "source": "https://anandchowdhary.github.io/events/events/2019/dutch-design-week",
+    "title": "Dutch Design Week",
+    "data": {
+      "location": "Klokgebouw Cultuurhallen, Eindhoven",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2019-06-12T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2019/hive-01-season-5",
+    "source": "https://anandchowdhary.github.io/events/events/2019/hive-01-season-5",
+    "title": "Hive 01 Season 5",
+    "data": {
+      "location": "U Parkhotel, Enschede",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2019-06-12T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2019/state-of-the-podcasts-2019",
+    "source": "https://anandchowdhary.github.io/blog/blog/2019/state-of-the-podcasts-2019",
+    "title": "State of the Podcasts 2019",
+    "data": {
+      "words": 700
+    }
+  },
+  {
+    "date": "2019-06-01T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2019/zero-to-one",
+    "source": "https://github.com/AnandChowdhary/books/issues/23",
+    "title": "Zero to One",
+    "data": {
+      "image": "http://books.google.com/books/content?id=ZH4oAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Peter Thiel",
+        "Blake Masters"
+      ]
+    }
+  },
+  {
+    "date": "2019-05-18T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2019/scrub",
+    "source": "https://anandchowdhary.github.io/projects/projects/2019/scrub",
+    "title": "Scrub"
+  },
+  {
+    "date": "2019-05-17T14:36:43Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/analytics-icons",
+    "url": "https://anandchowdhary.com/projects/2019/analytics-icons",
+    "source": "https://github.com/AnandChowdhary/analytics-icons",
+    "data": {
+      "description": "📈 Icons for browsers, OSes, devices, flags, and more",
+      "stars": 2,
+      "issues": 0,
+      "forks": 2,
+      "watchers": 2,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2019-05-17T12:30:24Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/scrub",
+    "url": "https://anandchowdhary.com/projects/2019/scrub",
+    "source": "https://github.com/AnandChowdhary/scrub",
+    "data": {
+      "description": "🧹 Track JS errors and send them to your backend",
+      "stars": 9,
+      "issues": 14,
+      "forks": 7,
+      "watchers": 9,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2019-05-08",
+    "type": "award",
+    "url": "https://anandchowdhary.com/press/2019/the-next-web-t500",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "The Next Web T500",
+    "data": {
+      "publisher": "The Next Web"
+    }
+  },
+  {
+    "date": "2019-05-06T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2019/agastya-4-augmentally",
+    "source": "https://anandchowdhary.github.io/blog/blog/2019/agastya-4-augmentally",
+    "title": "Introducing Agastya 4 + Augmenta11y",
+    "data": {
+      "words": 1063
+    }
+  },
+  {
+    "date": "2019-04-04T10:01:23.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2019/quarter-of-open-source",
+    "source": "https://anandchowdhary.github.io/blog/blog/2019/quarter-of-open-source",
+    "title": "Quarter of Open Source",
+    "data": {
+      "words": 1229
+    }
+  },
+  {
+    "date": "2019-03-25T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2019/rich-dad-poor-dad",
+    "source": "https://github.com/AnandChowdhary/books/issues/13",
+    "title": "Rich Dad, Poor Dad",
+    "data": {
+      "image": "http://books.google.com/books/content?id=Cx6aDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Robert T. Kiyosaki"
+      ]
+    }
+  },
+  {
+    "date": "2019-03-22T15:43:15Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/sharer.link",
+    "url": "https://anandchowdhary.com/projects/2019/sharer.link",
+    "source": "https://github.com/AnandChowdhary/sharer.link",
+    "data": {
+      "description": "🔗 Share links for songs, places, podcasts, and more",
+      "stars": 18,
+      "issues": 21,
+      "forks": 1,
+      "watchers": 18,
+      "language": "Vue",
+      "languageColor": "#41b883"
+    }
+  },
+  {
+    "date": "2019-03-15T18:54:59.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2019/package-managers",
+    "source": "https://anandchowdhary.github.io/blog/blog/2019/package-managers",
+    "title": "Package Manager Standardization",
+    "data": {
+      "words": 239
+    }
+  },
+  {
+    "date": "2019-03-12T18:02:42.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2019/twitter-subaccounts",
+    "source": "https://anandchowdhary.github.io/blog/blog/2019/twitter-subaccounts",
+    "title": "Twitter Subaccounts",
+    "data": {
+      "words": 281
+    }
+  },
+  {
+    "date": "2019-03-11T17:44:38.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2019/google-docs-github",
+    "source": "https://anandchowdhary.github.io/blog/blog/2019/google-docs-github",
+    "title": "Google Docs + GitHub",
+    "data": {
+      "words": 153
+    }
+  },
+  {
+    "date": "2019-03-05T13:55:42Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/gitwriter",
+    "url": "https://anandchowdhary.com/projects/2019/gitwriter",
+    "source": "https://github.com/AnandChowdhary/gitwriter",
+    "data": {
+      "description": "📝 Version control your thoughts",
+      "stars": 13,
+      "issues": 19,
+      "forks": 1,
+      "watchers": 13,
+      "language": "Vue",
+      "languageColor": "#41b883"
+    }
+  },
+  {
+    "date": "2019-03-02T13:13:08Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/language-icons",
+    "url": "https://anandchowdhary.com/projects/2019/language-icons",
+    "source": "https://github.com/AnandChowdhary/language-icons",
+    "data": {
+      "description": "🈹 Better icons for languages, because flags just don't cut it",
+      "stars": 30,
+      "issues": 6,
+      "forks": 14,
+      "watchers": 30,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2019-02-21T12:49:05Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/fraud",
+    "url": "https://anandchowdhary.com/projects/2019/fraud",
+    "source": "https://github.com/AnandChowdhary/fraud",
+    "data": {
+      "description": "🗄 File-based key-JSON database with nodecache",
+      "stars": 11,
+      "issues": 11,
+      "forks": 0,
+      "watchers": 11,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2019-02-19T14:41:35Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/changebar",
+    "url": "https://anandchowdhary.com/projects/2019/changebar",
+    "source": "https://github.com/AnandChowdhary/changebar",
+    "data": {
+      "description": "🔔 Changelog notifications widget for the web, powered by GitHub",
+      "stars": 5,
+      "issues": 18,
+      "forks": 0,
+      "watchers": 5,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2019-02-06T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2019/inglorious-empire",
+    "source": "https://github.com/AnandChowdhary/books/issues/14",
+    "title": "Inglorious Empire",
+    "data": {
+      "image": "http://books.google.com/books/content?id=ZWwwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "authors": [
+        "Shashi Tharoor"
+      ]
+    }
+  },
+  {
+    "date": "2019-01-16T15:51:01Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/calendar-link",
+    "url": "https://anandchowdhary.com/projects/2019/calendar-link",
+    "source": "https://github.com/AnandChowdhary/calendar-link",
+    "data": {
+      "description": "📅 Calendar link generator for popular services",
+      "stars": 214,
+      "issues": 17,
+      "forks": 42,
+      "watchers": 214,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2019-01-01T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2019/21-lessons-for-the-21st-century",
+    "source": "https://github.com/AnandChowdhary/books/issues/15",
+    "title": "21 Lessons for the 21st Century",
+    "data": {
+      "image": "http://books.google.com/books/content?id=MSKEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Yuval Noah Harari"
+      ]
+    }
+  },
+  {
+    "date": "2019-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2019/assistive-tech-startups-for-disabled-people",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Assistive Tech Startups for Disabled People",
+    "data": {
+      "publisher": "Startup City India"
+    }
+  },
+  {
+    "date": "2019-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2019/open-source-spotlight-oswald-labs-with-anand-chowdhary",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Open Source Spotlight: Oswald Labs with Anand Chowdhary",
+    "data": {
+      "publisher": "BrowserStack"
+    }
+  },
+  {
+    "date": "2019-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2019/the-best-entrepreneurs-of-the-ut",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "The best entrepreneurs of the UT",
+    "data": {
+      "publisher": "RTV Oost"
+    }
+  },
+  {
+    "date": "2018-12-30T16:44:23Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/hello-bar",
+    "url": "https://anandchowdhary.com/projects/2018/hello-bar",
+    "source": "https://github.com/AnandChowdhary/hello-bar",
+    "data": {
+      "description": "👋 Greet your visitors with a hello bar",
+      "stars": 69,
+      "issues": 21,
+      "forks": 10,
+      "watchers": 69,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a"
+    }
+  },
+  {
+    "date": "2018-12-01T10:21:05Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/hovercard",
+    "url": "https://anandchowdhary.com/projects/2018/hovercard",
+    "source": "https://github.com/AnandChowdhary/hovercard",
+    "data": {
+      "description": "🖱️ Wikipedia summary cards for the web",
+      "stars": 82,
+      "issues": 18,
+      "forks": 9,
+      "watchers": 82,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2018-12-01",
+    "type": "video",
+    "url": "https://anandchowdhary.com/press/2018/aristotle-by-oswald-labs",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
+    "title": "Aristotle by Oswald Labs",
+    "data": {
+      "city": "Heerlen",
+      "country": "NL",
+      "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/aristotle.png",
+      "publisher": "Oswald Labs",
+      "duration": "5:24"
+    }
+  },
+  {
+    "date": "2018-11-30T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2018/aristotle",
+    "source": "https://anandchowdhary.github.io/projects/projects/2018/aristotle",
+    "title": "Aristotle"
+  },
+  {
+    "date": "2018-11-17T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2018/clshare",
+    "source": "https://anandchowdhary.github.io/projects/projects/2018/clshare",
+    "title": "CLShare"
+  },
+  {
+    "date": "2018-11-15T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2018/cls",
+    "source": "https://anandchowdhary.github.io/events/events/2018/cls",
+    "title": "CLS Engagement Pitch",
+    "data": {
+      "location": "LABS Holborn, London",
+      "emoji": "🇬🇧"
+    }
+  },
+  {
+    "date": "2018-10-22T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2018/wief-2018",
+    "source": "https://anandchowdhary.github.io/events/events/2018/wief-2018",
+    "title": "AKEPT-WIEF Social Enterprise Forum",
+    "data": {
+      "location": "International Islamic University Malaysia, Kuala Lumpur",
+      "emoji": "🇲🇾"
+    }
+  },
+  {
+    "date": "2018-10-18T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2018/shravan-apps",
+    "source": "https://anandchowdhary.github.io/projects/projects/2018/shravan-apps",
+    "title": "Shravan Apps"
+  },
+  {
+    "date": "2018-09-28",
+    "type": "podcast-interview",
+    "url": "https://anandchowdhary.com/press/2018/e94-anand-chowdhary",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "E94: Anand Chowdhary",
+    "data": {
+      "embed": "https://open.spotify.com/embed/episode/22paCnKhK69elGTr35NVzX",
+      "publisher": "The Indian Startup Show"
+    }
+  },
+  {
+    "date": "2018-09-20T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2018/speakup",
+    "source": "https://anandchowdhary.github.io/events/events/2018/speakup",
+    "title": "Speakup",
+    "data": {
+      "location": "De Museumfabriek, Enschede",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2018-09-11T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2018/nesst-season-3",
+    "source": "https://anandchowdhary.github.io/events/events/2018/nesst-season-3",
+    "title": "Nesst Season 3",
+    "data": {
+      "location": "Saxion Center for Entrepreneurship, Enschede",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2018-09-06T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2018/gogbot",
+    "source": "https://anandchowdhary.github.io/events/events/2018/gogbot",
+    "title": "GOGBOT",
+    "data": {
+      "location": "City Center, Enschede",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2018-08-25T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2018/esummit",
+    "source": "https://anandchowdhary.github.io/events/events/2018/esummit",
+    "title": "IITK eSummit",
+    "data": {
+      "location": "Indian Institute of Technology, Kanpur",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2018-08-21",
+    "type": "award",
+    "url": "https://anandchowdhary.com/press/2018/21-under-21",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "21 Under 21",
+    "data": {
+      "publisher": "YourStory"
+    }
+  },
+  {
+    "date": "2018-08-18T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2018/hackiiitd",
+    "source": "https://anandchowdhary.github.io/events/events/2018/hackiiitd",
+    "title": "HackIIITD",
+    "data": {
+      "location": "Indraprastha Institute of Information Technology, New Delhi",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2018-08-08T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2018/minet-x-2018",
+    "source": "https://anandchowdhary.github.io/events/events/2018/minet-x-2018",
+    "title": "MINET X 2018",
+    "data": {
+      "location": "The Mother's International School, New Delhi",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2018-07-28T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2018/state-of-the-dock-2018",
+    "source": "https://anandchowdhary.github.io/blog/blog/2018/state-of-the-dock-2018",
+    "title": "State of the Dock 2018",
+    "data": {
+      "words": 784
+    }
+  },
+  {
+    "date": "2018-07-15T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2018/agastya-screen-reader",
+    "source": "https://anandchowdhary.github.io/blog/blog/2018/agastya-screen-reader",
+    "title": "Introducing Universal Screen Reader on Agastya",
+    "data": {
+      "words": 504
+    }
+  },
+  {
+    "date": "2018-06-09T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2018/new-agastya",
+    "source": "https://anandchowdhary.github.io/blog/blog/2018/new-agastya",
+    "title": "Introducing the new Agastya",
+    "data": {
+      "words": 560
+    }
+  },
+  {
+    "date": "2018-05-28T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2018/state-of-the-podcasts-2018",
+    "source": "https://anandchowdhary.github.io/blog/blog/2018/state-of-the-podcasts-2018",
+    "title": "State of the Podcasts 2018",
+    "data": {
+      "words": 895
+    }
+  },
+  {
+    "date": "2018-05-27T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2018/wendy",
+    "source": "https://anandchowdhary.github.io/projects/projects/2018/wendy",
+    "title": "Wendy"
+  },
+  {
+    "date": "2018-05-16T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2018/online-open-day",
+    "source": "https://anandchowdhary.github.io/events/events/2018/online-open-day",
+    "title": "Twente's Online Open Day",
+    "data": {
+      "location": "University of Twente, Enschede",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2018-04-19T14:23:20Z",
+    "type": "open-source-project",
+    "title": "elninotech/uppload",
+    "url": "https://anandchowdhary.com/projects/2018/uppload",
+    "source": "https://github.com/elninotech/uppload",
+    "data": {
+      "description": "📁 JavaScript image uploader and editor, no backend required",
+      "stars": 1716,
+      "issues": 45,
+      "forks": 115,
+      "watchers": 1716,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2018-04-12T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2018/ibm-iot-escape-room",
+    "source": "https://anandchowdhary.github.io/projects/projects/2018/ibm-iot-escape-room",
+    "title": "IBM IoT Escape Room"
+  },
+  {
+    "date": "2018-03-27",
+    "type": "award",
+    "url": "https://anandchowdhary.com/press/2018/forbes-30-under-30",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Forbes 30 Under 30",
+    "data": {
+      "publisher": "Forbes Asia"
+    }
+  },
+  {
+    "date": "2018-03-11T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2018/csunite",
+    "source": "https://anandchowdhary.github.io/projects/projects/2018/csunite",
+    "title": "CSUnite"
+  },
+  {
+    "date": "2018-03-11T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2018/drillmaps",
+    "source": "https://anandchowdhary.github.io/projects/projects/2018/drillmaps",
+    "title": "DrillMaps"
+  },
+  {
+    "date": "2018-03-07T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2018/nesst-season-2",
+    "source": "https://anandchowdhary.github.io/events/events/2018/nesst-season-2",
+    "title": "Nesst Season 2",
+    "data": {
+      "location": "The Cee Spot, Enschede",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2018-02-10",
+    "type": "video",
+    "url": "https://anandchowdhary.com/press/2018/in-conversation-with-anand-chowdhury",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
+    "title": "In conversation with Anand Chowdhury",
+    "data": {
+      "city": "Enschede",
+      "country": "NL",
+      "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/ut-india.png",
+      "publisher": "University of Twente",
+      "duration": "29:58"
+    }
+  },
+  {
+    "date": "2018-02-05",
+    "type": "podcast-interview",
+    "url": "https://anandchowdhary.com/press/2018/the-next-billion-anand-chowdhary",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "The Next Billion: Anand Chowdhary",
+    "data": {
+      "publisher": "Ready or Not"
+    }
+  },
+  {
+    "date": "2018-01-23T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2018/blueboard",
+    "source": "https://anandchowdhary.github.io/projects/projects/2018/blueboard",
+    "title": "Blueboard"
+  },
+  {
+    "date": "2018-01-18",
+    "type": "award",
+    "url": "https://anandchowdhary.com/press/2018/50-talents-under-the-age-of-35",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "50 Talents Under the Age of 35",
+    "data": {
+      "publisher": "Het Financieele Dagblad"
+    }
+  },
+  {
+    "date": "2018-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2018/in-conversation-with-anand-chowdhary",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "In conversation with Anand Chowdhary",
+    "data": {
+      "publisher": "University of Twente"
+    }
+  },
+  {
+    "date": "2018-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2018/ut-student-among-the-top-50-young-entrepreneurs",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "UT student among the top 50 young entrepreneurs",
+    "data": {
+      "publisher": "UToday",
+      "author": "Jelle Posthuma"
+    }
+  },
+  {
+    "date": "2018-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2018/ut-student-on-prestigious-list-of-business-magazine-forbes",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "UT student on prestigious list of business magazine Forbes",
+    "data": {
+      "publisher": "Tubantia",
+      "author": "Gerben Kuitert"
+    }
+  },
+  {
+    "date": "2017-11-19T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2017/refuserve",
+    "source": "https://anandchowdhary.github.io/projects/projects/2017/refuserve",
+    "title": "RefuServe"
+  },
+  {
+    "date": "2017-11-11T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2017/startup24",
+    "source": "https://anandchowdhary.github.io/events/events/2017/startup24",
+    "title": "Startup24",
+    "data": {
+      "location": "Novel-T, Enschede",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2017-10-31T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2017/hardstart-pitch-training",
+    "source": "https://anandchowdhary.github.io/events/events/2017/hardstart-pitch-training",
+    "title": "Pitch Training for Hardstart",
+    "data": {
+      "location": "Hardstart, Enschede",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
+    "date": "2017-10-21T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2017/capella",
+    "source": "https://anandchowdhary.github.io/projects/projects/2017/capella",
+    "title": "Capella"
+  },
+  {
+    "date": "2017-09-23T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2017/facematch",
+    "source": "https://anandchowdhary.github.io/projects/projects/2017/facematch",
+    "title": "FaceMatch"
+  },
+  {
+    "date": "2017-08-25T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2017/agastya",
+    "source": "https://anandchowdhary.github.io/projects/projects/2017/agastya",
+    "title": "Agastya"
+  },
+  {
+    "date": "2017-08-22",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/milestones/2017/moved-to-enschede-the-netherlands",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
+    "title": "Moved to Enschede, the Netherlands"
+  },
+  {
+    "date": "2017-08-12T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2017/utwente-peoplepages",
+    "source": "https://anandchowdhary.github.io/blog/blog/2017/utwente-peoplepages",
+    "title": "UTwente PeoplePages Contact Book",
+    "data": {
+      "words": 704
+    }
+  },
+  {
+    "date": "2017-07-18T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2017/bharathacks",
+    "source": "https://anandchowdhary.github.io/projects/projects/2017/bharathacks",
+    "title": "BharatHacks"
+  },
+  {
+    "date": "2017-06-17T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2017/tedx-hailey-road",
+    "source": "https://anandchowdhary.github.io/events/events/2017/tedx-hailey-road",
+    "title": "TEDxHaileyRoad",
+    "data": {
+      "location": "91springboard, Gurugram",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2017-06-17",
+    "type": "video",
+    "url": "https://anandchowdhary.com/press/2017/bharathacks-live",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
+    "title": "BharatHacks Live",
+    "data": {
+      "city": "New Delhi",
+      "country": "IN",
+      "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/bharathacks.png",
+      "publisher": "Facebook Developer Circle: Delhi, NCR",
+      "duration": "34:37"
+    }
+  },
+  {
+    "date": "2017-05-21T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2017/1984",
+    "source": "https://github.com/AnandChowdhary/books/issues/16",
+    "title": "1984",
+    "data": {
+      "image": "http://books.google.com/books/content?id=yxv1LK5gyV4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "authors": [
+        "George Orwell"
+      ]
+    }
+  },
+  {
+    "date": "2017-05-07T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2017/tech-charcha",
+    "source": "https://anandchowdhary.github.io/events/events/2017/tech-charcha",
+    "title": "Tech Charcha by Facebook DevC",
+    "data": {
+      "location": "91springboard Okhla, New Delhi",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2017-04-11T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2017/zomato",
+    "source": "https://anandchowdhary.github.io/blog/blog/2017/zomato",
+    "title": "Zomato for Android Redesign",
+    "data": {
+      "words": 69
+    }
+  },
+  {
+    "date": "2017-03-01T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2017/college",
+    "source": "https://anandchowdhary.github.io/blog/blog/2017/college",
+    "title": "Life Update: College",
+    "data": {
+      "words": 456
+    }
+  },
+  {
+    "date": "2017-02-26T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2017/md5",
+    "source": "https://anandchowdhary.github.io/blog/blog/2017/md5",
+    "title": "The Defence for MD5",
+    "data": {
+      "words": 455
+    }
+  },
+  {
+    "date": "2017-02-02",
+    "type": "video",
+    "url": "https://anandchowdhary.com/press/2017/interview-with-anand-chowdhary-ceo-oswald-foundation",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
+    "title": "Interview with Anand Chowdhary, CEO, Oswald Foundation",
+    "data": {
+      "city": "Bangalore",
+      "country": "IN",
+      "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/startup-india-rocks.png",
+      "publisher": "Startup India Rocks!",
+      "duration": "1:03"
+    }
+  },
+  {
+    "date": "2017-01-01T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2017/melangebox",
+    "source": "https://anandchowdhary.github.io/projects/projects/2017/melangebox",
+    "title": "Melangebox"
+  },
+  {
+    "date": "2017-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2017/app-to-help-dyslexics-browse-the-web",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "App to help dyslexics browse the web",
+    "data": {
+      "publisher": "Hindustan Times",
+      "author": "Rajeev Mullick"
+    }
+  },
+  {
+    "date": "2017-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2017/are-you-tech-savvy-meet-this-super-teen-who-has-created-magic-for-people-on-how-to-use-the-web",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Are You Tech Savvy? Meet This Super Teen Who Has Created MAGIC For People On How To Use The Web.",
+    "data": {
+      "publisher": "PaisaWapas"
+    }
+  },
+  {
+    "date": "2017-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2017/at-just-16-and-18-these-delhi-teens-are-using-tech-to-make-the-web-accessible-to-dyslexics-and-the-visually-impaired",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "At just 16 and 18, these Delhi teens are using tech to make the web accessible to dyslexics and the visually impaired",
+    "data": {
+      "publisher": "YourStory"
+    }
+  },
+  {
+    "date": "2017-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2017/bharathacks-a-hackathon-to-solve-problems-for-india",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "BharatHacks, a Hackathon to Solve Problems for India",
+    "data": {
+      "publisher": "BusinessWorld Disrupt",
+      "author": "Sujata Sangwan"
+    }
+  },
+  {
+    "date": "2017-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2017/bharathacks-programmers-designers-engineers-and-entrepreneurs-joining-hands-to-make-lives-of-billion-indians-better",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "BharatHacks: Programmers, Designers, Engineers, and Entrepreneurs Joining Hands To Make Lives Of Billion Indians Better",
+    "data": {
+      "publisher": "Bizztor"
+    }
+  },
+  {
+    "date": "2017-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2017/oswald-foundation-10-month-old-startup-goes-multinational",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Oswald Foundation, 10 Month Old Startup Goes Multinational",
+    "data": {
+      "publisher": "BusinessWorld Disrupt"
+    }
+  },
+  {
+    "date": "2017-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2017/these-delhi-teens-created-a-reading-app-for-people-with-dyslexia-bravo",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "These Delhi Teens Created A Reading App For People With Dyslexia. Bravo!",
+    "data": {
+      "publisher": "ScoopWhoop",
+      "author": "Geetanjali Taragi"
+    }
+  },
+  {
+    "date": "2017-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2017/these-delhi-teens-want-to-change-the-web-with-their-reading-app-for-dyslexics",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "These Delhi Teens Want To Change The Web With Their Reading App For Dyslexics",
+    "data": {
+      "publisher": "HuffPost",
+      "author": "Aashmita Nayar"
+    }
+  },
+  {
+    "date": "2016-11-15T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2016/surely-youre-joking-mr-feynman-adventures-of-a-curious-character",
+    "source": "https://github.com/AnandChowdhary/books/issues/17",
+    "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
+    "data": {
+      "image": "http://books.google.com/books/content?id=_gA_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Richard P. Feynman"
+      ]
+    }
+  },
+  {
+    "date": "2016-10-16T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2016/naari",
+    "source": "https://anandchowdhary.github.io/projects/projects/2016/naari",
+    "title": "Naari"
+  },
+  {
+    "date": "2016-10-03T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2016/the-design-of-everyday-things",
+    "source": "https://github.com/AnandChowdhary/books/issues/20",
+    "title": "The Design of Everyday Things",
+    "data": {
+      "image": "http://books.google.com/books/content?id=heCtnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "authors": [
+        "Donald A. Norman"
+      ]
+    }
+  },
+  {
+    "date": "2016-10-03T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2016/how-to-win-friends-and-influence-people",
+    "source": "https://github.com/AnandChowdhary/books/issues/19",
+    "title": "How To Win Friends and Influence People",
+    "data": {
+      "image": "http://books.google.com/books/content?id=1rW-QpIAs8UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Dale Carnegie"
+      ]
+    }
+  },
+  {
+    "date": "2016-10-01T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2016/think-and-grow-rich",
+    "source": "https://github.com/AnandChowdhary/books/issues/21",
+    "title": "Think and Grow Rich",
+    "data": {
+      "image": "http://books.google.com/books/content?id=rYJaPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "authors": [
+        "Arthur R. Pell",
+        "Napoleon Hill"
+      ]
+    }
+  },
+  {
+    "date": "2016-09-16T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2016/sip-launch-dtu",
+    "source": "https://anandchowdhary.github.io/events/events/2016/sip-launch-dtu",
+    "title": "SIP Launch (DTU)",
+    "data": {
+      "location": "Delhi Technological University, New Delhi",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2016-09-09T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2016/machine-learning-in-6-lines",
+    "source": "https://anandchowdhary.github.io/blog/blog/2016/machine-learning-in-6-lines",
+    "title": "Machine Learning in 6 Lines",
+    "data": {
+      "words": 469
+    }
+  },
+  {
+    "date": "2016-08-05",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/milestones/2016/cofounded-oswald-labs",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
+    "title": "Co-founded Oswald Labs",
+    "description": "Oswald Labs is an accessibility technology company that builds products for people with disabilities, like blind-friendly smartphone and dyslexia-friendly reading apps."
+  },
+  {
+    "date": "2016-07-14T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2016/sam-walton",
+    "source": "https://github.com/AnandChowdhary/books/issues/22",
+    "title": "Sam Walton",
+    "data": {
+      "image": "http://books.google.com/books/content?id=ggN9Kp8UVfwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Sam Walton"
+      ]
+    }
+  },
+  {
+    "date": "2016-06-11T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2016/valmiki",
+    "source": "https://anandchowdhary.github.io/projects/projects/2016/valmiki",
+    "title": "Valmiki"
+  },
+  {
+    "date": "2016-04-26T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2016/delhi-government",
+    "source": "https://anandchowdhary.github.io/projects/projects/2016/delhi-government",
+    "title": "Delhi Government"
+  },
+  {
+    "date": "2016-03-26",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/milestones/2016/finished-high-school",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
+    "title": "Finished high school",
+    "description": "Graduated from The Mother's International School while receiving the Dharamveer Gajra Memorial Award for Positive Work in the Field of Information Technology and the Ratan Lal Lahoti Memorial Award for Topper in English (98%, CBSE SSCE). I was also President of MINET (technology Club), and a member of Impulse (physics club), Navchetna (yearbook editorial board), and MISMUN (Model United Nations)."
+  },
+  {
+    "date": "2016-03-01T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2016/firangana",
+    "source": "https://anandchowdhary.github.io/projects/projects/2016/firangana",
+    "title": "Firangana"
+  },
+  {
+    "date": "2016-02-25T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2016/30-billion-opportunity",
+    "source": "https://anandchowdhary.github.io/blog/blog/2016/30-billion-opportunity",
+    "title": "The Missed $30 Billion Opportunity",
+    "data": {
+      "words": 472
+    }
+  },
+  {
+    "date": "2016-01-24T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2016/keeep",
+    "source": "https://anandchowdhary.github.io/projects/projects/2016/keeep",
+    "title": "Keeep"
+  },
+  {
+    "date": "2016-01-13T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2016/saga-music",
+    "source": "https://anandchowdhary.github.io/blog/blog/2016/saga-music",
+    "title": "Introducing Saga Music",
+    "data": {
+      "words": 215
+    }
+  },
+  {
+    "date": "2016-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2016/anand-chowdhary-necessity-leading-to-innovation",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Anand Chowdhary: Necessity leading to Innovation",
+    "data": {
+      "publisher": "Humans of Entrepreneurship",
+      "author": "Shashank Saurabh"
+    }
+  },
+  {
+    "date": "2016-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2016/how-two-teenagers-are-helping-people-with-dyslexia-visual-impairments-access-the-web",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "How Two Teenagers Are Helping People with Dyslexia & Visual Impairments Access the Web",
+    "data": {
+      "publisher": "The Better India",
+      "author": "Tanaya Singh"
+    }
+  },
+  {
+    "date": "2016-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2016/meet-startup-india-rocks-finale-2016-winners",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Meet Startup India Rocks Finale 2016 Winners",
+    "data": {
+      "publisher": "Indian CEO",
+      "author": "Shishir Kumar"
+    }
+  },
+  {
+    "date": "2016-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2016/startup-india-rocks",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Startup India Rocks",
+    "data": {
+      "publisher": "ET Now"
+    }
+  },
+  {
+    "date": "2016-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2016/teens-create-tool-to-help-dyslexics-access-web",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Teens create tool to help dyslexics access web",
+    "data": {
+      "publisher": "Inshorts",
+      "author": "Sanira Mediratta"
+    }
+  },
+  {
+    "date": "2016-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2016/thanks-to-two-indian-teenagers-dyslexic-internet-users-can-now-surf-the-web-with-ease",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Thanks To Two Indian Teenagers, Dyslexic Internet Users Can Now Surf The Web With Ease",
+    "data": {
+      "publisher": "Homegrown",
+      "author": "Karan Kaul"
+    }
+  },
+  {
+    "date": "2015-12-29",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/milestones/2015/became-an-adult",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
+    "title": "Became an adult"
+  },
+  {
+    "date": "2015-12-11T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2015/baymax",
+    "source": "https://anandchowdhary.github.io/projects/projects/2015/baymax",
+    "title": "Baymax"
+  },
+  {
+    "date": "2015-10-20T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2015/crink-jewel",
+    "source": "https://anandchowdhary.github.io/projects/projects/2015/crink-jewel",
+    "title": "Crink Jewel"
+  },
+  {
+    "date": "2015-09-12T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2015/sixteeninches",
+    "source": "https://anandchowdhary.github.io/projects/projects/2015/sixteeninches",
+    "title": "SixteenInches"
+  },
+  {
+    "date": "2015-08-30T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2015/gaana-identity",
+    "source": "https://anandchowdhary.github.io/blog/blog/2015/gaana-identity",
+    "title": "The Problem with Gaana.com’s Identity",
+    "data": {
+      "words": 788
+    }
+  },
+  {
+    "date": "2015-06-26T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2015/naming-brands",
+    "source": "https://anandchowdhary.github.io/blog/blog/2015/naming-brands",
+    "title": "How to Name Brands",
+    "data": {
+      "words": 618
+    }
+  },
+  {
+    "date": "2015-06-26T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2015/too-simple-design",
+    "source": "https://anandchowdhary.github.io/blog/blog/2015/too-simple-design",
+    "title": "Can Design Be Too Simple?",
+    "data": {
+      "words": 623
+    }
+  },
+  {
+    "date": "2015-05-31T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2015/saga-music",
+    "source": "https://anandchowdhary.github.io/projects/projects/2015/saga-music",
+    "title": "Saga Music"
+  },
+  {
+    "date": "2015-03-23T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2015/one-space-after-a-period",
+    "source": "https://anandchowdhary.github.io/blog/blog/2015/one-space-after-a-period",
+    "title": "One Space After a Period",
+    "data": {
+      "words": 296
+    }
+  },
+  {
+    "date": "2015-03-15T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2015/apple-remote",
+    "source": "https://anandchowdhary.github.io/blog/blog/2015/apple-remote",
+    "title": "The Apple Remote",
+    "data": {
+      "words": 723
+    }
+  },
+  {
+    "date": "2015-03-04T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2015/getting-things-done",
+    "source": "https://github.com/AnandChowdhary/books/issues/34",
+    "title": "Getting Things Done",
+    "data": {
+      "image": "http://books.google.com/books/content?id=WXcHwzaUd4MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "David Allen"
+      ]
+    }
+  },
+  {
+    "date": "2015-02-12T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2015/homo-deus",
+    "source": "https://github.com/AnandChowdhary/books/issues/32",
+    "title": "Homo Deus",
+    "data": {
+      "image": "http://books.google.com/books/content?id=H2t_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Yuval Noah Harari"
+      ]
+    }
+  },
+  {
+    "date": "2015-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2015/dream-big-start-now",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Dream Big, Start Now",
+    "data": {
+      "publisher": "The Education Tree"
+    }
+  },
+  {
+    "date": "2014-10-21T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2014/on-operating-systems",
+    "source": "https://anandchowdhary.github.io/blog/blog/2014/on-operating-systems",
+    "title": "A Designer on Operating Systems",
+    "data": {
+      "words": 1646
+    }
+  },
+  {
+    "date": "2014-10-12T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2014/creativity-inc",
+    "source": "https://github.com/AnandChowdhary/books/issues/30",
+    "title": "Creativity, Inc.",
+    "data": {
+      "image": "http://books.google.com/books/content?id=UqccAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Ed Catmull",
+        "Amy Wallace"
+      ]
+    }
+  },
+  {
+    "date": "2014-08-24T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2014/justice-adda",
+    "source": "https://anandchowdhary.github.io/projects/projects/2014/justice-adda",
+    "title": "Justice Adda"
+  },
+  {
+    "date": "2014-07-05T17:10:51Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/essential.css",
+    "url": "https://anandchowdhary.com/projects/2014/essential.css",
+    "source": "https://github.com/AnandChowdhary/essential.css",
+    "data": {
+      "description": "A single CSS file to design beautiful webpages",
+      "stars": 2,
+      "issues": 0,
+      "forks": 0,
+      "watchers": 2,
+      "language": "HTML",
+      "languageColor": "#e34c26"
+    }
+  },
+  {
+    "date": "2014-07-01T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2014/project-blue",
+    "source": "https://anandchowdhary.github.io/projects/projects/2014/project-blue",
+    "title": "Project Blue"
+  },
+  {
+    "date": "2014-06-21T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2014/cyankart",
+    "source": "https://anandchowdhary.github.io/projects/projects/2014/cyankart",
+    "title": "Cyankart"
+  },
+  {
+    "date": "2014-05-27T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2014/unifiers",
+    "source": "https://anandchowdhary.github.io/projects/projects/2014/unifiers",
+    "title": "Unifiers"
+  },
+  {
+    "date": "2014-05-22T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2014/surface-pro-3",
+    "source": "https://anandchowdhary.github.io/blog/blog/2014/surface-pro-3",
+    "title": "Surface Pro 3",
+    "data": {
+      "words": 625
+    }
+  },
+  {
+    "date": "2014-05-10T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2014/classrebels",
+    "source": "https://anandchowdhary.github.io/blog/blog/2014/classrebels",
+    "title": "The ClassRebels Dream",
+    "data": {
+      "words": 380
+    }
+  },
+  {
+    "date": "2014-04-21T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2014/made-with-love-in-india",
+    "source": "https://anandchowdhary.github.io/projects/projects/2014/made-with-love-in-india",
+    "title": "Made with Love in India"
+  },
+  {
+    "date": "2014-04-04T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2014/the-hard-thing-about-hard-things",
+    "source": "https://github.com/AnandChowdhary/books/issues/31",
+    "title": "The Hard Thing About Hard Things",
+    "data": {
+      "image": "http://books.google.com/books/content?id=620pAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Ben Horowitz"
+      ]
+    }
+  },
+  {
+    "date": "2014-03-22T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2014/codelhi",
+    "source": "https://anandchowdhary.github.io/events/events/2014/codelhi",
+    "title": "Keynote at coDelhi",
+    "data": {
+      "location": "Delhi Technological University, New Delhi",
+      "emoji": "🇮🇳"
+    }
+  },
+  {
+    "date": "2014-02-08",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/milestones/2014/cofounded-class-rebels",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
+    "title": "Co-founded Class Rebels",
+    "description": "Class Rebels is an ed-tech startup I co-founded with Kunj Khurana and Sagar Chandna which built a social education platform and collaborative virtual library."
+  },
+  {
+    "date": "2014-02-07T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2014/fleksy-keyboard",
+    "source": "https://anandchowdhary.github.io/blog/blog/2014/fleksy-keyboard",
+    "title": "Fleksy Keyboard Review",
+    "data": {
+      "words": 763
+    }
+  },
+  {
+    "date": "2014-01-15T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2014/classrebels",
+    "source": "https://anandchowdhary.github.io/projects/projects/2014/classrebels",
+    "title": "ClassRebels"
+  },
+  {
+    "date": "2014-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2014/special-needs-technology-devised-by-teens",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Special Needs Technology Devised By Teens",
+    "data": {
+      "publisher": "Parent Herald",
+      "author": "Elizabeth Anderson"
+    }
+  },
+  {
+    "date": "2013-12-16T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2013/design",
+    "source": "https://anandchowdhary.github.io/blog/blog/2013/design",
+    "title": "Design",
+    "data": {
+      "words": 409
+    }
+  },
+  {
+    "date": "2013-10-27T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2013/internet-org",
+    "source": "https://anandchowdhary.github.io/blog/blog/2013/internet-org",
+    "title": "Internet.org Redesign",
+    "data": {
+      "words": 930
+    }
+  },
+  {
+    "date": "2013-10-13T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2013/made-with-love-in-india",
+    "source": "https://anandchowdhary.github.io/blog/blog/2013/made-with-love-in-india",
+    "title": "Made with ♥ in India",
+    "data": {
+      "words": 284
+    }
+  },
+  {
+    "date": "2013-10-12T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2013/lean-in",
+    "source": "https://github.com/AnandChowdhary/books/issues/29",
+    "title": "Lean In",
+    "data": {
+      "image": "http://books.google.com/books/content?id=y9_mxZLYiiMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Sheryl Sandberg"
+      ]
+    }
+  },
+  {
+    "date": "2013-10-11T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2013/internet.org",
+    "source": "https://anandchowdhary.github.io/projects/projects/2013/internet.org",
+    "title": "Internet.org"
+  },
+  {
+    "date": "2013-10-09T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2013/nineteen-eighty-four",
+    "source": "https://anandchowdhary.github.io/blog/blog/2013/nineteen-eighty-four",
+    "title": "Nineteen Eighty-four",
+    "data": {
+      "words": 1279
+    }
+  },
+  {
+    "date": "2013-08-30T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2013/the-death-of-www",
+    "source": "https://anandchowdhary.github.io/blog/blog/2013/the-death-of-www",
+    "title": "The Death of WWW",
+    "data": {
+      "words": 648
+    }
+  },
+  {
+    "date": "2013-04-04T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2013/blink",
+    "source": "https://github.com/AnandChowdhary/books/issues/28",
+    "title": "Blink",
+    "data": {
+      "image": "http://books.google.com/books/content?id=VKGbb1hg8JAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Malcolm Gladwell"
+      ]
+    }
+  },
+  {
+    "date": "2012-12-02T00:00:00.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/life/books/2012/steve-jobs",
+    "source": "https://github.com/AnandChowdhary/books/issues/26",
+    "title": "Steve Jobs",
+    "data": {
+      "image": "http://books.google.com/books/content?id=8U2oAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Walter Isaacson"
+      ]
+    }
+  },
+  {
+    "date": "2012-07-05T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2012/pickquick",
+    "source": "https://anandchowdhary.github.io/projects/projects/2012/pickquick",
+    "title": "PickQuick"
+  },
+  {
+    "date": "2012-05-25T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2012/gsmc",
+    "source": "https://anandchowdhary.github.io/projects/projects/2012/gsmc",
+    "title": "Global School of Media Crafting"
+  },
+  {
+    "date": "2012-01-01",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2012/article-in-time-out-magazine",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Article in Time Out magazine",
+    "data": {
+      "publisher": "Time Out Delhi",
+      "author": "Sunalini Mathew",
+      "description": "My friend Akshat Srivastava and I redesigned our school's official website using HTML5 and CSS3, for which we were featured in Time Out Magazine."
+    }
+  },
+  {
+    "date": "2010-12-29",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/milestones/2010/became-a-teenager",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
+    "title": "Became a teenager",
+    "description": "On my thirteenth birthday, I became a vegetarian."
+  },
+  {
+    "date": "2009-03-30",
+    "type": "press-feature",
+    "url": "https://anandchowdhary.com/press/2009/delhi-kids-show-the-way",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
+    "title": "Delhi kids show the way",
+    "data": {
+      "publisher": "Hindustan Times",
+      "author": "Avishek G. Dastidar",
+      "description": "I was featured by one of the largest newspapers in India by circulation, Hindustan Times, for my work promoting Earth Hour 2008 with my sister Mishika."
+    }
+  },
+  {
+    "date": "1997-12-29",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/milestones/1997/born-in-new-delhi-india",
+    "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
+    "title": "Born in New Delhi, India"
+  }
+]
