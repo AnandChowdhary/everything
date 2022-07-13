@@ -17,7 +17,7 @@ jobs:
           deno-version: "1.23.1"
       - name: Update summary & API
         shell: bash
-        run: desk task start
+        run: deno task start
       - name: Commit and push changes
         shell: bash
         run: "git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com' && git config --global user.name 'github-actions[bot]' && git pull && git diff --quiet && git diff --staged --quiet || git commit -am ':bento: Update api.json and README.md [skip ci]' && git push"
