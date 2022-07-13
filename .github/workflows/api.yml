@@ -1,0 +1,23 @@
+name: API CI
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  release:
+    name: Update api.json
+    runs-on: ubuntu-18.04
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: "1.23.1"
+      - name: Update summary & API
+        shell: bash
+        run: desk task start
+      - name: Commit and push changes
+        shell: bash
+        run: "git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com' && git config --global user.name 'github-actions[bot]' && git pull && git diff --quiet && git diff --staged --quiet || git commit -am ':bento: Update api.json and README.md [skip ci]' && git push"
