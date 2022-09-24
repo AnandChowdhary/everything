@@ -743,10 +743,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 11782,
+      "stars": 11819,
       "issues": 59,
-      "forks": 638,
-      "watchers": 11782,
+      "forks": 642,
+      "watchers": 11819,
       "language": null,
       "languageColor": null
     }
@@ -915,19 +915,6 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Studied at Santa Clara University",
     "description": "I was the first student in my program to study for a semester at Santa Clara University in Silicon Valley as part of the Global Engineering Education Exchange (Global E3). I was a recipient of the Twente Mobility Fund Scholarship and my coursework consisted of computer graphics, venture capital, marketing, and typography."
-  },
-  {
-    "date": "2019-11-13T00:00:00.000Z",
-    "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2019/the-innovators",
-    "source": "https://github.com/AnandChowdhary/books/issues/12",
-    "title": "The Innovators",
-    "data": {
-      "image": "http://books.google.com/books/content?id=aFapBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "authors": [
-        "Walter Isaacson"
-      ]
-    }
   },
   {
     "date": "2019-10-28",
@@ -1246,10 +1233,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 31,
+      "stars": 32,
       "issues": 6,
       "forks": 13,
-      "watchers": 31,
+      "watchers": 32,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1307,10 +1294,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 226,
-      "issues": 8,
-      "forks": 46,
-      "watchers": 226,
+      "stars": 227,
+      "issues": 9,
+      "forks": 47,
+      "watchers": 227,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1600,10 +1587,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1738,
+      "stars": 1742,
       "issues": 44,
-      "forks": 118,
-      "watchers": 1738,
+      "forks": 119,
+      "watchers": 1742,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
