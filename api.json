@@ -743,10 +743,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 11819,
-      "issues": 59,
-      "forks": 642,
-      "watchers": 11819,
+      "stars": 11851,
+      "issues": 60,
+      "forks": 652,
+      "watchers": 11851,
       "language": null,
       "languageColor": null
     }
@@ -1233,10 +1233,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 32,
+      "stars": 33,
       "issues": 6,
       "forks": 13,
-      "watchers": 32,
+      "watchers": 33,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1294,10 +1294,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 227,
-      "issues": 9,
+      "stars": 229,
+      "issues": 8,
       "forks": 47,
-      "watchers": 227,
+      "watchers": 229,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
