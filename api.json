@@ -1,5 +1,104 @@
 [
   {
+    "type": "okr",
+    "url": "https://anandchowdhary.com/life/okrs/2022/4.json",
+    "source": "https://anandchowdhary.github.io/okrs/okrs/2022/4.json",
+    "title": "Published OKRs for Q4 2022",
+    "date": "2022-10-01",
+    "description": "Continue working on health goals, Stop procrastinating on growth, Get ready for 2023",
+    "data": {
+      "name": 4,
+      "progress": 0,
+      "success": 0,
+      "objectives": [
+        {
+          "name": "Continue working on health goals",
+          "progress": 0,
+          "success": 0,
+          "key_results": [
+            {
+              "name": "Work out 3 or more times weekly",
+              "current_result": 0,
+              "target_result": 39,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "Complete one book every month",
+              "current_result": 0,
+              "target_result": 3,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "Do therapy 3 or more times monthly",
+              "current_result": 0,
+              "target_result": 12,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        },
+        {
+          "name": "Stop procrastinating on growth",
+          "progress": 0,
+          "success": 0,
+          "key_results": [
+            {
+              "name": "Finalize city and apartment for 2023",
+              "current_result": 0,
+              "target_result": 1,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "Properly prepare for all 1:1s",
+              "current_result": 0,
+              "target_result": 12,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "Set up and use personal CRM",
+              "current_result": 0,
+              "target_result": 1,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        },
+        {
+          "name": "Get ready for 2023",
+          "progress": 0,
+          "success": 0,
+          "key_results": [
+            {
+              "name": "Prepare for the wedding in Q1",
+              "current_result": 0,
+              "target_result": 1,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "Document & reflect on 2022, set up theme",
+              "current_result": 0,
+              "target_result": 12,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "[OPEN]",
+              "current_result": 0,
+              "target_result": 1,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
     "date": "2022-07-22T04:32:58.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/life/books/2022/indistractable",
@@ -743,10 +842,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 11851,
-      "issues": 60,
-      "forks": 652,
-      "watchers": 11851,
+      "stars": 11886,
+      "issues": 59,
+      "forks": 657,
+      "watchers": 11886,
       "language": null,
       "languageColor": null
     }
@@ -1151,19 +1250,6 @@
     }
   },
   {
-    "date": "2019-03-25T00:00:00.000Z",
-    "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2019/rich-dad-poor-dad",
-    "source": "https://github.com/AnandChowdhary/books/issues/13",
-    "title": "Rich Dad, Poor Dad",
-    "data": {
-      "image": "http://books.google.com/books/content?id=Cx6aDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "authors": [
-        "Robert T. Kiyosaki"
-      ]
-    }
-  },
-  {
     "date": "2019-03-22T15:43:15Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/sharer.link",
@@ -1274,19 +1360,6 @@
     }
   },
   {
-    "date": "2019-02-06T00:00:00.000Z",
-    "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2019/inglorious-empire",
-    "source": "https://github.com/AnandChowdhary/books/issues/14",
-    "title": "Inglorious Empire",
-    "data": {
-      "image": "http://books.google.com/books/content?id=ZWwwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-      "authors": [
-        "Shashi Tharoor"
-      ]
-    }
-  },
-  {
     "date": "2019-01-16T15:51:01Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/calendar-link",
@@ -1294,25 +1367,12 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 229,
-      "issues": 8,
+      "stars": 230,
+      "issues": 10,
       "forks": 47,
-      "watchers": 229,
+      "watchers": 230,
       "language": "TypeScript",
       "languageColor": "#3178c6"
-    }
-  },
-  {
-    "date": "2019-01-01T00:00:00.000Z",
-    "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2019/21-lessons-for-the-21st-century",
-    "source": "https://github.com/AnandChowdhary/books/issues/15",
-    "title": "21 Lessons for the 21st Century",
-    "data": {
-      "image": "http://books.google.com/books/content?id=MSKEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "authors": [
-        "Yuval Noah Harari"
-      ]
     }
   },
   {
@@ -1355,7 +1415,7 @@
       "description": "👋 Greet your visitors with a hello bar",
       "stars": 70,
       "issues": 22,
-      "forks": 10,
+      "forks": 11,
       "watchers": 70,
       "language": "JavaScript",
       "languageColor": "#f1e05a"
