@@ -81,6 +81,23 @@ const getProjects = async (): Promise<IProject[]> => {
   return projects;
 };
 
+interface IVersion {
+  slug: string;
+  title: string;
+  date: string;
+}
+const getVersions = async (): Promise<IVersion[]> => {
+  if (CACHE_ENABLED) {
+    const data = await Deno.readTextFile("./.cache/versions.json");
+    return JSON.parse(data);
+  }
+
+  const versions = (await (
+    await fetch("https://anandchowdhary.github.io/versions/api.json")
+  ).json()) as IVersion[];
+  return versions;
+};
+
 interface ITravel {
   date: string;
   title: string;
@@ -295,6 +312,17 @@ export const generate = async () => {
         project.date
       ).getUTCFullYear()}/${project.slug.replace(".md", "")}`,
       title: project.title,
+    })),
+    ...(await getVersions()).map((version) => ({
+      date: version.date,
+      type: "version",
+      url: `https://anandchowdhary.com/versions/${new Date(
+        version.date
+      ).getUTCFullYear()}/${version.slug.replace(".md", "")}`,
+      source: `https://anandchowdhary.github.io/versions/versions/${new Date(
+        version.date
+      ).getUTCFullYear()}/${version.slug.replace(".md", "")}`,
+      title: version.title,
     })),
     ...(await getBlogPosts()).map((post) => ({
       date: post.date,
