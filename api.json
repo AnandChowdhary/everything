@@ -1,5 +1,12 @@
 [
   {
+    "date": "2022-10-08T13:02:31.000Z",
+    "type": "version",
+    "url": "https://anandchowdhary.com/versions/2022/alameda",
+    "source": "https://anandchowdhary.github.io/versions/versions/2022/alameda",
+    "title": "Alameda"
+  },
+  {
     "type": "okr",
     "url": "https://anandchowdhary.com/life/okrs/2022/4",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2022/4.json",
