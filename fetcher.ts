@@ -316,7 +316,7 @@ export const generate = async () => {
     ...(await getVersions()).map((version) => ({
       date: version.date,
       type: "version",
-      url: `https://anandchowdhary.com/versions/${new Date(
+      url: `https://anandchowdhary.com/colophon/versions/${new Date(
         version.date
       ).getUTCFullYear()}/${version.slug.replace(".md", "")}`,
       source: `https://anandchowdhary.github.io/versions/versions/${new Date(
