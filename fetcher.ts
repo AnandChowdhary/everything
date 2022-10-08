@@ -250,7 +250,7 @@ export const generate = async () => {
       date.setUTCMonth((quarter.name - 1) * 3);
       okrs.push({
         type: "okr",
-        url: `https://anandchowdhary.com/life/okrs/${name}/${quarter.name}.json`,
+        url: `https://anandchowdhary.com/life/okrs/${name}/${quarter.name}`,
         source: `https://anandchowdhary.github.io/okrs/okrs/${name}/${quarter.name}.json`,
         title: `Published OKRs for Q${quarter.name} ${name}`,
         date: date.toISOString().substring(0, 10),
