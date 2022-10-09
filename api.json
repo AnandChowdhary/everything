@@ -517,7 +517,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2021/year-of-teamwork",
     "title": "2022 will be the Year of Teamwork",
     "data": {
-      "words": 1159
+      "words": 1159,
+      "excerpt": "I turn 24 today and I wanted to take this opportunity to reflect on my themes from the past two years, and plan my theme for 2022."
     }
   },
   {
@@ -538,7 +539,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2021/yc-batch-size",
     "title": "1,000 companies per batch? OMG Y Combinator",
     "data": {
-      "words": 961
+      "words": 961,
+      "excerpt": "This is a response to [1,000 companies per Y Combinator batch? RIP Y Combinator](https://techcrunch. com/2021/12/10/y-combinator/) by Haje Jan Kamps, published on TechCrunch on December 10, 2021."
     }
   },
   {
@@ -921,7 +923,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2020/automated-journalism-authorship",
     "title": "Who is the author of an AI-generated news article?",
     "data": {
-      "words": 393
+      "words": 393,
+      "excerpt": "If you read major American newspapers such as Forbes or the Los Angeles Times, chances are you've already read a story entirely written by an AI-powered software system. This process is known as automated journalism, and highlights an important question about authorship: _Who is the author of an article written by a virtual agent? _. A 2005 study found that research participants attribute story credit to the programmers who developed the AI or the news organization publishing the story."
     }
   },
   {
@@ -931,7 +934,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2020/microsoft-open-source",
     "title": "Microsoft is the most important company in the open-source ecosystem",
     "data": {
-      "words": 257
+      "words": 257,
+      "excerpt": "This was a sidenote for another note I've been thinking about, but I think it deserves its own post. Today (mid 2020), Microsoft is the world's most important, influential, and exciting company in the open-source ecosystem."
     }
   },
   {
@@ -986,7 +990,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2020/introducing-uppload-v2",
     "title": "Introducing Uppload v2",
     "data": {
-      "words": 90
+      "words": 90,
+      "excerpt": "In April 2018, I made the first commit to Uppload ([56bd930](https://github. com/elninotech/uppload/commit/56bd9307a020c692ed1383f0f4731690c00d90c9)) and pitched it as an idea to Michael, the founder of El Niño, to fund the development of an open-source JavaScript file uploader, something that the web desperately needed. Later that summer, we launched Uppload and started using it in our projects."
     }
   },
   {
@@ -1086,7 +1091,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2019/google-play-badges",
     "title": "New Google Play Badges",
     "data": {
-      "words": 226
+      "words": 226,
+      "excerpt": "When you're advertising your smartphone app, perhaps the first thing you show off are platform badges. They're the easiest and most familiar way to tell users where they can find your app. All major platforms, Apple's App Store, Google Play, and Microsoft Store have official badges which are somewhat consistent with each other."
     }
   },
   {
@@ -1170,7 +1176,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2019/state-of-the-podcasts-2019",
     "title": "State of the Podcasts 2019",
     "data": {
-      "words": 700
+      "words": 700,
+      "excerpt": "This is the second year of my annual State of the Podcasts list, where I highlight my daily drivers of audio content. This time last year, I published [State of the Podcasts 2018](/blog/state-of-the/podcasts/2018/), and not too much has changed. Let's see what has."
     }
   },
   {
@@ -1243,7 +1250,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2019/agastya-4-augmentally",
     "title": "Introducing Agastya 4 + Augmenta11y",
     "data": {
-      "words": 1063
+      "words": 1063,
+      "excerpt": "11 months ago, [we launched Agastya 3](https://blog. oswald. foundation/introducing-the-new-agastya-privacy-first-and-universal-9a67ef66cb19), with the promise of a privacy-first accessibility widget. Today, we bring the next major version of Agastya with a focus on user customization, along with an entirely new app. Like the last update, Agastya 4 is currently available to our Pro 1M customers, and will be available to everyone this summer."
     }
   },
   {
@@ -1253,7 +1261,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2019/quarter-of-open-source",
     "title": "Quarter of Open Source",
     "data": {
-      "words": 1229
+      "words": 1229,
+      "excerpt": "The first quarter of 2019 was very interesting for me. It was the first time I did a lot of open-source work as a way to scratch my own itch. Every time I thought I needed a specific tool which I couldn't find, I built and open-sourced it."
     }
   },
   {
@@ -1279,7 +1288,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2019/package-managers",
     "title": "Package Manager Standardization",
     "data": {
-      "words": 239
+      "words": 239,
+      "excerpt": "Matt Turnbull has a great article titled [Why Are You Still Using Yarn in 2018? ](https://iamturns. com/yarn-vs-npm-2018/) which makes the argument that newer versions of NPM are just as fast as Yarn and switching to NPM might actually have some benefits (I'm still a Yarn user)."
     }
   },
   {
@@ -1289,7 +1299,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2019/twitter-subaccounts",
     "title": "Twitter Subaccounts",
     "data": {
-      "words": 281
+      "words": 281,
+      "excerpt": "I think Twitter should have a concept of sub-accounts. It's not smart to create a Twitter account for every small project, but it's often a necessity for support or a social media presence. In my case, I have a [Twitter account](https://twitter. com/AnandChowdhary), and so does [Oswald Labs](https://twitter. com/OswaldLabs) (which makes complete sense since it's a company and I'm just a small part of it)."
     }
   },
   {
@@ -1299,7 +1310,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2019/google-docs-github",
     "title": "Google Docs + GitHub",
     "data": {
-      "words": 153
+      "words": 153,
+      "excerpt": "When I first started using Google Docs, my favorite feature was \"smart\" autosaving. \"Smart\" because it's not just an interval, but also based on content changes. Today, almost all popular web-based text editors have both autosaving (WordPress, Medium, etc. ) and rich text formatting (think \\[f]CKEditor and TinyMCE a decade ago)."
     }
   },
   {
@@ -1595,7 +1607,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2018/state-of-the-dock-2018",
     "title": "State of the Dock 2018",
     "data": {
-      "words": 784
+      "words": 784,
+      "excerpt": "Two months after writing [State of the Podcasts](/blog/state-of-the/podcasts/2018/), where I talked about my go-to podcasts in 2018, this post is about the apps that find their home on my laptop's dock. These apps are those I use most often and make me much more productive."
     }
   },
   {
@@ -1605,7 +1618,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2018/agastya-screen-reader",
     "title": "Introducing Universal Screen Reader on Agastya",
     "data": {
-      "words": 504
+      "words": 504,
+      "excerpt": "Read aloud was one of Agastya’s signature features when it first launched, and our beta partners like [Nayee Disha](http://www. nayeedisha. in/about) — a collaboration between the UNDP and large corporates to skill and employ women in rural India — extensively made use of it. It was the easiest way to have a blind- and illiterate-friendly mode which automatically reads aloud the content of a webpage."
     }
   },
   {
@@ -1615,7 +1629,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2018/new-agastya",
     "title": "Introducing the new Agastya",
     "data": {
-      "words": 560
+      "words": 560,
+      "excerpt": "Since we launched Agastya in late 2016, we’ve come a long way. Today, we’re announcing the biggest update to our end-to-end web accessibility platform. This update is currently available only to our Pro 1M customers, and will be available to everyone this summer."
     }
   },
   {
@@ -1625,7 +1640,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2018/state-of-the-podcasts-2018",
     "title": "State of the Podcasts 2018",
     "data": {
-      "words": 895
+      "words": 895,
+      "excerpt": "I started _really_ consuming audio content in the form of podcasts and audiobooks about two years ago, and I'm very often asked what podcasts I listen to. This is the first list in a series of reviews about my daily drivers of content, services, and products."
     }
   },
   {
@@ -1841,7 +1857,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2017/utwente-peoplepages",
     "title": "UTwente PeoplePages Contact Book",
     "data": {
-      "words": 704
+      "words": 704,
+      "excerpt": "As a future creative technology student at the University of Twente, I wanted to get in touch with a particular professor. Their website, [PeoplePages](https://people. utwente. nl/), uses a RESTful API for AJAX requests to search for university staff, so I decided to add everyone to my contacts using API scraping to save time in the future."
     }
   },
   {
@@ -1907,7 +1924,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2017/zomato",
     "title": "Zomato for Android Redesign",
     "data": {
-      "words": 69
+      "words": 69,
+      "excerpt": "I took fifteen minutes to make some strategic design changes to Zomato's Android app. I wrote extensively about the iconography, typography, and role of actions in the app’s user experience. I wrote this article originally in March 2016 for the Zomato Android team and publicly published it on Medium in April 2017 since Zomato decided to implement most of my design changes."
     }
   },
   {
@@ -1917,7 +1935,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2017/college",
     "title": "Life Update: College",
     "data": {
-      "words": 456
+      "words": 456,
+      "excerpt": "Just a little bit of background about my college \"situation\". How I went from design school in India to back to New Delhi to the University of Twente in the Netherlands. I wrote this post in March 2017 and updated it in December 2017."
     }
   },
   {
@@ -1927,7 +1946,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2017/md5",
     "title": "The Defence for MD5",
     "data": {
-      "words": 455
+      "words": 455,
+      "excerpt": "A few days ago, I tried to reset my password on PR. com, the press releases website. I entered my email, and they sent me the username and password in plain text. That's right, in plain text."
     }
   },
   {
@@ -2126,7 +2146,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2016/machine-learning-in-6-lines",
     "title": "Machine Learning in 6 Lines",
     "data": {
-      "words": 469
+      "words": 469,
+      "excerpt": "At Oswald Foundation, we’re currently building a user interface for the blind, a smartphone UI that works entirely on vibrational and speech feedback. While reengineering the Phone app, the app you use to make calls, we decided to incorporate some machine learning."
     }
   },
   {
@@ -2186,7 +2207,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2016/30-billion-opportunity",
     "title": "The Missed $30 Billion Opportunity",
     "data": {
-      "words": 472
+      "words": 472,
+      "excerpt": "When I posted [Study, but with a Difference](https://medium. com/@anandchowdhary/study-but-with-a-difference-89e0cb23ba85) two years back, my friends and I had an incredible idea that was going to change the way students think of education in India. We wanted to create a platform where students and teachers can find each other. We soon moved to a platform where students can access good-quality study material for free."
     }
   },
   {
@@ -2203,7 +2225,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2016/saga-music",
     "title": "Introducing Saga Music",
     "data": {
-      "words": 215
+      "words": 215,
+      "excerpt": "Music has always been an integral part of our lives. Ever since people started using the internet, they’ve been downloading music and movies. The process became relatively simple with the introduction of Napster in 1999, which led to the development of many such tools. I remember growing up with Limewire and Bearshare. After the discontinuation of these services in after ten long years, downloading music became really complicated again."
     }
   },
   {
@@ -2306,7 +2329,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2015/gaana-identity",
     "title": "The Problem with Gaana.com’s Identity",
     "data": {
-      "words": 788
+      "words": 788,
+      "excerpt": "What is probably India’s most-used music streaming service, Gaana (“song” in Hindi), launched a new advertising campaign this month. It was very well executed with a great music video, beautiful typography and useful app demos at the end. Campaigns like these add to the brand value of a company — people see themselves dancing to songs on Gaana. But what’s missing here? What is the first thing users see when they download the app?"
     }
   },
   {
@@ -2316,7 +2340,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2015/naming-brands",
     "title": "How to Name Brands",
     "data": {
-      "words": 618
+      "words": 618,
+      "excerpt": "Pinkberry, a popular frozen yogurt chain, has spurred countless imitators with “berry”-studded names, so when a yogurt chain approached Alexandra Watkins, the chief innovation officer of Eat My Words, a San Francisco-based company that names brands, she wanted to help them find a really distinctive name."
     }
   },
   {
@@ -2326,7 +2351,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2015/too-simple-design",
     "title": "Can Design Be Too Simple?",
     "data": {
-      "words": 623
+      "words": 623,
+      "excerpt": "John McWade asks a very interesting question in his article How simple is too simple? He"
     }
   },
   {
@@ -2343,7 +2369,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2015/one-space-after-a-period",
     "title": "One Space After a Period",
     "data": {
-      "words": 296
+      "words": 296,
+      "excerpt": "Early typewriters used monospaced fonts, meaning that the spaces between letters were always the same length, and so, typists started using two spaces to slightly widen the space between sentences. Now that the fonts on your computer are are proportionally spaced, this practice is outdated; it creates unnecessary inconvenience for the writer."
     }
   },
   {
@@ -2353,7 +2380,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2015/apple-remote",
     "title": "The Apple Remote",
     "data": {
-      "words": 723
+      "words": 723,
+      "excerpt": "I had my hands-on a magnificent device this week — a remote. But this isn’t just any remote, it’s one of the most beautiful devices I’ve ever held in my hand. It’s the Apple Remote."
     }
   },
   {
@@ -2399,7 +2427,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2014/on-operating-systems",
     "title": "A Designer on Operating Systems",
     "data": {
-      "words": 1646
+      "words": 1646,
+      "excerpt": "A Silicon Valley startup was founded in 2003 with an aim to develop an advanced operating system for digital cameras. Considering that the camera market wasn’t large-enough, they started work on a mobile OS, and were acquired by Google two years later. Currently, they have over a billion active monthly users, which has doubled from 538 million in mid-2013."
     }
   },
   {
@@ -2467,7 +2496,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2014/surface-pro-3",
     "title": "Surface Pro 3",
     "data": {
-      "words": 625
+      "words": 625,
+      "excerpt": "There were only two companies in this world that I truly adored for their great products—Apple and Google. I was also always a fan of the innovations at Microsoft, but they never really rocked my world. Until now."
     }
   },
   {
@@ -2477,7 +2507,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2014/classrebels",
     "title": "The ClassRebels Dream",
     "data": {
-      "words": 380
+      "words": 380,
+      "excerpt": "> “A substandard education will always result in a substandard nation. ” — Aubrey"
     }
   },
   {
@@ -2526,7 +2557,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2014/fleksy-keyboard",
     "title": "Fleksy Keyboard Review",
     "data": {
-      "words": 763
+      "words": 763,
+      "excerpt": "_Disclaimer: I wrote this article for the Fleksy Blog and they provided me with the premium version of the app, which, for the record, is worth the $3. 99."
     }
   },
   {
@@ -2564,7 +2596,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2013/internet-org",
     "title": "Internet.org Redesign",
     "data": {
-      "words": 930
+      "words": 930,
+      "excerpt": "I recently participated in an event where I was required to redesign Internet. org’s homepage and logo. The content had to remain the same, but the design was to be completely new. The website was required to be responsive, and good in code-quality and aesthetics, without the use of any external code. The logo was marked for creativity and execution. Here’s what I co-designed with Akshat Srivastava in five hours. And why."
     }
   },
   {
@@ -2574,7 +2607,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2013/made-with-love-in-india",
     "title": "Made with ♥ in India",
     "data": {
-      "words": 284
+      "words": 284,
+      "excerpt": "We’re a group of products and organizations which were proudly created in India."
     }
   },
   {
@@ -2604,7 +2638,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2013/nineteen-eighty-four",
     "title": "Nineteen Eighty-four",
     "data": {
-      "words": 1279
+      "words": 1279,
+      "excerpt": "‘Reality control,’ they called it—in Newspeak, ‘doublethink.’"
     }
   },
   {
@@ -2614,7 +2649,8 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2013/the-death-of-www",
     "title": "The Death of WWW",
     "data": {
-      "words": 648
+      "words": 648,
+      "excerpt": "The ‘WWW’ subdomain is deprecated. There. I said it."
     }
   },
   {
