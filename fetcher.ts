@@ -120,6 +120,7 @@ interface IBlogPost {
   title: string;
   words: number;
   date: string;
+  excerpt: string;
 }
 const getBlogPosts = async (): Promise<IBlogPost[]> => {
   if (CACHE_ENABLED) {
@@ -334,7 +335,7 @@ export const generate = async () => {
         post.date
       ).getUTCFullYear()}/${post.slug.replace(".md", "")}`,
       title: post.title,
-      data: { words: post.words },
+      data: { words: post.words, excerpt: post.excerpt },
     })),
     ...(await getBooks())
       .filter(({ state }) => state == "completed")
