@@ -106,6 +106,17 @@
     }
   },
   {
+    "date": "2022-09-12T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2022/ut-opportunity-recognition",
+    "source": "https://anandchowdhary.github.io/events/events/2022/ut-opportunity-recognition",
+    "title": "Guest lecture on opportunity recognition",
+    "data": {
+      "location": "University of Twente, Enschede",
+      "emoji": "🇳🇱"
+    }
+  },
+  {
     "date": "2022-07-22T04:32:58.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/life/books/2022/indistractable",
@@ -851,12 +862,12 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 11886,
+      "stars": 11920,
       "issues": 59,
-      "forks": 657,
-      "watchers": 11886,
-      "language": null,
-      "languageColor": null
+      "forks": 662,
+      "watchers": 11920,
+      "language": "Markdown",
+      "languageColor": "#083fa1"
     }
   },
   {
@@ -1387,7 +1398,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 230,
-      "issues": 10,
+      "issues": 11,
       "forks": 47,
       "watchers": 230,
       "language": "TypeScript",
@@ -1432,10 +1443,10 @@
     "source": "https://github.com/AnandChowdhary/hello-bar",
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
-      "stars": 70,
-      "issues": 22,
+      "stars": 69,
+      "issues": 23,
       "forks": 11,
-      "watchers": 70,
+      "watchers": 69,
       "language": "JavaScript",
       "languageColor": "#f1e05a"
     }
@@ -1670,10 +1681,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1742,
+      "stars": 1743,
       "issues": 44,
       "forks": 119,
-      "watchers": 1742,
+      "watchers": 1743,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
