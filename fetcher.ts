@@ -51,6 +51,7 @@ interface IEvent {
   emoji: string;
   venue: string;
   city: string;
+  coordinates?: [number, number];
 }
 const getEvents = async (): Promise<IEvent[]> => {
   if (CACHE_ENABLED) {
@@ -301,6 +302,7 @@ export const generate = async () => {
       data: {
         location: [event.venue, event.city].filter((i) => !!i).join(", "),
         emoji: event.emoji,
+        coordinates: event.coordinates,
       },
     })),
     ...(await getProjects()).map((project) => ({
