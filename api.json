@@ -113,7 +113,11 @@
     "title": "Guest lecture on opportunity recognition",
     "data": {
       "location": "University of Twente, Enschede",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        52.241198,
+        6.851607
+      ]
     }
   },
   {
@@ -250,7 +254,11 @@
     "title": "Guest lecture on inclusive entrepreneurship",
     "data": {
       "location": "Indian Institute of Management, Ahmedabad, Ahmedabad, India",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        23.033066625,
+        72.5346705
+      ]
     }
   },
   {
@@ -268,7 +276,11 @@
     "title": "Twitter Space on \"Why make your product open source?\"",
     "data": {
       "location": "Twitter Space, Remote",
-      "emoji": "🇺🇸"
+      "emoji": "🇺🇸",
+      "coordinates": [
+        40.780765,
+        -73.97408899999999
+      ]
     }
   },
   {
@@ -391,7 +403,11 @@
     "title": "Startup School Kickoff Call Q&A",
     "data": {
       "location": "Y Combinator Startup School, Remote",
-      "emoji": "🇺🇸"
+      "emoji": "🇺🇸",
+      "coordinates": [
+        37.386316,
+        -122.067028
+      ]
     }
   },
   {
@@ -562,7 +578,11 @@
     "title": "COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community",
     "data": {
       "location": "OGD ict diensten, Utrecht",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        52.514871,
+        4.995898
+      ]
     }
   },
   {
@@ -573,7 +593,11 @@
     "title": "Open source from scratch for CodeChef-VIT",
     "data": {
       "location": "Vellore Institute of Technology, Vellore",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        12.970280500000001,
+        79.15803650000001
+      ]
     }
   },
   {
@@ -584,7 +608,11 @@
     "title": "Open source as a startup at GitHub Nova 2021",
     "data": {
       "location": "GitHub Nova 2021, Remote",
-      "emoji": "🇺🇸"
+      "emoji": "🇺🇸",
+      "coordinates": [
+        50.657115,
+        14.065064
+      ]
     }
   },
   {
@@ -694,7 +722,11 @@
     "title": "Guest lecture at University of Twente",
     "data": {
       "location": "University of Twente, Enschede",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        52.241198,
+        6.851607
+      ]
     }
   },
   {
@@ -705,7 +737,11 @@
     "title": "MINET X 2021 keynote",
     "data": {
       "location": "The Mother's International School, Remote",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        51.5533263,
+        -0.0554439
+      ]
     }
   },
   {
@@ -741,7 +777,11 @@
     "title": "Helping fight COVID-19 using GitHub at GitHub Satellite 2021",
     "data": {
       "location": "GitHub Satellite 2021, Remote",
-      "emoji": "🇺🇸"
+      "emoji": "🇺🇸",
+      "coordinates": [
+        28.812146,
+        -81.923945
+      ]
     }
   },
   {
@@ -802,7 +842,11 @@
     "title": "Innovation & Entrepreneurship at DotSlash, SVNIT",
     "data": {
       "location": "Sardar Vallabhbhai National Institute of Technology, Surat",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        21.16068,
+        72.789558
+      ]
     }
   },
   {
@@ -813,7 +857,11 @@
     "title": "Guest Lecture for Global Entrepreneurship Week",
     "data": {
       "location": "University of Twente, Enschede",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        52.241198,
+        6.851607
+      ]
     }
   },
   {
@@ -824,7 +872,11 @@
     "title": "Guest Lecture on Opportunity Recognition",
     "data": {
       "location": "University of Twente, Enschede",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        52.241198,
+        6.851607
+      ]
     }
   },
   {
@@ -835,7 +887,11 @@
     "title": "Mentoring for Supreme Incubator",
     "data": {
       "location": "New Delhi",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        28.613895,
+        77.209006
+      ]
     }
   },
   {
@@ -894,7 +950,11 @@
     "title": "Changemaker Workshop at Enactus, IIT Delhi",
     "data": {
       "location": "Indian Institute of Technology Delhi, New Delhi",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        28.544831,
+        77.191623
+      ]
     }
   },
   {
@@ -1060,7 +1120,11 @@
     "title": "Keynote for OneUp, Santa Clara University",
     "data": {
       "location": "Santa Clara University, San Francisco Bay Area",
-      "emoji": "🇺🇸"
+      "emoji": "🇺🇸",
+      "coordinates": [
+        37.779026,
+        -122.419906
+      ]
     }
   },
   {
@@ -1071,7 +1135,11 @@
     "title": "Women Who Code Cloud 2019",
     "data": {
       "location": "Accenture, Salesforce Tower, San Francisco Bay Area",
-      "emoji": "🇺🇸"
+      "emoji": "🇺🇸",
+      "coordinates": [
+        37.779026,
+        -122.419906
+      ]
     }
   },
   {
@@ -1114,7 +1182,11 @@
     "title": "MINET X 2019",
     "data": {
       "location": "The Mother's International School, New Delhi",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        28.613895,
+        77.209006
+      ]
     }
   },
   {
@@ -1141,7 +1213,11 @@
     "title": "Design workshop for El Niño",
     "data": {
       "location": "El Niño, Enschede",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        52.363883,
+        4.884801
+      ]
     }
   },
   {
@@ -1166,7 +1242,11 @@
     "title": "Dutch Design Week",
     "data": {
       "location": "Klokgebouw Cultuurhallen, Eindhoven",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        51.44845,
+        5.4579645
+      ]
     }
   },
   {
@@ -1177,7 +1257,11 @@
     "title": "Hive 01 Season 5",
     "data": {
       "location": "U Parkhotel, Enschede",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        52.220986,
+        6.894054
+      ]
     }
   },
   {
@@ -1503,7 +1587,11 @@
     "title": "CLS Engagement Pitch",
     "data": {
       "location": "LABS Holborn, London",
-      "emoji": "🇬🇧"
+      "emoji": "🇬🇧",
+      "coordinates": [
+        51.514738,
+        -0.147356
+      ]
     }
   },
   {
@@ -1514,7 +1602,11 @@
     "title": "AKEPT-WIEF Social Enterprise Forum",
     "data": {
       "location": "International Islamic University Malaysia, Kuala Lumpur",
-      "emoji": "🇲🇾"
+      "emoji": "🇲🇾",
+      "coordinates": [
+        3.255572,
+        101.738651
+      ]
     }
   },
   {
@@ -1543,7 +1635,11 @@
     "title": "Speakup",
     "data": {
       "location": "De Museumfabriek, Enschede",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        52.2324775,
+        6.8950055
+      ]
     }
   },
   {
@@ -1554,7 +1650,11 @@
     "title": "Nesst Season 3",
     "data": {
       "location": "Saxion Center for Entrepreneurship, Enschede",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        51.912303,
+        4.430355
+      ]
     }
   },
   {
@@ -1565,7 +1665,11 @@
     "title": "GOGBOT",
     "data": {
       "location": "City Center, Enschede",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        52.22,
+        6.9
+      ]
     }
   },
   {
@@ -1576,7 +1680,11 @@
     "title": "IITK eSummit",
     "data": {
       "location": "Indian Institute of Technology, Kanpur",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        26.51,
+        80.23
+      ]
     }
   },
   {
@@ -1597,7 +1705,11 @@
     "title": "HackIIITD",
     "data": {
       "location": "Indraprastha Institute of Information Technology, New Delhi",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        18.53115,
+        73.867663
+      ]
     }
   },
   {
@@ -1608,7 +1720,11 @@
     "title": "MINET X 2018",
     "data": {
       "location": "The Mother's International School, New Delhi",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        28.613895,
+        77.209006
+      ]
     }
   },
   {
@@ -1670,7 +1786,11 @@
     "title": "Twente's Online Open Day",
     "data": {
       "location": "University of Twente, Enschede",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        52.241198,
+        6.851607
+      ]
     }
   },
   {
@@ -1728,7 +1848,11 @@
     "title": "Nesst Season 2",
     "data": {
       "location": "The Cee Spot, Enschede",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        52.220986,
+        6.894054
+      ]
     }
   },
   {
@@ -1819,7 +1943,11 @@
     "title": "Startup24",
     "data": {
       "location": "Novel-T, Enschede",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        52.220986,
+        6.894054
+      ]
     }
   },
   {
@@ -1830,7 +1958,11 @@
     "title": "Pitch Training for Hardstart",
     "data": {
       "location": "Hardstart, Enschede",
-      "emoji": "🇳🇱"
+      "emoji": "🇳🇱",
+      "coordinates": [
+        52.220986,
+        6.894054
+      ]
     }
   },
   {
@@ -1887,7 +2019,11 @@
     "title": "TEDxHaileyRoad",
     "data": {
       "location": "91springboard, Gurugram",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        28.46169,
+        77.081458
+      ]
     }
   },
   {
@@ -1925,7 +2061,11 @@
     "title": "Tech Charcha by Facebook DevC",
     "data": {
       "location": "91springboard Okhla, New Delhi",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        28.5667,
+        77.2833
+      ]
     }
   },
   {
@@ -2147,7 +2287,11 @@
     "title": "SIP Launch (DTU)",
     "data": {
       "location": "Delhi Technological University, New Delhi",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        28.7505,
+        77.116801
+      ]
     }
   },
   {
@@ -2550,7 +2694,11 @@
     "title": "Keynote at coDelhi",
     "data": {
       "location": "Delhi Technological University, New Delhi",
-      "emoji": "🇮🇳"
+      "emoji": "🇮🇳",
+      "coordinates": [
+        28.7505,
+        77.116801
+      ]
     }
   },
   {
