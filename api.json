@@ -918,10 +918,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 11988,
+      "stars": 12021,
       "issues": 59,
-      "forks": 667,
-      "watchers": 11988,
+      "forks": 669,
+      "watchers": 12021,
       "language": "Markdown",
       "languageColor": "#083fa1"
     }
@@ -1481,10 +1481,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 235,
+      "stars": 236,
       "issues": 1,
       "forks": 49,
-      "watchers": 235,
+      "watchers": 236,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1801,10 +1801,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1745,
+      "stars": 1747,
       "issues": 44,
       "forks": 120,
-      "watchers": 1745,
+      "watchers": 1747,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
