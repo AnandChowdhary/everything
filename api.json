@@ -1,5 +1,20 @@
 [
   {
+    "date": "2022-11-09T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2022/github-universe",
+    "source": "https://anandchowdhary.github.io/events/events/2022/github-universe",
+    "title": "How to open source as a startup at GitHub Universe",
+    "data": {
+      "location": "Yerba Buena Center for the Arts, San Francisco",
+      "emoji": "🇺🇸",
+      "coordinates": [
+        37.7852,
+        -122.4039
+      ]
+    }
+  },
+  {
     "date": "2022-10-08T13:02:31.000Z",
     "type": "version",
     "url": "https://anandchowdhary.com/colophon/versions/2022/alameda",
