@@ -822,7 +822,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 53,
-      "issues": 3,
+      "issues": 4,
       "forks": 6,
       "watchers": 53,
       "language": "TypeScript",
@@ -933,10 +933,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12068,
+      "stars": 12121,
       "issues": 60,
-      "forks": 670,
-      "watchers": 12068,
+      "forks": 673,
+      "watchers": 12121,
       "language": "Markdown",
       "languageColor": "#083fa1"
     }
@@ -1335,10 +1335,10 @@
     "source": "https://github.com/AnandChowdhary/scrub",
     "data": {
       "description": "🧹 Track JS errors and send them to your backend",
-      "stars": 9,
-      "issues": 15,
-      "forks": 7,
-      "watchers": 9,
+      "stars": 10,
+      "issues": 16,
+      "forks": 8,
+      "watchers": 10,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1481,7 +1481,7 @@
     "data": {
       "description": "🔔 Changelog notifications widget for the web, powered by GitHub",
       "stars": 5,
-      "issues": 18,
+      "issues": 19,
       "forks": 0,
       "watchers": 5,
       "language": "TypeScript",
@@ -1496,10 +1496,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 236,
-      "issues": 1,
+      "stars": 238,
+      "issues": 2,
       "forks": 49,
-      "watchers": 236,
+      "watchers": 238,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1559,7 +1559,7 @@
     "data": {
       "description": "🖱️ Wikipedia summary cards for the web",
       "stars": 83,
-      "issues": 19,
+      "issues": 20,
       "forks": 10,
       "watchers": 83,
       "language": "TypeScript",
@@ -1816,10 +1816,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1747,
-      "issues": 44,
-      "forks": 120,
-      "watchers": 1747,
+      "stars": 1750,
+      "issues": 45,
+      "forks": 121,
+      "watchers": 1750,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
