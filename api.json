@@ -1,29 +1,5 @@
 [
   {
-    "date": "2022-11-10T03:40:14.731Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/dublin-ea73ac6",
-    "source": "https://github.com/AnandChowdhary/location/commit/ea73ac644486b2c6bf6c45e34af7026a3cf95386",
-    "title": "Dublin, United States of America",
-    "data": {
-      "hash": "ea73ac644486b2c6bf6c45e34af7026a3cf95386",
-      "approximateCoordinates": [
-        37.72,
-        -121.85
-      ],
-      "label": "Dublin",
-      "timezone": {
-        "name": "America/Los_Angeles",
-        "utcOffset": -480,
-        "dstOffset": -420
-      },
-      "country": {
-        "code": "us",
-        "name": "United States of America"
-      }
-    }
-  },
-  {
     "date": "2022-11-09T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2022/github-universe",
@@ -36,30 +12,6 @@
         37.7852,
         -122.4039
       ]
-    }
-  },
-  {
-    "date": "2022-10-12T06:33:38.864Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/groningen-0f34a98",
-    "source": "https://github.com/AnandChowdhary/location/commit/0f34a98fb2736d92c2b16ad4646594f22d2c2166",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "0f34a98fb2736d92c2b16ad4646594f22d2c2166",
-      "approximateCoordinates": [
-        53.22,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "nl",
-        "name": "Netherlands"
-      }
     }
   },
   {
@@ -166,30 +118,6 @@
           ]
         }
       ]
-    }
-  },
-  {
-    "date": "2022-09-30T10:01:15.456Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/noord-holland-305f35a",
-    "source": "https://github.com/AnandChowdhary/location/commit/305f35ac27804629d7bd686708c9125cff8753bf",
-    "title": "Noord-Holland, Netherlands",
-    "data": {
-      "hash": "305f35ac27804629d7bd686708c9125cff8753bf",
-      "approximateCoordinates": [
-        52.31,
-        4.76
-      ],
-      "label": "Noord-Holland",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "nl",
-        "name": "Netherlands"
-      }
     }
   },
   {
