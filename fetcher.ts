@@ -249,6 +249,49 @@ const getRepos = async (): Promise<IRepo[]> => {
   return repos;
 };
 
+interface ILocation {
+  hash: string;
+  updatedAt: string;
+  approximateCoordinates: [number, number];
+  label: string;
+  timezone: {
+    name: string;
+    utcOffset: number;
+    dstOffset: number;
+  };
+  country: {
+    code: string;
+    name: string;
+  };
+}
+const getLocation = async (): Promise<ILocation[]> => {
+  if (CACHE_ENABLED) {
+    const data = await Deno.readTextFile("./.cache/location.json");
+    return JSON.parse(data);
+  }
+
+  const locations = (await (
+    await fetch(
+      "https://raw.githubusercontent.com/AnandChowdhary/location/gh-pages/history.json"
+    )
+  ).json()) as ILocation[];
+  const locationResult: ILocation[] = [];
+  locations.forEach((location, index, array) => {
+    const previous = array[index - 1];
+    if (previous) {
+      const a =
+        previous.approximateCoordinates[0] - location.approximateCoordinates[0];
+      const b =
+        previous.approximateCoordinates[1] - location.approximateCoordinates[1];
+      const c = Math.sqrt(a * a + b * b);
+      if (c > 2) {
+        locationResult.push(location);
+      }
+    } else locationResult.push(location);
+  });
+  return locationResult;
+};
+
 export const generate = async () => {
   const { awards, podcasts, features } = await getPress();
   const { years } = await getOkrs();
@@ -351,6 +394,19 @@ export const generate = async () => {
         title: book.title,
         data: { image: book.image, authors: book.authors },
       })),
+    ...(await getLocation()).map((location) => ({
+      date: location.updatedAt,
+      type: "travel",
+      url: `https://anandchowdhary.com/life/travel/${new Date(
+        location.updatedAt
+      ).getUTCFullYear()}/${slugify(location.label)} ${location.hash.substring(
+        0,
+        7
+      )}`,
+      source: `https://github.com/AnandChowdhary/location/commit/${location.hash}`,
+      title: `${location.label}, ${location.country.name}`,
+      data: location,
+    })),
     ...(await getLifeEvents()).map((event) => ({
       date: event.date,
       type: "life-event",
