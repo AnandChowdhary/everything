@@ -276,19 +276,63 @@ const getLocation = async (): Promise<ILocation[]> => {
     )
   ).json()) as ILocation[];
   const locationResult: ILocation[] = [];
-  locations.forEach((location, index, array) => {
-    const previous = array[index - 1];
-    if (previous) {
-      const a =
-        previous.approximateCoordinates[0] - location.approximateCoordinates[0];
-      const b =
-        previous.approximateCoordinates[1] - location.approximateCoordinates[1];
-      const c = Math.sqrt(a * a + b * b);
-      if (c > 2) {
+  let skipped: (ILocation & { duration: number })[] = [];
+  locations
+    .sort(
+      (a, b) =>
+        new Date(a.updatedAt).getTime() - new Date(b.updatedAt).getTime()
+    )
+    .forEach((location, index, array) => {
+      const previous = array[index - 1];
+      if (previous) {
+        const a =
+          previous.approximateCoordinates[0] -
+          location.approximateCoordinates[0];
+        const b =
+          previous.approximateCoordinates[1] -
+          location.approximateCoordinates[1];
+        const c = Math.sqrt(a * a + b * b);
+        if (
+          c > 2 ||
+          location.country.code !== previous.country.code ||
+          location.timezone?.name !== previous.timezone?.name
+        ) {
+          if (skipped.length) {
+            const items: Record<string, number> = {};
+            skipped.forEach((item) => {
+              items[item.label] = (items[item.label] || 0) + item.duration;
+            });
+            locationResult.push(
+              skipped.sort((a, b) => b.duration - a.duration)[0]
+            );
+          } else {
+            locationResult.push(location);
+          }
+          skipped = [];
+        } else {
+          skipped.push({
+            ...location,
+            duration: array[index + 1]
+              ? new Date(array[index + 1].updatedAt).getTime() -
+                new Date(location.updatedAt).getTime()
+              : 0,
+          });
+        }
+      } else {
         locationResult.push(location);
+        skipped = [];
       }
-    } else locationResult.push(location);
-  });
+    });
+  if (skipped.length) {
+    const items: Record<string, number> = {};
+    skipped[skipped.length - 1].duration =
+      new Date().getTime() -
+      new Date(skipped[skipped.length - 1].updatedAt).getTime();
+    skipped.forEach((item) => {
+      items[item.label] = (items[item.label] || 0) + item.duration;
+    });
+    locationResult.push(skipped.sort((a, b) => b.duration - a.duration)[0]);
+  }
   return locationResult;
 };
 
@@ -399,13 +443,19 @@ export const generate = async () => {
       type: "travel",
       url: `https://anandchowdhary.com/life/travel/${new Date(
         location.updatedAt
-      ).getUTCFullYear()}/${slugify(location.label)} ${location.hash.substring(
+      ).getUTCFullYear()}/${slugify(location.label)}-${location.hash.substring(
         0,
         7
       )}`,
       source: `https://github.com/AnandChowdhary/location/commit/${location.hash}`,
       title: `${location.label}, ${location.country.name}`,
-      data: location,
+      data: {
+        hash: location.hash,
+        approximateCoordinates: location.approximateCoordinates,
+        label: location.label,
+        timezone: location.timezone,
+        country: location.country,
+      },
     })),
     ...(await getLifeEvents()).map((event) => ({
       date: event.date,
