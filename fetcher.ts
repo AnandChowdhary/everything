@@ -96,23 +96,6 @@ const getVersions = async (): Promise<IVersion[]> => {
   return versions;
 };
 
-interface ITravel {
-  date: string;
-  title: string;
-  assets: string[];
-}
-const getTravel = async (): Promise<ITravel[]> => {
-  if (CACHE_ENABLED) {
-    const data = await Deno.readTextFile("./.cache/travel.json");
-    return JSON.parse(data);
-  }
-
-  const travel = (await (
-    await fetch("https://anandchowdhary.github.io/travel/api.json")
-  ).json()) as ITravel[];
-  return travel;
-};
-
 interface IBlogPost {
   slug: string;
   title: string;
@@ -431,21 +414,6 @@ export const generate = async () => {
         publisher: video.publisher,
         duration: video.duration,
       },
-    })),
-    ...(await getTravel()).map((place) => ({
-      date: place.date,
-      type: "travel",
-      url: `https://anandchowdhary.com/travel/${new Date(
-        place.date
-      ).getUTCFullYear()}/${slugify(place.title, {
-        lower: true,
-        strict: true,
-      })}`,
-      source: `https://anandchowdhary.github.io/travel/travel/${new Date(
-        place.date
-      ).getUTCFullYear()}/${place.title.replace(".md", "")}`,
-      title: place.title,
-      data: { assets: place.assets },
     })),
     ...awards.map((award) => ({
       date: award.date,
