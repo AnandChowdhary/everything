@@ -429,7 +429,10 @@ export const generate = async () => {
         type: "book",
         url: `https://anandchowdhary.com/life/books/${new Date(
           book.startedAt
-        ).getUTCFullYear()}/${slugify(book.title, { lower: true })}`,
+        ).getUTCFullYear()}/${slugify(book.title, {
+          lower: true,
+          strict: true,
+        })}`,
         source: `https://github.com/AnandChowdhary/books/issues/${book.issueNumber}`,
         title: book.title,
         data: { image: book.image, authors: book.authors },
@@ -441,6 +444,7 @@ export const generate = async () => {
         location.updatedAt
       ).getUTCFullYear()}/${slugify(location.label, {
         lower: true,
+        strict: true,
       })}-${location.hash.substring(0, 7)}`,
       source: `https://github.com/AnandChowdhary/location/commit/${location.hash}`,
       title: `${location.label}, ${location.country.name}`,
@@ -457,7 +461,10 @@ export const generate = async () => {
       type: "life-event",
       url: `https://anandchowdhary.com/life/milestones/${new Date(
         event.date
-      ).getUTCFullYear()}/${slugify(event.title, { lower: true })}`,
+      ).getUTCFullYear()}/${slugify(event.title, {
+        lower: true,
+        strict: true,
+      })}`,
       source: `https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json`,
       title: event.title,
       description: event.description,
@@ -467,7 +474,10 @@ export const generate = async () => {
       type: "video",
       url: `https://anandchowdhary.com/press/${new Date(
         video.date
-      ).getUTCFullYear()}/${slugify(video.title, { lower: true })}`,
+      ).getUTCFullYear()}/${slugify(video.title, {
+        lower: true,
+        strict: true,
+      })}`,
       source: `https://github.com/AnandChowdhary/everything/blog/main/data/videos.json`,
       title: video.title,
       data: {
@@ -483,7 +493,10 @@ export const generate = async () => {
       type: "travel",
       url: `https://anandchowdhary.com/travel/${new Date(
         place.date
-      ).getUTCFullYear()}/${slugify(place.title, { lower: true })}`,
+      ).getUTCFullYear()}/${slugify(place.title, {
+        lower: true,
+        strict: true,
+      })}`,
       source: `https://anandchowdhary.github.io/travel/travel/${new Date(
         place.date
       ).getUTCFullYear()}/${place.title.replace(".md", "")}`,
@@ -495,7 +508,10 @@ export const generate = async () => {
       type: "award",
       url: `https://anandchowdhary.com/press/${new Date(
         award.date
-      ).getUTCFullYear()}/${slugify(award.title, { lower: true })}`,
+      ).getUTCFullYear()}/${slugify(award.title, {
+        lower: true,
+        strict: true,
+      })}`,
       source: `https://github.com/AnandChowdhary/everything/blog/main/data/press.json`,
       title: award.title,
       data: { publisher: award.publisher },
@@ -505,7 +521,10 @@ export const generate = async () => {
       type: "podcast-interview",
       url: `https://anandchowdhary.com/press/${new Date(
         interview.date
-      ).getUTCFullYear()}/${slugify(interview.title, { lower: true })}`,
+      ).getUTCFullYear()}/${slugify(interview.title, {
+        lower: true,
+        strict: true,
+      })}`,
       source: `https://github.com/AnandChowdhary/everything/blog/main/data/press.json`,
       title: interview.title,
       data: { embed: interview.embed, publisher: interview.publisher },
@@ -515,7 +534,10 @@ export const generate = async () => {
       type: "press-feature",
       url: `https://anandchowdhary.com/press/${new Date(
         article.date
-      ).getUTCFullYear()}/${slugify(article.title, { lower: true })}`,
+      ).getUTCFullYear()}/${slugify(article.title, {
+        lower: true,
+        strict: true,
+      })}`,
       source: `https://github.com/AnandChowdhary/everything/blog/main/data/press.json`,
       title: article.title,
       // href: article.href,
