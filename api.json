@@ -8,6 +8,7 @@
     "data": {
       "location": "Yerba Buena Center for the Arts, San Francisco",
       "emoji": "🇺🇸",
+      "country": "US",
       "coordinates": [
         37.7852,
         -122.4039
@@ -191,6 +192,7 @@
     "data": {
       "location": "University of Twente, Enschede",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         52.241198,
         6.851607
@@ -332,6 +334,7 @@
     "data": {
       "location": "Indian Institute of Management, Ahmedabad, Ahmedabad, India",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         23.033066625,
         72.5346705
@@ -450,6 +453,7 @@
     "data": {
       "location": "Twitter Space, Remote",
       "emoji": "🇺🇸",
+      "country": "US",
       "coordinates": [
         40.780765,
         -73.97408899999999
@@ -577,6 +581,7 @@
     "data": {
       "location": "Y Combinator Startup School, Remote",
       "emoji": "🇺🇸",
+      "country": "US",
       "coordinates": [
         37.386316,
         -122.067028
@@ -771,6 +776,7 @@
     "data": {
       "location": "OGD ict diensten, Utrecht",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         52.514871,
         4.995898
@@ -786,6 +792,7 @@
     "data": {
       "location": "Vellore Institute of Technology, Vellore",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         12.970280500000001,
         79.15803650000001
@@ -801,6 +808,7 @@
     "data": {
       "location": "GitHub Nova 2021, Remote",
       "emoji": "🇺🇸",
+      "country": "US",
       "coordinates": [
         50.657115,
         14.065064
@@ -963,6 +971,7 @@
     "data": {
       "location": "University of Twente, Enschede",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         52.241198,
         6.851607
@@ -1026,6 +1035,7 @@
     "data": {
       "location": "The Mother's International School, Remote",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         51.5533263,
         -0.0554439
@@ -1090,6 +1100,7 @@
     "data": {
       "location": "GitHub Satellite 2021, Remote",
       "emoji": "🇺🇸",
+      "country": "US",
       "coordinates": [
         28.812146,
         -81.923945
@@ -1155,6 +1166,7 @@
     "data": {
       "location": "Sardar Vallabhbhai National Institute of Technology, Surat",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         21.16068,
         72.789558
@@ -1170,6 +1182,7 @@
     "data": {
       "location": "University of Twente, Enschede",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         52.241198,
         6.851607
@@ -1185,6 +1198,7 @@
     "data": {
       "location": "University of Twente, Enschede",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         52.241198,
         6.851607
@@ -1200,6 +1214,7 @@
     "data": {
       "location": "New Delhi",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         28.613895,
         77.209006
@@ -1263,6 +1278,7 @@
     "data": {
       "location": "Indian Institute of Technology Delhi, New Delhi",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         28.544831,
         77.191623
@@ -1471,6 +1487,7 @@
     "data": {
       "location": "Santa Clara University, San Francisco Bay Area",
       "emoji": "🇺🇸",
+      "country": "US",
       "coordinates": [
         37.779026,
         -122.419906
@@ -1486,6 +1503,7 @@
     "data": {
       "location": "Accenture, Salesforce Tower, San Francisco Bay Area",
       "emoji": "🇺🇸",
+      "country": "US",
       "coordinates": [
         37.779026,
         -122.419906
@@ -1552,6 +1570,7 @@
     "data": {
       "location": "The Mother's International School, New Delhi",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         28.613895,
         77.209006
@@ -1607,6 +1626,7 @@
     "data": {
       "location": "El Niño, Enschede",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         52.363883,
         4.884801
@@ -1636,6 +1656,7 @@
     "data": {
       "location": "Klokgebouw Cultuurhallen, Eindhoven",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         51.44845,
         5.4579645
@@ -1651,6 +1672,7 @@
     "data": {
       "location": "U Parkhotel, Enschede",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         52.220986,
         6.894054
@@ -2096,6 +2118,7 @@
     "data": {
       "location": "LABS Holborn, London",
       "emoji": "🇬🇧",
+      "country": "GB",
       "coordinates": [
         51.514738,
         -0.147356
@@ -2202,6 +2225,7 @@
     "data": {
       "location": "International Islamic University Malaysia, Kuala Lumpur",
       "emoji": "🇲🇾",
+      "country": "MY",
       "coordinates": [
         3.255572,
         101.738651
@@ -2235,6 +2259,7 @@
     "data": {
       "location": "De Museumfabriek, Enschede",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         52.2324775,
         6.8950055
@@ -2250,6 +2275,7 @@
     "data": {
       "location": "Saxion Center for Entrepreneurship, Enschede",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         51.912303,
         4.430355
@@ -2289,6 +2315,7 @@
     "data": {
       "location": "City Center, Enschede",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         52.22,
         6.9
@@ -2304,6 +2331,7 @@
     "data": {
       "location": "Indian Institute of Technology, Kanpur",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         26.51,
         80.23
@@ -2329,6 +2357,7 @@
     "data": {
       "location": "Indraprastha Institute of Information Technology, New Delhi",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         18.53115,
         73.867663
@@ -2344,6 +2373,7 @@
     "data": {
       "location": "The Mother's International School, New Delhi",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         28.613895,
         77.209006
@@ -2597,6 +2627,7 @@
     "data": {
       "location": "University of Twente, Enschede",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         52.241198,
         6.851607
@@ -2683,6 +2714,7 @@
     "data": {
       "location": "The Cee Spot, Enschede",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         52.220986,
         6.894054
@@ -2869,6 +2901,7 @@
     "data": {
       "location": "Novel-T, Enschede",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         52.220986,
         6.894054
@@ -2884,6 +2917,7 @@
     "data": {
       "location": "Hardstart, Enschede",
       "emoji": "🇳🇱",
+      "country": "NL",
       "coordinates": [
         52.220986,
         6.894054
@@ -2969,6 +3003,7 @@
     "data": {
       "location": "91springboard, Gurugram",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         28.46169,
         77.081458
@@ -3011,6 +3046,7 @@
     "data": {
       "location": "91springboard Okhla, New Delhi",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         28.5667,
         77.2833
@@ -3261,6 +3297,7 @@
     "data": {
       "location": "Delhi Technological University, New Delhi",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         28.7505,
         77.116801
@@ -3788,6 +3825,7 @@
     "data": {
       "location": "Delhi Technological University, New Delhi",
       "emoji": "🇮🇳",
+      "country": "IN",
       "coordinates": [
         28.7505,
         77.116801
