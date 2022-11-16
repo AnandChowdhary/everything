@@ -1,29 +1,5 @@
 [
   {
-    "date": "2022-11-14T17:04:09.447Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/groningen-8d2a0c2",
-    "source": "https://github.com/AnandChowdhary/location/commit/8d2a0c29b87585556693f72328146ef27ff9ce06",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "8d2a0c29b87585556693f72328146ef27ff9ce06",
-      "approximateCoordinates": [
-        53.22,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "nl",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2022-11-10T03:40:14.731Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/life/travel/2022/dublin-ea73ac6",
@@ -217,44 +193,6 @@
     }
   },
   {
-    "date": "2022-09-28T22:36:18.592Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/new-york-aa56abc",
-    "source": "https://github.com/AnandChowdhary/location/commit/aa56abcc1e38d78495b1450afc633479082a3abd",
-    "title": "New York, United States of America",
-    "data": {
-      "hash": "aa56abcc1e38d78495b1450afc633479082a3abd",
-      "approximateCoordinates": [
-        40.75,
-        -73.99
-      ],
-      "label": "New York",
-      "country": {
-        "code": "US",
-        "name": "United States of America"
-      }
-    }
-  },
-  {
-    "date": "2022-09-28T21:01:28.074Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/newark-facdc9c",
-    "source": "https://github.com/AnandChowdhary/location/commit/facdc9ccddfb8b560df709c0c543b8ca2cc22791",
-    "title": "Newark, United States of America",
-    "data": {
-      "hash": "facdc9ccddfb8b560df709c0c543b8ca2cc22791",
-      "approximateCoordinates": [
-        40.69,
-        -74.17
-      ],
-      "label": "Newark",
-      "country": {
-        "code": "US",
-        "name": "United States of America"
-      }
-    }
-  },
-  {
     "date": "2022-09-27T23:02:22.000Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/life/travel/2022/san-francisco-a6239fd",
@@ -289,54 +227,6 @@
       "country": {
         "code": "US",
         "name": "United States of America"
-      }
-    }
-  },
-  {
-    "date": "2022-09-16T18:11:20.999Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/groningen-eb9841a",
-    "source": "https://github.com/AnandChowdhary/location/commit/eb9841a8df516dd892af8a5021ccbeeb6605308e",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "eb9841a8df516dd892af8a5021ccbeeb6605308e",
-      "approximateCoordinates": [
-        53.21,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2022-09-16T15:09:40.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/schiphol-01b079b",
-    "source": "https://github.com/AnandChowdhary/location/commit/01b079b8e0d4d80fc403ed770bd084f4db5af31b",
-    "title": "Schiphol, Netherlands",
-    "data": {
-      "hash": "01b079b8e0d4d80fc403ed770bd084f4db5af31b",
-      "approximateCoordinates": [
-        52.31,
-        4.77
-      ],
-      "label": "Schiphol",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
       }
     }
   },
@@ -377,78 +267,6 @@
         52.241198,
         6.851607
       ]
-    }
-  },
-  {
-    "date": "2022-09-10T21:24:48.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/zurich-b310f30",
-    "source": "https://github.com/AnandChowdhary/location/commit/b310f30e1883fc28a74ecf30452eb2fafe46824f",
-    "title": "Zürich, Switzerland",
-    "data": {
-      "hash": "b310f30e1883fc28a74ecf30452eb2fafe46824f",
-      "approximateCoordinates": [
-        47.39,
-        8.51
-      ],
-      "label": "Zürich",
-      "timezone": {
-        "name": "Europe/Zurich",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "CH",
-        "name": "Switzerland"
-      }
-    }
-  },
-  {
-    "date": "2022-09-07T16:41:17.583Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/groningen-08aa40b",
-    "source": "https://github.com/AnandChowdhary/location/commit/08aa40be911ddb5fbaee0fb4115fbd34ed5a414a",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "08aa40be911ddb5fbaee0fb4115fbd34ed5a414a",
-      "approximateCoordinates": [
-        53.21,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2022-08-22T04:09:06.049Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/delhi-d3447de",
-    "source": "https://github.com/AnandChowdhary/location/commit/d3447dedb6e290d3512d3066a11952ecb5ca40eb",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "d3447dedb6e290d3512d3066a11952ecb5ca40eb",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -578,30 +396,6 @@
     }
   },
   {
-    "date": "2022-06-29T22:23:01.072Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/groningen-c09cc23",
-    "source": "https://github.com/AnandChowdhary/location/commit/c09cc23165f63365dc320c0fb442498e8a2d7ba7",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "c09cc23165f63365dc320c0fb442498e8a2d7ba7",
-      "approximateCoordinates": [
-        53.21,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2022-06-24T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2022/iima-inclusive-entrepreneurship",
@@ -614,30 +408,6 @@
         23.033066625,
         72.5346705
       ]
-    }
-  },
-  {
-    "date": "2022-06-19T15:11:37.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/groningen-52fa29b",
-    "source": "https://github.com/AnandChowdhary/location/commit/52fa29b4850fac31ecaf4c973f4d0d5ab5ae064c",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "52fa29b4850fac31ecaf4c973f4d0d5ab5ae064c",
-      "approximateCoordinates": [
-        53.21,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
     }
   },
   {
@@ -685,78 +455,6 @@
       "country": {
         "code": "TR",
         "name": "Turkey"
-      }
-    }
-  },
-  {
-    "date": "2022-06-06T12:10:07.050Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/schiphol-2de67c5",
-    "source": "https://github.com/AnandChowdhary/location/commit/2de67c56386c4e3345df18bad41969b7c85cbea6",
-    "title": "Schiphol, Netherlands",
-    "data": {
-      "hash": "2de67c56386c4e3345df18bad41969b7c85cbea6",
-      "approximateCoordinates": [
-        52.31,
-        4.77
-      ],
-      "label": "Schiphol",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2022-06-02T04:59:24.295Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/schiphol-c4a4b01",
-    "source": "https://github.com/AnandChowdhary/location/commit/c4a4b0154058f27e451502cd7c89646e6564e16f",
-    "title": "Schiphol, Netherlands",
-    "data": {
-      "hash": "c4a4b0154058f27e451502cd7c89646e6564e16f",
-      "approximateCoordinates": [
-        52.31,
-        4.76
-      ],
-      "label": "Schiphol",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2022-06-02T04:32:29.469Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/amsterdam-0d3ad39",
-    "source": "https://github.com/AnandChowdhary/location/commit/0d3ad39368a701fd110cbe68b53788f609ee6bfe",
-    "title": "Amsterdam, Netherlands",
-    "data": {
-      "hash": "0d3ad39368a701fd110cbe68b53788f609ee6bfe",
-      "approximateCoordinates": [
-        52.39,
-        4.84
-      ],
-      "label": "Amsterdam",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
       }
     }
   },
@@ -841,78 +539,6 @@
       "authors": [
         "Malcolm Gladwell"
       ]
-    }
-  },
-  {
-    "date": "2022-04-09T12:07:12.032Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/den-6e064ed",
-    "source": "https://github.com/AnandChowdhary/location/commit/6e064ed4b241fa8a759509403afd18a4278a2cd6",
-    "title": "Den, Netherlands",
-    "data": {
-      "hash": "6e064ed4b241fa8a759509403afd18a4278a2cd6",
-      "approximateCoordinates": [
-        52.08,
-        4.32
-      ],
-      "label": "Den",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2022-04-04T15:04:16.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/rotterdam-8904229",
-    "source": "https://github.com/AnandChowdhary/location/commit/89042290f2d19f3d11b09e0e32451f62976fee6b",
-    "title": "Rotterdam, Netherlands",
-    "data": {
-      "hash": "89042290f2d19f3d11b09e0e32451f62976fee6b",
-      "approximateCoordinates": [
-        51.9,
-        4.52
-      ],
-      "label": "Rotterdam",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2022-04-02T14:25:53.710Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/den-0d72b19",
-    "source": "https://github.com/AnandChowdhary/location/commit/0d72b19d78295cefe7df40839b8df74948a09b06",
-    "title": "Den, Netherlands",
-    "data": {
-      "hash": "0d72b19d78295cefe7df40839b8df74948a09b06",
-      "approximateCoordinates": [
-        52.08,
-        4.32
-      ],
-      "label": "Den",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
     }
   },
   {
@@ -1015,30 +641,6 @@
     }
   },
   {
-    "date": "2022-03-27T16:26:57.999Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/schiphol-af84e27",
-    "source": "https://github.com/AnandChowdhary/location/commit/af84e2777e3450f053075a7c702deeaf6587e12f",
-    "title": "Schiphol, Netherlands",
-    "data": {
-      "hash": "af84e2777e3450f053075a7c702deeaf6587e12f",
-      "approximateCoordinates": [
-        52.31,
-        4.76
-      ],
-      "label": "Schiphol",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2022-03-21T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2022/startup-school",
@@ -1051,97 +653,6 @@
         37.386316,
         -122.067028
       ]
-    }
-  },
-  {
-    "date": "2022-03-20T18:45:06.016Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/groningen-cc86337",
-    "source": "https://github.com/AnandChowdhary/location/commit/cc86337bc68a036e2621dba4f21af775c7f86005",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "cc86337bc68a036e2621dba4f21af775c7f86005",
-      "approximateCoordinates": [
-        53.21,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2022-03-09T16:41:05.090Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/groningen-997eba4",
-    "source": "https://github.com/AnandChowdhary/location/commit/997eba47b88afcb9c1fcbb7bb7f51302ac322348",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "997eba47b88afcb9c1fcbb7bb7f51302ac322348",
-      "approximateCoordinates": [
-        53.21,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2022-03-09T13:55:58.939Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/schiphol-1402bc5",
-    "source": "https://github.com/AnandChowdhary/location/commit/1402bc58bc26bbf0ee00d1b5d74e9aef323ad7d9",
-    "title": "Schiphol, Netherlands",
-    "data": {
-      "hash": "1402bc58bc26bbf0ee00d1b5d74e9aef323ad7d9",
-      "approximateCoordinates": [
-        52.31,
-        4.77
-      ],
-      "label": "Schiphol",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2022-03-05T15:42:34.258Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/berlin-dd7ebba",
-    "source": "https://github.com/AnandChowdhary/location/commit/dd7ebbae4ac8424728c4f3a5b40bd0f807b1c4b5",
-    "title": "Berlin, Germany",
-    "data": {
-      "hash": "dd7ebbae4ac8424728c4f3a5b40bd0f807b1c4b5",
-      "approximateCoordinates": [
-        52.51,
-        13.34
-      ],
-      "label": "Berlin",
-      "country": {
-        "code": "DE",
-        "name": "Germany"
-      }
     }
   },
   {
@@ -1164,30 +675,6 @@
     }
   },
   {
-    "date": "2022-02-21T14:40:46.799Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/groningen-936df70",
-    "source": "https://github.com/AnandChowdhary/location/commit/936df70e05e36767b803fa7c5a40305e8025d160",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "936df70e05e36767b803fa7c5a40305e8025d160",
-      "approximateCoordinates": [
-        53.21,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2022-02-20T00:00:00.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/life/books/2022/the-one-minute-manager",
@@ -1203,30 +690,6 @@
     }
   },
   {
-    "date": "2022-02-09T11:16:33.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/groningen-6df011d",
-    "source": "https://github.com/AnandChowdhary/location/commit/6df011d09430841f4e3f6312edced512c4ea24bf",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "6df011d09430841f4e3f6312edced512c4ea24bf",
-      "approximateCoordinates": [
-        53.21,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2022-01-13T05:54:04.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/life/books/2022/the-cold-start-problem",
@@ -1237,30 +700,6 @@
       "authors": [
         "Andrew Chen"
       ]
-    }
-  },
-  {
-    "date": "2022-01-02T13:04:30.999Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/delhi-362596d",
-    "source": "https://github.com/AnandChowdhary/location/commit/362596d547eaaeaa4f523b78c2dd6b802182dbff",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "362596d547eaaeaa4f523b78c2dd6b802182dbff",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -1374,30 +813,6 @@
     }
   },
   {
-    "date": "2021-12-28T22:07:50.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/delhi-0fae10e",
-    "source": "https://github.com/AnandChowdhary/location/commit/0fae10edb86054d32e1adfe8acd1d1c864be0c29",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "0fae10edb86054d32e1adfe8acd1d1c864be0c29",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2021-12-15",
     "type": "press-feature",
     "url": "https://anandchowdhary.com/press/2021/furniture-rental-company-pabio-expands-to-germany",
@@ -1435,30 +850,6 @@
     }
   },
   {
-    "date": "2021-10-30T22:01:37.999Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/groningen-b3efb1a",
-    "source": "https://github.com/AnandChowdhary/location/commit/b3efb1a34acd5755192d934e1f2a16f29a0d3f75",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "b3efb1a34acd5755192d934e1f2a16f29a0d3f75",
-      "approximateCoordinates": [
-        53.22,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2021-10-11T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2021/open-source-vit",
@@ -1486,30 +877,6 @@
         50.657115,
         14.065064
       ]
-    }
-  },
-  {
-    "date": "2021-10-03T21:07:38.365Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/schiphol-0d507d0",
-    "source": "https://github.com/AnandChowdhary/location/commit/0d507d047b484478b7c49aef1e717b3671491975",
-    "title": "Schiphol, Netherlands",
-    "data": {
-      "hash": "0d507d047b484478b7c49aef1e717b3671491975",
-      "approximateCoordinates": [
-        52.31,
-        4.76
-      ],
-      "label": "Schiphol",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
     }
   },
   {
@@ -1660,30 +1027,6 @@
     }
   },
   {
-    "date": "2021-09-18T23:22:57.655Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/groningen-5d9dc97",
-    "source": "https://github.com/AnandChowdhary/location/commit/5d9dc97a142ab0fdc750efc35c9ac4903edba5ed",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "5d9dc97a142ab0fdc750efc35c9ac4903edba5ed",
-      "approximateCoordinates": [
-        53.21,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2021-09-13T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2021/ut-opportunity-recognition",
@@ -1696,30 +1039,6 @@
         52.241198,
         6.851607
       ]
-    }
-  },
-  {
-    "date": "2021-09-06T04:58:56.321Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/schiphol-b6bd7ec",
-    "source": "https://github.com/AnandChowdhary/location/commit/b6bd7ec71d5ffc103615c812d8242fcb2101a27c",
-    "title": "Schiphol, Netherlands",
-    "data": {
-      "hash": "b6bd7ec71d5ffc103615c812d8242fcb2101a27c",
-      "approximateCoordinates": [
-        52.31,
-        4.77
-      ],
-      "label": "Schiphol",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
     }
   },
   {
@@ -1743,54 +1062,6 @@
       "country": {
         "code": "BE",
         "name": "Belgium"
-      }
-    }
-  },
-  {
-    "date": "2021-09-04T16:43:53.370Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/paris-33dc46c",
-    "source": "https://github.com/AnandChowdhary/location/commit/33dc46c6a4e2d107f1f3bc261043aedf59482695",
-    "title": "Paris, France",
-    "data": {
-      "hash": "33dc46c6a4e2d107f1f3bc261043aedf59482695",
-      "approximateCoordinates": [
-        48.86,
-        2.33
-      ],
-      "label": "Paris",
-      "timezone": {
-        "name": "Europe/Paris",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "FR",
-        "name": "France"
-      }
-    }
-  },
-  {
-    "date": "2021-09-02T12:41:15.494Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/paris-6bd7257",
-    "source": "https://github.com/AnandChowdhary/location/commit/6bd7257dd2c8a6c7d0ba0a9ad92e76a8c7f94745",
-    "title": "Paris, France",
-    "data": {
-      "hash": "6bd7257dd2c8a6c7d0ba0a9ad92e76a8c7f94745",
-      "approximateCoordinates": [
-        48.88,
-        2.36
-      ],
-      "label": "Paris",
-      "timezone": {
-        "name": "Europe/Paris",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "FR",
-        "name": "France"
       }
     }
   },
@@ -1819,30 +1090,6 @@
     }
   },
   {
-    "date": "2021-08-22T20:08:34.152Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/groningen-47bf056",
-    "source": "https://github.com/AnandChowdhary/location/commit/47bf0562d4ea7254669dd6e4f9d967d2a7d2c13f",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "47bf0562d4ea7254669dd6e4f9d967d2a7d2c13f",
-      "approximateCoordinates": [
-        53.21,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2021-08-13T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2021/minet-x",
@@ -1858,108 +1105,12 @@
     }
   },
   {
-    "date": "2021-07-28T11:13:32.264Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/groningen-e87697a",
-    "source": "https://github.com/AnandChowdhary/location/commit/e87697af0cf384317cb0e8794a5302a87e480c53",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "e87697af0cf384317cb0e8794a5302a87e480c53",
-      "approximateCoordinates": [
-        53.21,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2021-07-11T17:10:25.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/delhi-f57b295",
-    "source": "https://github.com/AnandChowdhary/location/commit/f57b29563091305c03d10df3d05784621cae3f00",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "f57b29563091305c03d10df3d05784621cae3f00",
-      "approximateCoordinates": [
-        28.56,
-        77.2
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2021-07-06T20:07:49.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/delhi-2bbc788",
-    "source": "https://github.com/AnandChowdhary/location/commit/2bbc7883f4aaf66c8190b65e84e9ed3d07a46579",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "2bbc7883f4aaf66c8190b65e84e9ed3d07a46579",
-      "approximateCoordinates": [
-        28.56,
-        77.1
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2021-06-31",
     "type": "life-event",
     "url": "https://anandchowdhary.com/life/milestones/2021/became-a-y-combinator-alum",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Became a Y Combinator alum",
     "description": "Pabio was part of Y Combinator's S21 batch, being one of the first Swiss companies to be funded by YC. I was the third ever from my university to be part of YC and we raised a $2.2 million seed round after the batch."
-  },
-  {
-    "date": "2021-04-16T10:41:15.198Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/groningen-52652d7",
-    "source": "https://github.com/AnandChowdhary/location/commit/52652d7de24e228c77253d4b6f4ffb7be29f7623",
-    "title": "Groningen, Netherlands",
-    "data": {
-      "hash": "52652d7de24e228c77253d4b6f4ffb7be29f7623",
-      "approximateCoordinates": [
-        53.21,
-        6.56
-      ],
-      "label": "Groningen",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
   },
   {
     "date": "2021-04-07T08:34:08.000Z",
@@ -2058,30 +1209,6 @@
     }
   },
   {
-    "date": "2021-02-07T17:01:42.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/delhi-b74e8ae",
-    "source": "https://github.com/AnandChowdhary/location/commit/b74e8ae2e5e19badf7730f04ab0e1462992df73b",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "b74e8ae2e5e19badf7730f04ab0e1462992df73b",
-      "approximateCoordinates": [
-        28.56,
-        77.2
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2021-01-28",
     "type": "award",
     "url": "https://anandchowdhary.com/press/2021/karmaveer-chakra-award",
@@ -2104,30 +1231,6 @@
         21.16068,
         72.789558
       ]
-    }
-  },
-  {
-    "date": "2020-12-24T14:04:58.149Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2020/delhi-743641c",
-    "source": "https://github.com/AnandChowdhary/location/commit/743641c19812c54fabf0d3c34f1829a8204243b0",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "743641c19812c54fabf0d3c34f1829a8204243b0",
-      "approximateCoordinates": [
-        28.56,
-        77.1
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -2158,30 +1261,6 @@
         52.241198,
         6.851607
       ]
-    }
-  },
-  {
-    "date": "2020-09-06T05:22:56.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2020/delhi-ff95f89",
-    "source": "https://github.com/AnandChowdhary/location/commit/ff95f8980c096aa8c960e45d9ee1bf05e6117a4a",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "ff95f8980c096aa8c960e45d9ee1bf05e6117a4a",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -2344,78 +1423,6 @@
     }
   },
   {
-    "date": "2020-03-15T11:36:11.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2020/den-89af21c",
-    "source": "https://github.com/AnandChowdhary/location/commit/89af21c3c5b6af44d0bb3727b949c53daf223f7f",
-    "title": "Den, Netherlands",
-    "data": {
-      "hash": "89af21c3c5b6af44d0bb3727b949c53daf223f7f",
-      "approximateCoordinates": [
-        52.11,
-        4.28
-      ],
-      "label": "Den",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2020-02-23T17:27:02.667Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2020/enschede-825ee64",
-    "source": "https://github.com/AnandChowdhary/location/commit/825ee64a589c55678b952c14e74d1cc9fe86baf7",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "825ee64a589c55678b952c14e74d1cc9fe86baf7",
-      "approximateCoordinates": [
-        52.22,
-        6.89
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2020-02-12T16:43:09.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2020/den-23ccd54",
-    "source": "https://github.com/AnandChowdhary/location/commit/23ccd54fde5d34f0eb38608d40f6261ea4acd25d",
-    "title": "Den, Netherlands",
-    "data": {
-      "hash": "23ccd54fde5d34f0eb38608d40f6261ea4acd25d",
-      "approximateCoordinates": [
-        52.09,
-        4.31
-      ],
-      "label": "Den",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2020-02-09T19:08:44Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/archiver",
@@ -2429,54 +1436,6 @@
       "watchers": 6,
       "language": "TypeScript",
       "languageColor": "#3178c6"
-    }
-  },
-  {
-    "date": "2020-02-01T18:58:52.587Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2020/enschede-ea6a5d8",
-    "source": "https://github.com/AnandChowdhary/location/commit/ea6a5d8ba001d40b7bbeed9d1127eccf19a81ea6",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "ea6a5d8ba001d40b7bbeed9d1127eccf19a81ea6",
-      "approximateCoordinates": [
-        52.22,
-        6.9
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2020-01-23T14:34:39.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2020/delhi-521d5f7",
-    "source": "https://github.com/AnandChowdhary/location/commit/521d5f7eb2ac907302c238309d96be6ce5f8dd58",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "521d5f7eb2ac907302c238309d96be6ce5f8dd58",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -2506,87 +1465,6 @@
     "data": {
       "publisher": "GitHub",
       "author": "Michelle Mannering"
-    }
-  },
-  {
-    "date": "2019-12-28T07:37:37.196Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/delhi-4c07af7",
-    "source": "https://github.com/AnandChowdhary/location/commit/4c07af77a24a797e698e3e47cb01f97746f7cfd9",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "4c07af77a24a797e698e3e47cb01f97746f7cfd9",
-      "approximateCoordinates": [
-        28.56,
-        77.1
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2019-12-25T01:34:57.672Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/new-york-804aa5c",
-    "source": "https://github.com/AnandChowdhary/location/commit/804aa5c0a98d3434988fc32440eaf67dad999820",
-    "title": "New York, United States of America",
-    "data": {
-      "hash": "804aa5c0a98d3434988fc32440eaf67dad999820",
-      "approximateCoordinates": [
-        40.85,
-        -73.92
-      ],
-      "label": "New York",
-      "country": {
-        "code": "US",
-        "name": "United States of America"
-      }
-    }
-  },
-  {
-    "date": "2019-12-19T04:37:52.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/new-york-decbad4",
-    "source": "https://github.com/AnandChowdhary/location/commit/decbad40faef9e98c452afcc94395eefd014ff21",
-    "title": "New York, United States of America",
-    "data": {
-      "hash": "decbad40faef9e98c452afcc94395eefd014ff21",
-      "approximateCoordinates": [
-        40.75,
-        -73.99
-      ],
-      "label": "New York",
-      "country": {
-        "code": "US",
-        "name": "United States of America"
-      }
-    }
-  },
-  {
-    "date": "2019-12-19T01:46:06.392Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/newark-7b481d0",
-    "source": "https://github.com/AnandChowdhary/location/commit/7b481d01bb43d84a483fbb33df57d28e0fb0a4ec",
-    "title": "Newark, United States of America",
-    "data": {
-      "hash": "7b481d01bb43d84a483fbb33df57d28e0fb0a4ec",
-      "approximateCoordinates": [
-        40.69,
-        -74.17
-      ],
-      "label": "Newark",
-      "country": {
-        "code": "US",
-        "name": "United States of America"
-      }
     }
   },
   {
@@ -2701,25 +1579,6 @@
     }
   },
   {
-    "date": "2019-09-25T02:23:23.368Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/new-york-d6712e4",
-    "source": "https://github.com/AnandChowdhary/location/commit/d6712e469b2d08d611d647e94d332d01d4275ae3",
-    "title": "New York, United States of America",
-    "data": {
-      "hash": "d6712e469b2d08d611d647e94d332d01d4275ae3",
-      "approximateCoordinates": [
-        40.75,
-        -73.77
-      ],
-      "label": "New York",
-      "country": {
-        "code": "US",
-        "name": "United States of America"
-      }
-    }
-  },
-  {
     "date": "2019-09-24T12:25:22.795Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/life/travel/2019/new-york-6f1f80a",
@@ -2754,30 +1613,6 @@
     "data": {
       "words": 226,
       "excerpt": "When you're advertising your smartphone app, perhaps the first thing you show off are platform badges. They're the easiest and most familiar way to tell users where they can find your app. All major platforms, Apple's App Store, Google Play, and Microsoft Store have official badges which are somewhat consistent with each other."
-    }
-  },
-  {
-    "date": "2019-08-29T13:43:29.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/delhi-16d08b6",
-    "source": "https://github.com/AnandChowdhary/location/commit/16d08b620082ef9d545d1bce7513dff921ed85dc",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "16d08b620082ef9d545d1bce7513dff921ed85dc",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -2820,150 +1655,6 @@
     }
   },
   {
-    "date": "2019-08-12T04:16:29.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/uttar-pradesh-5ce2ffd",
-    "source": "https://github.com/AnandChowdhary/location/commit/5ce2ffdd1152124ef538f25ed4d70bdd32116cef",
-    "title": "Uttar Pradesh, India",
-    "data": {
-      "hash": "5ce2ffdd1152124ef538f25ed4d70bdd32116cef",
-      "approximateCoordinates": [
-        28.57,
-        77.32
-      ],
-      "label": "Uttar Pradesh",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2019-08-11T10:13:33.695Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/delhi-b7d086c",
-    "source": "https://github.com/AnandChowdhary/location/commit/b7d086cad00350570f61854907f0170fcb3bce20",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "b7d086cad00350570f61854907f0170fcb3bce20",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2019-08-06T13:38:24.285Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/delhi-e8469c2",
-    "source": "https://github.com/AnandChowdhary/location/commit/e8469c24d2ab8a42841cb026b448a75361cd98fc",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "e8469c24d2ab8a42841cb026b448a75361cd98fc",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2019-08-06T04:39:28.273Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/uttar-pradesh-c8f6e5b",
-    "source": "https://github.com/AnandChowdhary/location/commit/c8f6e5b13a6e384f3431cdfd64ae214b3255400e",
-    "title": "Uttar Pradesh, India",
-    "data": {
-      "hash": "c8f6e5b13a6e384f3431cdfd64ae214b3255400e",
-      "approximateCoordinates": [
-        28.57,
-        77.32
-      ],
-      "label": "Uttar Pradesh",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2019-08-05T04:45:05.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/uttar-pradesh-e77f053",
-    "source": "https://github.com/AnandChowdhary/location/commit/e77f0530e55c2b05e92827c92713aa1c91d8cb9d",
-    "title": "Uttar Pradesh, India",
-    "data": {
-      "hash": "e77f0530e55c2b05e92827c92713aa1c91d8cb9d",
-      "approximateCoordinates": [
-        28.57,
-        77.32
-      ],
-      "label": "Uttar Pradesh",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2019-08-03T13:50:41.750Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/delhi-055bed5",
-    "source": "https://github.com/AnandChowdhary/location/commit/055bed5262b71d9a502184536d42fd728e60d4b1",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "055bed5262b71d9a502184536d42fd728e60d4b1",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2019-07-24T06:21:53Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/feeedback",
@@ -2980,30 +1671,6 @@
     }
   },
   {
-    "date": "2019-07-19T15:14:15.872Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/delhi-2eb353c",
-    "source": "https://github.com/AnandChowdhary/location/commit/2eb353cf1100c7934770c7f1703103dc9860d1b7",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "2eb353cf1100c7934770c7f1703103dc9860d1b7",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2019-07-08T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2019/el-nino-design",
@@ -3016,30 +1683,6 @@
         52.363883,
         4.884801
       ]
-    }
-  },
-  {
-    "date": "2019-06-29T21:37:55.378Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/enschede-8c82fea",
-    "source": "https://github.com/AnandChowdhary/location/commit/8c82fea46fceaa17064df241a8d9425bbd79c8ff",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "8c82fea46fceaa17064df241a8d9425bbd79c8ff",
-      "approximateCoordinates": [
-        52.24,
-        6.85
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
     }
   },
   {
@@ -3098,30 +1741,6 @@
     }
   },
   {
-    "date": "2019-06-06T11:15:51.846Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/enschede-ecdc064",
-    "source": "https://github.com/AnandChowdhary/location/commit/ecdc064524dfa50b905152999e605669532a28e5",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "ecdc064524dfa50b905152999e605669532a28e5",
-      "approximateCoordinates": [
-        52.22,
-        6.89
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2019-06-04T13:49:46.916Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/life/travel/2019/den-7c14d0f",
@@ -3157,30 +1776,6 @@
         "Peter Thiel",
         "Blake Masters"
       ]
-    }
-  },
-  {
-    "date": "2019-05-19T20:54:38.203Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/enschede-920677b",
-    "source": "https://github.com/AnandChowdhary/location/commit/920677b44b448353cf3c28dafddf4f74c7cc9a79",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "920677b44b448353cf3c28dafddf4f74c7cc9a79",
-      "approximateCoordinates": [
-        52.22,
-        6.9
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
     }
   },
   {
@@ -3271,30 +1866,6 @@
     }
   },
   {
-    "date": "2019-05-09T22:12:58.903Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/enschede-63d88d2",
-    "source": "https://github.com/AnandChowdhary/location/commit/63d88d27e64ef7e68a0f853f48fa54d9b3b44c10",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "63d88d27e64ef7e68a0f853f48fa54d9b3b44c10",
-      "approximateCoordinates": [
-        52.2,
-        6.88
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2019-05-08",
     "type": "award",
     "url": "https://anandchowdhary.com/press/2019/the-next-web-t500",
@@ -3313,121 +1884,6 @@
     "data": {
       "words": 1063,
       "excerpt": "11 months ago, we launched Agastya 3, with the promise of a privacy-first accessibility widget. Today, we bring the next major version of Agastya with a focus on user customization, along with an entirely new app. Like the last update, Agastya 4 is currently available to our Pro 1M customers, and will be available to everyone this summer."
-    }
-  },
-  {
-    "date": "2019-04-28T12:43:59.880Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/enschede-c669717",
-    "source": "https://github.com/AnandChowdhary/location/commit/c6697178c1826c6ce2186cbb36792f59baa48499",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "c6697178c1826c6ce2186cbb36792f59baa48499",
-      "approximateCoordinates": [
-        52.22,
-        6.89
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2019-04-28T09:38:40.997Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/schiphol-a600db0",
-    "source": "https://github.com/AnandChowdhary/location/commit/a600db022b444cf1ecc29a964f78e4471f77b1dd",
-    "title": "Schiphol, Netherlands",
-    "data": {
-      "hash": "a600db022b444cf1ecc29a964f78e4471f77b1dd",
-      "approximateCoordinates": [
-        52.31,
-        4.77
-      ],
-      "label": "Schiphol",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2019-04-25T13:14:52.227Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/delhi-d733a9e",
-    "source": "https://github.com/AnandChowdhary/location/commit/d733a9ea0bd08d7e445876388a0b6f765b92ed27",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "d733a9ea0bd08d7e445876388a0b6f765b92ed27",
-      "approximateCoordinates": [
-        28.56,
-        77.2
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2019-04-20T17:46:19.016Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/delhi-c0c7958",
-    "source": "https://github.com/AnandChowdhary/location/commit/c0c7958253d7fbc93bb421cdb1746ee5de1cf985",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "c0c7958253d7fbc93bb421cdb1746ee5de1cf985",
-      "approximateCoordinates": [
-        28.56,
-        77.1
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2019-04-19T15:50:50.493Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/rossiya-40ddc3d",
-    "source": "https://github.com/AnandChowdhary/location/commit/40ddc3d60ba09fb87027dd1dc3804ba781df7aec",
-    "title": "Россия, Russia",
-    "data": {
-      "hash": "40ddc3d60ba09fb87027dd1dc3804ba781df7aec",
-      "approximateCoordinates": [
-        55.97,
-        37.41
-      ],
-      "label": "Россия",
-      "country": {
-        "code": "RU",
-        "name": "Russia"
-      }
     }
   },
   {
@@ -3555,54 +2011,6 @@
     }
   },
   {
-    "date": "2019-02-10T10:26:02.641Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/enschede-5d1741a",
-    "source": "https://github.com/AnandChowdhary/location/commit/5d1741aa8151ba93e320c591886f43244dc002c3",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "5d1741aa8151ba93e320c591886f43244dc002c3",
-      "approximateCoordinates": [
-        52.2,
-        6.88
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2019-01-18T21:59:03.850Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/enschede-7add1e2",
-    "source": "https://github.com/AnandChowdhary/location/commit/7add1e2374cbe5d2177b10016273a61661a8f126",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "7add1e2374cbe5d2177b10016273a61661a8f126",
-      "approximateCoordinates": [
-        52.23,
-        6.89
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2019-01-16T15:51:01Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/calendar-link",
@@ -3616,30 +2024,6 @@
       "watchers": 238,
       "language": "TypeScript",
       "languageColor": "#3178c6"
-    }
-  },
-  {
-    "date": "2019-01-11T14:07:52.646Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/enschede-7a85567",
-    "source": "https://github.com/AnandChowdhary/location/commit/7a855674c33123bd47dd00518c02cde2dec410b4",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "7a855674c33123bd47dd00518c02cde2dec410b4",
-      "approximateCoordinates": [
-        52.23,
-        6.89
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
     }
   },
   {
@@ -3697,30 +2081,6 @@
     }
   },
   {
-    "date": "2018-12-31T07:37:02.094Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/delhi-2f14f46",
-    "source": "https://github.com/AnandChowdhary/location/commit/2f14f467ee3bb60dac09f7fcbf7efd4c61630558",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "2f14f467ee3bb60dac09f7fcbf7efd4c61630558",
-      "approximateCoordinates": [
-        28.56,
-        77.2
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2018-12-30T16:44:23Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/hello-bar",
@@ -3734,30 +2094,6 @@
       "watchers": 71,
       "language": "JavaScript",
       "languageColor": "#f1e05a"
-    }
-  },
-  {
-    "date": "2018-12-24T20:01:38.003Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/delhi-d734656",
-    "source": "https://github.com/AnandChowdhary/location/commit/d734656e3a6f7088a56da58e62cd9e8318158355",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "d734656e3a6f7088a56da58e62cd9e8318158355",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -3776,30 +2112,6 @@
       "country": {
         "code": "RU",
         "name": "Russia"
-      }
-    }
-  },
-  {
-    "date": "2018-12-03T16:50:50.692Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-5111801",
-    "source": "https://github.com/AnandChowdhary/location/commit/5111801b671b59ca909b9ba432989fe16d600936",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "5111801b671b59ca909b9ba432989fe16d600936",
-      "approximateCoordinates": [
-        52.21,
-        6.88
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
       }
     }
   },
@@ -3839,30 +2151,6 @@
     "url": "https://anandchowdhary.com/projects/2018/aristotle",
     "source": "https://anandchowdhary.github.io/projects/projects/2018/aristotle",
     "title": "Aristotle"
-  },
-  {
-    "date": "2018-11-20T19:06:05.789Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-e958e42",
-    "source": "https://github.com/AnandChowdhary/location/commit/e958e42b54c6bea93530e4d332651ee24eee52cd",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "e958e42b54c6bea93530e4d332651ee24eee52cd",
-      "approximateCoordinates": [
-        52.2,
-        6.88
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
   },
   {
     "date": "2018-11-17T00:00:00.000Z",
@@ -3907,198 +2195,6 @@
       "country": {
         "code": "GB",
         "name": "United Kingdom"
-      }
-    }
-  },
-  {
-    "date": "2018-11-07T22:26:09.384Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-82c1ab4",
-    "source": "https://github.com/AnandChowdhary/location/commit/82c1ab4135087f444560bea9a8f5fd0efa6cc132",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "82c1ab4135087f444560bea9a8f5fd0efa6cc132",
-      "approximateCoordinates": [
-        52.2,
-        6.88
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2018-11-05T11:06:26.546Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-b8c19ce",
-    "source": "https://github.com/AnandChowdhary/location/commit/b8c19ce1d5e8cddd4465bd59217c11dcdc7d64ae",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "b8c19ce1d5e8cddd4465bd59217c11dcdc7d64ae",
-      "approximateCoordinates": [
-        52.24,
-        6.85
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2018-10-30T09:43:33.998Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-d4fcf95",
-    "source": "https://github.com/AnandChowdhary/location/commit/d4fcf950f57607745f902d28a1df37e8b4e07b6f",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "d4fcf950f57607745f902d28a1df37e8b4e07b6f",
-      "approximateCoordinates": [
-        52.24,
-        6.86
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2018-10-29T10:12:07.668Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/delhi-bc170d5",
-    "source": "https://github.com/AnandChowdhary/location/commit/bc170d54f9be6e21fa36d0c10f2687110b737e9f",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "bc170d54f9be6e21fa36d0c10f2687110b737e9f",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2018-10-27T09:20:45.797Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/eindhoven-f792200",
-    "source": "https://github.com/AnandChowdhary/location/commit/f792200cef9183305338cadd5f3a0d46b249e435",
-    "title": "Eindhoven, Netherlands",
-    "data": {
-      "hash": "f792200cef9183305338cadd5f3a0d46b249e435",
-      "approximateCoordinates": [
-        51.45,
-        5.46
-      ],
-      "label": "Eindhoven",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2018-10-26T17:54:49.304Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/delhi-c1352b5",
-    "source": "https://github.com/AnandChowdhary/location/commit/c1352b51af38dc6ab833d79167a835ca95407f10",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "c1352b51af38dc6ab833d79167a835ca95407f10",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2018-10-26T13:00:47.355Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/eindhoven-b373e40",
-    "source": "https://github.com/AnandChowdhary/location/commit/b373e402c0a72906f6c86a12a788d124666ac337",
-    "title": "Eindhoven, Netherlands",
-    "data": {
-      "hash": "b373e402c0a72906f6c86a12a788d124666ac337",
-      "approximateCoordinates": [
-        51.45,
-        5.46
-      ],
-      "label": "Eindhoven",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2018-10-26T06:25:55.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/delhi-ad19dee",
-    "source": "https://github.com/AnandChowdhary/location/commit/ad19deef9f0ac67e8b49c48163cb7cb2156a4865",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "ad19deef9f0ac67e8b49c48163cb7cb2156a4865",
-      "approximateCoordinates": [
-        28.56,
-        77.2
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
       }
     }
   },
@@ -4218,30 +2314,6 @@
     }
   },
   {
-    "date": "2018-09-19T21:45:34.758Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-27e7177",
-    "source": "https://github.com/AnandChowdhary/location/commit/27e71774932abcf7b776cb14245ce53301a185b8",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "27e71774932abcf7b776cb14245ce53301a185b8",
-      "approximateCoordinates": [
-        52.2,
-        6.88
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2018-09-11T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2018/nesst-season-3",
@@ -4293,102 +2365,6 @@
         52.22,
         6.9
       ]
-    }
-  },
-  {
-    "date": "2018-09-03T08:13:25.196Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-0b8899a",
-    "source": "https://github.com/AnandChowdhary/location/commit/0b8899a5db199ef6e8abbfb17cc80b3ec88186e8",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "0b8899a5db199ef6e8abbfb17cc80b3ec88186e8",
-      "approximateCoordinates": [
-        52.22,
-        6.89
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2018-09-01T14:58:30.875Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/noord-holland-8f02700",
-    "source": "https://github.com/AnandChowdhary/location/commit/8f02700d625148351eba22cba4f2e8d3ec10642a",
-    "title": "Noord-Holland, Netherlands",
-    "data": {
-      "hash": "8f02700d625148351eba22cba4f2e8d3ec10642a",
-      "approximateCoordinates": [
-        52.31,
-        4.77
-      ],
-      "label": "Noord-Holland",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2018-08-28T18:06:42.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/delhi-5db4d3f",
-    "source": "https://github.com/AnandChowdhary/location/commit/5db4d3f5cff13f297cba6dfbd940ded0465ca789",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "5db4d3f5cff13f297cba6dfbd940ded0465ca789",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2018-08-25T18:24:02.507Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/delhi-5f79240",
-    "source": "https://github.com/AnandChowdhary/location/commit/5f792403417b5530c40ad8711b3eb986a56755b9",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "5f792403417b5530c40ad8711b3eb986a56755b9",
-      "approximateCoordinates": [
-        28.56,
-        77.1
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -4458,30 +2434,6 @@
     }
   },
   {
-    "date": "2018-07-23T07:44:53.487Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/delhi-0400edc",
-    "source": "https://github.com/AnandChowdhary/location/commit/0400edcd670d304d6c727b4a8fb59f8975a8cf29",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "0400edcd670d304d6c727b4a8fb59f8975a8cf29",
-      "approximateCoordinates": [
-        28.55,
-        77.25
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2018-07-15T00:00:00.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2018/agastya-screen-reader",
@@ -4490,30 +2442,6 @@
     "data": {
       "words": 504,
       "excerpt": "Read aloud was one of Agastya’s signature features when it first launched, and our beta partners like Nayee Disha — a collaboration between the UNDP and large corporates to skill and employ women in rural India — extensively made use of it. It was the easiest way to have a blind- and illiterate-friendly mode which automatically reads aloud the content of a webpage."
-    }
-  },
-  {
-    "date": "2018-07-07T21:14:57.137Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/delhi-71e606d",
-    "source": "https://github.com/AnandChowdhary/location/commit/71e606df4f52bce0f3a1406da23ed4fbe7e2be95",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "71e606df4f52bce0f3a1406da23ed4fbe7e2be95",
-      "approximateCoordinates": [
-        28.56,
-        77.1
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -4561,54 +2489,6 @@
       "country": {
         "code": "IT",
         "name": "Italy"
-      }
-    }
-  },
-  {
-    "date": "2018-07-06T22:27:07.059Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/noord-holland-f150b82",
-    "source": "https://github.com/AnandChowdhary/location/commit/f150b82b2e7f6aed6c32f5ecc59fc4aa384718ef",
-    "title": "Noord-Holland, Netherlands",
-    "data": {
-      "hash": "f150b82b2e7f6aed6c32f5ecc59fc4aa384718ef",
-      "approximateCoordinates": [
-        52.31,
-        4.77
-      ],
-      "label": "Noord-Holland",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2018-07-06T12:56:24.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-947502c",
-    "source": "https://github.com/AnandChowdhary/location/commit/947502cc54042c53f6345ce3606b08c54bbbcfae",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "947502cc54042c53f6345ce3606b08c54bbbcfae",
-      "approximateCoordinates": [
-        52.22,
-        6.9
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
       }
     }
   },
@@ -4661,30 +2541,6 @@
     }
   },
   {
-    "date": "2018-07-03T23:25:34.082Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/noord-holland-798ba65",
-    "source": "https://github.com/AnandChowdhary/location/commit/798ba653f9ce5c165b34e8f29df1852d3717f8e4",
-    "title": "Noord-Holland, Netherlands",
-    "data": {
-      "hash": "798ba653f9ce5c165b34e8f29df1852d3717f8e4",
-      "approximateCoordinates": [
-        52.31,
-        4.77
-      ],
-      "label": "Noord-Holland",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2018-06-30T15:50:50.000Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/life/travel/2018/koln-e7c0112",
@@ -4700,30 +2556,6 @@
       "country": {
         "code": "DE",
         "name": "Germany"
-      }
-    }
-  },
-  {
-    "date": "2018-06-24T19:33:12.315Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-f0e23d4",
-    "source": "https://github.com/AnandChowdhary/location/commit/f0e23d43c833de677bac24cad9d3b88220b2158d",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "f0e23d43c833de677bac24cad9d3b88220b2158d",
-      "approximateCoordinates": [
-        52.25,
-        6.85
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
       }
     }
   },
@@ -4776,54 +2608,6 @@
     }
   },
   {
-    "date": "2018-06-17T21:08:11.808Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-38866ec",
-    "source": "https://github.com/AnandChowdhary/location/commit/38866ec0fe544b914f270621e44f97b5ce765d0f",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "38866ec0fe544b914f270621e44f97b5ce765d0f",
-      "approximateCoordinates": [
-        52.25,
-        6.85
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2018-06-16T04:34:08.186Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-ad5d66d",
-    "source": "https://github.com/AnandChowdhary/location/commit/ad5d66d159ba2e093716e887453c6b3051335448",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "ad5d66d159ba2e093716e887453c6b3051335448",
-      "approximateCoordinates": [
-        52.22,
-        6.89
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2018-06-15T01:04:36.994Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/life/travel/2018/blanc-4fb0da1",
@@ -4859,30 +2643,6 @@
     }
   },
   {
-    "date": "2018-06-03T20:07:55.527Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-dd5143a",
-    "source": "https://github.com/AnandChowdhary/location/commit/dd5143a81840ab4e20775ebdc99b4aa79a7288b7",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "dd5143a81840ab4e20775ebdc99b4aa79a7288b7",
-      "approximateCoordinates": [
-        52.22,
-        6.89
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2018-05-28T00:00:00.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2018/state-of-the-podcasts-2018",
@@ -4913,54 +2673,6 @@
         52.241198,
         6.851607
       ]
-    }
-  },
-  {
-    "date": "2018-05-02T09:17:00.109Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-7654bba",
-    "source": "https://github.com/AnandChowdhary/location/commit/7654bbaf7f6cebaf70c7e074cd3712382c571a8e",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "7654bbaf7f6cebaf70c7e074cd3712382c571a8e",
-      "approximateCoordinates": [
-        52.24,
-        6.85
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2018-04-30T01:24:03.281Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-9d1312f",
-    "source": "https://github.com/AnandChowdhary/location/commit/9d1312f2420d87dc03ad2f7e837504395b0eaed9",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "9d1312f2420d87dc03ad2f7e837504395b0eaed9",
-      "approximateCoordinates": [
-        52.22,
-        6.89
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
     }
   },
   {
@@ -5091,30 +2803,6 @@
     }
   },
   {
-    "date": "2018-01-15T08:23:36.479Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/enschede-848e911",
-    "source": "https://github.com/AnandChowdhary/location/commit/848e9110a5c88181426db31d91ed9631c39cde9d",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "848e9110a5c88181426db31d91ed9631c39cde9d",
-      "approximateCoordinates": [
-        52.23,
-        6.89
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2018-01-13T16:09:33.168Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/life/travel/2018/noord-holland-b5c1c4d",
@@ -5135,30 +2823,6 @@
       "country": {
         "code": "NL",
         "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2018-01-01T13:09:27.030Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/delhi-7f39747",
-    "source": "https://github.com/AnandChowdhary/location/commit/7f39747bee60f46b998f92e24ad882b0c6adf58e",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "7f39747bee60f46b998f92e24ad882b0c6adf58e",
-      "approximateCoordinates": [
-        28.56,
-        77.2
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
       }
     }
   },
@@ -5192,30 +2856,6 @@
     "data": {
       "publisher": "Tubantia",
       "author": "Gerben Kuitert"
-    }
-  },
-  {
-    "date": "2017-12-23T22:18:54.344Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/delhi-b802fb3",
-    "source": "https://github.com/AnandChowdhary/location/commit/b802fb39a4c0bb0f59559fc2ebfc19a83abd0edb",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "b802fb39a4c0bb0f59559fc2ebfc19a83abd0edb",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -5263,78 +2903,6 @@
       "country": {
         "code": "IT",
         "name": "Italy"
-      }
-    }
-  },
-  {
-    "date": "2017-12-13T17:58:23.442Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/enschede-e0972af",
-    "source": "https://github.com/AnandChowdhary/location/commit/e0972af5552f7425e4f74e3fd37b8ae0b1553fa6",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "e0972af5552f7425e4f74e3fd37b8ae0b1553fa6",
-      "approximateCoordinates": [
-        52.25,
-        6.85
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2017-12-09T19:50:58.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/enschede-44ce42b",
-    "source": "https://github.com/AnandChowdhary/location/commit/44ce42b6427de6bca55c08219f945e62d6b0ea2e",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "44ce42b6427de6bca55c08219f945e62d6b0ea2e",
-      "approximateCoordinates": [
-        52.25,
-        6.85
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
-    "date": "2017-11-29T18:18:42.807Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/enschede-d13439e",
-    "source": "https://github.com/AnandChowdhary/location/commit/d13439e9ea8edb72a05937b0c19f7b36fc83a63a",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "d13439e9ea8edb72a05937b0c19f7b36fc83a63a",
-      "approximateCoordinates": [
-        52.25,
-        6.85
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
       }
     }
   },
@@ -5392,30 +2960,6 @@
         52.220986,
         6.894054
       ]
-    }
-  },
-  {
-    "date": "2017-10-21T21:03:04.733Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/enschede-4072f68",
-    "source": "https://github.com/AnandChowdhary/location/commit/4072f68ff18b4ac84c963535b8a930b83310c35d",
-    "title": "Enschede, Netherlands",
-    "data": {
-      "hash": "4072f68ff18b4ac84c963535b8a930b83310c35d",
-      "approximateCoordinates": [
-        52.22,
-        6.89
-      ],
-      "label": "Enschede",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
-      }
     }
   },
   {
@@ -5482,59 +3026,11 @@
     }
   },
   {
-    "date": "2017-08-06T14:49:19.074Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/delhi-7aa05fb",
-    "source": "https://github.com/AnandChowdhary/location/commit/7aa05fbd95bb2a297a62fb8aa74d0c4052f59e16",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "7aa05fbd95bb2a297a62fb8aa74d0c4052f59e16",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2017-07-18T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2017/bharathacks",
     "source": "https://anandchowdhary.github.io/projects/projects/2017/bharathacks",
     "title": "BharatHacks"
-  },
-  {
-    "date": "2017-07-15T20:06:01.447Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/delhi-e569704",
-    "source": "https://github.com/AnandChowdhary/location/commit/e569704f5930c43253199c4d1691f54e8c107328",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "e569704f5930c43253199c4d1691f54e8c107328",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
   },
   {
     "date": "2017-06-17T00:00:00.000Z",
@@ -5579,54 +3075,6 @@
     }
   },
   {
-    "date": "2017-05-18T09:34:03.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/delhi-95bbe11",
-    "source": "https://github.com/AnandChowdhary/location/commit/95bbe11ddd7755423375166014e2cc2520b44b76",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "95bbe11ddd7755423375166014e2cc2520b44b76",
-      "approximateCoordinates": [
-        28.51,
-        77.19
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2017-05-14T13:27:38.400Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/delhi-fee397d",
-    "source": "https://github.com/AnandChowdhary/location/commit/fee397d6a54014188312aec028bccbb96097cfc5",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "fee397d6a54014188312aec028bccbb96097cfc5",
-      "approximateCoordinates": [
-        28.52,
-        77.3
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2017-05-07T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2017/tech-charcha",
@@ -5639,30 +3087,6 @@
         28.5667,
         77.2833
       ]
-    }
-  },
-  {
-    "date": "2017-04-25T13:08:57.953Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/delhi-884dbd7",
-    "source": "https://github.com/AnandChowdhary/location/commit/884dbd74f0eb399432f0a9899336702ce7fb1012",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "884dbd74f0eb399432f0a9899336702ce7fb1012",
-      "approximateCoordinates": [
-        28.54,
-        77.21
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -5696,30 +3120,6 @@
     "data": {
       "words": 455,
       "excerpt": "A few days ago, I tried to reset my password on PR. com, the press releases website. I entered my email, and they sent me the username and password in plain text. That's right, in plain text."
-    }
-  },
-  {
-    "date": "2017-02-07T00:09:36.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/delhi-de2092b",
-    "source": "https://github.com/AnandChowdhary/location/commit/de2092bdc1c0fd3de1c23c4f2e3ec0cae3525ff1",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "de2092bdc1c0fd3de1c23c4f2e3ec0cae3525ff1",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -5828,54 +3228,6 @@
     }
   },
   {
-    "date": "2016-12-23T18:51:33.798Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-74ba6cd",
-    "source": "https://github.com/AnandChowdhary/location/commit/74ba6cd02fd643b9322c430550bb73b33537e545",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "74ba6cd02fd643b9322c430550bb73b33537e545",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2016-11-19T19:45:59.694Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-20a87ff",
-    "source": "https://github.com/AnandChowdhary/location/commit/20a87ff022d562544229eda80b50a54f024cf2a2",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "20a87ff022d562544229eda80b50a54f024cf2a2",
-      "approximateCoordinates": [
-        28.56,
-        77.1
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2016-11-15T00:00:00.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/life/books/2016/\"surely-you're-joking-mr.-feynman!\":-adventures-of-a-curious-character",
@@ -5886,30 +3238,6 @@
       "authors": [
         "Richard P. Feynman"
       ]
-    }
-  },
-  {
-    "date": "2016-10-19T13:42:33.975Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-d4f13e8",
-    "source": "https://github.com/AnandChowdhary/location/commit/d4f13e8f0b25bd91779473bba2c3ea28c4c60931",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "d4f13e8f0b25bd91779473bba2c3ea28c4c60931",
-      "approximateCoordinates": [
-        28.56,
-        77.2
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -5959,30 +3287,6 @@
     }
   },
   {
-    "date": "2016-10-02T16:41:16.733Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-e46f28c",
-    "source": "https://github.com/AnandChowdhary/location/commit/e46f28cebb0ea0f62ed16b1599ec502e483d6a0d",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "e46f28cebb0ea0f62ed16b1599ec502e483d6a0d",
-      "approximateCoordinates": [
-        28.56,
-        77.1
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2016-10-01T00:00:00.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/life/books/2016/think-and-grow-rich",
@@ -5994,30 +3298,6 @@
         "Arthur R. Pell",
         "Napoleon Hill"
       ]
-    }
-  },
-  {
-    "date": "2016-09-25T16:10:32.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-0493779",
-    "source": "https://github.com/AnandChowdhary/location/commit/049377913cc30e2549aeb4b4e55d983e63c0f3d5",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "049377913cc30e2549aeb4b4e55d983e63c0f3d5",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
     }
   },
   {
@@ -6079,54 +3359,6 @@
     "description": "Oswald Labs is an accessibility technology company that builds products for people with disabilities, like blind-friendly smartphone and dyslexia-friendly reading apps."
   },
   {
-    "date": "2016-08-01T13:55:47.887Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-25e4be8",
-    "source": "https://github.com/AnandChowdhary/location/commit/25e4be812addcacccc0c8ff19eabb1672275991a",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "25e4be812addcacccc0c8ff19eabb1672275991a",
-      "approximateCoordinates": [
-        28.56,
-        77.2
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2016-07-22T19:07:35.190Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-cf65d6e",
-    "source": "https://github.com/AnandChowdhary/location/commit/cf65d6e3a577b911882d0912956ee2fe38a2c220",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "cf65d6e3a577b911882d0912956ee2fe38a2c220",
-      "approximateCoordinates": [
-        28.56,
-        77.1
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2016-07-14T00:00:00.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/life/books/2016/sam-walton",
@@ -6140,54 +3372,6 @@
     }
   },
   {
-    "date": "2016-07-12T18:35:07.523Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-0ab7fb1",
-    "source": "https://github.com/AnandChowdhary/location/commit/0ab7fb173b2455aea51537d8a54428c320165eaa",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "0ab7fb173b2455aea51537d8a54428c320165eaa",
-      "approximateCoordinates": [
-        28.54,
-        77.21
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2016-07-08T19:51:22.257Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-9c5cd9a",
-    "source": "https://github.com/AnandChowdhary/location/commit/9c5cd9a1cbe97b5a04138bc80d26ece5d56f6a77",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "9c5cd9a1cbe97b5a04138bc80d26ece5d56f6a77",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2016-06-11T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2016/valmiki",
@@ -6195,107 +3379,11 @@
     "title": "Valmiki"
   },
   {
-    "date": "2016-05-27T10:53:07.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-ee82540",
-    "source": "https://github.com/AnandChowdhary/location/commit/ee8254012c237ad8eebe76813fd8eed496ba1e1f",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "ee8254012c237ad8eebe76813fd8eed496ba1e1f",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2016-05-17T19:10:57.689Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-741cb70",
-    "source": "https://github.com/AnandChowdhary/location/commit/741cb70db95dbb90b6f01e3ee0e347ac3d81ca39",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "741cb70db95dbb90b6f01e3ee0e347ac3d81ca39",
-      "approximateCoordinates": [
-        28.56,
-        77.1
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2016-04-26T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2016/delhi-government",
     "source": "https://anandchowdhary.github.io/projects/projects/2016/delhi-government",
     "title": "Delhi Government"
-  },
-  {
-    "date": "2016-04-18T16:04:13.136Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-8a8dc8b",
-    "source": "https://github.com/AnandChowdhary/location/commit/8a8dc8ba7a6f72f51edc4b5ee39d4511cf60679f",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "8a8dc8ba7a6f72f51edc4b5ee39d4511cf60679f",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2016-04-12T18:48:00.778Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-2d29757",
-    "source": "https://github.com/AnandChowdhary/location/commit/2d29757d1288a051a090d1cd00d3bda8d1df2c03",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "2d29757d1288a051a090d1cd00d3bda8d1df2c03",
-      "approximateCoordinates": [
-        28.56,
-        77.1
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
   },
   {
     "date": "2016-04-11T01:28:11.749Z",
@@ -6310,30 +3398,6 @@
         72.53
       ],
       "label": "Gujarat",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
-    "date": "2016-04-09T17:51:42.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/delhi-5b2e91a",
-    "source": "https://github.com/AnandChowdhary/location/commit/5b2e91ab4e137247738d4c2474d687b79931be01",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "5b2e91ab4e137247738d4c2474d687b79931be01",
-      "approximateCoordinates": [
-        28.56,
-        77.1
-      ],
-      "label": "Delhi",
       "timezone": {
         "name": "Asia/Kolkata",
         "utcOffset": 330,
@@ -6474,30 +3538,6 @@
     "url": "https://anandchowdhary.com/projects/2015/crink-jewel",
     "source": "https://anandchowdhary.github.io/projects/projects/2015/crink-jewel",
     "title": "Crink Jewel"
-  },
-  {
-    "date": "2015-10-13T10:15:32.357Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2015/delhi-7229fe4",
-    "source": "https://github.com/AnandChowdhary/location/commit/7229fe49c21010e30cab2e036ad68f5348ea022a",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "7229fe49c21010e30cab2e036ad68f5348ea022a",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
   },
   {
     "date": "2015-09-12T00:00:00.000Z",
@@ -6667,30 +3707,6 @@
     }
   },
   {
-    "date": "2015-01-07T07:36:08.602Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2015/delhi-a2b65bf",
-    "source": "https://github.com/AnandChowdhary/location/commit/a2b65bf1e7e8f12559c39a80932b40186462327d",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "a2b65bf1e7e8f12559c39a80932b40186462327d",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
-  },
-  {
     "date": "2015-01-01",
     "type": "press-feature",
     "url": "https://anandchowdhary.com/press/2015/dream-big-start-now",
@@ -6778,30 +3794,6 @@
     "url": "https://anandchowdhary.com/projects/2014/project-blue",
     "source": "https://anandchowdhary.github.io/projects/projects/2014/project-blue",
     "title": "Project Blue"
-  },
-  {
-    "date": "2014-06-28T14:01:54.066Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2014/delhi-df8279a",
-    "source": "https://github.com/AnandChowdhary/location/commit/df8279acfe2a223188983dfd289045d11f522d44",
-    "title": "Delhi, India",
-    "data": {
-      "hash": "df8279acfe2a223188983dfd289045d11f522d44",
-      "approximateCoordinates": [
-        28.54,
-        77.24
-      ],
-      "label": "Delhi",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "IN",
-        "name": "India"
-      }
-    }
   },
   {
     "date": "2014-06-21T00:00:00.000Z",
