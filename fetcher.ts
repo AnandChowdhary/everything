@@ -290,7 +290,8 @@ const getLocation = async (): Promise<ILocation[]> => {
         const c = Math.sqrt(a * a + b * b);
         if (
           c > 2 ||
-          location.country.code !== previous.country.code ||
+          location.country.code.toLocaleLowerCase() !==
+            previous.country.code.toLocaleLowerCase() ||
           location.timezone?.name !== previous.timezone?.name
         ) {
           if (skipped.length) {
@@ -342,7 +343,10 @@ const getLocation = async (): Promise<ILocation[]> => {
     (value, index, self) =>
       index ===
       self.findIndex(
-        (t) => t.label === value.label && t.country.code === value.country.code
+        (t) =>
+          t.label === value.label &&
+          t.country.code.toLocaleLowerCase() ===
+            value.country.code.toLocaleLowerCase()
       )
   );
 };
