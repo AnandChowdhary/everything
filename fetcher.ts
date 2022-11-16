@@ -298,11 +298,19 @@ const getLocation = async (): Promise<ILocation[]> => {
             skipped.forEach((item) => {
               items[item.label] = (items[item.label] || 0) + item.duration;
             });
-            locationResult.push(
-              skipped.sort((a, b) => b.duration - a.duration)[0]
-            );
+            if (
+              locationResult[locationResult.length - 1]?.label !==
+              skipped.sort((a, b) => b.duration - a.duration)[0].label
+            )
+              locationResult.push(
+                skipped.sort((a, b) => b.duration - a.duration)[0]
+              );
           } else {
-            locationResult.push(location);
+            if (
+              locationResult[locationResult.length - 1]?.label !==
+              location.label
+            )
+              locationResult.push(location);
           }
           skipped = [];
         } else {
@@ -315,7 +323,8 @@ const getLocation = async (): Promise<ILocation[]> => {
           });
         }
       } else {
-        locationResult.push(location);
+        if (locationResult[locationResult.length - 1]?.label !== location.label)
+          locationResult.push(location);
         skipped = [];
       }
     });
@@ -329,7 +338,13 @@ const getLocation = async (): Promise<ILocation[]> => {
     });
     locationResult.push(skipped.sort((a, b) => b.duration - a.duration)[0]);
   }
-  return locationResult;
+  return locationResult.filter(
+    (value, index, self) =>
+      index ===
+      self.findIndex(
+        (t) => t.label === value.label && t.country.code === value.country.code
+      )
+  );
 };
 
 export const generate = async () => {
