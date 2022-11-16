@@ -47,6 +47,7 @@ interface IEvent {
   emoji: string;
   venue: string;
   city: string;
+  country: string;
   coordinates?: [number, number];
 }
 const getEvents = async (): Promise<IEvent[]> => {
@@ -404,6 +405,7 @@ export const generate = async () => {
       data: {
         location: [event.venue, event.city].filter((i) => !!i).join(", "),
         emoji: event.emoji,
+        country: event.country,
         coordinates: event.coordinates,
       },
     })),
