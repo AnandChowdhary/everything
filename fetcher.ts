@@ -269,87 +269,10 @@ const getLocation = async (): Promise<ILocation[]> => {
 
   const locations = (await (
     await fetch(
-      "https://raw.githubusercontent.com/AnandChowdhary/location/gh-pages/history.json"
+      "https://raw.githubusercontent.com/AnandChowdhary/location/gh-pages/history-unique.json"
     )
   ).json()) as ILocation[];
-  const locationResult: ILocation[] = [];
-  let skipped: (ILocation & { duration: number })[] = [];
-  locations
-    .sort(
-      (a, b) =>
-        new Date(a.updatedAt).getTime() - new Date(b.updatedAt).getTime()
-    )
-    .forEach((location, index, array) => {
-      const previous = array[index - 1];
-      if (previous) {
-        const a =
-          previous.approximateCoordinates[0] -
-          location.approximateCoordinates[0];
-        const b =
-          previous.approximateCoordinates[1] -
-          location.approximateCoordinates[1];
-        const c = Math.sqrt(a * a + b * b);
-        if (
-          c > 2 ||
-          location.country.code.toLocaleLowerCase() !==
-            previous.country.code.toLocaleLowerCase() ||
-          location.timezone?.name !== previous.timezone?.name
-        ) {
-          if (skipped.length) {
-            const items: Record<string, number> = {};
-            skipped.forEach((item) => {
-              items[item.label] = (items[item.label] || 0) + item.duration;
-            });
-            if (
-              locationResult[locationResult.length - 1]?.label !==
-              skipped.sort((a, b) => b.duration - a.duration)[0].label
-            )
-              locationResult.push(
-                skipped.sort((a, b) => b.duration - a.duration)[0]
-              );
-          } else {
-            if (
-              locationResult[locationResult.length - 1]?.label !==
-              location.label
-            )
-              locationResult.push(location);
-          }
-          skipped = [];
-        } else {
-          skipped.push({
-            ...location,
-            duration: array[index + 1]
-              ? new Date(array[index + 1].updatedAt).getTime() -
-                new Date(location.updatedAt).getTime()
-              : 0,
-          });
-        }
-      } else {
-        if (locationResult[locationResult.length - 1]?.label !== location.label)
-          locationResult.push(location);
-        skipped = [];
-      }
-    });
-  if (skipped.length) {
-    const items: Record<string, number> = {};
-    skipped[skipped.length - 1].duration =
-      new Date().getTime() -
-      new Date(skipped[skipped.length - 1].updatedAt).getTime();
-    skipped.forEach((item) => {
-      items[item.label] = (items[item.label] || 0) + item.duration;
-    });
-    locationResult.push(skipped.sort((a, b) => b.duration - a.duration)[0]);
-  }
-  return locationResult.filter(
-    (value, index, self) =>
-      index ===
-      self.findIndex(
-        (t) =>
-          t.label === value.label &&
-          t.country.code.toLocaleLowerCase() ===
-            value.country.code.toLocaleLowerCase()
-      )
-  );
+  return locations;
 };
 
 export const generate = async () => {
