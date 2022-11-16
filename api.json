@@ -4020,6 +4020,102 @@
     }
   },
   {
+    "date": "2011-06-19",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/life/travel/2011/bangkok-4e0153b",
+    "source": "https://github.com/AnandChowdhary/location/commit/4e0153b7cf7f9189cce297d30ee0bf82e71b814d",
+    "title": "Bangkok, Thailand",
+    "data": {
+      "hash": "4e0153b7cf7f9189cce297d30ee0bf82e71b814d",
+      "approximateCoordinates": [
+        13.73,
+        100.47
+      ],
+      "label": "Bangkok",
+      "timezone": {
+        "name": "Asia/Bangkok",
+        "utcOffset": 420,
+        "dstOffset": 420
+      },
+      "country": {
+        "code": "TH",
+        "name": "Thailand"
+      }
+    }
+  },
+  {
+    "date": "2011-06-15",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/life/travel/2011/pattaya-47714b6",
+    "source": "https://github.com/AnandChowdhary/location/commit/47714b6311055eddd943ced582532f7a8d3e7018",
+    "title": "Pattaya, Thailand",
+    "data": {
+      "hash": "47714b6311055eddd943ced582532f7a8d3e7018",
+      "approximateCoordinates": [
+        12.93,
+        100.88
+      ],
+      "label": "Pattaya",
+      "timezone": {
+        "name": "Asia/Bangkok",
+        "utcOffset": 420,
+        "dstOffset": 420
+      },
+      "country": {
+        "code": "TH",
+        "name": "Thailand"
+      }
+    }
+  },
+  {
+    "date": "2011-05-27",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/life/travel/2011/manila-48f8202",
+    "source": "https://github.com/AnandChowdhary/location/commit/48f8202c20e9535aca62b89bbbecd6ceb4230f75",
+    "title": "Manila, Philippines",
+    "data": {
+      "hash": "48f8202c20e9535aca62b89bbbecd6ceb4230f75",
+      "approximateCoordinates": [
+        14.59,
+        120.99
+      ],
+      "label": "Manila",
+      "timezone": {
+        "name": "Asia/Manila",
+        "utcOffset": 480,
+        "dstOffset": 480
+      },
+      "country": {
+        "code": "PH",
+        "name": "Philippines"
+      }
+    }
+  },
+  {
+    "date": "2011-05-26",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/life/travel/2011/new-delhi-caaa0d1",
+    "source": "https://github.com/AnandChowdhary/location/commit/caaa0d12e3fc314daa67616d577d1b3c75ce53d4",
+    "title": "New Delhi, India",
+    "data": {
+      "hash": "caaa0d12e3fc314daa67616d577d1b3c75ce53d4",
+      "approximateCoordinates": [
+        28.53,
+        77.24
+      ],
+      "label": "New Delhi",
+      "timezone": {
+        "name": "Asia/Kolkata",
+        "utcOffset": 330,
+        "dstOffset": 330
+      },
+      "country": {
+        "code": "IN",
+        "name": "India"
+      }
+    }
+  },
+  {
     "date": "2010-12-29",
     "type": "life-event",
     "url": "https://anandchowdhary.com/life/milestones/2010/became-a-vegetarian",
