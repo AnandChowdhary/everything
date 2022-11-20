@@ -18,13 +18,13 @@
   {
     "date": "2022-10-08T13:02:31.000Z",
     "type": "version",
-    "url": "https://anandchowdhary.com/colophon/versions/2022/alameda",
+    "url": "https://anandchowdhary.com/versions/2022/alameda",
     "source": "https://anandchowdhary.github.io/versions/versions/2022/alameda",
     "title": "Alameda"
   },
   {
     "type": "okr",
-    "url": "https://anandchowdhary.com/life/okrs/2022/4",
+    "url": "https://anandchowdhary.com/okrs/2022/4",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2022/4.json",
     "title": "Published OKRs for Q4 2022",
     "date": "2022-10-01",
@@ -124,7 +124,7 @@
   {
     "date": "2022-09-27T23:02:22.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/san-francisco-us",
+    "url": "https://anandchowdhary.com/travel/2022/san-francisco-us",
     "source": "https://github.com/AnandChowdhary/location/commit/a6239fdcbef7e97306cd54c75e08f799cf65d8d4",
     "title": "San Francisco, United States of America",
     "data": {
@@ -143,7 +143,7 @@
   {
     "date": "2022-09-26T20:14:24.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/las-vegas-us",
+    "url": "https://anandchowdhary.com/travel/2022/las-vegas-us",
     "source": "https://github.com/AnandChowdhary/location/commit/bf68615ea61793642672aef79583c01c9403f74b",
     "title": "Las Vegas, United States of America",
     "data": {
@@ -162,7 +162,7 @@
   {
     "date": "2022-09-14T21:19:20.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/geneve-ch",
+    "url": "https://anandchowdhary.com/travel/2022/geneve-ch",
     "source": "https://github.com/AnandChowdhary/location/commit/fe232f2acf6522ac547e5eb7be87aab783f60b55",
     "title": "Genève, Switzerland",
     "data": {
@@ -202,7 +202,7 @@
   {
     "date": "2022-07-22T04:32:58.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2022/indistractable",
+    "url": "https://anandchowdhary.com/books/2022/indistractable",
     "source": "https://github.com/AnandChowdhary/books/issues/44",
     "title": "Indistractable",
     "data": {
@@ -215,7 +215,7 @@
   {
     "date": "2022-07-19T05:54:09.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2022/blitzscaling",
+    "url": "https://anandchowdhary.com/books/2022/blitzscaling",
     "source": "https://github.com/AnandChowdhary/books/issues/43",
     "title": "Blitzscaling",
     "data": {
@@ -228,7 +228,7 @@
   },
   {
     "type": "okr",
-    "url": "https://anandchowdhary.com/life/okrs/2022/3",
+    "url": "https://anandchowdhary.com/okrs/2022/3",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2022/3.json",
     "title": "Published OKRs for Q3 2022",
     "date": "2022-07-01",
@@ -344,7 +344,7 @@
   {
     "date": "2022-06-07T16:55:08.089Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/umraniyeistanbul-tr",
+    "url": "https://anandchowdhary.com/travel/2022/umraniyeistanbul-tr",
     "source": "https://github.com/AnandChowdhary/location/commit/1afcac610166a5a744d0f020ed02d2ad3a74fec6",
     "title": "Ümraniye/İstanbul, Turkey",
     "data": {
@@ -368,7 +368,7 @@
   {
     "date": "2022-06-06T18:21:48.839Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/pendikistanbul-tr",
+    "url": "https://anandchowdhary.com/travel/2022/pendikistanbul-tr",
     "source": "https://github.com/AnandChowdhary/location/commit/1c80d9fc579dadadd0b95ff3e1335ed3a9d080ac",
     "title": "Pendik/İstanbul, Turkey",
     "data": {
@@ -392,7 +392,7 @@
   {
     "date": "2022-06-01T23:34:21.401Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/assevillers-fr",
+    "url": "https://anandchowdhary.com/travel/2022/assevillers-fr",
     "source": "https://github.com/AnandChowdhary/location/commit/ec78de515d3a4c0ff8cb01dcc5807c35e72a3c8c",
     "title": "Assevillers, France",
     "data": {
@@ -416,14 +416,14 @@
   {
     "date": "2022-06-01",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/milestones/2022/got-engaged",
+    "url": "https://anandchowdhary.com/milestones/2022/got-engaged",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Got engaged"
   },
   {
     "date": "2022-05-31T07:38:24.634Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/breda-nl",
+    "url": "https://anandchowdhary.com/travel/2022/breda-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/6039618a0e0f56e33afcc9e34821c04c304c4e8e",
     "title": "Breda, Netherlands",
     "data": {
@@ -463,7 +463,7 @@
   {
     "date": "2022-04-25T05:58:39.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2022/talking-to-strangers",
+    "url": "https://anandchowdhary.com/books/2022/talking-to-strangers",
     "source": "https://github.com/AnandChowdhary/books/issues/41",
     "title": "Talking to Strangers",
     "data": {
@@ -475,7 +475,7 @@
   },
   {
     "type": "okr",
-    "url": "https://anandchowdhary.com/life/okrs/2022/2",
+    "url": "https://anandchowdhary.com/okrs/2022/2",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2022/2.json",
     "title": "Published OKRs for Q2 2022",
     "date": "2022-04-01",
@@ -591,7 +591,7 @@
   {
     "date": "2022-02-28T12:18:46.638Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/berlin-de",
+    "url": "https://anandchowdhary.com/travel/2022/berlin-de",
     "source": "https://github.com/AnandChowdhary/location/commit/88d57da7d4196f57f8edd5796fa048238bf15a05",
     "title": "Berlin, Germany",
     "data": {
@@ -610,7 +610,7 @@
   {
     "date": "2022-02-20T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2022/the-one-minute-manager",
+    "url": "https://anandchowdhary.com/books/2022/the-one-minute-manager",
     "source": "https://github.com/AnandChowdhary/books/issues/40",
     "title": "The One Minute Manager",
     "data": {
@@ -625,7 +625,7 @@
   {
     "date": "2022-01-13T05:54:04.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2022/the-cold-start-problem",
+    "url": "https://anandchowdhary.com/books/2022/the-cold-start-problem",
     "source": "https://github.com/AnandChowdhary/books/issues/38",
     "title": "The Cold Start Problem",
     "data": {
@@ -637,7 +637,7 @@
   },
   {
     "type": "okr",
-    "url": "https://anandchowdhary.com/life/okrs/2022/1",
+    "url": "https://anandchowdhary.com/okrs/2022/1",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2022/1.json",
     "title": "Published OKRs for Q1 2022",
     "date": "2022-01-01",
@@ -735,6 +735,16 @@
     }
   },
   {
+    "date": "2022-01-01T00:00:00.000Z",
+    "type": "theme",
+    "url": "https://anandchowdhary.com/themes/2022",
+    "source": "https://anandchowdhary.github.io/themes/themes/2022/year-of-teamwork",
+    "title": "Year of Teamwork",
+    "data": {
+      "year": 2022
+    }
+  },
+  {
     "date": "2021-12-29T19:04:50.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2021/year-of-teamwork",
@@ -817,7 +827,7 @@
   },
   {
     "type": "okr",
-    "url": "https://anandchowdhary.com/life/okrs/2021/4",
+    "url": "https://anandchowdhary.com/okrs/2021/4",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2021/4.json",
     "title": "Published OKRs for Q4 2021",
     "date": "2021-10-01",
@@ -917,7 +927,7 @@
   {
     "date": "2021-09-29T16:32:29.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/zurich-ch",
+    "url": "https://anandchowdhary.com/travel/2021/zurich-ch",
     "source": "https://github.com/AnandChowdhary/location/commit/88d96ea8b75a0bfcc2363e9e77a7fa09bec05cc9",
     "title": "Zürich, Switzerland",
     "data": {
@@ -941,7 +951,7 @@
   {
     "date": "2021-09-29T14:52:28.375Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/kloten-ch",
+    "url": "https://anandchowdhary.com/travel/2021/kloten-ch",
     "source": "https://github.com/AnandChowdhary/location/commit/3428a2b77e75bad64cef8804e724573d022f2884",
     "title": "Kloten, Switzerland",
     "data": {
@@ -981,7 +991,7 @@
   {
     "date": "2021-09-06T02:23:18.254Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/hoogstraten-be",
+    "url": "https://anandchowdhary.com/travel/2021/hoogstraten-be",
     "source": "https://github.com/AnandChowdhary/location/commit/41b9c4a23e9f8e2e0a778006811abcdf54b2c87a",
     "title": "Hoogstraten, Belgium",
     "data": {
@@ -1005,7 +1015,7 @@
   {
     "date": "2021-09-02T11:05:59.432Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/bruxelles-be",
+    "url": "https://anandchowdhary.com/travel/2021/bruxelles-be",
     "source": "https://github.com/AnandChowdhary/location/commit/46380c49009ccd89b85ed6f34571af9577212cca",
     "title": "Bruxelles, Belgium",
     "data": {
@@ -1045,7 +1055,7 @@
   {
     "date": "2021-06-31",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/milestones/2021/became-a-y-combinator-alum",
+    "url": "https://anandchowdhary.com/milestones/2021/became-a-y-combinator-alum",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Became a Y Combinator alum",
     "description": "Pabio was part of Y Combinator's S21 batch, being one of the first Swiss companies to be funded by YC. I was the third ever from my university to be part of YC and we raised a $2.2 million seed round after the batch."
@@ -1053,7 +1063,7 @@
   {
     "date": "2021-04-07T08:34:08.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/groningen-nl",
+    "url": "https://anandchowdhary.com/travel/2021/groningen-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/dacbf7bb312f85dc6e26a1f941bd54d86cd77082",
     "title": "Groningen, Netherlands",
     "data": {
@@ -1077,7 +1087,7 @@
   {
     "date": "2021-04-05",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/milestones/2021/moved-to-groningen-the-netherlands",
+    "url": "https://anandchowdhary.com/milestones/2021/moved-to-groningen-the-netherlands",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Moved to Groningen, the Netherlands"
   },
@@ -1171,6 +1181,17 @@
         21.16068,
         72.789558
       ]
+    }
+  },
+  {
+    "date": "2021-01-01T00:00:00.000Z",
+    "type": "theme",
+    "url": "https://anandchowdhary.com/themes/2021",
+    "source": "https://anandchowdhary.github.io/themes/themes/2021/year-of-commitment",
+    "title": "Year of Commitment",
+    "data": {
+      "year": 2021,
+      "description": "I didn't write a blog post about my theme in 2021, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this"
     }
   },
   {
@@ -1288,7 +1309,7 @@
   {
     "date": "2020-07-04",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/milestones/2020/graduated-from-university-of-twente",
+    "url": "https://anandchowdhary.com/milestones/2020/graduated-from-university-of-twente",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Graduated from University of Twente",
     "description": "Earned a BSc degree in Creative Technology, an interdisciplinary engineering and design program from the Faculty of Electrical Engineering, Mathematics and Computer Science, with specialization in smart technology and extra credits (Honors program in Science). My bachelor thesis on Email-based Intelligent Virtual Assistants under Dr. J. Zwiers was graded 9/10 and nominated for the Bachelor Award."
@@ -1296,7 +1317,7 @@
   {
     "date": "2020-07-01",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/milestones/2020/co-founded-pabio",
+    "url": "https://anandchowdhary.com/milestones/2020/co-founded-pabio",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Co-founded Pabio",
     "description": "Pabio offers rent-to-own furniture with personalized interior design. Carlo Badini and I co-founded Pabio after getting to know each other over a period of a few months remotely during the COVID-19 pandemic."
@@ -1356,7 +1377,7 @@
   {
     "date": "2020-05-25T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2020/tuesdays-with-morrie",
+    "url": "https://anandchowdhary.com/books/2020/tuesdays-with-morrie",
     "source": "https://github.com/AnandChowdhary/books/issues/25",
     "title": "Tuesdays with Morrie",
     "data": {
@@ -1401,6 +1422,17 @@
     "title": "Uppload"
   },
   {
+    "date": "2020-01-01T00:00:00.000Z",
+    "type": "theme",
+    "url": "https://anandchowdhary.com/themes/2020",
+    "source": "https://anandchowdhary.github.io/themes/themes/2020/year-of-long-term",
+    "title": "Year of Long Term",
+    "data": {
+      "year": 2020,
+      "description": "I didn't write a blog post about my theme in 2020, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this"
+    }
+  },
+  {
     "date": "2020-01-01",
     "type": "press-feature",
     "url": "https://anandchowdhary.com/press/2020/karuna-2020:-using-github-actions-in-the-covid-19-response-efforts",
@@ -1414,7 +1446,7 @@
   {
     "date": "2019-12-16T15:59:49.999Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/newark-us",
+    "url": "https://anandchowdhary.com/travel/2019/newark-us",
     "source": "https://github.com/AnandChowdhary/location/commit/7bb48341c5dd8991369d7716c3bd42c1d6741ad2",
     "title": "Newark, United States of America",
     "data": {
@@ -1440,7 +1472,7 @@
   {
     "date": "2019-12-04",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/milestones/2019/studied-at-santa-clara-university",
+    "url": "https://anandchowdhary.com/milestones/2019/studied-at-santa-clara-university",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Studied at Santa Clara University",
     "description": "I was the first student in my program to study for a semester at Santa Clara University in Silicon Valley as part of the Global Engineering Education Exchange (Global E3). I was a recipient of the Twente Mobility Fund Scholarship and my coursework consisted of computer graphics, venture capital, marketing, and typography."
@@ -1448,7 +1480,7 @@
   {
     "date": "2019-11-01T00:31:48.945Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/dublin-us",
+    "url": "https://anandchowdhary.com/travel/2019/dublin-us",
     "source": "https://github.com/AnandChowdhary/location/commit/45fccbdfcd7717ea79d510e7a99854d0a646c25b",
     "title": "Dublin, United States of America",
     "data": {
@@ -1527,7 +1559,7 @@
   {
     "date": "2019-09-24T12:25:22.795Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/new-york-us",
+    "url": "https://anandchowdhary.com/travel/2019/new-york-us",
     "source": "https://github.com/AnandChowdhary/location/commit/6f1f80a52e5a82f264d721c081109efe3c6b53ea",
     "title": "New York, United States of America",
     "data": {
@@ -1580,7 +1612,7 @@
   {
     "date": "2019-08-15T07:37:58.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/haryana-in",
+    "url": "https://anandchowdhary.com/travel/2019/haryana-in",
     "source": "https://github.com/AnandChowdhary/location/commit/8590c752fa9ee30c0b2543fb03b1b8fd659fa6e7",
     "title": "Haryana, India",
     "data": {
@@ -1693,7 +1725,7 @@
   {
     "date": "2019-06-04T13:49:46.916Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/den-nl",
+    "url": "https://anandchowdhary.com/travel/2019/den-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/7c14d0fde05aba4b455ab2967b1778969dd12527",
     "title": "Den, Netherlands",
     "data": {
@@ -1717,7 +1749,7 @@
   {
     "date": "2019-06-01T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2019/zero-to-one",
+    "url": "https://anandchowdhary.com/books/2019/zero-to-one",
     "source": "https://github.com/AnandChowdhary/books/issues/23",
     "title": "Zero to One",
     "data": {
@@ -1731,7 +1763,7 @@
   {
     "date": "2019-05-19T18:07:25.595Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/rotterdam-nl",
+    "url": "https://anandchowdhary.com/travel/2019/rotterdam-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/2a9cdc84657860588a0e523c9147d579ad02c75a",
     "title": "Rotterdam, Netherlands",
     "data": {
@@ -1794,7 +1826,7 @@
   {
     "date": "2019-05-15T14:42:35.056Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/paris-fr",
+    "url": "https://anandchowdhary.com/travel/2019/paris-fr",
     "source": "https://github.com/AnandChowdhary/location/commit/62d774bc4ec01900484a9dbb715972b9afc2973f",
     "title": "Paris, France",
     "data": {
@@ -1979,7 +2011,7 @@
   {
     "date": "2019-01-10T14:50:07.206Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/schiphol-nl",
+    "url": "https://anandchowdhary.com/travel/2019/schiphol-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/61ceba734d491665921d05aa822f2ec7929eba46",
     "title": "Schiphol, Netherlands",
     "data": {
@@ -2049,7 +2081,7 @@
   {
     "date": "2018-12-24T01:27:28.767Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/rossiya-ru",
+    "url": "https://anandchowdhary.com/travel/2018/rossiya-ru",
     "source": "https://github.com/AnandChowdhary/location/commit/f0260150276dc356d1fea0483ebb7a19f8567761",
     "title": "Россия, Russia",
     "data": {
@@ -2128,7 +2160,7 @@
   {
     "date": "2018-11-14T23:00:17.996Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/london-gb",
+    "url": "https://anandchowdhary.com/travel/2018/london-gb",
     "source": "https://github.com/AnandChowdhary/location/commit/de3f9ed38c82a7736486f36129a6711ab6b2cfd0",
     "title": "London, United Kingdom",
     "data": {
@@ -2152,7 +2184,7 @@
   {
     "date": "2018-10-25T15:42:20.093Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/eindhoven-nl",
+    "url": "https://anandchowdhary.com/travel/2018/eindhoven-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/74db397a59a47bc639632a4ba7b441fef3b0925b",
     "title": "Eindhoven, Netherlands",
     "data": {
@@ -2176,7 +2208,7 @@
   {
     "date": "2018-10-25T09:12:38.157Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/uttar-pradesh-in",
+    "url": "https://anandchowdhary.com/travel/2018/uttar-pradesh-in",
     "source": "https://github.com/AnandChowdhary/location/commit/a3f5c7ae90fbffca8d8405e873efcb289d94c0db",
     "title": "Uttar Pradesh, India",
     "data": {
@@ -2200,7 +2232,7 @@
   {
     "date": "2018-10-23T10:25:18.435Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/kuala-lumpur-my",
+    "url": "https://anandchowdhary.com/travel/2018/kuala-lumpur-my",
     "source": "https://github.com/AnandChowdhary/location/commit/1b89986726fe9f8202820ce5052e7f0691cf4bf7",
     "title": "Kuala Lumpur, Malaysia",
     "data": {
@@ -2285,7 +2317,7 @@
   {
     "date": "2018-09-07T13:45:39.421Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/amsterdam-nl",
+    "url": "https://anandchowdhary.com/travel/2018/amsterdam-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/6cc233a501888fffa0530928917b8c83ebb2141f",
     "title": "Amsterdam, Netherlands",
     "data": {
@@ -2405,7 +2437,7 @@
   {
     "date": "2018-07-07T10:59:33.152Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/citta-metropolitana-di-roma-it",
+    "url": "https://anandchowdhary.com/travel/2018/citta-metropolitana-di-roma-it",
     "source": "https://github.com/AnandChowdhary/location/commit/644a2b55b0f7086e3efcfbd800d6d3a74913bcba",
     "title": "Città Metropolitana di Roma, Italy",
     "data": {
@@ -2429,7 +2461,7 @@
   {
     "date": "2018-07-07T06:47:14.172Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/citta-metropolitana-di-milano-it",
+    "url": "https://anandchowdhary.com/travel/2018/citta-metropolitana-di-milano-it",
     "source": "https://github.com/AnandChowdhary/location/commit/3624d768488b9754be31ea79d684bbac88c69b80",
     "title": "Città Metropolitana di Milano, Italy",
     "data": {
@@ -2453,7 +2485,7 @@
   {
     "date": "2018-07-04T18:41:50.506Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/avignonet-lauragais-fr",
+    "url": "https://anandchowdhary.com/travel/2018/avignonet-lauragais-fr",
     "source": "https://github.com/AnandChowdhary/location/commit/fb41324300ce574f5e12262308e7278e2e9548ea",
     "title": "Avignonet-Lauragais, France",
     "data": {
@@ -2477,7 +2509,7 @@
   {
     "date": "2018-07-04T07:20:43.283Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/blagnac-fr",
+    "url": "https://anandchowdhary.com/travel/2018/blagnac-fr",
     "source": "https://github.com/AnandChowdhary/location/commit/efb0698c77059cc4ac2955608d84a6c5ea3f3738",
     "title": "Blagnac, France",
     "data": {
@@ -2501,7 +2533,7 @@
   {
     "date": "2018-06-30T15:50:50.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/koln-de",
+    "url": "https://anandchowdhary.com/travel/2018/koln-de",
     "source": "https://github.com/AnandChowdhary/location/commit/e7c011232f0feca3fe2ef05ca812760053de71a9",
     "title": "Köln, Germany",
     "data": {
@@ -2520,7 +2552,7 @@
   {
     "date": "2018-06-23T17:01:20.965Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/antwerpen-be",
+    "url": "https://anandchowdhary.com/travel/2018/antwerpen-be",
     "source": "https://github.com/AnandChowdhary/location/commit/3374cb7e4e1ef659807d2d06183fb8acfc08ca0c",
     "title": "Antwerpen, Belgium",
     "data": {
@@ -2544,7 +2576,7 @@
   {
     "date": "2018-06-22T20:45:52.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/brugge-be",
+    "url": "https://anandchowdhary.com/travel/2018/brugge-be",
     "source": "https://github.com/AnandChowdhary/location/commit/5471fc0a77fb476ae5954af77d85521149f0b422",
     "title": "Brugge, Belgium",
     "data": {
@@ -2568,7 +2600,7 @@
   {
     "date": "2018-06-15T01:04:36.994Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/blanc-fr",
+    "url": "https://anandchowdhary.com/travel/2018/blanc-fr",
     "source": "https://github.com/AnandChowdhary/location/commit/4fb0da1fe4e1d0c38532ab7a5f72025620e8612c",
     "title": "Blanc, France",
     "data": {
@@ -2637,7 +2669,7 @@
   {
     "date": "2018-04-27T12:02:53.628Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/oldenzaal-nl",
+    "url": "https://anandchowdhary.com/travel/2018/oldenzaal-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/228e425fe33ec2e445e60013a3e9e96f316d0657",
     "title": "Oldenzaal, Netherlands",
     "data": {
@@ -2765,7 +2797,7 @@
   {
     "date": "2018-01-13T16:09:33.168Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/noord-holland-nl",
+    "url": "https://anandchowdhary.com/travel/2018/noord-holland-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/b5c1c4d6e357312948928c7098fd5c897939d193",
     "title": "Noord-Holland, Netherlands",
     "data": {
@@ -2821,7 +2853,7 @@
   {
     "date": "2017-12-23T12:31:32.165Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/rome-it",
+    "url": "https://anandchowdhary.com/travel/2017/rome-it",
     "source": "https://github.com/AnandChowdhary/location/commit/a6161bab0a96fbee821eebc51aae0e598c89adf3",
     "title": "Rome, Italy",
     "data": {
@@ -2845,7 +2877,7 @@
   {
     "date": "2017-12-23T07:58:32.857Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/milane-it",
+    "url": "https://anandchowdhary.com/travel/2017/milane-it",
     "source": "https://github.com/AnandChowdhary/location/commit/3972d230f1d26cd176f952baebe53866b273e1d7",
     "title": "Milane, Italy",
     "data": {
@@ -2876,7 +2908,7 @@
   {
     "date": "2017-11-18T09:11:15.990Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/dusseldorf-de",
+    "url": "https://anandchowdhary.com/travel/2017/dusseldorf-de",
     "source": "https://github.com/AnandChowdhary/location/commit/2c8b3d5b22d8224c34c64dea8babd494c674c8d7",
     "title": "Düsseldorf, Germany",
     "data": {
@@ -2948,7 +2980,7 @@
   {
     "date": "2017-08-22T21:46:45.612Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/enschede-nl",
+    "url": "https://anandchowdhary.com/travel/2017/enschede-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/dc4a1d2e6597484da1ce8feafb6da8e5be68dd39",
     "title": "Enschede, Netherlands",
     "data": {
@@ -2972,7 +3004,7 @@
   {
     "date": "2017-08-22",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/milestones/2017/moved-to-enschede-the-netherlands",
+    "url": "https://anandchowdhary.com/milestones/2017/moved-to-enschede-the-netherlands",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Moved to Enschede, the Netherlands"
   },
@@ -3027,7 +3059,7 @@
   {
     "date": "2017-05-21T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2017/1984",
+    "url": "https://anandchowdhary.com/books/2017/1984",
     "source": "https://github.com/AnandChowdhary/books/issues/16",
     "title": "1984",
     "data": {
@@ -3194,7 +3226,7 @@
   {
     "date": "2016-11-15T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2016/\"surely-you're-joking-mr.-feynman!\":-adventures-of-a-curious-character",
+    "url": "https://anandchowdhary.com/books/2016/\"surely-you're-joking-mr.-feynman!\":-adventures-of-a-curious-character",
     "source": "https://github.com/AnandChowdhary/books/issues/17",
     "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
     "data": {
@@ -3214,7 +3246,7 @@
   {
     "date": "2016-10-12T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2016/the-7-habits-of-highly-effective-people-personal-workbook",
+    "url": "https://anandchowdhary.com/books/2016/the-7-habits-of-highly-effective-people-personal-workbook",
     "source": "https://github.com/AnandChowdhary/books/issues/45",
     "title": "The 7 Habits of Highly Effective People Personal Workbook",
     "data": {
@@ -3227,7 +3259,7 @@
   {
     "date": "2016-10-03T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2016/the-design-of-everyday-things",
+    "url": "https://anandchowdhary.com/books/2016/the-design-of-everyday-things",
     "source": "https://github.com/AnandChowdhary/books/issues/20",
     "title": "The Design of Everyday Things",
     "data": {
@@ -3240,7 +3272,7 @@
   {
     "date": "2016-10-03T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2016/how-to-win-friends-and-influence-people",
+    "url": "https://anandchowdhary.com/books/2016/how-to-win-friends-and-influence-people",
     "source": "https://github.com/AnandChowdhary/books/issues/19",
     "title": "How To Win Friends and Influence People",
     "data": {
@@ -3253,7 +3285,7 @@
   {
     "date": "2016-10-01T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2016/think-and-grow-rich",
+    "url": "https://anandchowdhary.com/books/2016/think-and-grow-rich",
     "source": "https://github.com/AnandChowdhary/books/issues/21",
     "title": "Think and Grow Rich",
     "data": {
@@ -3267,7 +3299,7 @@
   {
     "date": "2016-09-19T11:46:06.621Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/madhya-pradesh-in",
+    "url": "https://anandchowdhary.com/travel/2016/madhya-pradesh-in",
     "source": "https://github.com/AnandChowdhary/location/commit/0d44037f1025eb4c9e526edcc9e5c62a4c6a2899",
     "title": "Madhya Pradesh, India",
     "data": {
@@ -3318,7 +3350,7 @@
   {
     "date": "2016-08-05",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/milestones/2016/co-founded-oswald-labs",
+    "url": "https://anandchowdhary.com/milestones/2016/co-founded-oswald-labs",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Co-founded Oswald Labs",
     "description": "Oswald Labs is an accessibility technology company that builds products for people with disabilities, like blind-friendly smartphone and dyslexia-friendly reading apps."
@@ -3326,7 +3358,7 @@
   {
     "date": "2016-07-14T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2016/sam-walton",
+    "url": "https://anandchowdhary.com/books/2016/sam-walton",
     "source": "https://github.com/AnandChowdhary/books/issues/22",
     "title": "Sam Walton",
     "data": {
@@ -3353,7 +3385,7 @@
   {
     "date": "2016-04-11T01:28:11.749Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/gujarat-in",
+    "url": "https://anandchowdhary.com/travel/2016/gujarat-in",
     "source": "https://github.com/AnandChowdhary/location/commit/f5c83a0f3df3da5c081337f47c411c42b9c039fe",
     "title": "Gujarat, India",
     "data": {
@@ -3377,7 +3409,7 @@
   {
     "date": "2016-03-26",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/milestones/2016/finished-high-school",
+    "url": "https://anandchowdhary.com/milestones/2016/finished-high-school",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Finished high school",
     "description": "Graduated from The Mother's International School while receiving the Dharamveer Gajra Memorial Award for Positive Work in the Field of Information Technology and the Ratan Lal Lahoti Memorial Award for Topper in English (98%, CBSE SSCE). I was also President of MINET (technology Club), and a member of Impulse (physics club), Navchetna (yearbook editorial board), and MISMUN (Model United Nations)."
@@ -3486,7 +3518,7 @@
   {
     "date": "2015-12-29",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/milestones/2015/became-an-adult",
+    "url": "https://anandchowdhary.com/milestones/2015/became-an-adult",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Became an adult"
   },
@@ -3525,7 +3557,7 @@
   {
     "date": "2015-07-09T09:06:28.654Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2015/katra-in",
+    "url": "https://anandchowdhary.com/travel/2015/katra-in",
     "source": "https://github.com/AnandChowdhary/location/commit/ffd81268ecf35881d260c928001144155cd199f9",
     "title": "Katra, India",
     "data": {
@@ -3549,7 +3581,7 @@
   {
     "date": "2015-07-09T04:01:26.712Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2015/jammu-and-kashmir-in",
+    "url": "https://anandchowdhary.com/travel/2015/jammu-and-kashmir-in",
     "source": "https://github.com/AnandChowdhary/location/commit/85dda29df7b065add8b290136b8788a3e7e06dc9",
     "title": "Jammu and Kashmir, India",
     "data": {
@@ -3595,7 +3627,7 @@
   {
     "date": "2015-06-20T04:55:54.959Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2015/-in",
+    "url": "https://anandchowdhary.com/travel/2015/-in",
     "source": "https://github.com/AnandChowdhary/location/commit/0a00a35104fa0ced95bab57fb134cf739e428451",
     "title": "महाराष्ट्र, India",
     "data": {
@@ -3648,7 +3680,7 @@
   {
     "date": "2015-03-04T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2015/getting-things-done",
+    "url": "https://anandchowdhary.com/books/2015/getting-things-done",
     "source": "https://github.com/AnandChowdhary/books/issues/34",
     "title": "Getting Things Done",
     "data": {
@@ -3661,7 +3693,7 @@
   {
     "date": "2015-02-12T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2015/homo-deus",
+    "url": "https://anandchowdhary.com/books/2015/homo-deus",
     "source": "https://github.com/AnandChowdhary/books/issues/32",
     "title": "Homo Deus",
     "data": {
@@ -3684,7 +3716,7 @@
   {
     "date": "2014-11-28T22:53:39.720Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2014/-jp",
+    "url": "https://anandchowdhary.com/travel/2014/-jp",
     "source": "https://github.com/AnandChowdhary/location/commit/f84979e28eeb1d348446085558e63748723c2cb5",
     "title": "日本, Japan",
     "data": {
@@ -3719,7 +3751,7 @@
   {
     "date": "2014-10-12T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2014/creativity-inc.",
+    "url": "https://anandchowdhary.com/books/2014/creativity-inc.",
     "source": "https://github.com/AnandChowdhary/books/issues/30",
     "title": "Creativity, Inc.",
     "data": {
@@ -3806,7 +3838,7 @@
   {
     "date": "2014-04-04T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2014/the-hard-thing-about-hard-things",
+    "url": "https://anandchowdhary.com/books/2014/the-hard-thing-about-hard-things",
     "source": "https://github.com/AnandChowdhary/books/issues/31",
     "title": "The Hard Thing About Hard Things",
     "data": {
@@ -3835,7 +3867,7 @@
   {
     "date": "2014-02-08",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/milestones/2014/co-founded-class-rebels",
+    "url": "https://anandchowdhary.com/milestones/2014/co-founded-class-rebels",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Co-founded Class Rebels",
     "description": "Class Rebels is an ed-tech startup I co-founded with Kunj Khurana and Sagar Chandna which built a social education platform and collaborative virtual library."
@@ -3872,7 +3904,7 @@
   {
     "date": "2013-12-20T15:40:44.106Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2013/delhi-in",
+    "url": "https://anandchowdhary.com/travel/2013/delhi-in",
     "source": "https://github.com/AnandChowdhary/location/commit/68e191f6df0fa4700c147833f566e30df8a24154",
     "title": "Delhi, India",
     "data": {
@@ -3928,7 +3960,7 @@
   {
     "date": "2013-10-12T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2013/lean-in",
+    "url": "https://anandchowdhary.com/books/2013/lean-in",
     "source": "https://github.com/AnandChowdhary/books/issues/29",
     "title": "Lean In",
     "data": {
@@ -3970,7 +4002,7 @@
   {
     "date": "2013-04-04T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2013/blink",
+    "url": "https://anandchowdhary.com/books/2013/blink",
     "source": "https://github.com/AnandChowdhary/books/issues/28",
     "title": "Blink",
     "data": {
@@ -3983,7 +4015,7 @@
   {
     "date": "2012-12-02T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/life/books/2012/steve-jobs",
+    "url": "https://anandchowdhary.com/books/2012/steve-jobs",
     "source": "https://github.com/AnandChowdhary/books/issues/26",
     "title": "Steve Jobs",
     "data": {
@@ -4022,7 +4054,7 @@
   {
     "date": "2011-06-19",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2011/bangkok-th",
+    "url": "https://anandchowdhary.com/travel/2011/bangkok-th",
     "source": "https://github.com/AnandChowdhary/location/commit/4e0153b7cf7f9189cce297d30ee0bf82e71b814d",
     "title": "Bangkok, Thailand",
     "data": {
@@ -4046,7 +4078,7 @@
   {
     "date": "2011-06-15",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2011/pattaya-th",
+    "url": "https://anandchowdhary.com/travel/2011/pattaya-th",
     "source": "https://github.com/AnandChowdhary/location/commit/47714b6311055eddd943ced582532f7a8d3e7018",
     "title": "Pattaya, Thailand",
     "data": {
@@ -4070,7 +4102,7 @@
   {
     "date": "2011-05-27",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2011/manila-ph",
+    "url": "https://anandchowdhary.com/travel/2011/manila-ph",
     "source": "https://github.com/AnandChowdhary/location/commit/48f8202c20e9535aca62b89bbbecd6ceb4230f75",
     "title": "Manila, Philippines",
     "data": {
@@ -4094,7 +4126,7 @@
   {
     "date": "2011-05-26",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2011/new-delhi-in",
+    "url": "https://anandchowdhary.com/travel/2011/new-delhi-in",
     "source": "https://github.com/AnandChowdhary/location/commit/caaa0d12e3fc314daa67616d577d1b3c75ce53d4",
     "title": "New Delhi, India",
     "data": {
@@ -4118,7 +4150,7 @@
   {
     "date": "2010-12-29",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/milestones/2010/became-a-vegetarian",
+    "url": "https://anandchowdhary.com/milestones/2010/became-a-vegetarian",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Became a vegetarian",
     "description": "On my thirteenth birthday, I became a vegetarian."
@@ -4138,7 +4170,7 @@
   {
     "date": "1997-12-29",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/milestones/1997/born-in-new-delhi-india",
+    "url": "https://anandchowdhary.com/milestones/1997/born-in-new-delhi-india",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Born in New Delhi, India"
   }
