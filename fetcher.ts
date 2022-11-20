@@ -372,7 +372,7 @@ export const generate = async () => {
       ).getUTCFullYear()}/${slugify(location.label, {
         lower: true,
         strict: true,
-      })}-${location.hash.substring(0, 7)}`,
+      })}-${location.country.code.toLowerCase()}`,
       source: `https://github.com/AnandChowdhary/location/commit/${location.hash}`,
       title: `${location.label}, ${location.country.name}`,
       data: {
