@@ -28,7 +28,6 @@
     "source": "https://anandchowdhary.github.io/okrs/okrs/2022/4.json",
     "title": "Published OKRs for Q4 2022",
     "date": "2022-10-01",
-    "description": "Continue working on health goals, Stop procrastinating on growth, Get ready for 2023",
     "data": {
       "name": 4,
       "progress": 0.11,
@@ -118,7 +117,8 @@
             }
           ]
         }
-      ]
+      ],
+      "description": "Continue working on health goals, Stop procrastinating on growth, Get ready for 2023"
     }
   },
   {
@@ -232,7 +232,6 @@
     "source": "https://anandchowdhary.github.io/okrs/okrs/2022/3.json",
     "title": "Published OKRs for Q3 2022",
     "date": "2022-07-01",
-    "description": "Improve physical and mental health, Get engaged to be married, Start planning for the long term",
     "data": {
       "name": 3,
       "progress": 0.5,
@@ -322,7 +321,8 @@
             }
           ]
         }
-      ]
+      ],
+      "description": "Improve physical and mental health, Get engaged to be married, Start planning for the long term"
     }
   },
   {
@@ -418,7 +418,8 @@
     "type": "life-event",
     "url": "https://anandchowdhary.com/milestones/2022/got-engaged",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
-    "title": "Got engaged"
+    "title": "Got engaged",
+    "data": {}
   },
   {
     "date": "2022-05-31T07:38:24.634Z",
@@ -479,7 +480,6 @@
     "source": "https://anandchowdhary.github.io/okrs/okrs/2022/2.json",
     "title": "Published OKRs for Q2 2022",
     "date": "2022-04-01",
-    "description": "Accelerate body and mind progress, Invest in support system, Work harder and smarter",
     "data": {
       "name": 2,
       "progress": 0.38,
@@ -569,7 +569,8 @@
             }
           ]
         }
-      ]
+      ],
+      "description": "Accelerate body and mind progress, Invest in support system, Work harder and smarter"
     }
   },
   {
@@ -641,7 +642,6 @@
     "source": "https://anandchowdhary.github.io/okrs/okrs/2022/1.json",
     "title": "Published OKRs for Q1 2022",
     "date": "2022-01-01",
-    "description": "Keep body and mind on track, Set up for a great 2022, Manage money better",
     "data": {
       "name": 1,
       "progress": 0.62,
@@ -731,7 +731,8 @@
             }
           ]
         }
-      ]
+      ],
+      "description": "Keep body and mind on track, Set up for a great 2022, Manage money better"
     }
   },
   {
@@ -763,6 +764,7 @@
     "title": "Furniture rental company Pabio expands to Germany",
     "data": {
       "publisher": "TechCrunch",
+      "href": "https://techcrunch.com/2021/12/15/pabio-seed-plus-german-expansion/",
       "author": "Haje Jan Kamps"
     }
   },
@@ -831,7 +833,6 @@
     "source": "https://anandchowdhary.github.io/okrs/okrs/2021/4.json",
     "title": "Published OKRs for Q4 2021",
     "date": "2021-10-01",
-    "description": "Start getting healthy, Get back to work, Get ready for 2022",
     "data": {
       "name": 4,
       "progress": 0.64,
@@ -921,7 +922,8 @@
             }
           ]
         }
-      ]
+      ],
+      "description": "Start getting healthy, Get back to work, Get ready for 2022"
     }
   },
   {
@@ -1058,7 +1060,9 @@
     "url": "https://anandchowdhary.com/milestones/2021/became-a-y-combinator-alum",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Became a Y Combinator alum",
-    "description": "Pabio was part of Y Combinator's S21 batch, being one of the first Swiss companies to be funded by YC. I was the third ever from my university to be part of YC and we raised a $2.2 million seed round after the batch."
+    "data": {
+      "description": "Pabio was part of Y Combinator's S21 batch, being one of the first Swiss companies to be funded by YC. I was the third ever from my university to be part of YC and we raised a $2.2 million seed round after the batch."
+    }
   },
   {
     "date": "2021-04-07T08:34:08.000Z",
@@ -1089,7 +1093,8 @@
     "type": "life-event",
     "url": "https://anandchowdhary.com/milestones/2021/moved-to-groningen-the-netherlands",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
-    "title": "Moved to Groningen, the Netherlands"
+    "title": "Moved to Groningen, the Netherlands",
+    "data": {}
   },
   {
     "date": "2021-03-27",
@@ -1098,6 +1103,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "Anand Chowdhary on his new startup, Typescript and other things",
     "data": {
+      "href": "https://www.youtube.com/watch?v=O-bVJoWULBE",
       "publisher": "Minimum Viable Podcast"
     }
   },
@@ -1124,6 +1130,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
     "title": "Helping fight COVID-19 using GitHub",
     "data": {
+      "href": "https://githubsatellite.com/sessions/helping-fight-covid-19-using-github/",
       "city": "San Francisco Bay Area",
       "country": "US",
       "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/github-satellite-2021.png",
@@ -1154,6 +1161,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "GitHub Stars",
     "data": {
+      "href": "https://stars.github.com/profiles/anandchowdhary/",
       "publisher": "GitHub"
     }
   },
@@ -1164,6 +1172,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "Karmaveer Chakra Award",
     "data": {
+      "href": "https://rexideas.com/index.php/karmaveer-global-fellowship/",
       "publisher": "iCONGO"
     }
   },
@@ -1312,7 +1321,9 @@
     "url": "https://anandchowdhary.com/milestones/2020/graduated-from-university-of-twente",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Graduated from University of Twente",
-    "description": "Earned a BSc degree in Creative Technology, an interdisciplinary engineering and design program from the Faculty of Electrical Engineering, Mathematics and Computer Science, with specialization in smart technology and extra credits (Honors program in Science). My bachelor thesis on Email-based Intelligent Virtual Assistants under Dr. J. Zwiers was graded 9/10 and nominated for the Bachelor Award."
+    "data": {
+      "description": "Earned a BSc degree in Creative Technology, an interdisciplinary engineering and design program from the Faculty of Electrical Engineering, Mathematics and Computer Science, with specialization in smart technology and extra credits (Honors program in Science). My bachelor thesis on Email-based Intelligent Virtual Assistants under Dr. J. Zwiers was graded 9/10 and nominated for the Bachelor Award."
+    }
   },
   {
     "date": "2020-07-01",
@@ -1320,7 +1331,9 @@
     "url": "https://anandchowdhary.com/milestones/2020/co-founded-pabio",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Co-founded Pabio",
-    "description": "Pabio offers rent-to-own furniture with personalized interior design. Carlo Badini and I co-founded Pabio after getting to know each other over a period of a few months remotely during the COVID-19 pandemic."
+    "data": {
+      "description": "Pabio offers rent-to-own furniture with personalized interior design. Carlo Badini and I co-founded Pabio after getting to know each other over a period of a few months remotely during the COVID-19 pandemic."
+    }
   },
   {
     "date": "2020-06-30",
@@ -1329,6 +1342,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
     "title": "Building Technology for the Next Billion",
     "data": {
+      "href": "https://www.youtube.com/watch?v=22PbFJ0sRlU",
       "city": "New Delhi",
       "country": "IN",
       "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/going-to-school.png",
@@ -1440,6 +1454,7 @@
     "title": "Karuna 2020: Using GitHub Actions in the COVID-19 response efforts",
     "data": {
       "publisher": "GitHub",
+      "href": "https://github.blog/2020-08-13-github-actions-karuna/",
       "author": "Michelle Mannering"
     }
   },
@@ -1475,7 +1490,9 @@
     "url": "https://anandchowdhary.com/milestones/2019/studied-at-santa-clara-university",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Studied at Santa Clara University",
-    "description": "I was the first student in my program to study for a semester at Santa Clara University in Silicon Valley as part of the Global Engineering Education Exchange (Global E3). I was a recipient of the Twente Mobility Fund Scholarship and my coursework consisted of computer graphics, venture capital, marketing, and typography."
+    "data": {
+      "description": "I was the first student in my program to study for a semester at Santa Clara University in Silicon Valley as part of the Global Engineering Education Exchange (Global E3). I was a recipient of the Twente Mobility Fund Scholarship and my coursework consisted of computer graphics, venture capital, marketing, and typography."
+    }
   },
   {
     "date": "2019-11-01T00:31:48.945Z",
@@ -1503,6 +1520,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
     "title": "Forbes 30 Under 30 at Santa Clara University",
     "data": {
+      "href": "https://www.youtube.com/watch?v=zSX-yDAjUXk",
       "city": "San Francisco Bay Area",
       "country": "US",
       "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/oneup.png",
@@ -1549,6 +1567,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
     "title": "Women Who Code Cloud 2019",
     "data": {
+      "href": "https://www.facebook.com/AnandChowdhary/videos/2896608857033963/",
       "city": "San Francisco Bay Area",
       "country": "US",
       "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/wwcode.png",
@@ -1672,6 +1691,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
     "title": "The best entrepreneurs in the UT (De beste ondernemers van de UT)",
     "data": {
+      "href": "https://www.rtvoost.nl/media/137176/De-beste-ondernemers-van-de-UT",
       "city": "Enschede",
       "country": "NL",
       "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/rtvoost.png",
@@ -1854,6 +1874,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "The Next Web T500",
     "data": {
+      "href": "https://thenextweb.com/conference/t500",
       "publisher": "The Next Web"
     }
   },
@@ -2039,7 +2060,8 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "Assistive Tech Startups for Disabled People",
     "data": {
-      "publisher": "Startup City India"
+      "publisher": "Startup City India",
+      "href": "https://startupcityindia.com/assistive-tech-startups-for-disabled-people/"
     }
   },
   {
@@ -2049,7 +2071,8 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "Open Source Spotlight: Oswald Labs with Anand Chowdhary",
     "data": {
-      "publisher": "BrowserStack"
+      "publisher": "BrowserStack",
+      "href": "https://www.browserstack.com/blog/open-source-spotlight-oswald-labs-with-anand-chowdhary/"
     }
   },
   {
@@ -2059,7 +2082,8 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "The best entrepreneurs of the UT",
     "data": {
-      "publisher": "RTV Oost"
+      "publisher": "RTV Oost",
+      "href": "https://www.rtvoost.nl/media/137176/De-beste-ondernemers-van-de-UT"
     }
   },
   {
@@ -2120,6 +2144,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
     "title": "Aristotle by Oswald Labs",
     "data": {
+      "href": "https://www.youtube.com/watch?v=223RTMXXtxc",
       "city": "Heerlen",
       "country": "NL",
       "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/aristotle.png",
@@ -2278,8 +2303,9 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "E94: Anand Chowdhary",
     "data": {
-      "embed": "https://open.spotify.com/embed/episode/22paCnKhK69elGTr35NVzX",
-      "publisher": "The Indian Startup Show"
+      "href": "http://www.indianstartupshow.com/anand",
+      "publisher": "The Indian Startup Show",
+      "embed": "https://open.spotify.com/embed/episode/22paCnKhK69elGTr35NVzX"
     }
   },
   {
@@ -2377,6 +2403,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "21 Under 21",
     "data": {
+      "href": "https://yourstory.com/2018/08/21-under-21-meet-the-young-entrepreneurs-who-are-changing-the-world-one-startup-at-a-time",
       "publisher": "YourStory"
     }
   },
@@ -2720,6 +2747,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "Forbes 30 Under 30",
     "data": {
+      "href": "https://www.forbes.com/profile/oswald-labs/",
       "publisher": "Forbes Asia"
     }
   },
@@ -2760,6 +2788,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
     "title": "In conversation with Anand Chowdhury",
     "data": {
+      "href": "https://www.facebook.com/UT.india/videos/vb.131267240259912/1537384432981512/?type=2&theater",
       "city": "Enschede",
       "country": "NL",
       "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/ut-india.png",
@@ -2774,6 +2803,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "The Next Billion: Anand Chowdhary",
     "data": {
+      "href": "https://overcast.fm/+Oa3ivwUlI",
       "publisher": "Ready or Not"
     }
   },
@@ -2791,6 +2821,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "50 Talents Under the Age of 35",
     "data": {
+      "href": "https://fd.nl/fd-persoonlijk/1231259/talentenspecial-de-lijst",
       "publisher": "Het Financieele Dagblad"
     }
   },
@@ -2825,7 +2856,8 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "In conversation with Anand Chowdhary",
     "data": {
-      "publisher": "University of Twente"
+      "publisher": "University of Twente",
+      "href": "https://www.facebook.com/utwente/posts/1838358482862203"
     }
   },
   {
@@ -2836,6 +2868,7 @@
     "title": "UT student among the top 50 young entrepreneurs",
     "data": {
       "publisher": "UToday",
+      "href": "https://www.utoday.nl/news/64984/ut-student-in-the-top-50-young-entrepreneurs",
       "author": "Jelle Posthuma"
     }
   },
@@ -2847,6 +2880,7 @@
     "title": "UT student on prestigious list of business magazine Forbes",
     "data": {
       "publisher": "Tubantia",
+      "href": "https://www.tubantia.nl/enschede/ut-student-op-prestigieuze-lijst-van-zakenblad-forbes~ac3dfe7d/",
       "author": "Gerben Kuitert"
     }
   },
@@ -3006,7 +3040,8 @@
     "type": "life-event",
     "url": "https://anandchowdhary.com/milestones/2017/moved-to-enschede-the-netherlands",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
-    "title": "Moved to Enschede, the Netherlands"
+    "title": "Moved to Enschede, the Netherlands",
+    "data": {}
   },
   {
     "date": "2017-08-12T00:00:00.000Z",
@@ -3049,6 +3084,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
     "title": "BharatHacks Live",
     "data": {
+      "href": "https://www.facebook.com/saranshkataria6/videos/10213396434210989/",
       "city": "New Delhi",
       "country": "IN",
       "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/bharathacks.png",
@@ -3125,6 +3161,7 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/videos.json",
     "title": "Interview with Anand Chowdhary, CEO, Oswald Foundation",
     "data": {
+      "href": "https://www.youtube.com/watch?v=wxbEd0lo4vY",
       "city": "Bangalore",
       "country": "IN",
       "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/startup-india-rocks.png",
@@ -3147,6 +3184,7 @@
     "title": "App to help dyslexics browse the web",
     "data": {
       "publisher": "Hindustan Times",
+      "href": "http://paper.hindustantimes.com/epaper/iphone/showpage.aspx?issue=89332016071000000000001001&page=6&returnUrl=http%253a%252f%252fpaper.hindustantimes.com%252fepaper%252fiphone%252fhomepage.aspx%2523_title89332016071000000000001001%252fwatitle8933201607100",
       "author": "Rajeev Mullick"
     }
   },
@@ -3157,7 +3195,8 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "Are You Tech Savvy? Meet This Super Teen Who Has Created MAGIC For People On How To Use The Web.",
     "data": {
-      "publisher": "PaisaWapas"
+      "publisher": "PaisaWapas",
+      "href": "https://www.paisawapas.com/student-stories/oswald-foundation-founders-interview-story/"
     }
   },
   {
@@ -3167,7 +3206,8 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "At just 16 and 18, these Delhi teens are using tech to make the web accessible to dyslexics and the visually impaired",
     "data": {
-      "publisher": "YourStory"
+      "publisher": "YourStory",
+      "href": "https://yourstory.com/2017/03/just-16-and-18-delhi-teens-web-accessible-dyslexics-visually-impaired/"
     }
   },
   {
@@ -3178,6 +3218,7 @@
     "title": "BharatHacks, a Hackathon to Solve Problems for India",
     "data": {
       "publisher": "BusinessWorld Disrupt",
+      "href": "http://bwdisrupt.businessworld.in/article/BharatHacks-a-Hackathon-to-Solve-Problems-for-India/27-07-2017-123013/",
       "author": "Sujata Sangwan"
     }
   },
@@ -3188,7 +3229,8 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "BharatHacks: Programmers, Designers, Engineers, and Entrepreneurs Joining Hands To Make Lives Of Billion Indians Better",
     "data": {
-      "publisher": "Bizztor"
+      "publisher": "Bizztor",
+      "href": "https://bizztor.com/in/bharathacks/"
     }
   },
   {
@@ -3198,7 +3240,8 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "Oswald Foundation, 10 Month Old Startup Goes Multinational",
     "data": {
-      "publisher": "BusinessWorld Disrupt"
+      "publisher": "BusinessWorld Disrupt",
+      "href": "http://bwdisrupt.businessworld.in/article/Oswald-Foundation-10-Month-Old-Startup-Goes-Multinational/14-07-2017-122124/"
     }
   },
   {
@@ -3209,6 +3252,7 @@
     "title": "These Delhi Teens Created A Reading App For People With Dyslexia. Bravo!",
     "data": {
       "publisher": "ScoopWhoop",
+      "href": "https://www.scoopwhoop.com/Delhi-Teens-Created-Reading-App-For-People-With-Dyslexia/",
       "author": "Geetanjali Taragi"
     }
   },
@@ -3220,6 +3264,7 @@
     "title": "These Delhi Teens Want To Change The Web With Their Reading App For Dyslexics",
     "data": {
       "publisher": "HuffPost",
+      "href": "https://www.huffingtonpost.in/2016/08/01/two-teenagers-from-delhi-want-to-change-the-web-with-this-readin_a_21442472/",
       "author": "Aashmita Nayar"
     }
   },
@@ -3353,7 +3398,9 @@
     "url": "https://anandchowdhary.com/milestones/2016/co-founded-oswald-labs",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Co-founded Oswald Labs",
-    "description": "Oswald Labs is an accessibility technology company that builds products for people with disabilities, like blind-friendly smartphone and dyslexia-friendly reading apps."
+    "data": {
+      "description": "Oswald Labs is an accessibility technology company that builds products for people with disabilities, like blind-friendly smartphone and dyslexia-friendly reading apps."
+    }
   },
   {
     "date": "2016-07-14T00:00:00.000Z",
@@ -3412,7 +3459,9 @@
     "url": "https://anandchowdhary.com/milestones/2016/finished-high-school",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Finished high school",
-    "description": "Graduated from The Mother's International School while receiving the Dharamveer Gajra Memorial Award for Positive Work in the Field of Information Technology and the Ratan Lal Lahoti Memorial Award for Topper in English (98%, CBSE SSCE). I was also President of MINET (technology Club), and a member of Impulse (physics club), Navchetna (yearbook editorial board), and MISMUN (Model United Nations)."
+    "data": {
+      "description": "Graduated from The Mother's International School while receiving the Dharamveer Gajra Memorial Award for Positive Work in the Field of Information Technology and the Ratan Lal Lahoti Memorial Award for Topper in English (98%, CBSE SSCE). I was also President of MINET (technology Club), and a member of Impulse (physics club), Navchetna (yearbook editorial board), and MISMUN (Model United Nations)."
+    }
   },
   {
     "date": "2016-03-01T00:00:00.000Z",
@@ -3458,6 +3507,7 @@
     "title": "Anand Chowdhary: Necessity leading to Innovation",
     "data": {
       "publisher": "Humans of Entrepreneurship",
+      "href": "https://web.archive.org/web/20170728120913/http://humansofentrepreneurship.com/anand-chaudhary-necessity-leading-innovation/",
       "author": "Shashank Saurabh"
     }
   },
@@ -3469,6 +3519,7 @@
     "title": "How Two Teenagers Are Helping People with Dyslexia & Visual Impairments Access the Web",
     "data": {
       "publisher": "The Better India",
+      "href": "https://www.thebetterindia.com/63239/oswald-web-access-dyslexia-visually-impaired/",
       "author": "Tanaya Singh"
     }
   },
@@ -3480,6 +3531,7 @@
     "title": "Meet Startup India Rocks Finale 2016 Winners",
     "data": {
       "publisher": "Indian CEO",
+      "href": "https://indianceo.in/news/meet-startup-india-rocks-finale-2016-winners/",
       "author": "Shishir Kumar"
     }
   },
@@ -3490,7 +3542,8 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "Startup India Rocks",
     "data": {
-      "publisher": "ET Now"
+      "publisher": "ET Now",
+      "href": "https://www.facebook.com/photo.php?fbid=1494967210531475&set=t.100000546315577&type=3&theater"
     }
   },
   {
@@ -3501,6 +3554,7 @@
     "title": "Teens create tool to help dyslexics access web",
     "data": {
       "publisher": "Inshorts",
+      "href": "https://www.inshorts.com/news/teens-create-tool-to-help-dyslexics-access-web-1470052316018",
       "author": "Sanira Mediratta"
     }
   },
@@ -3512,6 +3566,7 @@
     "title": "Thanks To Two Indian Teenagers, Dyslexic Internet Users Can Now Surf The Web With Ease",
     "data": {
       "publisher": "Homegrown",
+      "href": "https://homegrown.co.in/article/60219/thanks-to-two-indian-teenagers-dyslexic-internet-users-can-now-surf-the-web-with-ease/",
       "author": "Karan Kaul"
     }
   },
@@ -3520,7 +3575,8 @@
     "type": "life-event",
     "url": "https://anandchowdhary.com/milestones/2015/became-an-adult",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
-    "title": "Became an adult"
+    "title": "Became an adult",
+    "data": {}
   },
   {
     "date": "2015-12-11T00:00:00.000Z",
@@ -3710,7 +3766,8 @@
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/press.json",
     "title": "Dream Big, Start Now",
     "data": {
-      "publisher": "The Education Tree"
+      "publisher": "The Education Tree",
+      "href": "https://www.facebook.com/theeducationtree/photos/a.997200647003369.1073741866.427682870621819/1011451428911624/?type=3"
     }
   },
   {
@@ -3870,7 +3927,9 @@
     "url": "https://anandchowdhary.com/milestones/2014/co-founded-class-rebels",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Co-founded Class Rebels",
-    "description": "Class Rebels is an ed-tech startup I co-founded with Kunj Khurana and Sagar Chandna which built a social education platform and collaborative virtual library."
+    "data": {
+      "description": "Class Rebels is an ed-tech startup I co-founded with Kunj Khurana and Sagar Chandna which built a social education platform and collaborative virtual library."
+    }
   },
   {
     "date": "2014-02-07T00:00:00.000Z",
@@ -3898,6 +3957,7 @@
     "title": "Special Needs Technology Devised By Teens",
     "data": {
       "publisher": "Parent Herald",
+      "href": "http://www.parentherald.com/articles/58928/20160804/special-needs-technology-web-reading-app-people-dyslexia-learning-disabilities.htm",
       "author": "Elizabeth Anderson"
     }
   },
@@ -4047,6 +4107,7 @@
     "title": "Article in Time Out magazine",
     "data": {
       "publisher": "Time Out Delhi",
+      "href": "https://www.facebook.com/AnandChowdhary/posts/437109226305442",
       "author": "Sunalini Mathew",
       "description": "My friend Akshat Srivastava and I redesigned our school's official website using HTML5 and CSS3, for which we were featured in Time Out Magazine."
     }
@@ -4153,7 +4214,9 @@
     "url": "https://anandchowdhary.com/milestones/2010/became-a-vegetarian",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
     "title": "Became a vegetarian",
-    "description": "On my thirteenth birthday, I became a vegetarian."
+    "data": {
+      "description": "On my thirteenth birthday, I became a vegetarian."
+    }
   },
   {
     "date": "2009-03-30",
@@ -4163,6 +4226,7 @@
     "title": "Delhi kids show the way",
     "data": {
       "publisher": "Hindustan Times",
+      "href": "https://www.hindustantimes.com/delhi/delhi-kids-show-the-way/story-mASjzUCDtbQIa9pya13tCK.html",
       "author": "Avishek G. Dastidar",
       "description": "I was featured by one of the largest newspapers in India by circulation, Hindustan Times, for my work promoting Earth Hour 2008 with my sister Mishika."
     }
@@ -4172,6 +4236,7 @@
     "type": "life-event",
     "url": "https://anandchowdhary.com/milestones/1997/born-in-new-delhi-india",
     "source": "https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json",
-    "title": "Born in New Delhi, India"
+    "title": "Born in New Delhi, India",
+    "data": {}
   }
 ]
