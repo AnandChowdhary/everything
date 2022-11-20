@@ -62,6 +62,25 @@ const getEvents = async (): Promise<IEvent[]> => {
   return events;
 };
 
+interface ITheme {
+  slug: string;
+  title: string;
+  words: number;
+  date: string;
+  excerpt: string;
+}
+const getThemes = async (): Promise<ITheme[]> => {
+  if (CACHE_ENABLED) {
+    const data = await Deno.readTextFile("./.cache/themes.json");
+    return JSON.parse(data);
+  }
+
+  const themes = (await (
+    await fetch("https://anandchowdhary.github.io/themes/api.json")
+  ).json()) as ITheme[];
+  return themes;
+};
+
 interface IProject {
   slug: string;
   title: string;
@@ -278,7 +297,7 @@ export const generate = async () => {
       date.setUTCMonth((quarter.name - 1) * 3);
       okrs.push({
         type: "okr",
-        url: `https://anandchowdhary.com/life/okrs/${name}/${quarter.name}`,
+        url: `https://anandchowdhary.com/okrs/${name}/${quarter.name}`,
         source: `https://anandchowdhary.github.io/okrs/okrs/${name}/${quarter.name}.json`,
         title: `Published OKRs for Q${quarter.name} ${name}`,
         date: date.toISOString().substring(0, 10),
@@ -329,7 +348,7 @@ export const generate = async () => {
     ...(await getVersions()).map((version) => ({
       date: version.date,
       type: "version",
-      url: `https://anandchowdhary.com/colophon/versions/${new Date(
+      url: `https://anandchowdhary.com/versions/${new Date(
         version.date
       ).getUTCFullYear()}/${version.slug.replace(".md", "")}`,
       source: `https://anandchowdhary.github.io/versions/versions/${new Date(
@@ -349,12 +368,27 @@ export const generate = async () => {
       title: post.title,
       data: { words: post.words, excerpt: post.excerpt },
     })),
+    ...(await getThemes()).map((theme) => ({
+      date: theme.date,
+      type: "theme",
+      url: `https://anandchowdhary.com/themes/${new Date(
+        theme.date
+      ).getUTCFullYear()}`,
+      source: `https://anandchowdhary.github.io/themes/themes/${new Date(
+        theme.date
+      ).getUTCFullYear()}/${theme.slug.replace(".md", "")}`,
+      title: theme.title,
+      data: {
+        year: new Date(theme.date).getUTCFullYear(),
+        description: theme.excerpt,
+      },
+    })),
     ...(await getBooks())
       .filter(({ state }) => state == "completed")
       .map((book) => ({
         date: book.startedAt,
         type: "book",
-        url: `https://anandchowdhary.com/life/books/${new Date(
+        url: `https://anandchowdhary.com/books/${new Date(
           book.startedAt
         ).getUTCFullYear()}/${slugify(book.title, {
           lower: true,
@@ -367,7 +401,7 @@ export const generate = async () => {
     ...(await getLocation()).map((location) => ({
       date: location.updatedAt,
       type: "travel",
-      url: `https://anandchowdhary.com/life/travel/${new Date(
+      url: `https://anandchowdhary.com/travel/${new Date(
         location.updatedAt
       ).getUTCFullYear()}/${slugify(location.label, {
         lower: true,
@@ -386,7 +420,7 @@ export const generate = async () => {
     ...(await getLifeEvents()).map((event) => ({
       date: event.date,
       type: "life-event",
-      url: `https://anandchowdhary.com/life/milestones/${new Date(
+      url: `https://anandchowdhary.com/milestones/${new Date(
         event.date
       ).getUTCFullYear()}/${slugify(event.title, {
         lower: true,
