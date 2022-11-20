@@ -124,7 +124,7 @@
   {
     "date": "2022-09-27T23:02:22.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/san-francisco-a6239fd",
+    "url": "https://anandchowdhary.com/life/travel/2022/san-francisco-us",
     "source": "https://github.com/AnandChowdhary/location/commit/a6239fdcbef7e97306cd54c75e08f799cf65d8d4",
     "title": "San Francisco, United States of America",
     "data": {
@@ -143,7 +143,7 @@
   {
     "date": "2022-09-26T20:14:24.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/las-vegas-bf68615",
+    "url": "https://anandchowdhary.com/life/travel/2022/las-vegas-us",
     "source": "https://github.com/AnandChowdhary/location/commit/bf68615ea61793642672aef79583c01c9403f74b",
     "title": "Las Vegas, United States of America",
     "data": {
@@ -162,7 +162,7 @@
   {
     "date": "2022-09-14T21:19:20.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/geneve-fe232f2",
+    "url": "https://anandchowdhary.com/life/travel/2022/geneve-ch",
     "source": "https://github.com/AnandChowdhary/location/commit/fe232f2acf6522ac547e5eb7be87aab783f60b55",
     "title": "Genève, Switzerland",
     "data": {
@@ -344,7 +344,7 @@
   {
     "date": "2022-06-07T16:55:08.089Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/umraniyeistanbul-1afcac6",
+    "url": "https://anandchowdhary.com/life/travel/2022/umraniyeistanbul-tr",
     "source": "https://github.com/AnandChowdhary/location/commit/1afcac610166a5a744d0f020ed02d2ad3a74fec6",
     "title": "Ümraniye/İstanbul, Turkey",
     "data": {
@@ -368,7 +368,7 @@
   {
     "date": "2022-06-06T18:21:48.839Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/pendikistanbul-1c80d9f",
+    "url": "https://anandchowdhary.com/life/travel/2022/pendikistanbul-tr",
     "source": "https://github.com/AnandChowdhary/location/commit/1c80d9fc579dadadd0b95ff3e1335ed3a9d080ac",
     "title": "Pendik/İstanbul, Turkey",
     "data": {
@@ -392,7 +392,7 @@
   {
     "date": "2022-06-01T23:34:21.401Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/assevillers-ec78de5",
+    "url": "https://anandchowdhary.com/life/travel/2022/assevillers-fr",
     "source": "https://github.com/AnandChowdhary/location/commit/ec78de515d3a4c0ff8cb01dcc5807c35e72a3c8c",
     "title": "Assevillers, France",
     "data": {
@@ -423,7 +423,7 @@
   {
     "date": "2022-05-31T07:38:24.634Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/breda-6039618",
+    "url": "https://anandchowdhary.com/life/travel/2022/breda-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/6039618a0e0f56e33afcc9e34821c04c304c4e8e",
     "title": "Breda, Netherlands",
     "data": {
@@ -591,7 +591,7 @@
   {
     "date": "2022-02-28T12:18:46.638Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2022/berlin-88d57da",
+    "url": "https://anandchowdhary.com/life/travel/2022/berlin-de",
     "source": "https://github.com/AnandChowdhary/location/commit/88d57da7d4196f57f8edd5796fa048238bf15a05",
     "title": "Berlin, Germany",
     "data": {
@@ -917,7 +917,7 @@
   {
     "date": "2021-09-29T16:32:29.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/zurich-88d96ea",
+    "url": "https://anandchowdhary.com/life/travel/2021/zurich-ch",
     "source": "https://github.com/AnandChowdhary/location/commit/88d96ea8b75a0bfcc2363e9e77a7fa09bec05cc9",
     "title": "Zürich, Switzerland",
     "data": {
@@ -941,7 +941,7 @@
   {
     "date": "2021-09-29T14:52:28.375Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/kloten-3428a2b",
+    "url": "https://anandchowdhary.com/life/travel/2021/kloten-ch",
     "source": "https://github.com/AnandChowdhary/location/commit/3428a2b77e75bad64cef8804e724573d022f2884",
     "title": "Kloten, Switzerland",
     "data": {
@@ -981,7 +981,7 @@
   {
     "date": "2021-09-06T02:23:18.254Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/hoogstraten-41b9c4a",
+    "url": "https://anandchowdhary.com/life/travel/2021/hoogstraten-be",
     "source": "https://github.com/AnandChowdhary/location/commit/41b9c4a23e9f8e2e0a778006811abcdf54b2c87a",
     "title": "Hoogstraten, Belgium",
     "data": {
@@ -1005,7 +1005,7 @@
   {
     "date": "2021-09-02T11:05:59.432Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/bruxelles-46380c4",
+    "url": "https://anandchowdhary.com/life/travel/2021/bruxelles-be",
     "source": "https://github.com/AnandChowdhary/location/commit/46380c49009ccd89b85ed6f34571af9577212cca",
     "title": "Bruxelles, Belgium",
     "data": {
@@ -1053,7 +1053,7 @@
   {
     "date": "2021-04-07T08:34:08.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2021/groningen-dacbf7b",
+    "url": "https://anandchowdhary.com/life/travel/2021/groningen-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/dacbf7bb312f85dc6e26a1f941bd54d86cd77082",
     "title": "Groningen, Netherlands",
     "data": {
@@ -1414,7 +1414,7 @@
   {
     "date": "2019-12-16T15:59:49.999Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/newark-7bb4834",
+    "url": "https://anandchowdhary.com/life/travel/2019/newark-us",
     "source": "https://github.com/AnandChowdhary/location/commit/7bb48341c5dd8991369d7716c3bd42c1d6741ad2",
     "title": "Newark, United States of America",
     "data": {
@@ -1448,7 +1448,7 @@
   {
     "date": "2019-11-01T00:31:48.945Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/dublin-45fccbd",
+    "url": "https://anandchowdhary.com/life/travel/2019/dublin-us",
     "source": "https://github.com/AnandChowdhary/location/commit/45fccbdfcd7717ea79d510e7a99854d0a646c25b",
     "title": "Dublin, United States of America",
     "data": {
@@ -1527,7 +1527,7 @@
   {
     "date": "2019-09-24T12:25:22.795Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/new-york-6f1f80a",
+    "url": "https://anandchowdhary.com/life/travel/2019/new-york-us",
     "source": "https://github.com/AnandChowdhary/location/commit/6f1f80a52e5a82f264d721c081109efe3c6b53ea",
     "title": "New York, United States of America",
     "data": {
@@ -1580,7 +1580,7 @@
   {
     "date": "2019-08-15T07:37:58.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/haryana-8590c75",
+    "url": "https://anandchowdhary.com/life/travel/2019/haryana-in",
     "source": "https://github.com/AnandChowdhary/location/commit/8590c752fa9ee30c0b2543fb03b1b8fd659fa6e7",
     "title": "Haryana, India",
     "data": {
@@ -1693,7 +1693,7 @@
   {
     "date": "2019-06-04T13:49:46.916Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/den-7c14d0f",
+    "url": "https://anandchowdhary.com/life/travel/2019/den-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/7c14d0fde05aba4b455ab2967b1778969dd12527",
     "title": "Den, Netherlands",
     "data": {
@@ -1731,7 +1731,7 @@
   {
     "date": "2019-05-19T18:07:25.595Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/rotterdam-2a9cdc8",
+    "url": "https://anandchowdhary.com/life/travel/2019/rotterdam-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/2a9cdc84657860588a0e523c9147d579ad02c75a",
     "title": "Rotterdam, Netherlands",
     "data": {
@@ -1794,7 +1794,7 @@
   {
     "date": "2019-05-15T14:42:35.056Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/paris-62d774b",
+    "url": "https://anandchowdhary.com/life/travel/2019/paris-fr",
     "source": "https://github.com/AnandChowdhary/location/commit/62d774bc4ec01900484a9dbb715972b9afc2973f",
     "title": "Paris, France",
     "data": {
@@ -1979,7 +1979,7 @@
   {
     "date": "2019-01-10T14:50:07.206Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2019/schiphol-61ceba7",
+    "url": "https://anandchowdhary.com/life/travel/2019/schiphol-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/61ceba734d491665921d05aa822f2ec7929eba46",
     "title": "Schiphol, Netherlands",
     "data": {
@@ -2049,7 +2049,7 @@
   {
     "date": "2018-12-24T01:27:28.767Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/rossiya-f026015",
+    "url": "https://anandchowdhary.com/life/travel/2018/rossiya-ru",
     "source": "https://github.com/AnandChowdhary/location/commit/f0260150276dc356d1fea0483ebb7a19f8567761",
     "title": "Россия, Russia",
     "data": {
@@ -2128,7 +2128,7 @@
   {
     "date": "2018-11-14T23:00:17.996Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/london-de3f9ed",
+    "url": "https://anandchowdhary.com/life/travel/2018/london-gb",
     "source": "https://github.com/AnandChowdhary/location/commit/de3f9ed38c82a7736486f36129a6711ab6b2cfd0",
     "title": "London, United Kingdom",
     "data": {
@@ -2152,7 +2152,7 @@
   {
     "date": "2018-10-25T15:42:20.093Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/eindhoven-74db397",
+    "url": "https://anandchowdhary.com/life/travel/2018/eindhoven-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/74db397a59a47bc639632a4ba7b441fef3b0925b",
     "title": "Eindhoven, Netherlands",
     "data": {
@@ -2176,7 +2176,7 @@
   {
     "date": "2018-10-25T09:12:38.157Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/uttar-pradesh-a3f5c7a",
+    "url": "https://anandchowdhary.com/life/travel/2018/uttar-pradesh-in",
     "source": "https://github.com/AnandChowdhary/location/commit/a3f5c7ae90fbffca8d8405e873efcb289d94c0db",
     "title": "Uttar Pradesh, India",
     "data": {
@@ -2200,7 +2200,7 @@
   {
     "date": "2018-10-23T10:25:18.435Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/kuala-lumpur-1b89986",
+    "url": "https://anandchowdhary.com/life/travel/2018/kuala-lumpur-my",
     "source": "https://github.com/AnandChowdhary/location/commit/1b89986726fe9f8202820ce5052e7f0691cf4bf7",
     "title": "Kuala Lumpur, Malaysia",
     "data": {
@@ -2285,7 +2285,7 @@
   {
     "date": "2018-09-07T13:45:39.421Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/amsterdam-6cc233a",
+    "url": "https://anandchowdhary.com/life/travel/2018/amsterdam-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/6cc233a501888fffa0530928917b8c83ebb2141f",
     "title": "Amsterdam, Netherlands",
     "data": {
@@ -2405,7 +2405,7 @@
   {
     "date": "2018-07-07T10:59:33.152Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/citta-metropolitana-di-roma-644a2b5",
+    "url": "https://anandchowdhary.com/life/travel/2018/citta-metropolitana-di-roma-it",
     "source": "https://github.com/AnandChowdhary/location/commit/644a2b55b0f7086e3efcfbd800d6d3a74913bcba",
     "title": "Città Metropolitana di Roma, Italy",
     "data": {
@@ -2429,7 +2429,7 @@
   {
     "date": "2018-07-07T06:47:14.172Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/citta-metropolitana-di-milano-3624d76",
+    "url": "https://anandchowdhary.com/life/travel/2018/citta-metropolitana-di-milano-it",
     "source": "https://github.com/AnandChowdhary/location/commit/3624d768488b9754be31ea79d684bbac88c69b80",
     "title": "Città Metropolitana di Milano, Italy",
     "data": {
@@ -2453,7 +2453,7 @@
   {
     "date": "2018-07-04T18:41:50.506Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/avignonet-lauragais-fb41324",
+    "url": "https://anandchowdhary.com/life/travel/2018/avignonet-lauragais-fr",
     "source": "https://github.com/AnandChowdhary/location/commit/fb41324300ce574f5e12262308e7278e2e9548ea",
     "title": "Avignonet-Lauragais, France",
     "data": {
@@ -2477,7 +2477,7 @@
   {
     "date": "2018-07-04T07:20:43.283Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/blagnac-efb0698",
+    "url": "https://anandchowdhary.com/life/travel/2018/blagnac-fr",
     "source": "https://github.com/AnandChowdhary/location/commit/efb0698c77059cc4ac2955608d84a6c5ea3f3738",
     "title": "Blagnac, France",
     "data": {
@@ -2501,7 +2501,7 @@
   {
     "date": "2018-06-30T15:50:50.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/koln-e7c0112",
+    "url": "https://anandchowdhary.com/life/travel/2018/koln-de",
     "source": "https://github.com/AnandChowdhary/location/commit/e7c011232f0feca3fe2ef05ca812760053de71a9",
     "title": "Köln, Germany",
     "data": {
@@ -2520,7 +2520,7 @@
   {
     "date": "2018-06-23T17:01:20.965Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/antwerpen-3374cb7",
+    "url": "https://anandchowdhary.com/life/travel/2018/antwerpen-be",
     "source": "https://github.com/AnandChowdhary/location/commit/3374cb7e4e1ef659807d2d06183fb8acfc08ca0c",
     "title": "Antwerpen, Belgium",
     "data": {
@@ -2544,7 +2544,7 @@
   {
     "date": "2018-06-22T20:45:52.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/brugge-5471fc0",
+    "url": "https://anandchowdhary.com/life/travel/2018/brugge-be",
     "source": "https://github.com/AnandChowdhary/location/commit/5471fc0a77fb476ae5954af77d85521149f0b422",
     "title": "Brugge, Belgium",
     "data": {
@@ -2568,7 +2568,7 @@
   {
     "date": "2018-06-15T01:04:36.994Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/blanc-4fb0da1",
+    "url": "https://anandchowdhary.com/life/travel/2018/blanc-fr",
     "source": "https://github.com/AnandChowdhary/location/commit/4fb0da1fe4e1d0c38532ab7a5f72025620e8612c",
     "title": "Blanc, France",
     "data": {
@@ -2637,7 +2637,7 @@
   {
     "date": "2018-04-27T12:02:53.628Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/oldenzaal-228e425",
+    "url": "https://anandchowdhary.com/life/travel/2018/oldenzaal-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/228e425fe33ec2e445e60013a3e9e96f316d0657",
     "title": "Oldenzaal, Netherlands",
     "data": {
@@ -2765,7 +2765,7 @@
   {
     "date": "2018-01-13T16:09:33.168Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2018/noord-holland-b5c1c4d",
+    "url": "https://anandchowdhary.com/life/travel/2018/noord-holland-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/b5c1c4d6e357312948928c7098fd5c897939d193",
     "title": "Noord-Holland, Netherlands",
     "data": {
@@ -2821,7 +2821,7 @@
   {
     "date": "2017-12-23T12:31:32.165Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/rome-a6161ba",
+    "url": "https://anandchowdhary.com/life/travel/2017/rome-it",
     "source": "https://github.com/AnandChowdhary/location/commit/a6161bab0a96fbee821eebc51aae0e598c89adf3",
     "title": "Rome, Italy",
     "data": {
@@ -2845,7 +2845,7 @@
   {
     "date": "2017-12-23T07:58:32.857Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/milane-3972d23",
+    "url": "https://anandchowdhary.com/life/travel/2017/milane-it",
     "source": "https://github.com/AnandChowdhary/location/commit/3972d230f1d26cd176f952baebe53866b273e1d7",
     "title": "Milane, Italy",
     "data": {
@@ -2876,7 +2876,7 @@
   {
     "date": "2017-11-18T09:11:15.990Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/dusseldorf-2c8b3d5",
+    "url": "https://anandchowdhary.com/life/travel/2017/dusseldorf-de",
     "source": "https://github.com/AnandChowdhary/location/commit/2c8b3d5b22d8224c34c64dea8babd494c674c8d7",
     "title": "Düsseldorf, Germany",
     "data": {
@@ -2948,7 +2948,7 @@
   {
     "date": "2017-08-22T21:46:45.612Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2017/enschede-dc4a1d2",
+    "url": "https://anandchowdhary.com/life/travel/2017/enschede-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/dc4a1d2e6597484da1ce8feafb6da8e5be68dd39",
     "title": "Enschede, Netherlands",
     "data": {
@@ -3267,7 +3267,7 @@
   {
     "date": "2016-09-19T11:46:06.621Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/madhya-pradesh-0d44037",
+    "url": "https://anandchowdhary.com/life/travel/2016/madhya-pradesh-in",
     "source": "https://github.com/AnandChowdhary/location/commit/0d44037f1025eb4c9e526edcc9e5c62a4c6a2899",
     "title": "Madhya Pradesh, India",
     "data": {
@@ -3353,7 +3353,7 @@
   {
     "date": "2016-04-11T01:28:11.749Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2016/gujarat-f5c83a0",
+    "url": "https://anandchowdhary.com/life/travel/2016/gujarat-in",
     "source": "https://github.com/AnandChowdhary/location/commit/f5c83a0f3df3da5c081337f47c411c42b9c039fe",
     "title": "Gujarat, India",
     "data": {
@@ -3525,7 +3525,7 @@
   {
     "date": "2015-07-09T09:06:28.654Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2015/katra-ffd8126",
+    "url": "https://anandchowdhary.com/life/travel/2015/katra-in",
     "source": "https://github.com/AnandChowdhary/location/commit/ffd81268ecf35881d260c928001144155cd199f9",
     "title": "Katra, India",
     "data": {
@@ -3549,7 +3549,7 @@
   {
     "date": "2015-07-09T04:01:26.712Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2015/jammu-and-kashmir-85dda29",
+    "url": "https://anandchowdhary.com/life/travel/2015/jammu-and-kashmir-in",
     "source": "https://github.com/AnandChowdhary/location/commit/85dda29df7b065add8b290136b8788a3e7e06dc9",
     "title": "Jammu and Kashmir, India",
     "data": {
@@ -3595,7 +3595,7 @@
   {
     "date": "2015-06-20T04:55:54.959Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2015/-0a00a35",
+    "url": "https://anandchowdhary.com/life/travel/2015/-in",
     "source": "https://github.com/AnandChowdhary/location/commit/0a00a35104fa0ced95bab57fb134cf739e428451",
     "title": "महाराष्ट्र, India",
     "data": {
@@ -3684,7 +3684,7 @@
   {
     "date": "2014-11-28T22:53:39.720Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2014/-f84979e",
+    "url": "https://anandchowdhary.com/life/travel/2014/-jp",
     "source": "https://github.com/AnandChowdhary/location/commit/f84979e28eeb1d348446085558e63748723c2cb5",
     "title": "日本, Japan",
     "data": {
@@ -3872,7 +3872,7 @@
   {
     "date": "2013-12-20T15:40:44.106Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2013/delhi-68e191f",
+    "url": "https://anandchowdhary.com/life/travel/2013/delhi-in",
     "source": "https://github.com/AnandChowdhary/location/commit/68e191f6df0fa4700c147833f566e30df8a24154",
     "title": "Delhi, India",
     "data": {
@@ -4022,7 +4022,7 @@
   {
     "date": "2011-06-19",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2011/bangkok-4e0153b",
+    "url": "https://anandchowdhary.com/life/travel/2011/bangkok-th",
     "source": "https://github.com/AnandChowdhary/location/commit/4e0153b7cf7f9189cce297d30ee0bf82e71b814d",
     "title": "Bangkok, Thailand",
     "data": {
@@ -4046,7 +4046,7 @@
   {
     "date": "2011-06-15",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2011/pattaya-47714b6",
+    "url": "https://anandchowdhary.com/life/travel/2011/pattaya-th",
     "source": "https://github.com/AnandChowdhary/location/commit/47714b6311055eddd943ced582532f7a8d3e7018",
     "title": "Pattaya, Thailand",
     "data": {
@@ -4070,7 +4070,7 @@
   {
     "date": "2011-05-27",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2011/manila-48f8202",
+    "url": "https://anandchowdhary.com/life/travel/2011/manila-ph",
     "source": "https://github.com/AnandChowdhary/location/commit/48f8202c20e9535aca62b89bbbecd6ceb4230f75",
     "title": "Manila, Philippines",
     "data": {
@@ -4094,7 +4094,7 @@
   {
     "date": "2011-05-26",
     "type": "travel",
-    "url": "https://anandchowdhary.com/life/travel/2011/new-delhi-caaa0d1",
+    "url": "https://anandchowdhary.com/life/travel/2011/new-delhi-in",
     "source": "https://github.com/AnandChowdhary/location/commit/caaa0d12e3fc314daa67616d577d1b3c75ce53d4",
     "title": "New Delhi, India",
     "data": {
