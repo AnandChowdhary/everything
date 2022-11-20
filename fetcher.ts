@@ -198,14 +198,14 @@ interface IPress {
     date: string;
     href: string;
   }[];
-  podcastInterviews: {
+  podcasts: {
     title: string;
     publisher: string;
     date: string;
     href: string;
     embed?: string;
   }[];
-  pressFeatures: {
+  features: {
     title: string;
     publisher: string;
     date: string;
@@ -297,8 +297,8 @@ const getLocation = async (): Promise<ILocation[]> => {
 export const generate = async () => {
   const {
     awards: awardsData,
-    podcastInterviews: podcastsData,
-    pressFeatures: featuresData,
+    podcasts: podcastsData,
+    features: featuresData,
   } = await getPress();
 
   const { years } = await getOkrs();
