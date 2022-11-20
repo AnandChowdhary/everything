@@ -1,7 +1,24 @@
 const CACHE_ENABLED = Deno.env.get("CACHE_ENABLED") === "true";
 console.log("Cache enabled", CACHE_ENABLED);
 
-import { slugify } from "https://deno.land/x/slugify/mod.ts";
+import { slugify } from "https://deno.land/x/slugify@0.3.0/mod.ts";
+import type {
+  Timeline,
+  TimelineAward,
+  TimelineBlogPost,
+  TimelineBook,
+  TimelineEvent,
+  TimelineLifeEvent,
+  TimelineOkr,
+  TimelineOpenSourceProject,
+  TimelinePodcastInterview,
+  TimelinePressFeature,
+  TimelineProject,
+  TimelineTheme,
+  TimelineTravel,
+  TimelineVersion,
+  TimelineVideo,
+} from "./types/index.d.ts";
 
 interface IOkrs {
   updatedAt: string;
@@ -181,14 +198,14 @@ interface IPress {
     date: string;
     href: string;
   }[];
-  podcasts: {
+  podcastInterviews: {
     title: string;
     publisher: string;
     date: string;
     href: string;
     embed?: string;
   }[];
-  features: {
+  pressFeatures: {
     title: string;
     publisher: string;
     date: string;
@@ -231,7 +248,7 @@ interface IRepo {
   open_issues: number;
   forks_count: number;
   watchers_count: number;
-  language: string;
+  language?: string;
   language_color?: string;
 }
 const getRepos = async (): Promise<IRepo[]> => {
@@ -278,17 +295,14 @@ const getLocation = async (): Promise<ILocation[]> => {
 };
 
 export const generate = async () => {
-  const { awards, podcasts, features } = await getPress();
+  const {
+    awards: awardsData,
+    podcastInterviews: podcastsData,
+    pressFeatures: featuresData,
+  } = await getPress();
+
   const { years } = await getOkrs();
-  const okrs: {
-    type: "okr";
-    url: string;
-    source: string;
-    title: string;
-    date: string;
-    description: string;
-    data: IOkrs["years"][0]["quarters"][0];
-  }[] = [];
+  const okrs: TimelineOkr[] = [];
   years.forEach(({ name, quarters }) => {
     quarters.forEach((quarter) => {
       const date = new Date();
@@ -301,216 +315,242 @@ export const generate = async () => {
         source: `https://anandchowdhary.github.io/okrs/okrs/${name}/${quarter.name}.json`,
         title: `Published OKRs for Q${quarter.name} ${name}`,
         date: date.toISOString().substring(0, 10),
-        description: quarter.objectives.map(({ name }) => name).join(", "),
-        data: quarter,
+        data: {
+          ...quarter,
+          description: quarter.objectives.map(({ name }) => name).join(", "),
+        },
       });
     });
   });
 
-  const timeline: {
-    date: string;
-    type: string;
-    url: string;
-    source: string;
-    title: string;
-    description?: string;
-    data?: unknown;
-  }[] = [
-    ...okrs,
-    ...(await getEvents()).map((event) => ({
-      date: event.date,
-      type: "event",
-      url: `https://anandchowdhary.com/events/${new Date(
-        event.date
-      ).getUTCFullYear()}/${event.slug.replace(".md", "")}`,
-      source: `https://anandchowdhary.github.io/events/events/${new Date(
-        event.date
-      ).getUTCFullYear()}/${event.slug.replace(".md", "")}`,
-      title: event.name,
-      data: {
-        location: [event.venue, event.city].filter((i) => !!i).join(", "),
-        emoji: event.emoji,
-        country: event.country,
-        coordinates: event.coordinates,
-      },
-    })),
-    ...(await getProjects()).map((project) => ({
-      date: project.date,
-      type: "project",
-      url: `https://anandchowdhary.com/projects/${new Date(
-        project.date
-      ).getUTCFullYear()}/${project.slug.replace(".md", "")}`,
-      source: `https://anandchowdhary.github.io/projects/projects/${new Date(
-        project.date
-      ).getUTCFullYear()}/${project.slug.replace(".md", "")}`,
-      title: project.title,
-    })),
-    ...(await getVersions()).map((version) => ({
-      date: version.date,
-      type: "version",
-      url: `https://anandchowdhary.com/versions/${new Date(
-        version.date
-      ).getUTCFullYear()}/${version.slug.replace(".md", "")}`,
-      source: `https://anandchowdhary.github.io/versions/versions/${new Date(
-        version.date
-      ).getUTCFullYear()}/${version.slug.replace(".md", "")}`,
-      title: version.title,
-    })),
-    ...(await getBlogPosts()).map((post) => ({
-      date: post.date,
-      type: "blog-post",
-      url: `https://anandchowdhary.com/blog/${new Date(
-        post.date
-      ).getUTCFullYear()}/${post.slug.replace(".md", "")}`,
-      source: `https://anandchowdhary.github.io/blog/blog/${new Date(
-        post.date
-      ).getUTCFullYear()}/${post.slug.replace(".md", "")}`,
-      title: post.title,
-      data: { words: post.words, excerpt: post.excerpt },
-    })),
-    ...(await getThemes()).map((theme) => ({
-      date: theme.date,
-      type: "theme",
-      url: `https://anandchowdhary.com/themes/${new Date(
-        theme.date
-      ).getUTCFullYear()}`,
-      source: `https://anandchowdhary.github.io/themes/themes/${new Date(
-        theme.date
-      ).getUTCFullYear()}/${theme.slug.replace(".md", "")}`,
-      title: theme.title,
-      data: {
-        year: new Date(theme.date).getUTCFullYear(),
-        description: theme.excerpt,
-      },
-    })),
-    ...(await getBooks())
-      .filter(({ state }) => state == "completed")
-      .map((book) => ({
-        date: book.startedAt,
-        type: "book",
-        url: `https://anandchowdhary.com/books/${new Date(
-          book.startedAt
-        ).getUTCFullYear()}/${slugify(book.title, {
-          lower: true,
-          strict: true,
-        })}`,
-        source: `https://github.com/AnandChowdhary/books/issues/${book.issueNumber}`,
-        title: book.title,
-        data: { image: book.image, authors: book.authors },
-      })),
-    ...(await getLocation()).map((location) => ({
-      date: location.updatedAt,
-      type: "travel",
-      url: `https://anandchowdhary.com/travel/${new Date(
-        location.updatedAt
-      ).getUTCFullYear()}/${slugify(location.label, {
+  const events: TimelineEvent[] = (await getEvents()).map((event) => ({
+    date: event.date,
+    type: "event",
+    url: `https://anandchowdhary.com/events/${new Date(
+      event.date
+    ).getUTCFullYear()}/${event.slug.replace(".md", "")}`,
+    source: `https://anandchowdhary.github.io/events/events/${new Date(
+      event.date
+    ).getUTCFullYear()}/${event.slug.replace(".md", "")}`,
+    title: event.name,
+    data: {
+      location: [event.venue, event.city].filter((i) => !!i).join(", "),
+      emoji: event.emoji,
+      country: event.country,
+      coordinates: event.coordinates,
+    },
+  }));
+
+  const projects: TimelineProject[] = (await getProjects()).map((project) => ({
+    date: project.date,
+    type: "project",
+    url: `https://anandchowdhary.com/projects/${new Date(
+      project.date
+    ).getUTCFullYear()}/${project.slug.replace(".md", "")}`,
+    source: `https://anandchowdhary.github.io/projects/projects/${new Date(
+      project.date
+    ).getUTCFullYear()}/${project.slug.replace(".md", "")}`,
+    title: project.title,
+    data: undefined,
+  }));
+
+  const versions: TimelineVersion[] = (await getVersions()).map((version) => ({
+    date: version.date,
+    type: "version",
+    url: `https://anandchowdhary.com/versions/${new Date(
+      version.date
+    ).getUTCFullYear()}/${version.slug.replace(".md", "")}`,
+    source: `https://anandchowdhary.github.io/versions/versions/${new Date(
+      version.date
+    ).getUTCFullYear()}/${version.slug.replace(".md", "")}`,
+    title: version.title,
+    data: undefined,
+  }));
+
+  const blog: TimelineBlogPost[] = (await getBlogPosts()).map((post) => ({
+    date: post.date,
+    type: "blog-post",
+    url: `https://anandchowdhary.com/blog/${new Date(
+      post.date
+    ).getUTCFullYear()}/${post.slug.replace(".md", "")}`,
+    source: `https://anandchowdhary.github.io/blog/blog/${new Date(
+      post.date
+    ).getUTCFullYear()}/${post.slug.replace(".md", "")}`,
+    title: post.title,
+    data: { words: post.words, excerpt: post.excerpt },
+  }));
+
+  const themes: TimelineTheme[] = (await getThemes()).map((theme) => ({
+    date: theme.date,
+    type: "theme",
+    url: `https://anandchowdhary.com/themes/${new Date(
+      theme.date
+    ).getUTCFullYear()}`,
+    source: `https://anandchowdhary.github.io/themes/themes/${new Date(
+      theme.date
+    ).getUTCFullYear()}/${theme.slug.replace(".md", "")}`,
+    title: theme.title,
+    data: {
+      year: new Date(theme.date).getUTCFullYear(),
+      description: theme.excerpt,
+    },
+  }));
+
+  const books: TimelineBook[] = (await getBooks())
+    .filter(({ state }) => state == "completed")
+    .map((book) => ({
+      date: book.startedAt,
+      type: "book",
+      url: `https://anandchowdhary.com/books/${new Date(
+        book.startedAt
+      ).getUTCFullYear()}/${slugify(book.title, {
         lower: true,
-        strict: true,
-      })}-${location.country.code.toLowerCase()}`,
-      source: `https://github.com/AnandChowdhary/location/commit/${location.hash}`,
-      title: `${location.label}, ${location.country.name}`,
-      data: {
-        hash: location.hash,
-        approximateCoordinates: location.approximateCoordinates,
-        label: location.label,
-        timezone: location.timezone,
-        country: location.country,
-      },
-    })),
-    ...(await getLifeEvents()).map((event) => ({
+      })}`,
+      source: `https://github.com/AnandChowdhary/books/issues/${book.issueNumber}`,
+      title: book.title,
+      data: { image: book.image, authors: book.authors },
+    }));
+
+  const locations: TimelineTravel[] = (await getLocation()).map((location) => ({
+    date: location.updatedAt,
+    type: "travel",
+    url: `https://anandchowdhary.com/travel/${new Date(
+      location.updatedAt
+    ).getUTCFullYear()}/${slugify(location.label, {
+      lower: true,
+    })}-${location.country.code.toLowerCase()}`,
+    source: `https://github.com/AnandChowdhary/location/commit/${location.hash}`,
+    title: `${location.label}, ${location.country.name}`,
+    data: {
+      hash: location.hash,
+      approximateCoordinates: location.approximateCoordinates,
+      label: location.label,
+      timezone: location.timezone,
+      country: location.country,
+    },
+  }));
+
+  const lifeEvents: TimelineLifeEvent[] = (await getLifeEvents()).map(
+    (event) => ({
       date: event.date,
       type: "life-event",
       url: `https://anandchowdhary.com/milestones/${new Date(
         event.date
       ).getUTCFullYear()}/${slugify(event.title, {
         lower: true,
-        strict: true,
       })}`,
       source: `https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json`,
       title: event.title,
-      description: event.description,
-    })),
-    ...(await getVideos()).map((video) => ({
-      date: video.date,
-      type: "video",
-      url: `https://anandchowdhary.com/press/${new Date(
-        video.date
-      ).getUTCFullYear()}/${slugify(video.title, {
-        lower: true,
-        strict: true,
-      })}`,
-      source: `https://github.com/AnandChowdhary/everything/blog/main/data/videos.json`,
-      title: video.title,
-      data: {
-        city: video.city,
-        country: video.country,
-        img: video.img,
-        publisher: video.publisher,
-        duration: video.duration,
-      },
-    })),
-    ...awards.map((award) => ({
-      date: award.date,
-      type: "award",
-      url: `https://anandchowdhary.com/press/${new Date(
-        award.date
-      ).getUTCFullYear()}/${slugify(award.title, {
-        lower: true,
-        strict: true,
-      })}`,
-      source: `https://github.com/AnandChowdhary/everything/blog/main/data/press.json`,
-      title: award.title,
-      data: { publisher: award.publisher },
-    })),
-    ...podcasts.map((interview) => ({
+      data: { description: event.description },
+    })
+  );
+
+  const videos: TimelineVideo[] = (await getVideos()).map((video) => ({
+    date: video.date,
+    type: "video",
+    url: `https://anandchowdhary.com/press/${new Date(
+      video.date
+    ).getUTCFullYear()}/${slugify(video.title, {
+      lower: true,
+    })}`,
+    source: `https://github.com/AnandChowdhary/everything/blog/main/data/videos.json`,
+    title: video.title,
+    data: {
+      href: video.href,
+      city: video.city,
+      country: video.country,
+      img: video.img,
+      publisher: video.publisher,
+      duration: video.duration,
+    },
+  }));
+
+  const awards: TimelineAward[] = awardsData.map((award) => ({
+    date: award.date,
+    type: "award",
+    url: `https://anandchowdhary.com/press/${new Date(
+      award.date
+    ).getUTCFullYear()}/${slugify(award.title, {
+      lower: true,
+    })}`,
+    source: `https://github.com/AnandChowdhary/everything/blog/main/data/press.json`,
+    title: award.title,
+    data: { href: award.href, publisher: award.publisher },
+  }));
+
+  const podcastInterviews: TimelinePodcastInterview[] = podcastsData.map(
+    (interview) => ({
       date: interview.date,
       type: "podcast-interview",
       url: `https://anandchowdhary.com/press/${new Date(
         interview.date
       ).getUTCFullYear()}/${slugify(interview.title, {
         lower: true,
-        strict: true,
       })}`,
       source: `https://github.com/AnandChowdhary/everything/blog/main/data/press.json`,
       title: interview.title,
-      data: { embed: interview.embed, publisher: interview.publisher },
-    })),
-    ...features.map((article) => ({
-      date: article.date,
-      type: "press-feature",
-      url: `https://anandchowdhary.com/press/${new Date(
-        article.date
-      ).getUTCFullYear()}/${slugify(article.title, {
-        lower: true,
-        strict: true,
-      })}`,
-      source: `https://github.com/AnandChowdhary/everything/blog/main/data/press.json`,
-      title: article.title,
-      // href: article.href,
       data: {
-        publisher: article.publisher,
-        author: article.author,
-        description: article.description,
+        href: interview.href,
+        publisher: interview.publisher,
+        embed: interview.embed,
       },
-    })),
-    ...(await getRepos()).map((repo) => ({
-      date: repo.created_at,
-      type: "open-source-project",
-      title: repo.full_name,
-      url: `https://anandchowdhary.com/projects/${new Date(
-        repo.created_at
-      ).getUTCFullYear()}/${repo.full_name.split("/")[1]}`,
-      source: repo.html_url,
-      data: {
-        description: repo.description,
-        stars: repo.stargazers_count,
-        issues: repo.open_issues,
-        forks: repo.forks_count,
-        watchers: repo.watchers_count,
-        language: repo.language,
-        languageColor: repo.language_color,
-      },
-    })),
+    })
+  );
+
+  const pressFeatures: TimelinePressFeature[] = featuresData.map((article) => ({
+    date: article.date,
+    type: "press-feature",
+    url: `https://anandchowdhary.com/press/${new Date(
+      article.date
+    ).getUTCFullYear()}/${slugify(article.title, {
+      lower: true,
+    })}`,
+    source: `https://github.com/AnandChowdhary/everything/blog/main/data/press.json`,
+    title: article.title,
+    data: {
+      publisher: article.publisher,
+      href: article.href,
+      author: article.author,
+      description: article.description,
+    },
+  }));
+
+  const openSourceProjects: TimelineOpenSourceProject[] = (
+    await getRepos()
+  ).map((repo) => ({
+    date: repo.created_at,
+    type: "open-source-project",
+    title: repo.full_name,
+    url: `https://anandchowdhary.com/projects/${new Date(
+      repo.created_at
+    ).getUTCFullYear()}/${repo.full_name.split("/")[1]}`,
+    source: repo.html_url,
+    data: {
+      description: repo.description,
+      stars: repo.stargazers_count,
+      issues: repo.open_issues,
+      forks: repo.forks_count,
+      watchers: repo.watchers_count,
+      language: repo.language,
+      languageColor: repo.language_color,
+    },
+  }));
+
+  const timeline: Timeline = [
+    ...okrs,
+    ...events,
+    ...projects,
+    ...versions,
+    ...blog,
+    ...themes,
+    ...books,
+    ...locations,
+    ...lifeEvents,
+    ...videos,
+    ...awards,
+    ...podcastInterviews,
+    ...pressFeatures,
+    ...openSourceProjects,
   ].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   Deno.writeTextFile("api.json", JSON.stringify(timeline, null, 2) + "\n");

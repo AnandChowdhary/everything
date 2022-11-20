@@ -1,6 +1,6 @@
 # ⏳ Everything
 
-Thie repository contains timeline of all my activities as an API. It's built using Deno and it periodically fetches data from various sources and compiles it as a single JSON file.
+This repository contains timeline of all my activities as an API. It's built using Deno and it periodically fetches data from various sources and compiles it as a single JSON file.
 
 **API:** https://anandchowdhary.github.io/everything/api.json
 
