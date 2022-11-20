@@ -51,7 +51,10 @@ export type TimelineBlogPost = TimelineBaseItem<
   { words: number; excerpt: string }
 >;
 
-export type TimelineTheme = TimelineBaseItem<"theme", { description: string }>;
+export type TimelineTheme = TimelineBaseItem<
+  "theme",
+  { year: number; description: string }
+>;
 
 export type TimelineBook = TimelineBaseItem<
   "book",
