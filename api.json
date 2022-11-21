@@ -16,6 +16,46 @@
     }
   },
   {
+    "date": "2022-11-07T01:58:00.313Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2022/san-mateo-county-us",
+    "source": "https://github.com/AnandChowdhary/location/commit/488fa32c5b906678a5328ee77ebf81cc15be988c",
+    "title": "San Mateo County, United States of America",
+    "data": {
+      "hash": "488fa32c5b906678a5328ee77ebf81cc15be988c",
+      "approximateCoordinates": [
+        37.61,
+        -122.39
+      ],
+      "label": "San Mateo County",
+      "timezone": {
+        "name": "America/Los_Angeles",
+        "utcOffset": -480,
+        "dstOffset": -420
+      },
+      "country": {
+        "code": "us",
+        "name": "United States of America"
+      }
+    }
+  },
+  {
+    "date": "2022-11-01T10:01:10Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/birthday-reminders-action",
+    "url": "https://anandchowdhary.com/projects/2022/birthday-reminders-action",
+    "source": "https://github.com/AnandChowdhary/birthday-reminders-action",
+    "data": {
+      "description": "🎁 Daily messages for birthday reminders using GitHub Actions",
+      "stars": 3,
+      "issues": 0,
+      "forks": 0,
+      "watchers": 3,
+      "language": "JavaScript",
+      "languageColor": "#f1e05a"
+    }
+  },
+  {
     "date": "2022-10-08T13:02:31.000Z",
     "type": "version",
     "url": "https://anandchowdhary.com/versions/2022/alameda",
@@ -122,25 +162,6 @@
     }
   },
   {
-    "date": "2022-09-27T23:02:22.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2022/san-francisco-us",
-    "source": "https://github.com/AnandChowdhary/location/commit/a6239fdcbef7e97306cd54c75e08f799cf65d8d4",
-    "title": "San Francisco, United States of America",
-    "data": {
-      "hash": "a6239fdcbef7e97306cd54c75e08f799cf65d8d4",
-      "approximateCoordinates": [
-        37.62,
-        -122.38
-      ],
-      "label": "San Francisco",
-      "country": {
-        "code": "US",
-        "name": "United States of America"
-      }
-    }
-  },
-  {
     "date": "2022-09-26T20:14:24.000Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2022/las-vegas-us",
@@ -154,8 +175,32 @@
       ],
       "label": "Las Vegas",
       "country": {
-        "code": "US",
+        "code": "us",
         "name": "United States of America"
+      }
+    }
+  },
+  {
+    "date": "2022-09-16T11:02:24.000Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2022/saint-louis-fr",
+    "source": "https://github.com/AnandChowdhary/location/commit/68530e461f7970be60e196e0064d624041b8627a",
+    "title": "Saint-Louis, France",
+    "data": {
+      "hash": "68530e461f7970be60e196e0064d624041b8627a",
+      "approximateCoordinates": [
+        47.6,
+        7.53
+      ],
+      "label": "Saint-Louis",
+      "timezone": {
+        "name": "Europe/Paris",
+        "utcOffset": 60,
+        "dstOffset": 120
+      },
+      "country": {
+        "code": "fr",
+        "name": "France"
       }
     }
   },
@@ -178,7 +223,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "CH",
+        "code": "ch",
         "name": "Switzerland"
       }
     }
@@ -360,7 +405,7 @@
         "dstOffset": 180
       },
       "country": {
-        "code": "TR",
+        "code": "tr",
         "name": "Turkey"
       }
     }
@@ -384,7 +429,7 @@
         "dstOffset": 180
       },
       "country": {
-        "code": "TR",
+        "code": "tr",
         "name": "Turkey"
       }
     }
@@ -408,7 +453,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "FR",
+        "code": "fr",
         "name": "France"
       }
     }
@@ -440,7 +485,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "NL",
+        "code": "nl",
         "name": "Netherlands"
       }
     }
@@ -590,6 +635,30 @@
     }
   },
   {
+    "date": "2022-03-09T10:23:56.999Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2022/praha-cz",
+    "source": "https://github.com/AnandChowdhary/location/commit/4a0411f6f45f3f787446dda42c5ae7321175b025",
+    "title": "Praha, Czechia",
+    "data": {
+      "hash": "4a0411f6f45f3f787446dda42c5ae7321175b025",
+      "approximateCoordinates": [
+        50.1,
+        14.26
+      ],
+      "label": "Praha",
+      "timezone": {
+        "name": "Europe/Prague",
+        "utcOffset": 60,
+        "dstOffset": 120
+      },
+      "country": {
+        "code": "cz",
+        "name": "Czechia"
+      }
+    }
+  },
+  {
     "date": "2022-02-28T12:18:46.638Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2022/berlin-de",
@@ -603,7 +672,26 @@
       ],
       "label": "Berlin",
       "country": {
-        "code": "DE",
+        "code": "de",
+        "name": "Germany"
+      }
+    }
+  },
+  {
+    "date": "2022-02-28T08:16:41.502Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2022/bad-bentheim-de",
+    "source": "https://github.com/AnandChowdhary/location/commit/78be355d2623a7ee1862e29dea3bf78578aa6cd9",
+    "title": "Bad Bentheim, Germany",
+    "data": {
+      "hash": "78be355d2623a7ee1862e29dea3bf78578aa6cd9",
+      "approximateCoordinates": [
+        52.31,
+        7.16
+      ],
+      "label": "Bad Bentheim",
+      "country": {
+        "code": "de",
         "name": "Germany"
       }
     }
@@ -621,6 +709,22 @@
         "Kenneth H. Blanchard",
         "Spencer Johnson"
       ]
+    }
+  },
+  {
+    "date": "2022-01-24T10:22:46Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/remix-starter",
+    "url": "https://anandchowdhary.com/projects/2022/remix-starter",
+    "source": "https://github.com/AnandChowdhary/remix-starter",
+    "data": {
+      "description": "💿 Starter for @remix-run with localized routing and i18n",
+      "stars": 51,
+      "issues": 1,
+      "forks": 3,
+      "watchers": 51,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
     }
   },
   {
@@ -945,7 +1049,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "CH",
+        "code": "ch",
         "name": "Switzerland"
       }
     }
@@ -969,7 +1073,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "CH",
+        "code": "ch",
         "name": "Switzerland"
       }
     }
@@ -1009,7 +1113,31 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "BE",
+        "code": "be",
+        "name": "Belgium"
+      }
+    }
+  },
+  {
+    "date": "2021-09-06T00:32:44.240Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2021/nazareth-be",
+    "source": "https://github.com/AnandChowdhary/location/commit/683afb8a5f0338cb5f5f75197a8f809320aa7211",
+    "title": "Nazareth, Belgium",
+    "data": {
+      "hash": "683afb8a5f0338cb5f5f75197a8f809320aa7211",
+      "approximateCoordinates": [
+        50.97,
+        3.61
+      ],
+      "label": "Nazareth",
+      "timezone": {
+        "name": "Europe/Brussels",
+        "utcOffset": 60,
+        "dstOffset": 120
+      },
+      "country": {
+        "code": "be",
         "name": "Belgium"
       }
     }
@@ -1033,7 +1161,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "BE",
+        "code": "be",
         "name": "Belgium"
       }
     }
@@ -1083,7 +1211,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "NL",
+        "code": "nl",
         "name": "Netherlands"
       }
     }
@@ -1146,10 +1274,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 53,
+      "stars": 55,
       "issues": 4,
       "forks": 6,
-      "watchers": 53,
+      "watchers": 55,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1275,10 +1403,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12121,
-      "issues": 60,
-      "forks": 673,
-      "watchers": 12121,
+      "stars": 12160,
+      "issues": 61,
+      "forks": 677,
+      "watchers": 12160,
       "language": "Markdown",
       "languageColor": "#083fa1"
     }
@@ -1402,6 +1530,70 @@
     }
   },
   {
+    "date": "2020-05-02T22:23:19Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/calendar-slots",
+    "url": "https://anandchowdhary.com/projects/2020/calendar-slots",
+    "source": "https://github.com/AnandChowdhary/calendar-slots",
+    "data": {
+      "description": "🗓️ Find empty appointment slots in a user's calendar",
+      "stars": 11,
+      "issues": 16,
+      "forks": 2,
+      "watchers": 11,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2020-04-16T19:08:22Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/docs-markdown",
+    "url": "https://anandchowdhary.com/projects/2020/docs-markdown",
+    "source": "https://github.com/AnandChowdhary/docs-markdown",
+    "data": {
+      "description": "📝 Convert a Google Docs file (API response) to Markdown",
+      "stars": 28,
+      "issues": 13,
+      "forks": 7,
+      "watchers": 28,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2020-04-15T15:39:39Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/puppet",
+    "url": "https://anandchowdhary.com/projects/2020/puppet",
+    "source": "https://github.com/AnandChowdhary/puppet",
+    "data": {
+      "description": "🎭 Natural language web automation with Puppeteer",
+      "stars": 7,
+      "issues": 15,
+      "forks": 1,
+      "watchers": 7,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2020-03-19T06:50:16Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/node.ts",
+    "url": "https://anandchowdhary.com/projects/2020/node.ts",
+    "source": "https://github.com/AnandChowdhary/node.ts",
+    "data": {
+      "description": "🏷️ Opinionated TypeScript starter for server-side Node.js libraries",
+      "stars": 2,
+      "issues": 16,
+      "forks": 2,
+      "watchers": 2,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
     "date": "2020-02-09T19:08:44Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/archiver",
@@ -1415,6 +1607,30 @@
       "watchers": 6,
       "language": "TypeScript",
       "languageColor": "#3178c6"
+    }
+  },
+  {
+    "date": "2020-02-01T08:11:05.109Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2020/arnavutkoyistanbul-tr",
+    "source": "https://github.com/AnandChowdhary/location/commit/27fb9eff1dabeacacaed4f0486844deea7456ad5",
+    "title": "Arnavutköy/İstanbul, Turkey",
+    "data": {
+      "hash": "27fb9eff1dabeacacaed4f0486844deea7456ad5",
+      "approximateCoordinates": [
+        41.26,
+        28.74
+      ],
+      "label": "Arnavutköy/İstanbul",
+      "timezone": {
+        "name": "Europe/Istanbul",
+        "utcOffset": 180,
+        "dstOffset": 180
+      },
+      "country": {
+        "code": "tr",
+        "name": "Turkey"
+      }
     }
   },
   {
@@ -1472,7 +1688,7 @@
       ],
       "label": "Newark",
       "country": {
-        "code": "US",
+        "code": "us",
         "name": "United States of America"
       }
     }
@@ -1508,7 +1724,7 @@
       ],
       "label": "Dublin",
       "country": {
-        "code": "US",
+        "code": "us",
         "name": "United States of America"
       }
     }
@@ -1589,7 +1805,26 @@
       ],
       "label": "New York",
       "country": {
-        "code": "US",
+        "code": "us",
+        "name": "United States of America"
+      }
+    }
+  },
+  {
+    "date": "2019-09-16T05:49:15.179Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2019/san-francisco-us",
+    "source": "https://github.com/AnandChowdhary/location/commit/ddd7d180ee0bbf4b25f780f865b4331a1c17a1d0",
+    "title": "San Francisco, United States of America",
+    "data": {
+      "hash": "ddd7d180ee0bbf4b25f780f865b4331a1c17a1d0",
+      "approximateCoordinates": [
+        37.72,
+        -121.85
+      ],
+      "label": "San Francisco",
+      "country": {
+        "code": "us",
         "name": "United States of America"
       }
     }
@@ -1647,7 +1882,7 @@
         "dstOffset": 330
       },
       "country": {
-        "code": "IN",
+        "code": "in",
         "name": "India"
       }
     }
@@ -1761,7 +1996,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "NL",
+        "code": "nl",
         "name": "Netherlands"
       }
     }
@@ -1799,7 +2034,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "NL",
+        "code": "nl",
         "name": "Netherlands"
       }
     }
@@ -1862,7 +2097,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "FR",
+        "code": "fr",
         "name": "France"
       }
     }
@@ -1914,6 +2149,22 @@
       "watchers": 18,
       "language": "Vue",
       "languageColor": "#41b883"
+    }
+  },
+  {
+    "date": "2019-03-18T10:41:08Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/auto-i18n",
+    "url": "https://anandchowdhary.com/projects/2019/auto-i18n",
+    "source": "https://github.com/AnandChowdhary/auto-i18n",
+    "data": {
+      "description": "🌐 Automatically translate your JSON I18N files",
+      "stars": 19,
+      "issues": 15,
+      "forks": 2,
+      "watchers": 19,
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
     }
   },
   {
@@ -1973,10 +2224,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 33,
+      "stars": 34,
       "issues": 6,
       "forks": 13,
-      "watchers": 33,
+      "watchers": 34,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -2021,10 +2272,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 238,
-      "issues": 2,
-      "forks": 49,
-      "watchers": 238,
+      "stars": 241,
+      "issues": 5,
+      "forks": 51,
+      "watchers": 241,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -2048,7 +2299,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "NL",
+        "code": "nl",
         "name": "Netherlands"
       }
     }
@@ -2094,10 +2345,10 @@
     "source": "https://github.com/AnandChowdhary/hello-bar",
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
-      "stars": 71,
+      "stars": 72,
       "issues": 23,
       "forks": 11,
-      "watchers": 71,
+      "watchers": 72,
       "language": "JavaScript",
       "languageColor": "#f1e05a"
     }
@@ -2116,7 +2367,7 @@
       ],
       "label": "Россия",
       "country": {
-        "code": "RU",
+        "code": "ru",
         "name": "Russia"
       }
     }
@@ -2201,32 +2452,8 @@
         "dstOffset": 60
       },
       "country": {
-        "code": "GB",
+        "code": "gb",
         "name": "United Kingdom"
-      }
-    }
-  },
-  {
-    "date": "2018-10-25T15:42:20.093Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2018/eindhoven-nl",
-    "source": "https://github.com/AnandChowdhary/location/commit/74db397a59a47bc639632a4ba7b441fef3b0925b",
-    "title": "Eindhoven, Netherlands",
-    "data": {
-      "hash": "74db397a59a47bc639632a4ba7b441fef3b0925b",
-      "approximateCoordinates": [
-        51.45,
-        5.46
-      ],
-      "label": "Eindhoven",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "NL",
-        "name": "Netherlands"
       }
     }
   },
@@ -2249,26 +2476,50 @@
         "dstOffset": 330
       },
       "country": {
-        "code": "IN",
+        "code": "in",
         "name": "India"
       }
     }
   },
   {
-    "date": "2018-10-23T10:25:18.435Z",
+    "date": "2018-10-24T09:16:23.471Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2018/eindhoven-nl",
+    "source": "https://github.com/AnandChowdhary/location/commit/bb8bf4b5736e30bfa0126243913bdb9b7f4d524e",
+    "title": "Eindhoven, Netherlands",
+    "data": {
+      "hash": "bb8bf4b5736e30bfa0126243913bdb9b7f4d524e",
+      "approximateCoordinates": [
+        51.45,
+        5.46
+      ],
+      "label": "Eindhoven",
+      "timezone": {
+        "name": "Europe/Amsterdam",
+        "utcOffset": 60,
+        "dstOffset": 120
+      },
+      "country": {
+        "code": "nl",
+        "name": "Netherlands"
+      }
+    }
+  },
+  {
+    "date": "2018-10-23T03:38:17.213Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2018/kuala-lumpur-my",
-    "source": "https://github.com/AnandChowdhary/location/commit/1b89986726fe9f8202820ce5052e7f0691cf4bf7",
+    "source": "https://github.com/AnandChowdhary/location/commit/0f6e37eaa6d6c6c65cecfb2846cde8cc403dacef",
     "title": "Kuala Lumpur, Malaysia",
     "data": {
-      "hash": "1b89986726fe9f8202820ce5052e7f0691cf4bf7",
+      "hash": "0f6e37eaa6d6c6c65cecfb2846cde8cc403dacef",
       "approximateCoordinates": [
         3.17,
         101.69
       ],
       "label": "Kuala Lumpur",
       "country": {
-        "code": "MY",
+        "code": "my",
         "name": "Malaysia"
       }
     }
@@ -2359,7 +2610,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "NL",
+        "code": "nl",
         "name": "Netherlands"
       }
     }
@@ -2462,30 +2713,6 @@
     }
   },
   {
-    "date": "2018-07-07T10:59:33.152Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2018/citta-metropolitana-di-roma-it",
-    "source": "https://github.com/AnandChowdhary/location/commit/644a2b55b0f7086e3efcfbd800d6d3a74913bcba",
-    "title": "Città Metropolitana di Roma, Italy",
-    "data": {
-      "hash": "644a2b55b0f7086e3efcfbd800d6d3a74913bcba",
-      "approximateCoordinates": [
-        41.8,
-        12.25
-      ],
-      "label": "Città Metropolitana di Roma",
-      "timezone": {
-        "name": "Europe/Rome",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "IT",
-        "name": "Italy"
-      }
-    }
-  },
-  {
     "date": "2018-07-07T06:47:14.172Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2018/citta-metropolitana-di-milano-it",
@@ -2504,7 +2731,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "IT",
+        "code": "it",
         "name": "Italy"
       }
     }
@@ -2528,7 +2755,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "FR",
+        "code": "fr",
         "name": "France"
       }
     }
@@ -2552,7 +2779,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "FR",
+        "code": "fr",
         "name": "France"
       }
     }
@@ -2571,8 +2798,32 @@
       ],
       "label": "Köln",
       "country": {
-        "code": "DE",
+        "code": "de",
         "name": "Germany"
+      }
+    }
+  },
+  {
+    "date": "2018-06-23T18:23:44.000Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2018/veldhoven-nl",
+    "source": "https://github.com/AnandChowdhary/location/commit/e89b2c98e143bcad50071415d418ab0f79cbbe3f",
+    "title": "Veldhoven, Netherlands",
+    "data": {
+      "hash": "e89b2c98e143bcad50071415d418ab0f79cbbe3f",
+      "approximateCoordinates": [
+        51.4,
+        5.38
+      ],
+      "label": "Veldhoven",
+      "timezone": {
+        "name": "Europe/Amsterdam",
+        "utcOffset": 60,
+        "dstOffset": 120
+      },
+      "country": {
+        "code": "nl",
+        "name": "Netherlands"
       }
     }
   },
@@ -2595,7 +2846,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "BE",
+        "code": "be",
         "name": "Belgium"
       }
     }
@@ -2619,8 +2870,32 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "BE",
+        "code": "be",
         "name": "Belgium"
+      }
+    }
+  },
+  {
+    "date": "2018-06-16T02:38:23.921Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2018/nijmegen-nl",
+    "source": "https://github.com/AnandChowdhary/location/commit/aac273bf4808b7c27bb49f4bc94a73af12bc91d6",
+    "title": "Nijmegen, Netherlands",
+    "data": {
+      "hash": "aac273bf4808b7c27bb49f4bc94a73af12bc91d6",
+      "approximateCoordinates": [
+        51.84,
+        5.86
+      ],
+      "label": "Nijmegen",
+      "timezone": {
+        "name": "Europe/Amsterdam",
+        "utcOffset": 60,
+        "dstOffset": 120
+      },
+      "country": {
+        "code": "nl",
+        "name": "Netherlands"
       }
     }
   },
@@ -2643,7 +2918,31 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "FR",
+        "code": "fr",
+        "name": "France"
+      }
+    }
+  },
+  {
+    "date": "2018-06-14T02:05:35.740Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2018/euralille-fr",
+    "source": "https://github.com/AnandChowdhary/location/commit/706d6dfe1d8daacec0542a69ce17f7e99f973371",
+    "title": "Euralille, France",
+    "data": {
+      "hash": "706d6dfe1d8daacec0542a69ce17f7e99f973371",
+      "approximateCoordinates": [
+        50.64,
+        3.08
+      ],
+      "label": "Euralille",
+      "timezone": {
+        "name": "Europe/Paris",
+        "utcOffset": 60,
+        "dstOffset": 120
+      },
+      "country": {
+        "code": "fr",
         "name": "France"
       }
     }
@@ -2694,6 +2993,25 @@
     }
   },
   {
+    "date": "2018-04-29T21:01:49.360Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2018/hannover-de",
+    "source": "https://github.com/AnandChowdhary/location/commit/9c35319470ad3936d66ad8ce731940a17181200d",
+    "title": "Hannover, Germany",
+    "data": {
+      "hash": "9c35319470ad3936d66ad8ce731940a17181200d",
+      "approximateCoordinates": [
+        52.38,
+        9.74
+      ],
+      "label": "Hannover",
+      "country": {
+        "code": "de",
+        "name": "Germany"
+      }
+    }
+  },
+  {
     "date": "2018-04-27T12:02:53.628Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2018/oldenzaal-nl",
@@ -2712,7 +3030,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "NL",
+        "code": "nl",
         "name": "Netherlands"
       }
     }
@@ -2725,10 +3043,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1750,
+      "stars": 1753,
       "issues": 45,
       "forks": 121,
-      "watchers": 1750,
+      "watchers": 1753,
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -2826,26 +3144,26 @@
     }
   },
   {
-    "date": "2018-01-13T16:09:33.168Z",
+    "date": "2018-01-13T07:46:41.017Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2018/noord-holland-nl",
-    "source": "https://github.com/AnandChowdhary/location/commit/b5c1c4d6e357312948928c7098fd5c897939d193",
-    "title": "Noord-Holland, Netherlands",
+    "url": "https://anandchowdhary.com/travel/2018/citta-metropolitana-di-roma-it",
+    "source": "https://github.com/AnandChowdhary/location/commit/c74f4fe42468cb54c88ef29ce7ff000147f0801b",
+    "title": "Città Metropolitana di Roma, Italy",
     "data": {
-      "hash": "b5c1c4d6e357312948928c7098fd5c897939d193",
+      "hash": "c74f4fe42468cb54c88ef29ce7ff000147f0801b",
       "approximateCoordinates": [
-        52.31,
-        4.77
+        41.8,
+        12.25
       ],
-      "label": "Noord-Holland",
+      "label": "Città Metropolitana di Roma",
       "timezone": {
-        "name": "Europe/Amsterdam",
+        "name": "Europe/Rome",
         "utcOffset": 60,
         "dstOffset": 120
       },
       "country": {
-        "code": "NL",
-        "name": "Netherlands"
+        "code": "it",
+        "name": "Italy"
       }
     }
   },
@@ -2903,7 +3221,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "IT",
+        "code": "it",
         "name": "Italy"
       }
     }
@@ -2927,7 +3245,7 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "IT",
+        "code": "it",
         "name": "Italy"
       }
     }
@@ -2953,7 +3271,26 @@
       ],
       "label": "Düsseldorf",
       "country": {
-        "code": "DE",
+        "code": "de",
+        "name": "Germany"
+      }
+    }
+  },
+  {
+    "date": "2017-11-18T05:36:58.000Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2017/gronau-(westfalen)-de",
+    "source": "https://github.com/AnandChowdhary/location/commit/d20630fcda1472420e1dd626abef665580321408",
+    "title": "Gronau (Westfalen), Germany",
+    "data": {
+      "hash": "d20630fcda1472420e1dd626abef665580321408",
+      "approximateCoordinates": [
+        52.22,
+        7.02
+      ],
+      "label": "Gronau (Westfalen)",
+      "country": {
+        "code": "de",
         "name": "Germany"
       }
     }
@@ -3030,7 +3367,31 @@
         "dstOffset": 120
       },
       "country": {
-        "code": "NL",
+        "code": "nl",
+        "name": "Netherlands"
+      }
+    }
+  },
+  {
+    "date": "2017-08-22T18:04:29.765Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2017/noord-holland-nl",
+    "source": "https://github.com/AnandChowdhary/location/commit/b101b1ceccdd7677b66e89d085e2d31b03f74d61",
+    "title": "Noord-Holland, Netherlands",
+    "data": {
+      "hash": "b101b1ceccdd7677b66e89d085e2d31b03f74d61",
+      "approximateCoordinates": [
+        52.31,
+        4.77
+      ],
+      "label": "Noord-Holland",
+      "timezone": {
+        "name": "Europe/Amsterdam",
+        "utcOffset": 60,
+        "dstOffset": 120
+      },
+      "country": {
+        "code": "nl",
         "name": "Netherlands"
       }
     }
@@ -3360,7 +3721,7 @@
         "dstOffset": 330
       },
       "country": {
-        "code": "IN",
+        "code": "in",
         "name": "India"
       }
     }
@@ -3448,7 +3809,7 @@
         "dstOffset": 330
       },
       "country": {
-        "code": "IN",
+        "code": "in",
         "name": "India"
       }
     }
@@ -3629,7 +3990,7 @@
         "dstOffset": 330
       },
       "country": {
-        "code": "IN",
+        "code": "in",
         "name": "India"
       }
     }
@@ -3653,7 +4014,7 @@
         "dstOffset": 330
       },
       "country": {
-        "code": "IN",
+        "code": "in",
         "name": "India"
       }
     }
@@ -3699,7 +4060,7 @@
         "dstOffset": 330
       },
       "country": {
-        "code": "IN",
+        "code": "in",
         "name": "India"
       }
     }
@@ -3771,16 +4132,16 @@
     }
   },
   {
-    "date": "2014-11-28T22:53:39.720Z",
+    "date": "2014-11-24T23:00:04.680Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2014/-jp",
-    "source": "https://github.com/AnandChowdhary/location/commit/f84979e28eeb1d348446085558e63748723c2cb5",
+    "source": "https://github.com/AnandChowdhary/location/commit/52220368a0ec30a464bca97ddca3a1e09a9af64b",
     "title": "日本, Japan",
     "data": {
-      "hash": "f84979e28eeb1d348446085558e63748723c2cb5",
+      "hash": "52220368a0ec30a464bca97ddca3a1e09a9af64b",
       "approximateCoordinates": [
-        35.76,
-        139.46
+        35.77,
+        140.39
       ],
       "label": "日本",
       "timezone": {
@@ -3789,7 +4150,7 @@
         "dstOffset": 540
       },
       "country": {
-        "code": "JP",
+        "code": "jp",
         "name": "Japan"
       }
     }
@@ -3980,7 +4341,7 @@
         "dstOffset": 330
       },
       "country": {
-        "code": "IN",
+        "code": "in",
         "name": "India"
       }
     }
@@ -4131,7 +4492,7 @@
         "dstOffset": 420
       },
       "country": {
-        "code": "TH",
+        "code": "th",
         "name": "Thailand"
       }
     }
@@ -4155,7 +4516,7 @@
         "dstOffset": 420
       },
       "country": {
-        "code": "TH",
+        "code": "th",
         "name": "Thailand"
       }
     }
@@ -4179,7 +4540,7 @@
         "dstOffset": 480
       },
       "country": {
-        "code": "PH",
+        "code": "ph",
         "name": "Philippines"
       }
     }
@@ -4203,7 +4564,7 @@
         "dstOffset": 330
       },
       "country": {
-        "code": "IN",
+        "code": "in",
         "name": "India"
       }
     }
