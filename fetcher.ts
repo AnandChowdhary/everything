@@ -245,6 +245,7 @@ interface IRepo {
   created_at: string;
   description?: string;
   stargazers_count: number;
+  topics?: string[];
   open_issues: number;
   forks_count: number;
   watchers_count: number;
@@ -531,6 +532,7 @@ export const generate = async () => {
       issues: repo.open_issues,
       forks: repo.forks_count,
       watchers: repo.watchers_count,
+      topics: repo.topics ?? [],
       language: repo.language,
       languageColor: repo.language_color,
     },

@@ -119,6 +119,7 @@ export type TimelineOpenSourceProject = TimelineBaseItem<
     issues: number;
     forks: number;
     watchers: number;
+    topics: string[];
     language?: string;
     languageColor?: string;
   }
