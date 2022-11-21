@@ -27,6 +27,13 @@
       "issues": 0,
       "forks": 0,
       "watchers": 3,
+      "topics": [
+        "birthday",
+        "birthday-reminder",
+        "github-actions",
+        "telegram-bot",
+        "typescript"
+      ],
       "language": "JavaScript",
       "languageColor": "#f1e05a"
     }
@@ -159,16 +166,16 @@
   {
     "date": "2022-09-14T21:19:20.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2022/geneve-ch",
+    "url": "https://anandchowdhary.com/travel/2022/geneva-ch",
     "source": "https://github.com/AnandChowdhary/location/commit/fe232f2acf6522ac547e5eb7be87aab783f60b55",
-    "title": "Genève, Switzerland",
+    "title": "Geneva, Switzerland",
     "data": {
       "hash": "fe232f2acf6522ac547e5eb7be87aab783f60b55",
       "approximateCoordinates": [
         46.22,
         6.12
       ],
-      "label": "Genève",
+      "label": "Geneva",
       "timezone": {
         "name": "Europe/Zurich",
         "utcOffset": 60,
@@ -584,6 +591,14 @@
       "issues": 1,
       "forks": 3,
       "watchers": 51,
+      "topics": [
+        "i18n",
+        "javascript",
+        "nextjs",
+        "remix",
+        "remix-run",
+        "typescript"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1067,6 +1082,15 @@
       "issues": 4,
       "forks": 6,
       "watchers": 55,
+      "topics": [
+        "api",
+        "books",
+        "data",
+        "generator",
+        "github-actions",
+        "reading",
+        "tracker"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1180,6 +1204,13 @@
       "issues": 1,
       "forks": 3,
       "watchers": 30,
+      "topics": [
+        "github-actions",
+        "nodejs",
+        "template",
+        "template-repository",
+        "typescript"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1196,6 +1227,14 @@
       "issues": 61,
       "forks": 677,
       "watchers": 12160,
+      "topics": [
+        "incidents-reports",
+        "status",
+        "statuspage",
+        "upptime",
+        "uptime",
+        "uptime-monitor"
+      ],
       "language": "Markdown",
       "languageColor": "#083fa1"
     }
@@ -1212,6 +1251,14 @@
       "issues": 7,
       "forks": 2,
       "watchers": 6,
+      "topics": [
+        "hmac",
+        "jsonwebtoken",
+        "jwt",
+        "sha1",
+        "token",
+        "tokens"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1301,6 +1348,13 @@
       "issues": 15,
       "forks": 1,
       "watchers": 3,
+      "topics": [
+        "bootstrapping",
+        "cli",
+        "node-ts",
+        "nodejs",
+        "typescript"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1330,6 +1384,13 @@
       "issues": 16,
       "forks": 2,
       "watchers": 11,
+      "topics": [
+        "calendar",
+        "calendar-api",
+        "google-calendar",
+        "nodejs",
+        "typescript"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1346,6 +1407,14 @@
       "issues": 13,
       "forks": 7,
       "watchers": 28,
+      "topics": [
+        "google",
+        "google-docs",
+        "google-drive",
+        "markdown",
+        "nodejs",
+        "typescript"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1362,6 +1431,15 @@
       "issues": 15,
       "forks": 1,
       "watchers": 7,
+      "topics": [
+        "automation",
+        "chrome",
+        "chromium",
+        "puppeteer",
+        "scraper",
+        "typescript",
+        "web"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1378,6 +1456,13 @@
       "issues": 16,
       "forks": 2,
       "watchers": 2,
+      "topics": [
+        "javascript",
+        "library",
+        "nodejs",
+        "starter",
+        "typescript"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1394,6 +1479,14 @@
       "issues": 7,
       "forks": 1,
       "watchers": 6,
+      "topics": [
+        "archive-dot-org",
+        "automation",
+        "internet-archive",
+        "nodejs",
+        "typescript",
+        "wayback-machine"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1707,6 +1800,15 @@
       "issues": 14,
       "forks": 2,
       "watchers": 7,
+      "topics": [
+        "dom",
+        "feedback",
+        "javascript",
+        "plugin",
+        "screenshot",
+        "typescript",
+        "widget"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1866,6 +1968,14 @@
       "issues": 0,
       "forks": 2,
       "watchers": 2,
+      "topics": [
+        "browser",
+        "icons",
+        "image",
+        "logo",
+        "os",
+        "typescript"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1882,6 +1992,12 @@
       "issues": 16,
       "forks": 8,
       "watchers": 10,
+      "topics": [
+        "error-handling",
+        "error-monitoring",
+        "scrum",
+        "typescript"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -1955,6 +2071,13 @@
       "issues": 22,
       "forks": 1,
       "watchers": 18,
+      "topics": [
+        "links",
+        "share",
+        "typescript",
+        "url-shortener",
+        "vue"
+      ],
       "language": "Vue",
       "languageColor": "#41b883"
     }
@@ -1971,6 +2094,15 @@
       "issues": 15,
       "forks": 2,
       "watchers": 19,
+      "topics": [
+        "automation",
+        "google-translate",
+        "i18n",
+        "l18n",
+        "nodejs",
+        "translation",
+        "typescript"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -2020,6 +2152,13 @@
       "issues": 19,
       "forks": 1,
       "watchers": 13,
+      "topics": [
+        "app",
+        "git",
+        "typescript",
+        "vue",
+        "writing"
+      ],
       "language": "Vue",
       "languageColor": "#41b883"
     }
@@ -2036,6 +2175,11 @@
       "issues": 6,
       "forks": 13,
       "watchers": 34,
+      "topics": [
+        "generator",
+        "icons",
+        "languages"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -2052,6 +2196,13 @@
       "issues": 11,
       "forks": 0,
       "watchers": 11,
+      "topics": [
+        "filesystem",
+        "fs",
+        "library",
+        "nodejs",
+        "typescript"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -2068,6 +2219,14 @@
       "issues": 19,
       "forks": 0,
       "watchers": 5,
+      "topics": [
+        "changelog",
+        "notifications",
+        "plugin",
+        "semantic-versioning",
+        "typescript",
+        "widget"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -2084,6 +2243,15 @@
       "issues": 5,
       "forks": 51,
       "watchers": 241,
+      "topics": [
+        "calendar",
+        "calendar-link",
+        "google-calendar",
+        "javascript",
+        "library",
+        "outlook",
+        "yahoo"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -2133,6 +2301,13 @@
       "issues": 23,
       "forks": 11,
       "watchers": 72,
+      "topics": [
+        "engagement",
+        "hellobar",
+        "js",
+        "library",
+        "marketing"
+      ],
       "language": "JavaScript",
       "languageColor": "#f1e05a"
     }
@@ -2149,6 +2324,13 @@
       "issues": 20,
       "forks": 10,
       "watchers": 83,
+      "topics": [
+        "a11y",
+        "hovercard",
+        "javascript",
+        "plugin",
+        "wikipedia"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -2644,6 +2826,14 @@
       "issues": 45,
       "forks": 121,
       "watchers": 1753,
+      "topics": [
+        "file-upload",
+        "image",
+        "javascript",
+        "plugin",
+        "uploader",
+        "widget"
+      ],
       "language": "TypeScript",
       "languageColor": "#3178c6"
     }
@@ -3705,6 +3895,14 @@
       "issues": 0,
       "forks": 0,
       "watchers": 2,
+      "topics": [
+        "css",
+        "library",
+        "minimal",
+        "sass",
+        "scss",
+        "single-page"
+      ],
       "language": "HTML",
       "languageColor": "#e34c26"
     }
