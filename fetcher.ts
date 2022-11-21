@@ -440,7 +440,7 @@ export const generate = async () => {
       ).getUTCFullYear()}/${slugify(event.title, {
         lower: true,
       })}`,
-      source: `https://github.com/AnandChowdhary/everything/blog/main/data/life-events.json`,
+      source: `https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json`,
       title: event.title,
       data: { description: event.description },
     })
@@ -454,7 +454,7 @@ export const generate = async () => {
     ).getUTCFullYear()}/${slugify(video.title, {
       lower: true,
     })}`,
-    source: `https://github.com/AnandChowdhary/everything/blog/main/data/videos.json`,
+    source: `https://github.com/AnandChowdhary/everything/blob/main/data/videos.json`,
     title: video.title,
     data: {
       href: video.href,
@@ -474,7 +474,7 @@ export const generate = async () => {
     ).getUTCFullYear()}/${slugify(award.title, {
       lower: true,
     })}`,
-    source: `https://github.com/AnandChowdhary/everything/blog/main/data/press.json`,
+    source: `https://github.com/AnandChowdhary/everything/blob/main/data/press.json`,
     title: award.title,
     data: { href: award.href, publisher: award.publisher },
   }));
@@ -485,10 +485,10 @@ export const generate = async () => {
       type: "podcast-interview",
       url: `https://anandchowdhary.com/press/${new Date(
         interview.date
-      ).getUTCFullYear()}/${slugify(interview.title, {
+      ).getUTCFullYear()}/${slugify(interview.publisher, {
         lower: true,
       })}`,
-      source: `https://github.com/AnandChowdhary/everything/blog/main/data/press.json`,
+      source: `https://github.com/AnandChowdhary/everything/blob/main/data/press.json`,
       title: interview.title,
       data: {
         href: interview.href,
@@ -503,10 +503,10 @@ export const generate = async () => {
     type: "press-feature",
     url: `https://anandchowdhary.com/press/${new Date(
       article.date
-    ).getUTCFullYear()}/${slugify(article.title, {
+    ).getUTCFullYear()}/${slugify(article.publisher, {
       lower: true,
     })}`,
-    source: `https://github.com/AnandChowdhary/everything/blog/main/data/press.json`,
+    source: `https://github.com/AnandChowdhary/everything/blob/main/data/press.json`,
     title: article.title,
     data: {
       publisher: article.publisher,
