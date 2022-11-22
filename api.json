@@ -1521,7 +1521,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/open-source/uppload/cover.png",
-        "attachment": "cover"
+        "attachment": "cover",
+        "color": "#f05d5e"
       }
     }
   },
@@ -1603,7 +1604,8 @@
       "collaborators": [],
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/type-with-tobias/3.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#e4a100"
       }
     }
   },
@@ -1757,7 +1759,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/open-source/staart/cover.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#0e632c"
       }
     }
   },
@@ -2018,7 +2021,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/scrub/image.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#145efb"
       }
     }
   },
@@ -2440,7 +2444,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/aristotle/2.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#aaa"
       }
     }
   },
@@ -2566,7 +2571,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/oswald-labs/shravan/cover.png",
-        "attachment": "cover"
+        "attachment": "cover",
+        "color": "#c82333"
       }
     }
   },
@@ -3041,7 +3047,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/csunite_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#00998e"
       }
     }
   },
@@ -3067,7 +3074,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/drillmaps_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#009cff"
       }
     }
   },
@@ -3207,7 +3215,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/refuserve_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#0097a8"
       }
     }
   },
@@ -3282,7 +3291,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/capella_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#de2a49"
       }
     }
   },
@@ -3334,7 +3344,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/oswald-labs/agastya/cover.png",
-        "attachment": "cover"
+        "attachment": "cover",
+        "color": "skyblue"
       }
     }
   },
@@ -3425,7 +3436,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/bharathacks_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#27577a"
       }
     }
   },
@@ -3561,7 +3573,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/melangebox_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#0095de"
       }
     }
   },
@@ -3691,7 +3704,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/naari_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#217ed0"
       }
     }
   },
@@ -3843,7 +3857,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/oswald-labs/valmiki/cover.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#28a745"
       }
     }
   },
@@ -3867,7 +3882,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/delhi-government_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#00a48d"
       }
     }
   },
@@ -3961,7 +3977,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/keeep_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#8d9ba6"
       }
     }
   },
@@ -4077,7 +4094,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/baymax_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#de9945"
       }
     }
   },
@@ -4129,7 +4147,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/sixteeninches_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#f30f40"
       }
     }
   },
@@ -4259,7 +4278,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/saga-music_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#00c1d7"
       }
     }
   },
@@ -4392,7 +4412,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/justice-adda_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#e4e4e4"
       }
     }
   },
@@ -4487,7 +4508,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/unifiers_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#d7eed0"
       }
     }
   },
@@ -4532,7 +4554,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/mwlii/cover.png",
-        "attachment": "cover"
+        "attachment": "cover",
+        "color": "#f10032"
       }
     }
   },
@@ -4690,7 +4713,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/internet.org_2x.png",
-        "attachment": "padded"
+        "attachment": "padded",
+        "color": "#a03c0c"
       }
     }
   },
@@ -4765,7 +4789,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/pickquick/cover.png",
-        "attachment": "cover"
+        "attachment": "cover",
+        "color": "#b0c486"
       }
     }
   },
@@ -4791,7 +4816,8 @@
       },
       "image": {
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/gsmc/cover.png",
-        "attachment": "cover"
+        "attachment": "cover",
+        "color": "#9d2e2c"
       }
     }
   },
