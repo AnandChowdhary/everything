@@ -1,5 +1,27 @@
 [
   {
+    "date": "2022-11-20T17:12:23.000Z",
+    "type": "theme",
+    "url": "https://anandchowdhary.com/themes/2022",
+    "source": "https://anandchowdhary.github.io/themes/themes/2022/year-of-commitment",
+    "title": "Year of Commitment",
+    "data": {
+      "year": 2022,
+      "description": "I didn't write a blog post about my theme in 2021, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this theme:\n\nMy theme for 2021 was Year of Commitment. In a post-pandemic world, I decided to double down on long-term goals (work, health, and personal life), and after living in India for most of the year, I wanted to move back to the Netherlands -- but not alone this time. In the last quarter of"
+    }
+  },
+  {
+    "date": "2022-11-20T16:21:04.000Z",
+    "type": "theme",
+    "url": "https://anandchowdhary.com/themes/2022",
+    "source": "https://anandchowdhary.github.io/themes/themes/2022/year-of-long-term",
+    "title": "Year of Long Term",
+    "data": {
+      "year": 2022,
+      "description": "I didn't write a blog post about my theme in 2020, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this theme:\n\n2020 was my Year of Long Term. I had just come back after living for a short while in the San Francisco Bay Area (after an exchange semester at Santa Clara University) and I knew that I'd be graduating from the University of Twente in 2020, so I had to decide where to fo"
+    }
+  },
+  {
     "date": "2022-11-09T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2022/github-universe",
@@ -228,6 +250,17 @@
         "Reid Hoffman",
         "Chris Yeh"
       ]
+    }
+  },
+  {
+    "date": "2022-07-11T13:55:47.000Z",
+    "type": "theme",
+    "url": "https://anandchowdhary.com/themes/2022",
+    "source": "https://anandchowdhary.github.io/themes/themes/2022/year-of-teamwork",
+    "title": "Year of Teamwork",
+    "data": {
+      "year": 2022,
+      "description": "Year of Teamwork stems from some of the issues I've been facing lately with delegation. Reflecting on my calendar in the past few months, I see that I've already started spending significantly more time on code review and planning than actually writing code than I used to this time last year, but it's not nearly enough. I still spend the majority of my time as an individual contributor, which is scaling very poorly."
     }
   },
   {
@@ -716,16 +749,6 @@
     }
   },
   {
-    "date": "2022-01-01T00:00:00.000Z",
-    "type": "theme",
-    "url": "https://anandchowdhary.com/themes/2022",
-    "source": "https://anandchowdhary.github.io/themes/themes/2022/year-of-teamwork",
-    "title": "Year of Teamwork",
-    "data": {
-      "year": 2022
-    }
-  },
-  {
     "date": "2021-12-29T19:04:50.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2021/year-of-teamwork",
@@ -1134,17 +1157,6 @@
     }
   },
   {
-    "date": "2021-01-01T00:00:00.000Z",
-    "type": "theme",
-    "url": "https://anandchowdhary.com/themes/2021",
-    "source": "https://anandchowdhary.github.io/themes/themes/2021/year-of-commitment",
-    "title": "Year of Commitment",
-    "data": {
-      "year": 2021,
-      "description": "I didn't write a blog post about my theme in 2021, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this"
-    }
-  },
-  {
     "date": "2020-11-18T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2020/ut-global-entrepreneurship-week",
@@ -1524,17 +1536,6 @@
         "attachment": "cover",
         "color": "#f05d5e"
       }
-    }
-  },
-  {
-    "date": "2020-01-01T00:00:00.000Z",
-    "type": "theme",
-    "url": "https://anandchowdhary.com/themes/2020",
-    "source": "https://anandchowdhary.github.io/themes/themes/2020/year-of-long-term",
-    "title": "Year of Long Term",
-    "data": {
-      "year": 2020,
-      "description": "I didn't write a blog post about my theme in 2020, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this"
     }
   },
   {
