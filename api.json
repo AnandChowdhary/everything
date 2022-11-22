@@ -1507,7 +1507,23 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2020/uppload",
     "source": "https://anandchowdhary.github.io/projects/projects/2020/uppload",
-    "title": "Uppload"
+    "title": "Uppload",
+    "data": {
+      "description": "Open source JavaScript file uploading widget with 30+ plugins to select and edit photos",
+      "tags": [
+        "Web",
+        "Open source"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/open-source/uppload/icon.png",
+        "requiresBackground": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/open-source/uppload/coverpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2020-01-01T00:00:00.000Z",
@@ -1575,7 +1591,21 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2019/type-with-tobias",
     "source": "https://anandchowdhary.github.io/projects/projects/2019/type-with-tobias",
-    "title": "Type with Tobias"
+    "title": "Type with Tobias",
+    "data": {
+      "description": "Booklet, tickets, and branding for typography and design event at Santa Clara University",
+      "tags": [
+        "Branding",
+        "Print",
+        "Sketch",
+        "InDesign"
+      ],
+      "collaborators": [],
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/type-with-tobias/3png",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2019-12-04",
@@ -1711,7 +1741,25 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2019/staart",
     "source": "https://anandchowdhary.github.io/projects/projects/2019/staart",
-    "title": "Staart"
+    "title": "Staart",
+    "data": {
+      "description": "Full-stack SaaS startup starters with recurring payments, authentication, API gateway, and more",
+      "tags": [
+        "Web",
+        "Open source",
+        "Node.js",
+        "Vue.js"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/staart/icon.png",
+        "requiresBackground": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/open-source/staart/coverpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2019-08-31T12:05:38.000Z",
@@ -1954,7 +2002,25 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2019/scrub",
     "source": "https://anandchowdhary.github.io/projects/projects/2019/scrub",
-    "title": "Scrub"
+    "title": "Scrub",
+    "data": {
+      "description": "Scrum/Agile error mitigation platform with StackOverflow integration powered by open-source bug tracker",
+      "tags": [
+        "Web"
+      ],
+      "collaborators": [
+        "alex-imbrea",
+        "mohit-ahuja"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/scrub/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/scrub/imagepng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2019-05-17T14:36:43Z",
@@ -2355,14 +2421,54 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2018/aristotle",
     "source": "https://anandchowdhary.github.io/projects/projects/2018/aristotle",
-    "title": "Aristotle"
+    "title": "Aristotle",
+    "data": {
+      "description": "E-learning platform for Limburg's schools with personalized content recommendations and actionable analytics",
+      "tags": [
+        "Web",
+        "AI",
+        "Vue.js",
+        "Firebase"
+      ],
+      "collaborators": [
+        "alex-imbrea",
+        "maurits-van-der-vijgh"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/aristotle/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/aristotle/2png",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2018-11-17T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2018/clshare",
     "source": "https://anandchowdhary.github.io/projects/projects/2018/clshare",
-    "title": "CLShare"
+    "title": "CLShare",
+    "data": {
+      "description": "AI-powered employee engagement and chat platform with HR automation and analytics for CLS Group",
+      "tags": [
+        "App",
+        "AI",
+        "Vue.js"
+      ],
+      "collaborators": [
+        "alex-imbrea"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/clshare/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/clshare/coverpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2018-11-15T00:00:00.000Z",
@@ -2444,7 +2550,25 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2018/shravan-apps",
     "source": "https://anandchowdhary.github.io/projects/projects/2018/shravan-apps",
-    "title": "Shravan Apps"
+    "title": "Shravan Apps",
+    "data": {
+      "description": "Suite of free smartphone apps for people with disabilities like dyslexia, blindness, and deafness",
+      "tags": [
+        "Web",
+        "Oswald Labs"
+      ],
+      "collaborators": [
+        "mahendra-singh-raghuwanshi"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/oswald-labs/shravan/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/oswald-labs/shravan/coverpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2018-09-28",
@@ -2753,7 +2877,28 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2018/wendy",
     "source": "https://anandchowdhary.github.io/projects/projects/2018/wendy",
-    "title": "Wendy"
+    "title": "Wendy",
+    "data": {
+      "description": "Smartphone-based home security system with face detection, AI chatbot, and real-time notifications",
+      "tags": [
+        "App",
+        "AI",
+        "IoT",
+        "Vue.js",
+        "Firebase"
+      ],
+      "collaborators": [
+        "mohit-ahuja"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/wendy/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/wendy_2xpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2018-05-16T00:00:00.000Z",
@@ -2843,7 +2988,26 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2018/ibm-iot-escape-room",
     "source": "https://anandchowdhary.github.io/projects/projects/2018/ibm-iot-escape-room",
-    "title": "IBM IoT Escape Room"
+    "title": "IBM IoT Escape Room",
+    "data": {
+      "description": "Educational escape room built using IoT technology and a real-time database with IBM for a module project in April 2018.",
+      "tags": [
+        "IoT",
+        "Hardware",
+        "Firebase",
+        "Node.js",
+        "Vue.js"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/ibm-iot-escape-room/icon.png",
+        "requiresBackground": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/ibm-iot-escape-room_2xpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2018-03-27",
@@ -2861,14 +3025,51 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2018/csunite",
     "source": "https://anandchowdhary.github.io/projects/projects/2018/csunite",
-    "title": "CSUnite"
+    "title": "CSUnite",
+    "data": {
+      "description": "Hyperlocal on-demand cleaning and employee training app for the Netherlands' second-largest cleaning service provider.",
+      "tags": [
+        "App",
+        "Vue.js"
+      ],
+      "collaborators": [
+        "mohit-ahuja"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/csunite/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/csunite_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2018-03-11T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2018/drillmaps",
     "source": "https://anandchowdhary.github.io/projects/projects/2018/drillmaps",
-    "title": "DrillMaps"
+    "title": "DrillMaps",
+    "data": {
+      "description": "Platform for Seattle-based horizontal directional drilling company built using Vue.js and integrated with Stripe and Firebase.",
+      "tags": [
+        "Web",
+        "Branding",
+        "Vue.js",
+        "Node.js",
+        "Firebase"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/drillmaps/icon.png",
+        "requiresBackground": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/drillmaps_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2018-03-07T00:00:00.000Z",
@@ -2917,7 +3118,26 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2018/blueboard",
     "source": "https://anandchowdhary.github.io/projects/projects/2018/blueboard",
-    "title": "Blueboard"
+    "title": "Blueboard",
+    "data": {
+      "description": "Bluetooth-powered smart billboard that shows relevant advertisements and information based on who's passing by it.",
+      "tags": [
+        "IoT",
+        "Hardware",
+        "Processing",
+        "Arduino",
+        "Android"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/blueboard/icon.png",
+        "requiresBackground": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/blueboard_2xpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2018-01-18",
@@ -2970,7 +3190,26 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2017/refuserve",
     "source": "https://anandchowdhary.github.io/projects/projects/2017/refuserve",
-    "title": "RefuServe"
+    "title": "RefuServe",
+    "data": {
+      "description": "Elearning platform, job recommendation engine, and resume generator chatbot for Trivago in 24 hours.",
+      "tags": [
+        "App",
+        "AI",
+        "Vue.js"
+      ],
+      "collaborators": [
+        "mohit-ahuja"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/refuserve/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/refuserve_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2017-11-18T09:11:15.990Z",
@@ -3028,21 +3267,76 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2017/capella",
     "source": "https://anandchowdhary.github.io/projects/projects/2017/capella",
-    "title": "Capella"
+    "title": "Capella",
+    "data": {
+      "description": "Location-based offline friend discovery and music matching app built for Amsterdam Dance Event in 24 hours.",
+      "tags": [
+        "App"
+      ],
+      "collaborators": [
+        "mateo-sadowski"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/capella/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/capella_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2017-09-23T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2017/facematch",
     "source": "https://anandchowdhary.github.io/projects/projects/2017/facematch",
-    "title": "FaceMatch"
+    "title": "FaceMatch",
+    "data": {
+      "description": "Face recognition Augmented Reality app for business events, built at the AWS Hackathon for StartupFest Europe.",
+      "tags": [
+        "App",
+        "AI"
+      ],
+      "collaborators": [
+        "mohit-ahuja"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/facematch/icon.png",
+        "requiresBackground": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/facematch_2xpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2017-08-25T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2017/agastya",
     "source": "https://anandchowdhary.github.io/projects/projects/2017/agastya",
-    "title": "Agastya"
+    "title": "Agastya",
+    "data": {
+      "description": "End-to-end web accessibility plugin with disabled-friendly features and legibility customizations",
+      "tags": [
+        "Web",
+        "Oswald Labs",
+        "Node.js",
+        "Vue.js"
+      ],
+      "collaborators": [
+        "mahendra-singh-raghuwanshi"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/oswald-labs/agastya/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/oswald-labs/agastya/coverpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2017-08-22T21:46:45.612Z",
@@ -3116,7 +3410,24 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2017/bharathacks",
     "source": "https://anandchowdhary.github.io/projects/projects/2017/bharathacks",
-    "title": "BharatHacks"
+    "title": "BharatHacks",
+    "data": {
+      "description": "Hackathon to solve India-specific problems in New Delhi with 200 participants and tens of thousands of dollars in prizes.",
+      "tags": [
+        "Event",
+        "Branding",
+        "Web"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/bharathacks/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/bharathacks_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2017-06-17T00:00:00.000Z",
@@ -3231,7 +3542,28 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2017/melangebox",
     "source": "https://anandchowdhary.github.io/projects/projects/2017/melangebox",
-    "title": "Melangebox"
+    "title": "Melangebox",
+    "data": {
+      "description": "Fashion ecommerce startup delivering high-quality, affordable clothing and accessories internationally.",
+      "tags": [
+        "Web",
+        "Branding",
+        "Startup",
+        "Shopify",
+        "Illustrator"
+      ],
+      "collaborators": [
+        "mahendra-singh-raghuwanshi"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/melangebox/icon.png",
+        "requiresBackground": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/melangebox_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2017-01-01",
@@ -3343,7 +3675,25 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2016/naari",
     "source": "https://anandchowdhary.github.io/projects/projects/2016/naari",
-    "title": "Naari"
+    "title": "Naari",
+    "data": {
+      "description": "Period and sexual health companion for women that gives personalized tampon recommendations and access to self-help resources.",
+      "tags": [
+        "App",
+        "AI"
+      ],
+      "collaborators": [
+        "nishant-gadihoke"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/naari/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/naari_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2016-10-12T00:00:00.000Z",
@@ -3477,14 +3827,49 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2016/valmiki",
     "source": "https://anandchowdhary.github.io/projects/projects/2016/valmiki",
-    "title": "Valmiki"
+    "title": "Valmiki",
+    "data": {
+      "description": "Browser extension for easy reading and web customization for people with dyslexia",
+      "tags": [
+        "Web",
+        "Oswald Labs"
+      ],
+      "collaborators": [
+        "nishant-gadihoke"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/oswald-labs/valmiki/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/oswald-labs/valmiki/coverpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2016-04-26T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2016/delhi-government",
     "source": "https://anandchowdhary.github.io/projects/projects/2016/delhi-government",
-    "title": "Delhi Government"
+    "title": "Delhi Government",
+    "data": {
+      "description": "Material design UI/UX for the Government of Delhi's program for state schools, School Management Committee (SMC).",
+      "tags": [
+        "App",
+        "Illustrator",
+        "Photoshop"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/delhi-government/icon.png",
+        "requiresBackground": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/delhi-government_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2016-04-11T01:28:11.749Z",
@@ -3525,7 +3910,27 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2016/firangana",
     "source": "https://anandchowdhary.github.io/projects/projects/2016/firangana",
-    "title": "Firangana"
+    "title": "Firangana",
+    "data": {
+      "description": "Branding and web design for fashion brand that combines western clothing with ethnic Indian designs.",
+      "tags": [
+        "Branding",
+        "Web",
+        "Startup",
+        "Photoshop",
+        "WordPress",
+        "Woocommerce"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firangana/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/firangana_2xpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2016-02-25T00:00:00.000Z",
@@ -3543,7 +3948,22 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2016/keeep",
     "source": "https://anandchowdhary.github.io/projects/projects/2016/keeep",
-    "title": "Keeep"
+    "title": "Keeep",
+    "data": {
+      "description": "Encryption engine and password manager in C/C++ built for my highschool Computer Science class.",
+      "tags": [
+        "App"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/keeep/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/keeep_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2016-01-13T00:00:00.000Z",
@@ -3640,21 +4060,78 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2015/baymax",
     "source": "https://anandchowdhary.github.io/projects/projects/2015/baymax",
-    "title": "Baymax"
+    "title": "Baymax",
+    "data": {
+      "description": "End-to-end healthcare companies that diagnoses illnesses and helps your recover, along with scheduling and appointments.",
+      "tags": [
+        "App",
+        "Branding",
+        "Photoshop"
+      ],
+      "collaborators": [
+        "nishant-gadihoke"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/baymax/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/baymax_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2015-10-20T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2015/crink-jewel",
     "source": "https://anandchowdhary.github.io/projects/projects/2015/crink-jewel",
-    "title": "Crink Jewel"
+    "title": "Crink Jewel",
+    "data": {
+      "description": "Branding and mobile-first Shopify website for one of the fastest-growing precious jewelry companies.",
+      "tags": [
+        "Branding",
+        "Web",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/crink-jewel/icon.png",
+        "requiresBackground": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/crink-jewel_2xpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2015-09-12T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2015/sixteeninches",
     "source": "https://anandchowdhary.github.io/projects/projects/2015/sixteeninches",
-    "title": "SixteenInches"
+    "title": "SixteenInches",
+    "data": {
+      "description": "Branding and Shopify theme customization for one of the fastest-growing online supplements stores in India.",
+      "tags": [
+        "App",
+        "Branding",
+        "Web",
+        "Shopify",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/sixteeninches/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/sixteeninches_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2015-08-30T00:00:00.000Z",
@@ -3766,7 +4243,25 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2015/saga-music",
     "source": "https://anandchowdhary.github.io/projects/projects/2015/saga-music",
-    "title": "Saga Music"
+    "title": "Saga Music",
+    "data": {
+      "description": "Free music downloading and sharing app for Android and the web. Over 100,000 downloads. Shut down in 2016.",
+      "tags": [
+        "App",
+        "Branding",
+        "Web",
+        "Android"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/saga-music/icon.png",
+        "requiresBackground": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/saga-music_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2015-03-23T00:00:00.000Z",
@@ -3881,7 +4376,25 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2014/justice-adda",
     "source": "https://anandchowdhary.github.io/projects/projects/2014/justice-adda",
-    "title": "Justice Adda"
+    "title": "Justice Adda",
+    "data": {
+      "description": "Branding and web design for Cambridge Social Ventures (University of Cambridge) startup trying to break barriers in justice.",
+      "tags": [
+        "Branding",
+        "Web",
+        "WordPress",
+        "InDesign"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/justice-adda/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/justice-adda_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2014-07-05T17:10:51Z",
@@ -3912,21 +4425,71 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2014/project-blue",
     "source": "https://anandchowdhary.github.io/projects/projects/2014/project-blue",
-    "title": "Project Blue"
+    "title": "Project Blue",
+    "data": {
+      "description": "Plastic bottle industrial redesign project using AutoDesk and SolidWorks for IDII to reduce environmental impact.",
+      "tags": [
+        "Branding",
+        "Industrial Design",
+        "Photoshop"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/project-blue/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/project-blue_2xpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2014-06-21T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2014/cyankart",
     "source": "https://anandchowdhary.github.io/projects/projects/2014/cyankart",
-    "title": "Cyankart"
+    "title": "Cyankart",
+    "data": {
+      "description": "Branding, UI/UX, and A/B-tested Shopify theme development for one of India's most popular online fashion stores.",
+      "tags": [
+        "Web",
+        "Branding",
+        "Shopify",
+        "Photoshop"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/cyankart/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/cyankart_2xpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2014-05-27T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2014/unifiers",
     "source": "https://anandchowdhary.github.io/projects/projects/2014/unifiers",
-    "title": "Unifiers"
+    "title": "Unifiers",
+    "data": {
+      "description": "India's first online training platform, built in collaboration with government agencies and large corporates.",
+      "tags": [
+        "Web"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/unifiers/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/unifiers_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2014-05-22T00:00:00.000Z",
@@ -3955,7 +4518,23 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2014/made-with-love-in-india",
     "source": "https://anandchowdhary.github.io/projects/projects/2014/made-with-love-in-india",
-    "title": "Made with Love in India"
+    "title": "Made with Love in India",
+    "data": {
+      "description": "Platform to celebrate, promote, and build a brand — India. Over 75 organizations use the Made with Love in India badge.",
+      "tags": [
+        "Web",
+        "Branding"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/mwlii/icon.png",
+        "requiresBackground": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/mwlii/coverpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2014-04-04T00:00:00.000Z",
@@ -4012,7 +4591,26 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2014/classrebels",
     "source": "https://anandchowdhary.github.io/projects/projects/2014/classrebels",
-    "title": "ClassRebels"
+    "title": "ClassRebels",
+    "data": {
+      "description": "Education-technology startup trying to break classroom barriers, products include virtual library and collaborative e-classroom.",
+      "tags": [
+        "Branding",
+        "Web",
+        "Startup",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/classrebels/icon.png",
+        "requiresBackground": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/classrebels/coverpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2014-01-01",
@@ -4076,7 +4674,25 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2013/internet.org",
     "source": "https://anandchowdhary.github.io/projects/projects/2013/internet.org",
-    "title": "Internet.org"
+    "title": "Internet.org",
+    "data": {
+      "description": "Redesigned brand identity of Internet.org for an event in five hours. Made a trustworthy, user-centric brand.",
+      "tags": [
+        "Branding",
+        "Web",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "collaborators": [],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/internetorg/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/internet.org_2xpng",
+        "attachment": "padded"
+      }
+    }
   },
   {
     "date": "2013-10-09T00:00:00.000Z",
@@ -4131,14 +4747,53 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2012/pickquick",
     "source": "https://anandchowdhary.github.io/projects/projects/2012/pickquick",
-    "title": "PickQuick"
+    "title": "PickQuick",
+    "data": {
+      "description": "Branding, ecommerce platform for university students to buy, sell, and barter old books",
+      "tags": [
+        "Web",
+        "Branding",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "collaborators": [
+        "akshat-srivastava"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/pickquick/icon.png",
+        "requiresBackground": false
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/pickquick/coverpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2012-05-25T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2012/gsmc",
     "source": "https://anandchowdhary.github.io/projects/projects/2012/gsmc",
-    "title": "Global School of Media Crafting"
+    "title": "Global School of Media Crafting",
+    "data": {
+      "description": "Designed branding and marketing material and learnt video editing during internship at new-age media school",
+      "tags": [
+        "Branding",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "collaborators": [
+        "akshat-srivastava"
+      ],
+      "icon": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/gsmc/icon.png",
+        "requiresBackground": true
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/gsmc/coverpng",
+        "attachment": "cover"
+      }
+    }
   },
   {
     "date": "2012-01-01",
