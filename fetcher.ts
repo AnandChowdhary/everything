@@ -390,6 +390,7 @@ export const generate = async () => {
             }`,
             attachment:
               project.attributes?.style === "padded" ? "padded" : "cover",
+            color: project.attributes?.bg,
           }
         : undefined,
     },

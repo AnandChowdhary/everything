@@ -55,6 +55,7 @@ export type TimelineProject = TimelineBaseItem<
     image?: {
       url: string;
       attachment: "padded" | "cover";
+      color?: string;
     };
   }
 >;

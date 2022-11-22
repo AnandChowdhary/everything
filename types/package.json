@@ -1,6 +1,6 @@
 {
   "name": "timeline-types",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Shared TypeScript types for AnandChowdhary/everything",
   "types": "index.d.ts",
   "scripts": {
