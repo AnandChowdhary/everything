@@ -383,7 +383,11 @@ export const generate = async () => {
         ? {
             url: `https://raw.githubusercontent.com/AnandChowdhary/projects/main${
               project.attributes.img_src
-            }${project.attributes?.img_type ?? ""}`,
+            }${
+              project.attributes?.img_type
+                ? `.${project.attributes.img_type}`
+                : ""
+            }`,
             attachment:
               project.attributes?.style === "padded" ? "padded" : "cover",
           }
