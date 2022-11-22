@@ -102,6 +102,20 @@ interface IProject {
   slug: string;
   title: string;
   date: string;
+  excerpt: string;
+  attributes?: {
+    title?: string;
+    intro?: string;
+    work?: string[];
+    collaborators?: string[];
+    bg?: string;
+    style?: string;
+    img_src?: string;
+    img_type?: string;
+    tools?: string[];
+    icon?: string;
+    icon_bg?: boolean;
+  };
 }
 const getProjects = async (): Promise<IProject[]> => {
   if (CACHE_ENABLED) {
@@ -352,7 +366,29 @@ export const generate = async () => {
       project.date
     ).getUTCFullYear()}/${project.slug.replace(".md", "")}`,
     title: project.title,
-    data: undefined,
+    data: {
+      description: project.attributes?.intro ?? project.excerpt,
+      tags: [
+        ...(project.attributes?.work ?? []),
+        ...(project.attributes?.tools ?? []),
+      ],
+      collaborators: project.attributes?.collaborators ?? [],
+      icon: project.attributes?.icon
+        ? {
+            url: `https://raw.githubusercontent.com/AnandChowdhary/projects/main${project.attributes.icon}`,
+            requiresBackground: !!project.attributes?.icon_bg,
+          }
+        : undefined,
+      image: project.attributes?.img_src
+        ? {
+            url: `https://raw.githubusercontent.com/AnandChowdhary/projects/main${
+              project.attributes.img_src
+            }${project.attributes?.img_type ?? ""}`,
+            attachment:
+              project.attributes?.style === "padded" ? "padded" : "cover",
+          }
+        : undefined,
+    },
   }));
 
   const versions: TimelineVersion[] = (await getVersions()).map((version) => ({

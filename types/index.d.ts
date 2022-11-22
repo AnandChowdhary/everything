@@ -42,7 +42,22 @@ export type TimelineEvent = TimelineBaseItem<
   }
 >;
 
-export type TimelineProject = TimelineBaseItem<"project", undefined>;
+export type TimelineProject = TimelineBaseItem<
+  "project",
+  {
+    description: string;
+    tags: string[];
+    collaborators: string[];
+    icon?: {
+      url: string;
+      requiresBackground: boolean;
+    };
+    image?: {
+      url: string;
+      attachment: "padded" | "cover";
+    };
+  }
+>;
 
 export type TimelineVersion = TimelineBaseItem<"version", undefined>;
 
