@@ -2902,7 +2902,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/wendy_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/wendy/wendy_2x.png",
         "attachment": "cover"
       }
     }
@@ -3011,7 +3011,7 @@
         "requiresBackground": true
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/ibm-iot-escape-room_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/ibm-iot-escape-room/ibm-iot-escape-room_2x.png",
         "attachment": "cover"
       }
     }
@@ -3047,7 +3047,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/csunite_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/csunite/csunite_2x.png",
         "attachment": "padded",
         "color": "#00998e"
       }
@@ -3074,7 +3074,7 @@
         "requiresBackground": true
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/drillmaps_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/drillmaps/drillmaps_2x.png",
         "attachment": "padded",
         "color": "#009cff"
       }
@@ -3143,7 +3143,7 @@
         "requiresBackground": true
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/blueboard_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/blueboard/blueboard_2x.png",
         "attachment": "cover"
       }
     }
@@ -3215,7 +3215,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/refuserve_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/refuserve/refuserve_2x.png",
         "attachment": "padded",
         "color": "#0097a8"
       }
@@ -3291,7 +3291,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/capella_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/capella/capella_2x.png",
         "attachment": "padded",
         "color": "#de2a49"
       }
@@ -3317,7 +3317,7 @@
         "requiresBackground": true
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/facematch_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/facematch/facematch_2x.png",
         "attachment": "cover"
       }
     }
@@ -3436,7 +3436,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/bharathacks_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/bharathacks/bharathacks_2x.png",
         "attachment": "padded",
         "color": "#27577a"
       }
@@ -3573,7 +3573,7 @@
         "requiresBackground": true
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/melangebox_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/melangebox/melangebox_2x.png",
         "attachment": "padded",
         "color": "#0095de"
       }
@@ -3704,7 +3704,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/naari_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/naari/naari_2x.png",
         "attachment": "padded",
         "color": "#217ed0"
       }
@@ -3882,7 +3882,7 @@
         "requiresBackground": true
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/delhi-government_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/delhi-government/delhi-government_2x.png",
         "attachment": "padded",
         "color": "#00a48d"
       }
@@ -3944,7 +3944,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/firangana_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firangana/firangana_2x.png",
         "attachment": "cover"
       }
     }
@@ -3977,7 +3977,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/keeep_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/keeep/keeep_2x.png",
         "attachment": "padded",
         "color": "#8d9ba6"
       }
@@ -4094,7 +4094,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/baymax_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/baymax/baymax_2x.png",
         "attachment": "padded",
         "color": "#de9945"
       }
@@ -4120,7 +4120,7 @@
         "requiresBackground": true
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/crink-jewel_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/crink-jewel/crink-jewel_2x.png",
         "attachment": "cover"
       }
     }
@@ -4147,7 +4147,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/sixteeninches_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/sixteeninches/sixteeninches_2x.png",
         "attachment": "padded",
         "color": "#f30f40"
       }
@@ -4278,7 +4278,7 @@
         "requiresBackground": true
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/saga-music_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/saga-music/saga-music_2x.png",
         "attachment": "padded",
         "color": "#00c1d7"
       }
@@ -4412,7 +4412,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/justice-adda_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/justice-adda/justice-adda_2x.png",
         "attachment": "padded",
         "color": "#e4e4e4"
       }
@@ -4461,7 +4461,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/project-blue_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/project-blue/project-blue_2x.png",
         "attachment": "cover"
       }
     }
@@ -4486,7 +4486,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/cyankart_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/cyankart/cyankart_2x.png",
         "attachment": "cover"
       }
     }
@@ -4508,7 +4508,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/unifiers_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/unifiers/unifiers_2x.png",
         "attachment": "padded",
         "color": "#d7eed0"
       }
@@ -4713,7 +4713,7 @@
         "requiresBackground": false
       },
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/images/portfolio/internet.org_2x.png",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/internetorg/internet.org_2x.png",
         "attachment": "padded",
         "color": "#a03c0c"
       }
