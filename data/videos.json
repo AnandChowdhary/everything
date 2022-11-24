@@ -1,16 +1,5 @@
 [
   {
-    "title": "Helping fight COVID-19 using GitHub",
-    "href": "https://githubsatellite.com/sessions/helping-fight-covid-19-using-github/",
-    "city": "San Francisco Bay Area",
-    "country": "US",
-    "date": "2021-03-26",
-    "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/github-satellite-2021.png",
-    "publisher": "GitHub",
-    "duration": "27:04",
-    "description": "In this talk, we'll discuss how the open source community and GitHub have been working together to fight the impact COVID-19."
-  },
-  {
     "title": "Building Technology for the Next Billion",
     "date": "2020-06-30",
     "city": "New Delhi",
@@ -20,26 +9,6 @@
     "publisher": "Going to School",
     "duration": "4:28",
     "description": "The World Bank estimates that 15% of the world’s population is affected by one disability or another. 2.68 crore Indians are differently abled, which is 2.21% of the population, so why isn't technology more accessible to the differently abled? This is exactly what CEO of Oswald Labs Anand Chaudhary set out to address when he founded his company to build new technologies that help people grow, through accessibility and equality. He caught up with Map of Me in Delhi to talk about the skills needed to be a young entrepreneur and how the best businesses solve problems."
-  },
-  {
-    "title": "Forbes 30 Under 30 at Santa Clara University",
-    "date": "2019-10-28",
-    "city": "San Francisco Bay Area",
-    "country": "US",
-    "href": "https://www.youtube.com/watch?v=zSX-yDAjUXk",
-    "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/oneup.png",
-    "publisher": "Christian Yang / OneUp",
-    "duration": "0:59"
-  },
-  {
-    "title": "Women Who Code Cloud 2019",
-    "date": "2019-09-28",
-    "city": "San Francisco Bay Area",
-    "country": "US",
-    "href": "https://www.facebook.com/AnandChowdhary/videos/2896608857033963/",
-    "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/wwcode.png",
-    "publisher": "Anand Chowdhary",
-    "duration": "37:57"
   },
   {
     "title": "The best entrepreneurs in the UT (De beste ondernemers van de UT)",
