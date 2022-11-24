@@ -1,40 +1,20 @@
 [
   {
-    "date": "2022-11-20T17:12:23.000Z",
-    "type": "theme",
-    "url": "https://anandchowdhary.com/themes/2022",
-    "source": "https://anandchowdhary.github.io/themes/themes/2022/year-of-commitment",
-    "title": "Year of Commitment",
-    "data": {
-      "year": 2022,
-      "description": "I didn't write a blog post about my theme in 2021, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this theme:\n\nMy theme for 2021 was Year of Commitment. In a post-pandemic world, I decided to double down on long-term goals (work, health, and personal life), and after living in India for most of the year, I wanted to move back to the Netherlands -- but not alone this time. In the last quarter of"
-    }
-  },
-  {
-    "date": "2022-11-20T16:21:04.000Z",
-    "type": "theme",
-    "url": "https://anandchowdhary.com/themes/2022",
-    "source": "https://anandchowdhary.github.io/themes/themes/2022/year-of-long-term",
-    "title": "Year of Long Term",
-    "data": {
-      "year": 2022,
-      "description": "I didn't write a blog post about my theme in 2020, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this theme:\n\n2020 was my Year of Long Term. I had just come back after living for a short while in the San Francisco Bay Area (after an exchange semester at Santa Clara University) and I knew that I'd be graduating from the University of Twente in 2020, so I had to decide where to fo"
-    }
-  },
-  {
     "date": "2022-11-09T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2022/github-universe",
     "source": "https://anandchowdhary.github.io/events/events/2022/github-universe",
     "title": "How to open source as a startup at GitHub Universe",
     "data": {
-      "location": "Yerba Buena Center for the Arts, San Francisco",
-      "emoji": "🇺🇸",
+      "remote": false,
       "country": "US",
+      "city": "San Francisco",
+      "venue": "Yerba Buena Center for the Arts",
       "coordinates": [
         37.7852,
         -122.4039
-      ]
+      ],
+      "video": "https://www.youtube.com/watch?v=F3dtaDJi_bo"
     }
   },
   {
@@ -75,20 +55,20 @@
     "date": "2022-10-01",
     "data": {
       "name": 4,
-      "progress": 0.11,
-      "success": 0.4,
+      "progress": 0.23,
+      "success": 0.39,
       "objectives": [
         {
           "name": "Continue working on health goals",
-          "progress": 0.12,
-          "success": 0.45,
+          "progress": 0.17,
+          "success": 0.29,
           "key_results": [
             {
               "name": "Work out 3 or more times weekly",
               "current_result": 4,
               "target_result": 39,
               "progress": 0.1,
-              "success": 0.39
+              "success": 0.17
             },
             {
               "name": "Complete one book every month",
@@ -99,17 +79,17 @@
             },
             {
               "name": "Do therapy 3 or more times monthly",
-              "current_result": 3,
+              "current_result": 5,
               "target_result": 12,
-              "progress": 0.25,
-              "success": 0.96
+              "progress": 0.42,
+              "success": 0.71
             }
           ]
         },
         {
           "name": "Stop procrastinating on growth",
-          "progress": 0.13,
-          "success": 0.51,
+          "progress": 0.26,
+          "success": 0.43,
           "key_results": [
             {
               "name": "Finalize city and apartment for 2023",
@@ -120,45 +100,45 @@
             },
             {
               "name": "Properly prepare for all 1:1s",
-              "current_result": 0,
+              "current_result": 2,
               "target_result": 12,
-              "progress": 0,
-              "success": 0
+              "progress": 0.17,
+              "success": 0.28
             },
             {
               "name": "Set up and use personal CRM",
-              "current_result": 0.4,
+              "current_result": 0.6,
               "target_result": 1,
-              "progress": 0.4,
-              "success": 1.54
+              "progress": 0.6,
+              "success": 1.02
             }
           ]
         },
         {
           "name": "Get ready for 2023",
-          "progress": 0.07,
-          "success": 0.25,
+          "progress": 0.27,
+          "success": 0.45,
           "key_results": [
             {
               "name": "Prepare for the wedding in Q1",
-              "current_result": 0.1,
+              "current_result": 0.3,
               "target_result": 1,
-              "progress": 0.1,
-              "success": 0.38
+              "progress": 0.3,
+              "success": 0.51
             },
             {
               "name": "Document & reflect on 2022, set up theme",
-              "current_result": 0,
-              "target_result": 12,
-              "progress": 0,
-              "success": 0
+              "current_result": 0.2,
+              "target_result": 1,
+              "progress": 0.2,
+              "success": 0.34
             },
             {
               "name": "[redacted]",
-              "current_result": 0.1,
+              "current_result": 0.3,
               "target_result": 1,
-              "progress": 0.1,
-              "success": 0.38
+              "progress": 0.3,
+              "success": 0.51
             }
           ]
         }
@@ -216,9 +196,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2022/ut-opportunity-recognition",
     "title": "Guest lecture on opportunity recognition",
     "data": {
-      "location": "University of Twente, Enschede",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Enschede",
+      "venue": "University of Twente",
       "coordinates": [
         52.241198,
         6.851607
@@ -250,17 +231,6 @@
         "Reid Hoffman",
         "Chris Yeh"
       ]
-    }
-  },
-  {
-    "date": "2022-07-11T13:55:47.000Z",
-    "type": "theme",
-    "url": "https://anandchowdhary.com/themes/2022",
-    "source": "https://anandchowdhary.github.io/themes/themes/2022/year-of-teamwork",
-    "title": "Year of Teamwork",
-    "data": {
-      "year": 2022,
-      "description": "Year of Teamwork stems from some of the issues I've been facing lately with delegation. Reflecting on my calendar in the past few months, I see that I've already started spending significantly more time on code review and planning than actually writing code than I used to this time last year, but it's not nearly enough. I still spend the majority of my time as an individual contributor, which is scaling very poorly."
     }
   },
   {
@@ -369,13 +339,8 @@
     "source": "https://anandchowdhary.github.io/events/events/2022/iima-inclusive-entrepreneurship",
     "title": "Guest lecture on inclusive entrepreneurship",
     "data": {
-      "location": "Indian Institute of Management, Ahmedabad, Ahmedabad, India",
-      "emoji": "🇮🇳",
-      "country": "IN",
-      "coordinates": [
-        23.033066625,
-        72.5346705
-      ]
+      "remote": true,
+      "venue": "Indian Institute of Management, Ahmedabad"
     }
   },
   {
@@ -417,13 +382,8 @@
     "source": "https://anandchowdhary.github.io/events/events/2022/twitter-space-open-source",
     "title": "Twitter Space on \"Why make your product open source?\"",
     "data": {
-      "location": "Twitter Space, Remote",
-      "emoji": "🇺🇸",
-      "country": "US",
-      "coordinates": [
-        40.780765,
-        -73.97408899999999
-      ]
+      "remote": true,
+      "venue": "Twitter Space"
     }
   },
   {
@@ -545,13 +505,8 @@
     "source": "https://anandchowdhary.github.io/events/events/2022/startup-school",
     "title": "Startup School Kickoff Call Q&A",
     "data": {
-      "location": "Y Combinator Startup School, Remote",
-      "emoji": "🇺🇸",
-      "country": "US",
-      "coordinates": [
-        37.386316,
-        -122.067028
-      ]
+      "remote": true,
+      "venue": "Y Combinator Startup School"
     }
   },
   {
@@ -749,6 +704,17 @@
     }
   },
   {
+    "date": "2022-01-01T00:00:00.000Z",
+    "type": "theme",
+    "url": "https://anandchowdhary.com/themes/2022",
+    "source": "https://anandchowdhary.github.io/themes/themes/2022/year-of-teamwork",
+    "title": "Year of Teamwork",
+    "data": {
+      "year": 2022,
+      "description": "Year of Teamwork stems from some of the issues I've been facing lately with delegation. Reflecting on my calendar in the past few months, I see that I've already started spending significantly more time on code review and planning than actually writing code than I used to this time last year, but it's not nearly enough. I still spend the majority of my time as an individual contributor, which is scaling very poorly."
+    }
+  },
+  {
     "date": "2021-12-29T19:04:50.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2021/year-of-teamwork",
@@ -789,13 +755,9 @@
     "source": "https://anandchowdhary.github.io/events/events/2021/ddog-8",
     "title": "COVID-19 and GitHub Actions at Dutch DevOps & GitHub Community",
     "data": {
-      "location": "OGD ict diensten, Utrecht",
-      "emoji": "🇳🇱",
-      "country": "NL",
-      "coordinates": [
-        52.514871,
-        4.995898
-      ]
+      "remote": true,
+      "venue": "Dutch DevOps & GitHub Community",
+      "video": "https://www.youtube.com/watch?v=qWvFfPI-epA"
     }
   },
   {
@@ -805,12 +767,11 @@
     "source": "https://anandchowdhary.github.io/events/events/2021/open-source-vit",
     "title": "Open source from scratch for CodeChef-VIT",
     "data": {
-      "location": "Vellore Institute of Technology, Vellore",
-      "emoji": "🇮🇳",
-      "country": "IN",
+      "remote": true,
+      "venue": "Vellore Institute of Technology",
       "coordinates": [
-        12.970280500000001,
-        79.15803650000001
+        12.97028,
+        79.15803
       ]
     }
   },
@@ -821,13 +782,9 @@
     "source": "https://anandchowdhary.github.io/events/events/2021/github-nova",
     "title": "Open source as a startup at GitHub Nova 2021",
     "data": {
-      "location": "GitHub Nova 2021, Remote",
-      "emoji": "🇺🇸",
-      "country": "US",
-      "coordinates": [
-        50.657115,
-        14.065064
-      ]
+      "remote": true,
+      "venue": "GitHub Nova 2021",
+      "video": "https://www.youtube.com/watch?v=RCaGjMjiwpU"
     }
   },
   {
@@ -960,9 +917,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2021/ut-opportunity-recognition",
     "title": "Guest lecture at University of Twente",
     "data": {
-      "location": "University of Twente, Enschede",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Enschede",
+      "venue": "University of Twente",
       "coordinates": [
         52.241198,
         6.851607
@@ -1000,9 +958,8 @@
     "source": "https://anandchowdhary.github.io/events/events/2021/minet-x",
     "title": "MINET X 2021 keynote",
     "data": {
-      "location": "The Mother's International School, Remote",
-      "emoji": "🇮🇳",
-      "country": "IN",
+      "remote": true,
+      "venue": "The Mother's International School",
       "coordinates": [
         51.5533263,
         -0.0554439
@@ -1069,28 +1026,9 @@
     "source": "https://anandchowdhary.github.io/events/events/2021/github-satellite",
     "title": "Helping fight COVID-19 using GitHub at GitHub Satellite 2021",
     "data": {
-      "location": "GitHub Satellite 2021, Remote",
-      "emoji": "🇺🇸",
-      "country": "US",
-      "coordinates": [
-        28.812146,
-        -81.923945
-      ]
-    }
-  },
-  {
-    "date": "2021-03-26",
-    "type": "video",
-    "url": "https://anandchowdhary.com/press/2021/helping-fight-covid-19-using-github",
-    "source": "https://github.com/AnandChowdhary/everything/blob/main/data/videos.json",
-    "title": "Helping fight COVID-19 using GitHub",
-    "data": {
-      "href": "https://githubsatellite.com/sessions/helping-fight-covid-19-using-github/",
-      "city": "San Francisco Bay Area",
-      "country": "US",
-      "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/github-satellite-2021.png",
-      "publisher": "GitHub",
-      "duration": "27:04"
+      "remote": true,
+      "venue": "GitHub Satellite 2021",
+      "video": "https://www.youtube.com/watch?v=7QF8tpEiYx8"
     }
   },
   {
@@ -1147,13 +1085,23 @@
     "source": "https://anandchowdhary.github.io/events/events/2021/dotslash-svnit",
     "title": "Innovation & Entrepreneurship at DotSlash, SVNIT",
     "data": {
-      "location": "Sardar Vallabhbhai National Institute of Technology, Surat",
-      "emoji": "🇮🇳",
-      "country": "IN",
+      "remote": true,
+      "venue": "Sardar Vallabhbhai National Institute of Technology",
       "coordinates": [
         21.16068,
         72.789558
       ]
+    }
+  },
+  {
+    "date": "2021-01-01T00:00:00.000Z",
+    "type": "theme",
+    "url": "https://anandchowdhary.com/themes/2021",
+    "source": "https://anandchowdhary.github.io/themes/themes/2021/year-of-commitment",
+    "title": "Year of Commitment",
+    "data": {
+      "year": 2021,
+      "description": "I didn't write a blog post about my theme in 2021, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this theme:\n\nMy theme for 2021 was Year of Commitment. In a post-pandemic world, I decided to double down on long-term goals (work, health, and personal life), and after living in India for most of the year, I wanted to move back to the Netherlands -- but not alone this time. In the last quarter of"
     }
   },
   {
@@ -1163,9 +1111,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2020/ut-global-entrepreneurship-week",
     "title": "Guest Lecture for Global Entrepreneurship Week",
     "data": {
-      "location": "University of Twente, Enschede",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Enschede",
+      "venue": "University of Twente",
       "coordinates": [
         52.241198,
         6.851607
@@ -1179,9 +1128,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2020/ut-opportunity-recognition",
     "title": "Guest Lecture on Opportunity Recognition",
     "data": {
-      "location": "University of Twente, Enschede",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Enschede",
+      "venue": "University of Twente",
       "coordinates": [
         52.241198,
         6.851607
@@ -1195,9 +1145,9 @@
     "source": "https://anandchowdhary.github.io/events/events/2020/supreme-incubator",
     "title": "Mentoring for Supreme Incubator",
     "data": {
-      "location": "New Delhi",
-      "emoji": "🇮🇳",
+      "remote": false,
       "country": "IN",
+      "city": "New Delhi",
       "coordinates": [
         28.613895,
         77.209006
@@ -1282,9 +1232,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2020/enactus-iitd-panel",
     "title": "Changemaker Workshop at Enactus, IIT Delhi",
     "data": {
-      "location": "Indian Institute of Technology Delhi, New Delhi",
-      "emoji": "🇮🇳",
+      "remote": false,
       "country": "IN",
+      "city": "New Delhi",
+      "venue": "Indian Institute of Technology Delhi",
       "coordinates": [
         28.544831,
         77.191623
@@ -1539,6 +1490,17 @@
     }
   },
   {
+    "date": "2020-01-01T00:00:00.000Z",
+    "type": "theme",
+    "url": "https://anandchowdhary.com/themes/2020",
+    "source": "https://anandchowdhary.github.io/themes/themes/2020/year-of-long-term",
+    "title": "Year of Long Term",
+    "data": {
+      "year": 2020,
+      "description": "I didn't write a blog post about my theme in 2020, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this theme:\n\n2020 was my Year of Long Term. I had just come back after living for a short while in the San Francisco Bay Area (after an exchange semester at Santa Clara University) and I knew that I'd be graduating from the University of Twente in 2020, so I had to decide where to fo"
+    }
+  },
+  {
     "date": "2020-01-01",
     "type": "press-feature",
     "url": "https://anandchowdhary.com/press/2020/github",
@@ -1640,34 +1602,21 @@
     }
   },
   {
-    "date": "2019-10-28",
-    "type": "video",
-    "url": "https://anandchowdhary.com/press/2019/forbes-30-under-30-at-santa-clara-university",
-    "source": "https://github.com/AnandChowdhary/everything/blob/main/data/videos.json",
-    "title": "Forbes 30 Under 30 at Santa Clara University",
-    "data": {
-      "href": "https://www.youtube.com/watch?v=zSX-yDAjUXk",
-      "city": "San Francisco Bay Area",
-      "country": "US",
-      "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/oneup.png",
-      "publisher": "Christian Yang / OneUp",
-      "duration": "0:59"
-    }
-  },
-  {
     "date": "2019-10-21T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2019/oneup-scu",
     "source": "https://anandchowdhary.github.io/events/events/2019/oneup-scu",
     "title": "Keynote for OneUp, Santa Clara University",
     "data": {
-      "location": "Santa Clara University, San Francisco Bay Area",
-      "emoji": "🇺🇸",
+      "remote": false,
       "country": "US",
+      "city": "San Francisco Bay Area",
+      "venue": "Santa Clara University",
       "coordinates": [
         37.779026,
         -122.419906
-      ]
+      ],
+      "video": "https://www.youtube.com/watch?v=zSX-yDAjUXk"
     }
   },
   {
@@ -1677,28 +1626,15 @@
     "source": "https://anandchowdhary.github.io/events/events/2019/wwcode-cloud",
     "title": "Women Who Code Cloud 2019",
     "data": {
-      "location": "Accenture, Salesforce Tower, San Francisco Bay Area",
-      "emoji": "🇺🇸",
+      "remote": false,
       "country": "US",
+      "city": "San Francisco Bay Area",
+      "venue": "Accenture, Salesforce Tower",
       "coordinates": [
         37.779026,
         -122.419906
-      ]
-    }
-  },
-  {
-    "date": "2019-09-28",
-    "type": "video",
-    "url": "https://anandchowdhary.com/press/2019/women-who-code-cloud-2019",
-    "source": "https://github.com/AnandChowdhary/everything/blob/main/data/videos.json",
-    "title": "Women Who Code Cloud 2019",
-    "data": {
-      "href": "https://www.facebook.com/AnandChowdhary/videos/2896608857033963/",
-      "city": "San Francisco Bay Area",
-      "country": "US",
-      "img": "https://raw.githubusercontent.com/AnandChowdhary/anandchowdhary.com/82c8a7a9cd1fd2ff9f0a4bed9e08bc3574c18686/static/images/videos/wwcode.png",
-      "publisher": "Anand Chowdhary",
-      "duration": "37:57"
+      ],
+      "video": "https://www.facebook.com/AnandChowdhary/videos/2896608857033963/"
     }
   },
   {
@@ -1783,9 +1719,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2019/minet-x-2019",
     "title": "MINET X 2019",
     "data": {
-      "location": "The Mother's International School, New Delhi",
-      "emoji": "🇮🇳",
+      "remote": false,
       "country": "IN",
+      "city": "New Delhi",
+      "venue": "The Mother's International School",
       "coordinates": [
         28.613895,
         77.209006
@@ -1872,9 +1809,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2019/el-nino-design",
     "title": "Design workshop for El Niño",
     "data": {
-      "location": "El Niño, Enschede",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Enschede",
+      "venue": "El Niño",
       "coordinates": [
         52.363883,
         4.884801
@@ -1903,9 +1841,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2019/dutch-design-week",
     "title": "Dutch Design Week",
     "data": {
-      "location": "Klokgebouw Cultuurhallen, Eindhoven",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Eindhoven",
+      "venue": "Klokgebouw Cultuurhallen",
       "coordinates": [
         51.44845,
         5.4579645
@@ -1919,9 +1858,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2019/hive-01-season-5",
     "title": "Hive 01 Season 5",
     "data": {
-      "location": "U Parkhotel, Enschede",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Enschede",
+      "venue": "U Parkhotel",
       "coordinates": [
         52.220986,
         6.894054
@@ -2483,9 +2423,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2018/cls",
     "title": "CLS Engagement Pitch",
     "data": {
-      "location": "LABS Holborn, London",
-      "emoji": "🇬🇧",
+      "remote": false,
       "country": "GB",
+      "city": "London",
+      "venue": "LABS Holborn",
       "coordinates": [
         51.514738,
         -0.147356
@@ -2542,9 +2483,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2018/wief-2018",
     "title": "AKEPT-WIEF Social Enterprise Forum",
     "data": {
-      "location": "International Islamic University Malaysia, Kuala Lumpur",
-      "emoji": "🇲🇾",
+      "remote": false,
       "country": "MY",
+      "city": "Kuala Lumpur",
+      "venue": "International Islamic University Malaysia",
       "coordinates": [
         3.255572,
         101.738651
@@ -2596,9 +2538,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2018/speakup",
     "title": "Speakup",
     "data": {
-      "location": "De Museumfabriek, Enschede",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Enschede",
+      "venue": "De Museumfabriek",
       "coordinates": [
         52.2324775,
         6.8950055
@@ -2612,9 +2555,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2018/nesst-season-3",
     "title": "Nesst Season 3",
     "data": {
-      "location": "Saxion Center for Entrepreneurship, Enschede",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Enschede",
+      "venue": "Saxion Center for Entrepreneurship",
       "coordinates": [
         51.912303,
         4.430355
@@ -2652,9 +2596,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2018/gogbot",
     "title": "GOGBOT",
     "data": {
-      "location": "City Center, Enschede",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Enschede",
+      "venue": "City Center",
       "coordinates": [
         52.22,
         6.9
@@ -2668,9 +2613,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2018/esummit",
     "title": "IITK eSummit",
     "data": {
-      "location": "Indian Institute of Technology, Kanpur",
-      "emoji": "🇮🇳",
+      "remote": false,
       "country": "IN",
+      "city": "Kanpur",
+      "venue": "Indian Institute of Technology",
       "coordinates": [
         26.51,
         80.23
@@ -2695,9 +2641,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2018/hackiiitd",
     "title": "HackIIITD",
     "data": {
-      "location": "Indraprastha Institute of Information Technology, New Delhi",
-      "emoji": "🇮🇳",
+      "remote": false,
       "country": "IN",
+      "city": "New Delhi",
+      "venue": "Indraprastha Institute of Information Technology",
       "coordinates": [
         18.53115,
         73.867663
@@ -2711,9 +2658,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2018/minet-x-2018",
     "title": "MINET X 2018",
     "data": {
-      "location": "The Mother's International School, New Delhi",
-      "emoji": "🇮🇳",
+      "remote": false,
       "country": "IN",
+      "city": "New Delhi",
+      "venue": "The Mother's International School",
       "coordinates": [
         28.613895,
         77.209006
@@ -2914,9 +2862,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2018/online-open-day",
     "title": "Twente's Online Open Day",
     "data": {
-      "location": "University of Twente, Enschede",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Enschede",
+      "venue": "University of Twente",
       "coordinates": [
         52.241198,
         6.851607
@@ -3087,9 +3036,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2018/nesst-season-2",
     "title": "Nesst Season 2",
     "data": {
-      "location": "The Cee Spot, Enschede",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Enschede",
+      "venue": "The Cee Spot",
       "coordinates": [
         52.220986,
         6.894054
@@ -3247,9 +3197,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2017/startup24",
     "title": "Startup24",
     "data": {
-      "location": "Novel-T, Enschede",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Enschede",
+      "venue": "Novel-T",
       "coordinates": [
         52.220986,
         6.894054
@@ -3263,9 +3214,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2017/hardstart-pitch-training",
     "title": "Pitch Training for Hardstart",
     "data": {
-      "location": "Hardstart, Enschede",
-      "emoji": "🇳🇱",
+      "remote": false,
       "country": "NL",
+      "city": "Enschede",
+      "venue": "Hardstart",
       "coordinates": [
         52.220986,
         6.894054
@@ -3449,9 +3401,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2017/tedx-hailey-road",
     "title": "TEDxHaileyRoad",
     "data": {
-      "location": "91springboard, Gurugram",
-      "emoji": "🇮🇳",
+      "remote": false,
       "country": "IN",
+      "city": "Gurugram",
+      "venue": "91springboard",
       "coordinates": [
         28.46169,
         77.081458
@@ -3493,9 +3446,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2017/tech-charcha",
     "title": "Tech Charcha by Facebook DevC",
     "data": {
-      "location": "91springboard Okhla, New Delhi",
-      "emoji": "🇮🇳",
+      "remote": false,
       "country": "IN",
+      "city": "New Delhi",
+      "venue": "91springboard Okhla",
       "coordinates": [
         28.5667,
         77.2833
@@ -3794,9 +3748,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2016/sip-launch-dtu",
     "title": "SIP Launch (DTU)",
     "data": {
-      "location": "Delhi Technological University, New Delhi",
-      "emoji": "🇮🇳",
+      "remote": false,
       "country": "IN",
+      "city": "New Delhi",
+      "venue": "Delhi Technological University",
       "coordinates": [
         28.7505,
         77.116801
@@ -4580,9 +4535,10 @@
     "source": "https://anandchowdhary.github.io/events/events/2014/codelhi",
     "title": "Keynote at coDelhi",
     "data": {
-      "location": "Delhi Technological University, New Delhi",
-      "emoji": "🇮🇳",
+      "remote": false,
       "country": "IN",
+      "city": "New Delhi",
+      "venue": "Delhi Technological University",
       "coordinates": [
         28.7505,
         77.116801
