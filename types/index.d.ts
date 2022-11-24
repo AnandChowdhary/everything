@@ -35,10 +35,12 @@ export type TimelineOkr = TimelineBaseItem<
 export type TimelineEvent = TimelineBaseItem<
   "event",
   {
-    location: string;
-    emoji: string;
-    country: string;
+    remote: boolean;
+    country?: string;
+    city?: string;
+    venue?: string;
     coordinates?: [number, number];
+    video?: string;
   }
 >;
 

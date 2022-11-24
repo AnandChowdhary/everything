@@ -59,13 +59,20 @@ const getOkrs = async (): Promise<IOkrs> => {
 
 interface IEvent {
   slug: string;
-  name: string;
+  path: string;
+  source: string;
+  title: string;
   date: string;
-  emoji: string;
-  venue: string;
-  city: string;
-  country: string;
-  coordinates?: [number, number];
+  excerpt: string;
+  caption: string;
+  attributes: {
+    remote?: boolean;
+    city?: string;
+    country?: string;
+    venue?: string;
+    coordinates?: [number, number];
+    video?: string;
+  };
 }
 const getEvents = async (): Promise<IEvent[]> => {
   if (CACHE_ENABLED) {
@@ -347,12 +354,14 @@ export const generate = async () => {
     source: `https://anandchowdhary.github.io/events/events/${new Date(
       event.date
     ).getUTCFullYear()}/${event.slug.replace(".md", "")}`,
-    title: event.name,
+    title: event.title,
     data: {
-      location: [event.venue, event.city].filter((i) => !!i).join(", "),
-      emoji: event.emoji,
-      country: event.country,
-      coordinates: event.coordinates,
+      remote: !!event.attributes.remote,
+      country: event.attributes.country,
+      city: event.attributes.city,
+      venue: event.attributes.venue,
+      coordinates: event.attributes.coordinates,
+      video: event.attributes.video,
     },
   }));
 
