@@ -72,6 +72,8 @@ interface IEvent {
     venue?: string;
     coordinates?: [number, number];
     video?: string;
+    talk?: string;
+    event?: string;
   };
 }
 const getEvents = async (): Promise<IEvent[]> => {
@@ -362,6 +364,8 @@ export const generate = async () => {
       venue: event.attributes.venue,
       coordinates: event.attributes.coordinates,
       video: event.attributes.video,
+      event: event.attributes.event,
+      talk: event.attributes.talk,
     },
   }));
 

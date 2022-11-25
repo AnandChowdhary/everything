@@ -41,6 +41,8 @@ export type TimelineEvent = TimelineBaseItem<
     venue?: string;
     coordinates?: [number, number];
     video?: string;
+    talk?: string;
+    event?: string;
   }
 >;
 
