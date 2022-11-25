@@ -783,7 +783,6 @@
     "title": "Open source as a startup at GitHub Nova 2021",
     "data": {
       "remote": true,
-      "venue": "GitHub Nova 2021",
       "video": "https://www.youtube.com/watch?v=RCaGjMjiwpU"
     }
   },
@@ -1027,7 +1026,6 @@
     "title": "Helping fight COVID-19 using GitHub at GitHub Satellite 2021",
     "data": {
       "remote": true,
-      "venue": "GitHub Satellite 2021",
       "video": "https://www.youtube.com/watch?v=7QF8tpEiYx8"
     }
   },
@@ -1109,7 +1107,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2020/ut-global-entrepreneurship-week",
     "source": "https://anandchowdhary.github.io/events/events/2020/ut-global-entrepreneurship-week",
-    "title": "Guest Lecture for Global Entrepreneurship Week",
+    "title": "Guest lecture for Global Entrepreneurship Week",
     "data": {
       "remote": false,
       "country": "NL",
@@ -1126,7 +1124,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2020/ut-opportunity-recognition",
     "source": "https://anandchowdhary.github.io/events/events/2020/ut-opportunity-recognition",
-    "title": "Guest Lecture on Opportunity Recognition",
+    "title": "Guest lecture on Opportunity Recognition",
     "data": {
       "remote": false,
       "country": "NL",
@@ -1606,7 +1604,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2019/oneup-scu",
     "source": "https://anandchowdhary.github.io/events/events/2019/oneup-scu",
-    "title": "Keynote for OneUp, Santa Clara University",
+    "title": "Keynote for OneUp at Santa Clara",
     "data": {
       "remote": false,
       "country": "US",
@@ -1624,7 +1622,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2019/wwcode-cloud",
     "source": "https://anandchowdhary.github.io/events/events/2019/wwcode-cloud",
-    "title": "Women Who Code Cloud 2019",
+    "title": "Talk on product accessibility at Women Who Code Cloud 2019",
     "data": {
       "remote": false,
       "country": "US",
@@ -1717,7 +1715,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2019/minet-x-2019",
     "source": "https://anandchowdhary.github.io/events/events/2019/minet-x-2019",
-    "title": "MINET X 2019",
+    "title": "Judging and mentorship at MINET X 2019",
     "data": {
       "remote": false,
       "country": "IN",
@@ -1839,7 +1837,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2019/dutch-design-week",
     "source": "https://anandchowdhary.github.io/events/events/2019/dutch-design-week",
-    "title": "Dutch Design Week",
+    "title": "Shravan Apps at Dutch Design Week",
     "data": {
       "remote": false,
       "country": "NL",
@@ -1856,7 +1854,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2019/hive-01-season-5",
     "source": "https://anandchowdhary.github.io/events/events/2019/hive-01-season-5",
-    "title": "Hive 01 Season 5",
+    "title": "Dragon's Den at Hive 01 Season 5",
     "data": {
       "remote": false,
       "country": "NL",
@@ -2481,7 +2479,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2018/wief-2018",
     "source": "https://anandchowdhary.github.io/events/events/2018/wief-2018",
-    "title": "AKEPT-WIEF Social Enterprise Forum",
+    "title": "Plenary session on social enterprises in universities",
     "data": {
       "remote": false,
       "country": "MY",
@@ -2536,7 +2534,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2018/speakup",
     "source": "https://anandchowdhary.github.io/events/events/2018/speakup",
-    "title": "Speakup",
+    "title": "Ara demo at SpeakUp",
     "data": {
       "remote": false,
       "country": "NL",
@@ -2553,7 +2551,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2018/nesst-season-3",
     "source": "https://anandchowdhary.github.io/events/events/2018/nesst-season-3",
-    "title": "Nesst Season 3",
+    "title": "Season 3 opening keynote for Nesst",
     "data": {
       "remote": false,
       "country": "NL",
@@ -2594,7 +2592,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2018/gogbot",
     "source": "https://anandchowdhary.github.io/events/events/2018/gogbot",
-    "title": "GOGBOT",
+    "title": "Frankenstein at GOGBOT",
     "data": {
       "remote": false,
       "country": "NL",
@@ -2611,7 +2609,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2018/esummit",
     "source": "https://anandchowdhary.github.io/events/events/2018/esummit",
-    "title": "IITK eSummit",
+    "title": "Panel discussion at IITK eSummit",
     "data": {
       "remote": false,
       "country": "IN",
@@ -2639,7 +2637,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2018/hackiiitd",
     "source": "https://anandchowdhary.github.io/events/events/2018/hackiiitd",
-    "title": "HackIIITD",
+    "title": "Mentoring and judging at HackIIITD",
     "data": {
       "remote": false,
       "country": "IN",
@@ -2656,7 +2654,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2018/minet-x-2018",
     "source": "https://anandchowdhary.github.io/events/events/2018/minet-x-2018",
-    "title": "MINET X 2018",
+    "title": "Keynote at MINET X 2018",
     "data": {
       "remote": false,
       "country": "IN",
@@ -2860,7 +2858,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2018/online-open-day",
     "source": "https://anandchowdhary.github.io/events/events/2018/online-open-day",
-    "title": "Twente's Online Open Day",
+    "title": "Beyond Your Studies at Twente's Online Open Day",
     "data": {
       "remote": false,
       "country": "NL",
@@ -3034,7 +3032,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2018/nesst-season-2",
     "source": "https://anandchowdhary.github.io/events/events/2018/nesst-season-2",
-    "title": "Nesst Season 2",
+    "title": "Season 2 opening keynote for Nesst",
     "data": {
       "remote": false,
       "country": "NL",
@@ -3195,7 +3193,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2017/startup24",
     "source": "https://anandchowdhary.github.io/events/events/2017/startup24",
-    "title": "Startup24",
+    "title": "Pitching workshop at Startup24",
     "data": {
       "remote": false,
       "country": "NL",
@@ -3399,7 +3397,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2017/tedx-hailey-road",
     "source": "https://anandchowdhary.github.io/events/events/2017/tedx-hailey-road",
-    "title": "TEDxHaileyRoad",
+    "title": "TEDx Talk at TEDxYouth@HaileyRoad",
     "data": {
       "remote": false,
       "country": "IN",
@@ -3444,7 +3442,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2017/tech-charcha",
     "source": "https://anandchowdhary.github.io/events/events/2017/tech-charcha",
-    "title": "Tech Charcha by Facebook DevC",
+    "title": "Panel discussion at Facebook DevC",
     "data": {
       "remote": false,
       "country": "IN",
@@ -3746,7 +3744,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2016/sip-launch-dtu",
     "source": "https://anandchowdhary.github.io/events/events/2016/sip-launch-dtu",
-    "title": "SIP Launch (DTU)",
+    "title": "Keynote to launch DTU's Startup Internship Portal",
     "data": {
       "remote": false,
       "country": "IN",
@@ -4533,7 +4531,7 @@
     "type": "event",
     "url": "https://anandchowdhary.com/events/2014/codelhi",
     "source": "https://anandchowdhary.github.io/events/events/2014/codelhi",
-    "title": "Keynote at coDelhi",
+    "title": "Edtech keynote at coDelhi",
     "data": {
       "remote": false,
       "country": "IN",
