@@ -14,7 +14,9 @@
         37.7852,
         -122.4039
       ],
-      "video": "https://www.youtube.com/watch?v=F3dtaDJi_bo"
+      "video": "https://www.youtube.com/watch?v=F3dtaDJi_bo",
+      "event": "GitHub Universe 2022",
+      "talk": "How to open source as a startup"
     }
   },
   {
@@ -203,7 +205,8 @@
       "coordinates": [
         52.241198,
         6.851607
-      ]
+      ],
+      "talk": "Opportunity recognition"
     }
   },
   {
@@ -757,7 +760,9 @@
     "data": {
       "remote": true,
       "venue": "Dutch DevOps & GitHub Community",
-      "video": "https://www.youtube.com/watch?v=qWvFfPI-epA"
+      "video": "https://www.youtube.com/watch?v=qWvFfPI-epA",
+      "event": "8th DDOG",
+      "talk": "Helping fight COVID-19 using GitHub"
     }
   },
   {
@@ -783,7 +788,9 @@
     "title": "Open source as a startup at GitHub Nova 2021",
     "data": {
       "remote": true,
-      "video": "https://www.youtube.com/watch?v=RCaGjMjiwpU"
+      "video": "https://www.youtube.com/watch?v=RCaGjMjiwpU",
+      "event": "GitHub Nova 2021",
+      "talk": "How to open source as a startup"
     }
   },
   {
@@ -923,7 +930,8 @@
       "coordinates": [
         52.241198,
         6.851607
-      ]
+      ],
+      "talk": "Opportunity recognition"
     }
   },
   {
@@ -962,7 +970,9 @@
       "coordinates": [
         51.5533263,
         -0.0554439
-      ]
+      ],
+      "event": "MINET X 2021",
+      "talk": "Class Rebels to Oswald Labs"
     }
   },
   {
@@ -1026,7 +1036,9 @@
     "title": "Helping fight COVID-19 using GitHub at GitHub Satellite 2021",
     "data": {
       "remote": true,
-      "video": "https://www.youtube.com/watch?v=7QF8tpEiYx8"
+      "video": "https://www.youtube.com/watch?v=7QF8tpEiYx8",
+      "event": "GitHub Satellite 2021",
+      "talk": "Helping fight COVID-19 using GitHub"
     }
   },
   {
@@ -1088,7 +1100,9 @@
       "coordinates": [
         21.16068,
         72.789558
-      ]
+      ],
+      "event": "DotSlash Hackathon",
+      "talk": "Opportunity recognition"
     }
   },
   {
@@ -1116,7 +1130,9 @@
       "coordinates": [
         52.241198,
         6.851607
-      ]
+      ],
+      "event": "Global Entrepreneurship Week",
+      "talk": "Opportunity recognition"
     }
   },
   {
@@ -1133,7 +1149,8 @@
       "coordinates": [
         52.241198,
         6.851607
-      ]
+      ],
+      "talk": "Opportunity recognition"
     }
   },
   {
@@ -1614,7 +1631,9 @@
         37.779026,
         -122.419906
       ],
-      "video": "https://www.youtube.com/watch?v=zSX-yDAjUXk"
+      "video": "https://www.youtube.com/watch?v=zSX-yDAjUXk",
+      "event": "OneUp SCU",
+      "talk": "Class Rebels to Oswald Labs"
     }
   },
   {
@@ -1632,7 +1651,9 @@
         37.779026,
         -122.419906
       ],
-      "video": "https://www.facebook.com/AnandChowdhary/videos/2896608857033963/"
+      "video": "https://www.facebook.com/AnandChowdhary/videos/2896608857033963/",
+      "event": "Women Who Code Cloud 2019",
+      "talk": "Making your product accessible to everyone"
     }
   },
   {
@@ -1724,7 +1745,8 @@
       "coordinates": [
         28.613895,
         77.209006
-      ]
+      ],
+      "event": "MINET X 2019"
     }
   },
   {
@@ -1846,7 +1868,8 @@
       "coordinates": [
         51.44845,
         5.4579645
-      ]
+      ],
+      "event": "Dutch Design Week"
     }
   },
   {
@@ -1863,7 +1886,8 @@
       "coordinates": [
         52.220986,
         6.894054
-      ]
+      ],
+      "event": "Hive 01 Season 5"
     }
   },
   {
@@ -2488,7 +2512,9 @@
       "coordinates": [
         3.255572,
         101.738651
-      ]
+      ],
+      "event": "AKEPT-WIEF Social Enterprise Forum",
+      "talk": "Class Rebels to Oswald Labs"
     }
   },
   {
@@ -2543,7 +2569,8 @@
       "coordinates": [
         52.2324775,
         6.8950055
-      ]
+      ],
+      "event": "SpeakUp Parnter & Jubileum Event"
     }
   },
   {
@@ -2560,7 +2587,8 @@
       "coordinates": [
         51.912303,
         4.430355
-      ]
+      ],
+      "event": "Nesst Season 3"
     }
   },
   {
@@ -2601,7 +2629,8 @@
       "coordinates": [
         52.22,
         6.9
-      ]
+      ],
+      "event": "GOGBOT"
     }
   },
   {
@@ -2618,7 +2647,8 @@
       "coordinates": [
         26.51,
         80.23
-      ]
+      ],
+      "event": "IIT Kanput eSummit"
     }
   },
   {
@@ -2646,7 +2676,8 @@
       "coordinates": [
         18.53115,
         73.867663
-      ]
+      ],
+      "event": "HackIIITD"
     }
   },
   {
@@ -2663,7 +2694,9 @@
       "coordinates": [
         28.613895,
         77.209006
-      ]
+      ],
+      "event": "MINET X 2018",
+      "talk": "Class Rebels to Oswald Labs"
     }
   },
   {
@@ -2867,7 +2900,8 @@
       "coordinates": [
         52.241198,
         6.851607
-      ]
+      ],
+      "event": "Online Open Day"
     }
   },
   {
@@ -3041,7 +3075,9 @@
       "coordinates": [
         52.220986,
         6.894054
-      ]
+      ],
+      "event": "Nesst Season 2",
+      "talk": "Class Rebels to Oswald Labs"
     }
   },
   {
@@ -3202,7 +3238,8 @@
       "coordinates": [
         52.220986,
         6.894054
-      ]
+      ],
+      "event": "Startup24"
     }
   },
   {
@@ -3406,7 +3443,8 @@
       "coordinates": [
         28.46169,
         77.081458
-      ]
+      ],
+      "event": "TEDxYouth@HaileyRoad"
     }
   },
   {
@@ -3451,7 +3489,8 @@
       "coordinates": [
         28.5667,
         77.2833
-      ]
+      ],
+      "event": "Tech Charcha by Facebook Developer Circles Delhi-NCR"
     }
   },
   {
@@ -3753,7 +3792,8 @@
       "coordinates": [
         28.7505,
         77.116801
-      ]
+      ],
+      "event": "Startup Internship Portal Launch"
     }
   },
   {
@@ -4540,7 +4580,8 @@
       "coordinates": [
         28.7505,
         77.116801
-      ]
+      ],
+      "event": "coDelhi: Android/Web Development Hackathon"
     }
   },
   {
