@@ -1050,7 +1050,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 55,
-      "issues": 4,
+      "issues": 5,
       "forks": 6,
       "watchers": 55,
       "topics": [
@@ -1200,10 +1200,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12160,
-      "issues": 61,
-      "forks": 677,
-      "watchers": 12160,
+      "stars": 12200,
+      "issues": 62,
+      "forks": 681,
+      "watchers": 12200,
       "topics": [
         "incidents-reports",
         "status",
@@ -1653,7 +1653,8 @@
       ],
       "video": "https://www.facebook.com/AnandChowdhary/videos/2896608857033963/",
       "event": "Women Who Code Cloud 2019",
-      "talk": "Making your product accessible to everyone"
+      "slides": "https://speakerdeck.com/anandchowdhary/making-your-products-accessible-to-everyone",
+      "embed": "https://speakerdeck.com/player/d5a5c8d6a4b644498331bb53d7b0a8ca"
     }
   },
   {
@@ -1887,7 +1888,9 @@
         52.220986,
         6.894054
       ],
-      "event": "Hive 01 Season 5"
+      "event": "Hive 01 Season 5",
+      "slides": "https://speakerdeck.com/anandchowdhary/nesst-keynote-2019",
+      "embed": "https://speakerdeck.com/player/f190016ed322472f8f64ac45724f7446"
     }
   },
   {
@@ -2181,10 +2184,10 @@
     "source": "https://github.com/AnandChowdhary/gitwriter",
     "data": {
       "description": "📝 Version control your thoughts",
-      "stars": 13,
+      "stars": 12,
       "issues": 19,
       "forks": 1,
-      "watchers": 13,
+      "watchers": 12,
       "topics": [
         "app",
         "git",
@@ -2272,10 +2275,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 241,
-      "issues": 5,
-      "forks": 51,
-      "watchers": 241,
+      "stars": 244,
+      "issues": 3,
+      "forks": 50,
+      "watchers": 244,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2588,7 +2591,9 @@
         51.912303,
         4.430355
       ],
-      "event": "Nesst Season 3"
+      "event": "Nesst Season 3",
+      "slides": "https://speakerdeck.com/anandchowdhary/nesst-keynote-2018",
+      "embed": "https://speakerdeck.com/player/b50aec8b5edc4948a6bf18286a5930d7"
     }
   },
   {
@@ -3077,7 +3082,9 @@
         6.894054
       ],
       "event": "Nesst Season 2",
-      "talk": "Class Rebels to Oswald Labs"
+      "talk": "Class Rebels to Oswald Labs",
+      "slides": "https://speakerdeck.com/anandchowdhary/nesst-keynote-2018",
+      "embed": "https://speakerdeck.com/player/b50aec8b5edc4948a6bf18286a5930d7"
     }
   },
   {
@@ -3256,7 +3263,9 @@
       "coordinates": [
         52.220986,
         6.894054
-      ]
+      ],
+      "slides": "https://speakerdeck.com/anandchowdhary/hardstart-entrepreneurs-pitching-workshop",
+      "embed": "https://speakerdeck.com/player/b310362afd6d4b00be7ca6165c6e9fde"
     }
   },
   {
