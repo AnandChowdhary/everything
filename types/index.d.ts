@@ -43,6 +43,8 @@ export type TimelineEvent = TimelineBaseItem<
     video?: string;
     talk?: string;
     event?: string;
+    slides?: string;
+    embed?: string;
   }
 >;
 

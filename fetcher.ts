@@ -74,6 +74,8 @@ interface IEvent {
     video?: string;
     talk?: string;
     event?: string;
+    slides?: string;
+    embed?: string;
   };
 }
 const getEvents = async (): Promise<IEvent[]> => {
@@ -366,6 +368,8 @@ export const generate = async () => {
       video: event.attributes.video,
       event: event.attributes.event,
       talk: event.attributes.talk,
+      slides: event.attributes.slides,
+      embed: event.attributes.embed,
     },
   }));
 
