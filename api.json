@@ -1,5 +1,29 @@
 [
   {
+    "date": "2022-12-02T08:04:37Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/NewsHaikusBot",
+    "url": "https://anandchowdhary.com/projects/2022/NewsHaikusBot",
+    "source": "https://github.com/AnandChowdhary/NewsHaikusBot",
+    "data": {
+      "description": "🤖 Twitter bot which tweets news in haikus using GPT-3",
+      "stars": 3,
+      "issues": 0,
+      "forks": 0,
+      "watchers": 3,
+      "topics": [
+        "gpt-3",
+        "openai",
+        "twitter",
+        "twitter-api",
+        "twitter-bot",
+        "typescript"
+      ],
+      "language": "TypeScript",
+      "languageColor": "#3178c6"
+    }
+  },
+  {
     "date": "2022-11-09T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2022/github-universe",
@@ -27,10 +51,10 @@
     "source": "https://github.com/AnandChowdhary/birthday-reminders-action",
     "data": {
       "description": "🎁 Daily messages for birthday reminders using GitHub Actions",
-      "stars": 3,
+      "stars": 4,
       "issues": 0,
       "forks": 0,
-      "watchers": 3,
+      "watchers": 4,
       "topics": [
         "birthday",
         "birthday-reminder",
@@ -1200,10 +1224,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12200,
+      "stars": 12228,
       "issues": 62,
-      "forks": 681,
-      "watchers": 12200,
+      "forks": 686,
+      "watchers": 12228,
       "topics": [
         "incidents-reports",
         "status",
@@ -1807,7 +1831,7 @@
     "data": {
       "description": "🙋 Collect feedback from your users on the web",
       "stars": 7,
-      "issues": 14,
+      "issues": 15,
       "forks": 2,
       "watchers": 7,
       "topics": [
@@ -2025,8 +2049,8 @@
     "data": {
       "description": "🧹 Track JS errors and send them to your backend",
       "stars": 10,
-      "issues": 16,
-      "forks": 8,
+      "issues": 17,
+      "forks": 7,
       "watchers": 10,
       "topics": [
         "error-handling",
@@ -2104,7 +2128,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 18,
-      "issues": 22,
+      "issues": 23,
       "forks": 1,
       "watchers": 18,
       "topics": [
@@ -2127,7 +2151,7 @@
     "data": {
       "description": "🌐 Automatically translate your JSON I18N files",
       "stars": 19,
-      "issues": 15,
+      "issues": 16,
       "forks": 2,
       "watchers": 19,
       "topics": [
@@ -2184,10 +2208,10 @@
     "source": "https://github.com/AnandChowdhary/gitwriter",
     "data": {
       "description": "📝 Version control your thoughts",
-      "stars": 12,
-      "issues": 19,
+      "stars": 13,
+      "issues": 20,
       "forks": 1,
-      "watchers": 12,
+      "watchers": 13,
       "topics": [
         "app",
         "git",
@@ -2207,10 +2231,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 34,
-      "issues": 6,
+      "stars": 35,
+      "issues": 7,
       "forks": 13,
-      "watchers": 34,
+      "watchers": 35,
       "topics": [
         "generator",
         "icons",
@@ -2229,7 +2253,7 @@
     "data": {
       "description": "🗄 File-based key-JSON database with nodecache",
       "stars": 11,
-      "issues": 11,
+      "issues": 12,
       "forks": 0,
       "watchers": 11,
       "topics": [
@@ -2252,7 +2276,7 @@
     "data": {
       "description": "🔔 Changelog notifications widget for the web, powered by GitHub",
       "stars": 5,
-      "issues": 19,
+      "issues": 20,
       "forks": 0,
       "watchers": 5,
       "topics": [
@@ -2275,10 +2299,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 244,
-      "issues": 3,
+      "stars": 245,
+      "issues": 5,
       "forks": 50,
-      "watchers": 244,
+      "watchers": 245,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2334,7 +2358,7 @@
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
       "stars": 72,
-      "issues": 23,
+      "issues": 24,
       "forks": 11,
       "watchers": 72,
       "topics": [
@@ -2357,7 +2381,7 @@
     "data": {
       "description": "🖱️ Wikipedia summary cards for the web",
       "stars": 83,
-      "issues": 20,
+      "issues": 21,
       "forks": 10,
       "watchers": 83,
       "topics": [
@@ -2960,10 +2984,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1753,
-      "issues": 45,
+      "stars": 1754,
+      "issues": 46,
       "forks": 121,
-      "watchers": 1753,
+      "watchers": 1754,
       "topics": [
         "file-upload",
         "image",
