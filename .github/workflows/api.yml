@@ -20,6 +20,8 @@ jobs:
       - name: Update summary & API
         shell: bash
         run: deno task start
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Set git user and pull
         shell: bash
         run: "git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com' && git config --global user.name 'github-actions[bot]' && git pull && git add ."
