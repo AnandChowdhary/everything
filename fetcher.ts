@@ -616,7 +616,7 @@ export const generate = async () => {
       topics: repo.topics ?? [],
       language: repo.language,
       languageColor: repo.language_color,
-      open_graph_image_url: repo.open_graph_image_url,
+      openGraphImageUrl: repo.open_graph_image_url,
     },
   }));
 

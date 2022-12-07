@@ -144,6 +144,7 @@ export type TimelineOpenSourceProject = TimelineBaseItem<
     topics: string[];
     language?: string;
     languageColor?: string;
+    openGraphImageUrl?: string;
   }
 >;
 
