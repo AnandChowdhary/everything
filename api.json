@@ -1,5 +1,29 @@
 [
   {
+    "date": "2022-12-12T16:59:25.650Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2022/maastricht-nl",
+    "source": "https://github.com/AnandChowdhary/location/commit/b4e2c4f8d3a6c65f2b2096bdbd8808db47a5508e",
+    "title": "Maastricht, Netherlands",
+    "data": {
+      "hash": "b4e2c4f8d3a6c65f2b2096bdbd8808db47a5508e",
+      "approximateCoordinates": [
+        50.85,
+        5.69
+      ],
+      "label": "Maastricht",
+      "timezone": {
+        "name": "Europe/Amsterdam",
+        "utcOffset": 60,
+        "dstOffset": 120
+      },
+      "country": {
+        "code": "nl",
+        "name": "Netherlands"
+      }
+    }
+  },
+  {
     "date": "2022-12-02T08:04:37Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/NewsHaikusBot",
@@ -83,90 +107,90 @@
     "date": "2022-10-01",
     "data": {
       "name": 4,
-      "progress": 0.34,
-      "success": 0.47,
+      "progress": 0.4,
+      "success": 0.5,
       "objectives": [
         {
           "name": "Continue working on health goals",
-          "progress": 0.27,
-          "success": 0.38,
+          "progress": 0.35,
+          "success": 0.44,
           "key_results": [
             {
               "name": "Work out 3 or more times weekly",
-              "current_result": 6,
+              "current_result": 8,
               "target_result": 39,
-              "progress": 0.15,
-              "success": 0.21
+              "progress": 0.21,
+              "success": 0.26
             },
             {
               "name": "Complete one book every month",
-              "current_result": 0.5,
+              "current_result": 1,
               "target_result": 3,
-              "progress": 0.17,
-              "success": 0.23
+              "progress": 0.33,
+              "success": 0.42
             },
             {
               "name": "Do therapy 3 or more times monthly",
               "current_result": 6,
               "target_result": 12,
               "progress": 0.5,
-              "success": 0.69
+              "success": 0.63
             }
           ]
         },
         {
           "name": "Stop procrastinating on growth",
-          "progress": 0.34,
-          "success": 0.48,
+          "progress": 0.41,
+          "success": 0.51,
           "key_results": [
             {
               "name": "Finalize city and apartment for 2023",
-              "current_result": 0.2,
+              "current_result": 0.3,
               "target_result": 1,
-              "progress": 0.2,
-              "success": 0.28
+              "progress": 0.3,
+              "success": 0.38
             },
             {
               "name": "Properly prepare for all 1:1s",
-              "current_result": 4,
+              "current_result": 5,
               "target_result": 12,
-              "progress": 0.33,
-              "success": 0.46
+              "progress": 0.42,
+              "success": 0.53
             },
             {
               "name": "Set up and use personal CRM",
               "current_result": 0.5,
               "target_result": 1,
               "progress": 0.5,
-              "success": 0.69
+              "success": 0.63
             }
           ]
         },
         {
           "name": "Get ready for 2023",
-          "progress": 0.4,
-          "success": 0.56,
+          "progress": 0.43,
+          "success": 0.55,
           "key_results": [
             {
               "name": "Prepare for the wedding in Q1",
-              "current_result": 0.5,
+              "current_result": 0.6,
               "target_result": 1,
-              "progress": 0.5,
-              "success": 0.69
+              "progress": 0.6,
+              "success": 0.76
             },
             {
               "name": "Document & reflect on 2022, set up theme",
               "current_result": 0.3,
               "target_result": 1,
               "progress": 0.3,
-              "success": 0.42
+              "success": 0.38
             },
             {
               "name": "[redacted]",
               "current_result": 0.4,
               "target_result": 1,
               "progress": 0.4,
-              "success": 0.56
+              "success": 0.51
             }
           ]
         }
@@ -233,6 +257,19 @@
         6.851607
       ],
       "talk": "Opportunity recognition"
+    }
+  },
+  {
+    "date": "2022-08-25T11:37:27.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/books/2022/the-psychology-of-money",
+    "source": "https://github.com/AnandChowdhary/books/issues/50",
+    "title": "The Psychology of Money",
+    "data": {
+      "image": "http://books.google.com/books/content?id=TnrrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Morgan Housel"
+      ]
     }
   },
   {
@@ -605,7 +642,7 @@
     "data": {
       "description": "💿 Starter for @remix-run with localized routing and i18n",
       "stars": 51,
-      "issues": 1,
+      "issues": 2,
       "forks": 3,
       "watchers": 51,
       "topics": [
@@ -1077,7 +1114,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 55,
-      "issues": 5,
+      "issues": 6,
       "forks": 6,
       "watchers": 55,
       "topics": [
@@ -1229,10 +1266,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12228,
-      "issues": 62,
-      "forks": 686,
-      "watchers": 12228,
+      "stars": 12261,
+      "issues": 60,
+      "forks": 689,
+      "watchers": 12261,
       "topics": [
         "incidents-reports",
         "status",
@@ -1354,7 +1391,7 @@
     "data": {
       "description": "🔨 Bootstrap and configure any project using its template",
       "stars": 3,
-      "issues": 15,
+      "issues": 17,
       "forks": 1,
       "watchers": 3,
       "topics": [
@@ -1391,7 +1428,7 @@
     "data": {
       "description": "🗓️ Find empty appointment slots in a user's calendar",
       "stars": 11,
-      "issues": 16,
+      "issues": 18,
       "forks": 2,
       "watchers": 11,
       "topics": [
@@ -1415,7 +1452,7 @@
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
       "stars": 28,
-      "issues": 13,
+      "issues": 15,
       "forks": 7,
       "watchers": 28,
       "topics": [
@@ -1440,7 +1477,7 @@
     "data": {
       "description": "🎭 Natural language web automation with Puppeteer",
       "stars": 7,
-      "issues": 15,
+      "issues": 17,
       "forks": 1,
       "watchers": 7,
       "topics": [
@@ -1466,7 +1503,7 @@
     "data": {
       "description": "🏷️ Opinionated TypeScript starter for server-side Node.js libraries",
       "stars": 2,
-      "issues": 16,
+      "issues": 18,
       "forks": 2,
       "watchers": 2,
       "topics": [
@@ -1490,7 +1527,7 @@
     "data": {
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
       "stars": 6,
-      "issues": 7,
+      "issues": 9,
       "forks": 1,
       "watchers": 6,
       "topics": [
@@ -1844,7 +1881,7 @@
     "data": {
       "description": "🙋 Collect feedback from your users on the web",
       "stars": 7,
-      "issues": 15,
+      "issues": 16,
       "forks": 2,
       "watchers": 7,
       "topics": [
@@ -2064,7 +2101,7 @@
     "data": {
       "description": "🧹 Track JS errors and send them to your backend",
       "stars": 10,
-      "issues": 17,
+      "issues": 18,
       "forks": 7,
       "watchers": 10,
       "topics": [
@@ -2144,7 +2181,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 18,
-      "issues": 23,
+      "issues": 24,
       "forks": 1,
       "watchers": 18,
       "topics": [
@@ -2168,7 +2205,7 @@
     "data": {
       "description": "🌐 Automatically translate your JSON I18N files",
       "stars": 19,
-      "issues": 16,
+      "issues": 17,
       "forks": 2,
       "watchers": 19,
       "topics": [
@@ -2227,7 +2264,7 @@
     "data": {
       "description": "📝 Version control your thoughts",
       "stars": 13,
-      "issues": 20,
+      "issues": 21,
       "forks": 1,
       "watchers": 13,
       "topics": [
@@ -2273,7 +2310,7 @@
     "data": {
       "description": "🗄 File-based key-JSON database with nodecache",
       "stars": 11,
-      "issues": 12,
+      "issues": 13,
       "forks": 0,
       "watchers": 11,
       "topics": [
@@ -2297,7 +2334,7 @@
     "data": {
       "description": "🔔 Changelog notifications widget for the web, powered by GitHub",
       "stars": 5,
-      "issues": 20,
+      "issues": 21,
       "forks": 0,
       "watchers": 5,
       "topics": [
@@ -2323,7 +2360,7 @@
       "description": "📅 Calendar link generator for popular services",
       "stars": 245,
       "issues": 5,
-      "forks": 50,
+      "forks": 51,
       "watchers": 245,
       "topics": [
         "calendar",
@@ -2381,7 +2418,7 @@
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
       "stars": 72,
-      "issues": 24,
+      "issues": 26,
       "forks": 11,
       "watchers": 72,
       "topics": [
@@ -2404,10 +2441,10 @@
     "source": "https://github.com/AnandChowdhary/hovercard",
     "data": {
       "description": "🖱️ Wikipedia summary cards for the web",
-      "stars": 83,
-      "issues": 21,
+      "stars": 84,
+      "issues": 22,
       "forks": 10,
-      "watchers": 83,
+      "watchers": 84,
       "topics": [
         "a11y",
         "hovercard",
