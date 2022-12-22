@@ -1,29 +1,5 @@
 [
   {
-    "date": "2022-12-12T16:59:25.650Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2022/maastricht-nl",
-    "source": "https://github.com/AnandChowdhary/location/commit/b4e2c4f8d3a6c65f2b2096bdbd8808db47a5508e",
-    "title": "Maastricht, Netherlands",
-    "data": {
-      "hash": "b4e2c4f8d3a6c65f2b2096bdbd8808db47a5508e",
-      "approximateCoordinates": [
-        50.85,
-        5.69
-      ],
-      "label": "Maastricht",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "nl",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2022-12-02T08:04:37Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/NewsHaikusBot",
