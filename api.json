@@ -1242,10 +1242,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12290,
-      "issues": 60,
-      "forks": 686,
-      "watchers": 12290,
+      "stars": 12352,
+      "issues": 59,
+      "forks": 688,
+      "watchers": 12352,
       "topics": [
         "incidents-reports",
         "status",
@@ -1441,7 +1441,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/68017c82098ed52889be5ff7173df6c59f65573da5b7463ecf677f0ee2bc01d4/AnandChowdhary/docs-markdown"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/3dfa58c0ad20c328362da5f1201da77b9a35372fd6ad2004507e6e6fc5b24a01/AnandChowdhary/docs-markdown"
     }
   },
   {
@@ -1480,7 +1480,7 @@
       "description": "🏷️ Opinionated TypeScript starter for server-side Node.js libraries",
       "stars": 2,
       "issues": 18,
-      "forks": 2,
+      "forks": 3,
       "watchers": 2,
       "topics": [
         "javascript",
@@ -2265,7 +2265,7 @@
       "description": "🈹 Better icons for languages, because flags just don't cut it",
       "stars": 35,
       "issues": 7,
-      "forks": 13,
+      "forks": 14,
       "watchers": 35,
       "topics": [
         "generator",
@@ -2274,7 +2274,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/8fde65ed26e6f2318455a52f9df436ac204c3d3d2799e879b820f99867be49fe/AnandChowdhary/language-icons"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/ec89eb35d43c8f1bcb05f9f6a61c1aeac5fe1c6955a911d48938873c0b808249/AnandChowdhary/language-icons"
     }
   },
   {
@@ -2335,7 +2335,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 246,
-      "issues": 7,
+      "issues": 9,
       "forks": 51,
       "watchers": 246,
       "topics": [
@@ -3022,10 +3022,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1755,
+      "stars": 1754,
       "issues": 46,
       "forks": 121,
-      "watchers": 1755,
+      "watchers": 1754,
       "topics": [
         "file-upload",
         "image",
