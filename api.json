@@ -1,5 +1,29 @@
 [
   {
+    "date": "2022-12-26T16:28:15.415Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2022/hengelo-nl",
+    "source": "https://github.com/AnandChowdhary/location/commit/850dede6f60bc5b01f36c8b273c95db1f3407070",
+    "title": "Hengelo, Netherlands",
+    "data": {
+      "hash": "850dede6f60bc5b01f36c8b273c95db1f3407070",
+      "approximateCoordinates": [
+        52.26,
+        6.8
+      ],
+      "label": "Hengelo",
+      "timezone": {
+        "name": "Europe/Amsterdam",
+        "utcOffset": 60,
+        "dstOffset": 120
+      },
+      "country": {
+        "code": "nl",
+        "name": "Netherlands"
+      }
+    }
+  },
+  {
     "date": "2022-12-02T08:04:37Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/NewsHaikusBot",
