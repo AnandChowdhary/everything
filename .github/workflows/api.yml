@@ -1,4 +1,5 @@
 name: API CI
+concurrency: api
 on:
   push:
     branches: [main]
