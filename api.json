@@ -3587,19 +3587,6 @@
     }
   },
   {
-    "date": "2017-05-21T00:00:00.000Z",
-    "type": "book",
-    "url": "https://anandchowdhary.com/books/2017/1984",
-    "source": "https://github.com/AnandChowdhary/books/issues/16",
-    "title": "1984",
-    "data": {
-      "image": "http://books.google.com/books/content?id=yxv1LK5gyV4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-      "authors": [
-        "George Orwell"
-      ]
-    }
-  },
-  {
     "date": "2017-05-07T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2017/tech-charcha",
@@ -3781,19 +3768,6 @@
       "publisher": "HuffPost",
       "href": "https://www.huffingtonpost.in/2016/08/01/two-teenagers-from-delhi-want-to-change-the-web-with-this-readin_a_21442472/",
       "author": "Aashmita Nayar"
-    }
-  },
-  {
-    "date": "2016-11-15T00:00:00.000Z",
-    "type": "book",
-    "url": "https://anandchowdhary.com/books/2016/\"surely-you're-joking-mr.-feynman!\":-adventures-of-a-curious-character",
-    "source": "https://github.com/AnandChowdhary/books/issues/17",
-    "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
-    "data": {
-      "image": "http://books.google.com/books/content?id=_gA_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "authors": [
-        "Richard P. Feynman"
-      ]
     }
   },
   {
