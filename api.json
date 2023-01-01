@@ -1,5 +1,16 @@
 [
   {
+    "date": "2022-12-31T22:03:48.000Z",
+    "type": "theme",
+    "url": "https://anandchowdhary.com/themes/2022",
+    "source": "https://anandchowdhary.github.io/themes/themes/2022/year-of-relationships",
+    "title": "Year of Relationships",
+    "data": {
+      "year": 2022,
+      "description": "I want to improve my relationships with my work, myself, and my surroundings in my Year of Relationships:\n\nI want a healthy relationship with my work. I want to continue to work hard on my company. 2022 was my highest productivity year yet, and I don’t want that to change in 2023, while taking enough time off and maintaining a healthy balance. I also want to plan better and spend time in structured thinking. Secondly, I want a strong relationship with my body & min"
+    }
+  },
+  {
     "date": "2022-12-30T00:00:00.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2022/year-of-relationships",
@@ -1263,7 +1274,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/7d34e4e6d54c13d8531617cd8d5a266a3136e549f34a78d1aa845f645f741fb2/AnandChowdhary/update-template"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/1f0ecd49294202c71e4320a9a3aa8e8dce7122a3f56fc9e29f29d6f4c09f4108/AnandChowdhary/update-template"
     }
   },
   {
