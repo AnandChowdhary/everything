@@ -621,6 +621,30 @@
     }
   },
   {
+    "date": "2022-03-02T15:42:29Z",
+    "type": "open-source-project",
+    "title": "pabio/redirect-russia",
+    "url": "https://anandchowdhary.com/projects/2022/redirect-russia",
+    "source": "https://github.com/pabio/redirect-russia",
+    "data": {
+      "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
+      "stars": 94,
+      "issues": 4,
+      "forks": 15,
+      "watchers": 94,
+      "topics": [
+        "help-ukraine",
+        "javascript",
+        "typescript",
+        "ukraine",
+        "ukraine-invasion"
+      ],
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "openGraphImageUrl": "https://repository-images.githubusercontent.com/465367050/848de093-5b6a-4c77-be9b-fe3ce0ab2827"
+    }
+  },
+  {
     "date": "2022-02-28T12:18:46.638Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2022/berlin-de",
@@ -662,10 +686,10 @@
     "source": "https://github.com/AnandChowdhary/remix-starter",
     "data": {
       "description": "💿 Starter for @remix-run with localized routing and i18n",
-      "stars": 51,
+      "stars": 50,
       "issues": 3,
       "forks": 3,
-      "watchers": 51,
+      "watchers": 50,
       "topics": [
         "i18n",
         "javascript",
@@ -1261,10 +1285,10 @@
     "source": "https://github.com/AnandChowdhary/update-template",
     "data": {
       "description": "📠 Easily update repos created with GitHub templates",
-      "stars": 30,
+      "stars": 31,
       "issues": 1,
       "forks": 3,
-      "watchers": 30,
+      "watchers": 31,
       "topics": [
         "github-actions",
         "nodejs",
@@ -1285,10 +1309,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12352,
-      "issues": 59,
+      "stars": 12415,
+      "issues": 61,
       "forks": 688,
-      "watchers": 12352,
+      "watchers": 12415,
       "topics": [
         "incidents-reports",
         "status",
@@ -1468,10 +1492,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 28,
+      "stars": 30,
       "issues": 15,
       "forks": 7,
-      "watchers": 28,
+      "watchers": 30,
       "topics": [
         "google",
         "google-docs",
@@ -2296,10 +2320,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 35,
+      "stars": 36,
       "issues": 7,
       "forks": 14,
-      "watchers": 35,
+      "watchers": 36,
       "topics": [
         "generator",
         "icons",
@@ -2450,10 +2474,10 @@
     "source": "https://github.com/AnandChowdhary/hovercard",
     "data": {
       "description": "🖱️ Wikipedia summary cards for the web",
-      "stars": 84,
+      "stars": 85,
       "issues": 22,
       "forks": 10,
-      "watchers": 84,
+      "watchers": 85,
       "topics": [
         "a11y",
         "hovercard",
@@ -3051,10 +3075,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1754,
-      "issues": 46,
+      "stars": 1755,
+      "issues": 47,
       "forks": 121,
-      "watchers": 1754,
+      "watchers": 1755,
       "topics": [
         "file-upload",
         "image",
