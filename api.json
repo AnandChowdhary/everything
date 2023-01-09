@@ -1,5 +1,29 @@
 [
   {
+    "date": "2023-01-08T19:16:46.000Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2023/chandigarh-in",
+    "source": "https://github.com/AnandChowdhary/location/commit/efed09af651a9ccf8090ad4ffc85f59ff6901336",
+    "title": "Chandigarh, India",
+    "data": {
+      "hash": "efed09af651a9ccf8090ad4ffc85f59ff6901336",
+      "approximateCoordinates": [
+        30.71,
+        76.8
+      ],
+      "label": "Chandigarh",
+      "timezone": {
+        "name": "Asia/Kolkata",
+        "utcOffset": 330,
+        "dstOffset": 330
+      },
+      "country": {
+        "code": "in",
+        "name": "India"
+      }
+    }
+  },
+  {
     "date": "2023-01-08T13:43:05.000Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2023/s.a.s.-nagar-(mohali)-tahsil-in",
@@ -785,10 +809,10 @@
     "source": "https://github.com/AnandChowdhary/remix-starter",
     "data": {
       "description": "💿 Starter for @remix-run with localized routing and i18n",
-      "stars": 50,
-      "issues": 3,
+      "stars": 51,
+      "issues": 4,
       "forks": 3,
-      "watchers": 50,
+      "watchers": 51,
       "topics": [
         "i18n",
         "javascript",
@@ -799,7 +823,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/0c61dacc8cbfed420a72cab53d07ac9582fdd45440544dd3dfde28ca9368f43f/AnandChowdhary/remix-starter"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/08802d45bcab09ab7bd249f719f5c206830acfcb0656f737ec23bc842b04d80a/AnandChowdhary/remix-starter"
     }
   },
   {
@@ -1257,7 +1281,7 @@
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 55,
       "issues": 6,
-      "forks": 6,
+      "forks": 8,
       "watchers": 55,
       "topics": [
         "api",
@@ -1408,10 +1432,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12418,
-      "issues": 62,
-      "forks": 688,
-      "watchers": 12418,
+      "stars": 12461,
+      "issues": 63,
+      "forks": 691,
+      "watchers": 12461,
       "topics": [
         "incidents-reports",
         "status",
@@ -1531,7 +1555,7 @@
     "data": {
       "description": "🔨 Bootstrap and configure any project using its template",
       "stars": 3,
-      "issues": 17,
+      "issues": 18,
       "forks": 1,
       "watchers": 3,
       "topics": [
@@ -1568,7 +1592,7 @@
     "data": {
       "description": "🗓️ Find empty appointment slots in a user's calendar",
       "stars": 11,
-      "issues": 18,
+      "issues": 19,
       "forks": 2,
       "watchers": 11,
       "topics": [
@@ -1592,7 +1616,7 @@
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
       "stars": 30,
-      "issues": 15,
+      "issues": 16,
       "forks": 7,
       "watchers": 30,
       "topics": [
@@ -1616,10 +1640,10 @@
     "source": "https://github.com/AnandChowdhary/puppet",
     "data": {
       "description": "🎭 Natural language web automation with Puppeteer",
-      "stars": 7,
-      "issues": 17,
+      "stars": 8,
+      "issues": 18,
       "forks": 1,
-      "watchers": 7,
+      "watchers": 8,
       "topics": [
         "automation",
         "chrome",
@@ -1643,7 +1667,7 @@
     "data": {
       "description": "🏷️ Opinionated TypeScript starter for server-side Node.js libraries",
       "stars": 2,
-      "issues": 18,
+      "issues": 19,
       "forks": 3,
       "watchers": 2,
       "topics": [
@@ -1667,7 +1691,7 @@
     "data": {
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
       "stars": 6,
-      "issues": 9,
+      "issues": 10,
       "forks": 1,
       "watchers": 6,
       "topics": [
@@ -2019,7 +2043,7 @@
     "data": {
       "description": "🙋 Collect feedback from your users on the web",
       "stars": 7,
-      "issues": 16,
+      "issues": 17,
       "forks": 2,
       "watchers": 7,
       "topics": [
@@ -2238,7 +2262,7 @@
     "data": {
       "description": "🧹 Track JS errors and send them to your backend",
       "stars": 10,
-      "issues": 18,
+      "issues": 19,
       "forks": 7,
       "watchers": 10,
       "topics": [
@@ -2340,7 +2364,7 @@
     "data": {
       "description": "🌐 Automatically translate your JSON I18N files",
       "stars": 19,
-      "issues": 17,
+      "issues": 18,
       "forks": 2,
       "watchers": 19,
       "topics": [
@@ -2395,10 +2419,10 @@
     "source": "https://github.com/AnandChowdhary/gitwriter",
     "data": {
       "description": "📝 Version control your thoughts",
-      "stars": 13,
+      "stars": 14,
       "issues": 21,
       "forks": 1,
-      "watchers": 13,
+      "watchers": 14,
       "topics": [
         "app",
         "git",
@@ -2442,7 +2466,7 @@
     "data": {
       "description": "🗄 File-based key-JSON database with nodecache",
       "stars": 11,
-      "issues": 13,
+      "issues": 14,
       "forks": 0,
       "watchers": 11,
       "topics": [
@@ -2466,7 +2490,7 @@
     "data": {
       "description": "🔔 Changelog notifications widget for the web, powered by GitHub",
       "stars": 5,
-      "issues": 21,
+      "issues": 22,
       "forks": 0,
       "watchers": 5,
       "topics": [
@@ -2491,7 +2515,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 246,
-      "issues": 9,
+      "issues": 10,
       "forks": 51,
       "watchers": 246,
       "topics": [
@@ -2550,7 +2574,7 @@
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
       "stars": 72,
-      "issues": 26,
+      "issues": 27,
       "forks": 11,
       "watchers": 72,
       "topics": [
@@ -2574,7 +2598,7 @@
     "data": {
       "description": "🖱️ Wikipedia summary cards for the web",
       "stars": 85,
-      "issues": 22,
+      "issues": 23,
       "forks": 10,
       "watchers": 85,
       "topics": [
@@ -3174,10 +3198,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1755,
-      "issues": 47,
-      "forks": 121,
-      "watchers": 1755,
+      "stars": 1756,
+      "issues": 49,
+      "forks": 122,
+      "watchers": 1756,
       "topics": [
         "file-upload",
         "image",
