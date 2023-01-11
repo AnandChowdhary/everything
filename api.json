@@ -1,17 +1,17 @@
 [
   {
-    "date": "2023-01-08T19:16:46.000Z",
+    "date": "2023-01-10T20:04:55.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2023/chandigarh-in",
-    "source": "https://github.com/AnandChowdhary/location/commit/efed09af651a9ccf8090ad4ffc85f59ff6901336",
-    "title": "Chandigarh, India",
+    "url": "https://anandchowdhary.com/travel/2023/mandakini-enclave-in",
+    "source": "https://github.com/AnandChowdhary/location/commit/68020082671753dfdd798de1d44f9b0abdd312ae",
+    "title": "Mandakini Enclave, India",
     "data": {
-      "hash": "efed09af651a9ccf8090ad4ffc85f59ff6901336",
+      "hash": "68020082671753dfdd798de1d44f9b0abdd312ae",
       "approximateCoordinates": [
-        30.71,
-        76.8
+        28.53,
+        77.25
       ],
-      "label": "Chandigarh",
+      "label": "Mandakini Enclave",
       "timezone": {
         "name": "Asia/Kolkata",
         "utcOffset": 330,
@@ -1604,7 +1604,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/3fd7fbe3e4d3088dd932a94e4734c9176c6f833995983d206b5ece6c21f1765e/AnandChowdhary/calendar-slots"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/55802bbfbd7bc5bd5ccb2fe132025dd8f065a8b6f3dea337c9264de21cab9867/AnandChowdhary/calendar-slots"
     }
   },
   {
