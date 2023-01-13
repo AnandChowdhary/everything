@@ -1,17 +1,17 @@
 [
   {
-    "date": "2023-01-10T20:04:55.000Z",
+    "date": "2023-01-12T10:53:21.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2023/mandakini-enclave-in",
-    "source": "https://github.com/AnandChowdhary/location/commit/68020082671753dfdd798de1d44f9b0abdd312ae",
-    "title": "Mandakini Enclave, India",
+    "url": "https://anandchowdhary.com/travel/2023/defence-colony-tehsil-in",
+    "source": "https://github.com/AnandChowdhary/location/commit/7638b9903cb49af730bce0d7e0b2366d109c2eb1",
+    "title": "Defence Colony Tehsil, India",
     "data": {
-      "hash": "68020082671753dfdd798de1d44f9b0abdd312ae",
+      "hash": "7638b9903cb49af730bce0d7e0b2366d109c2eb1",
       "approximateCoordinates": [
-        28.53,
-        77.25
+        28.57,
+        77.24
       ],
-      "label": "Mandakini Enclave",
+      "label": "Defence Colony Tehsil",
       "timezone": {
         "name": "Asia/Kolkata",
         "utcOffset": 330,
