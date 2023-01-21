@@ -1,5 +1,13 @@
 [
   {
+    "date": "2023-01-21",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/milestones/2023/got-married",
+    "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
+    "title": "Got married",
+    "data": {}
+  },
+  {
     "date": "2023-01-12T10:53:21.000Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2023/defence-colony-tehsil-in",
