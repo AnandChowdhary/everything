@@ -1440,10 +1440,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12511,
+      "stars": 12550,
       "issues": 62,
-      "forks": 696,
-      "watchers": 12511,
+      "forks": 698,
+      "watchers": 12550,
       "topics": [
         "incidents-reports",
         "status",
@@ -1601,7 +1601,7 @@
       "description": "🗓️ Find empty appointment slots in a user's calendar",
       "stars": 12,
       "issues": 21,
-      "forks": 2,
+      "forks": 3,
       "watchers": 12,
       "topics": [
         "calendar",
@@ -2371,10 +2371,10 @@
     "source": "https://github.com/AnandChowdhary/auto-i18n",
     "data": {
       "description": "🌐 Automatically translate your JSON I18N files",
-      "stars": 19,
+      "stars": 20,
       "issues": 18,
       "forks": 2,
-      "watchers": 19,
+      "watchers": 20,
       "topics": [
         "automation",
         "google-translate",
@@ -2522,10 +2522,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 248,
-      "issues": 10,
-      "forks": 51,
-      "watchers": 248,
+      "stars": 249,
+      "issues": 9,
+      "forks": 52,
+      "watchers": 249,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3206,10 +3206,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1757,
+      "stars": 1759,
       "issues": 50,
-      "forks": 123,
-      "watchers": 1757,
+      "forks": 121,
+      "watchers": 1759,
       "topics": [
         "file-upload",
         "image",
