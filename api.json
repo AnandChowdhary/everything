@@ -1416,10 +1416,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12550,
+      "stars": 12590,
       "issues": 62,
-      "forks": 698,
-      "watchers": 12550,
+      "forks": 699,
+      "watchers": 12590,
       "topics": [
         "incidents-reports",
         "status",
@@ -2498,10 +2498,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 249,
-      "issues": 9,
+      "stars": 251,
+      "issues": 11,
       "forks": 52,
-      "watchers": 249,
+      "watchers": 251,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2557,10 +2557,10 @@
     "source": "https://github.com/AnandChowdhary/hello-bar",
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
-      "stars": 73,
+      "stars": 72,
       "issues": 27,
       "forks": 11,
-      "watchers": 73,
+      "watchers": 72,
       "topics": [
         "engagement",
         "hellobar",
@@ -3182,10 +3182,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1759,
-      "issues": 50,
-      "forks": 121,
-      "watchers": 1759,
+      "stars": 1760,
+      "issues": 51,
+      "forks": 122,
+      "watchers": 1760,
       "topics": [
         "file-upload",
         "image",
