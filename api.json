@@ -32,6 +32,30 @@
     }
   },
   {
+    "date": "2023-01-08",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2023/abu-dhabi-ae",
+    "source": "https://github.com/AnandChowdhary/location/commit/09d556cf3cec18b8b33bee5885b88d5256ee1767",
+    "title": "Abu Dhabi, United Arab Emirates",
+    "data": {
+      "hash": "09d556cf3cec18b8b33bee5885b88d5256ee1767",
+      "approximateCoordinates": [
+        24.43,
+        54.64
+      ],
+      "label": "Abu Dhabi",
+      "timezone": {
+        "name": "Asia/Dubai",
+        "utcOffset": 240,
+        "dstOffset": 240
+      },
+      "country": {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      }
+    }
+  },
+  {
     "type": "okr",
     "url": "https://anandchowdhary.com/okrs/2023/1",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2023/1.json",
