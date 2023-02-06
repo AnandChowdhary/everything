@@ -184,7 +184,7 @@
     "data": {
       "description": "🤖 Twitter bot which tweets news in haikus using GPT-3",
       "stars": 2,
-      "issues": 0,
+      "issues": 1,
       "forks": 0,
       "watchers": 2,
       "topics": [
@@ -229,7 +229,7 @@
     "data": {
       "description": "🎁 Daily messages for birthday reminders using GitHub Actions",
       "stars": 4,
-      "issues": 0,
+      "issues": 1,
       "forks": 0,
       "watchers": 4,
       "topics": [
@@ -759,10 +759,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 95,
+      "stars": 94,
       "issues": 3,
       "forks": 14,
-      "watchers": 95,
+      "watchers": 94,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -818,7 +818,7 @@
     "data": {
       "description": "💿 Starter for @remix-run with localized routing and i18n",
       "stars": 51,
-      "issues": 4,
+      "issues": 5,
       "forks": 3,
       "watchers": 51,
       "topics": [
@@ -1288,7 +1288,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 54,
-      "issues": 6,
+      "issues": 7,
       "forks": 8,
       "watchers": 54,
       "topics": [
@@ -1440,10 +1440,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12590,
-      "issues": 62,
-      "forks": 699,
-      "watchers": 12590,
+      "stars": 12613,
+      "issues": 63,
+      "forks": 702,
+      "watchers": 12613,
       "topics": [
         "incidents-reports",
         "status",
@@ -2522,10 +2522,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 251,
-      "issues": 11,
-      "forks": 52,
-      "watchers": 251,
+      "stars": 253,
+      "issues": 12,
+      "forks": 53,
+      "watchers": 253,
       "topics": [
         "calendar",
         "calendar-link",
