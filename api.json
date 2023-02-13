@@ -229,7 +229,7 @@
     "data": {
       "description": "🎁 Daily messages for birthday reminders using GitHub Actions",
       "stars": 4,
-      "issues": 1,
+      "issues": 2,
       "forks": 0,
       "watchers": 4,
       "topics": [
@@ -1288,7 +1288,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 54,
-      "issues": 7,
+      "issues": 8,
       "forks": 8,
       "watchers": 54,
       "topics": [
@@ -1440,10 +1440,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12613,
-      "issues": 63,
+      "stars": 12639,
+      "issues": 64,
       "forks": 702,
-      "watchers": 12613,
+      "watchers": 12639,
       "topics": [
         "incidents-reports",
         "status",
@@ -1698,10 +1698,10 @@
     "source": "https://github.com/AnandChowdhary/archiver",
     "data": {
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
-      "stars": 6,
+      "stars": 7,
       "issues": 10,
       "forks": 1,
-      "watchers": 6,
+      "watchers": 7,
       "topics": [
         "archive-dot-org",
         "automation",
@@ -2523,7 +2523,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 253,
-      "issues": 12,
+      "issues": 10,
       "forks": 53,
       "watchers": 253,
       "topics": [
@@ -3206,10 +3206,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1760,
+      "stars": 1761,
       "issues": 51,
       "forks": 122,
-      "watchers": 1760,
+      "watchers": 1761,
       "topics": [
         "file-upload",
         "image",
