@@ -760,7 +760,7 @@
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
       "stars": 94,
-      "issues": 3,
+      "issues": 4,
       "forks": 14,
       "watchers": 94,
       "topics": [
@@ -1440,10 +1440,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12639,
+      "stars": 12679,
       "issues": 64,
-      "forks": 702,
-      "watchers": 12639,
+      "forks": 705,
+      "watchers": 12679,
       "topics": [
         "incidents-reports",
         "status",
@@ -2522,10 +2522,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 253,
+      "stars": 254,
       "issues": 10,
-      "forks": 53,
-      "watchers": 253,
+      "forks": 55,
+      "watchers": 254,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2605,10 +2605,10 @@
     "source": "https://github.com/AnandChowdhary/hovercard",
     "data": {
       "description": "🖱️ Wikipedia summary cards for the web",
-      "stars": 85,
+      "stars": 86,
       "issues": 23,
       "forks": 10,
-      "watchers": 85,
+      "watchers": 86,
       "topics": [
         "a11y",
         "hovercard",
