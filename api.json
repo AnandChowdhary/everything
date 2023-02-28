@@ -63,20 +63,20 @@
     "date": "2023-01-01",
     "data": {
       "name": 1,
-      "progress": 0.15,
-      "success": 0.33,
+      "progress": 0.17,
+      "success": 0.27,
       "objectives": [
         {
           "name": "Kickstart 2023",
           "progress": 0.43,
-          "success": 0.92,
+          "success": 0.67,
           "key_results": [
             {
               "name": "Get married",
               "current_result": 1,
               "target_result": 1,
               "progress": 1,
-              "success": 2.13
+              "success": 1.54
             },
             {
               "name": "Research real estate and view 10 apartments",
@@ -90,14 +90,14 @@
               "current_result": 0.3,
               "target_result": 1,
               "progress": 0.3,
-              "success": 0.64
+              "success": 0.46
             }
           ]
         },
         {
           "name": "Work towards a strong mind",
           "progress": 0.01,
-          "success": 0.03,
+          "success": 0.02,
           "key_results": [
             {
               "name": "Complete one book every month",
@@ -111,7 +111,7 @@
               "current_result": 1,
               "target_result": 24,
               "progress": 0.04,
-              "success": 0.09
+              "success": 0.06
             },
             {
               "name": "Properly review every week",
@@ -124,22 +124,22 @@
         },
         {
           "name": "Work towards a strong body",
-          "progress": 0.02,
-          "success": 0.05,
+          "progress": 0.08,
+          "success": 0.12,
           "key_results": [
             {
               "name": "Work out 2 or more times weekly",
-              "current_result": 1,
+              "current_result": 5,
               "target_result": 24,
-              "progress": 0.04,
-              "success": 0.09
+              "progress": 0.21,
+              "success": 0.32
             },
             {
               "name": "Track calories every day",
               "current_result": 3,
               "target_result": 92,
               "progress": 0.03,
-              "success": 0.07
+              "success": 0.05
             },
             {
               "name": "Lose 5 kg more",
