@@ -1287,10 +1287,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 55,
+      "stars": 54,
       "issues": 8,
       "forks": 8,
-      "watchers": 55,
+      "watchers": 54,
       "topics": [
         "api",
         "books",
@@ -1440,10 +1440,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12819,
-      "issues": 69,
-      "forks": 713,
-      "watchers": 12819,
+      "stars": 12853,
+      "issues": 70,
+      "forks": 717,
+      "watchers": 12853,
       "topics": [
         "incidents-reports",
         "status",
@@ -2451,10 +2451,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 36,
+      "stars": 37,
       "issues": 6,
       "forks": 14,
-      "watchers": 36,
+      "watchers": 37,
       "topics": [
         "generator",
         "icons",
@@ -2473,10 +2473,10 @@
     "source": "https://github.com/AnandChowdhary/fraud",
     "data": {
       "description": "🗄 File-based key-JSON database with nodecache",
-      "stars": 12,
+      "stars": 13,
       "issues": 14,
       "forks": 0,
-      "watchers": 12,
+      "watchers": 13,
       "topics": [
         "filesystem",
         "fs",
@@ -2522,10 +2522,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 257,
-      "issues": 8,
+      "stars": 259,
+      "issues": 12,
       "forks": 54,
-      "watchers": 257,
+      "watchers": 259,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3206,10 +3206,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1764,
-      "issues": 40,
+      "stars": 1766,
+      "issues": 42,
       "forks": 121,
-      "watchers": 1764,
+      "watchers": 1766,
       "topics": [
         "file-upload",
         "image",
