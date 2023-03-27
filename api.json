@@ -1287,10 +1287,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 54,
+      "stars": 55,
       "issues": 8,
       "forks": 8,
-      "watchers": 54,
+      "watchers": 55,
       "topics": [
         "api",
         "books",
@@ -1440,10 +1440,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12853,
-      "issues": 70,
-      "forks": 717,
-      "watchers": 12853,
+      "stars": 12895,
+      "issues": 71,
+      "forks": 720,
+      "watchers": 12895,
       "topics": [
         "incidents-reports",
         "status",
@@ -2522,10 +2522,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 259,
-      "issues": 12,
+      "stars": 263,
+      "issues": 13,
       "forks": 54,
-      "watchers": 259,
+      "watchers": 263,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3206,10 +3206,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1766,
+      "stars": 1768,
       "issues": 42,
       "forks": 121,
-      "watchers": 1766,
+      "watchers": 1768,
       "topics": [
         "file-upload",
         "image",
