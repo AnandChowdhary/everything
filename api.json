@@ -1691,6 +1691,13 @@
     }
   },
   {
+    "date": "2020-02-15T00:00:00.000Z",
+    "type": "version",
+    "url": "https://anandchowdhary.com/versions/2020/amsterdam",
+    "source": "https://anandchowdhary.github.io/versions/versions/2020/amsterdam",
+    "title": "Amsterdam"
+  },
+  {
     "date": "2020-02-09T19:08:44Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/archiver",
@@ -2975,6 +2982,13 @@
     }
   },
   {
+    "date": "2018-07-08T00:00:00.000Z",
+    "type": "version",
+    "url": "https://anandchowdhary.com/versions/2018/abacus",
+    "source": "https://anandchowdhary.github.io/versions/versions/2018/abacus",
+    "title": "Abacus"
+  },
+  {
     "date": "2018-07-04T07:20:43.283Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2018/toulouse-fr",
@@ -3541,6 +3555,13 @@
     }
   },
   {
+    "date": "2017-10-10T00:00:00.000Z",
+    "type": "version",
+    "url": "https://anandchowdhary.com/versions/2017/access",
+    "source": "https://anandchowdhary.github.io/versions/versions/2017/access",
+    "title": "Access"
+  },
+  {
     "date": "2017-09-23T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2017/facematch",
@@ -3902,6 +3923,13 @@
     }
   },
   {
+    "date": "2016-12-07T00:00:00.000Z",
+    "type": "version",
+    "url": "https://anandchowdhary.com/versions/2016/assembly",
+    "source": "https://anandchowdhary.github.io/versions/versions/2016/assembly",
+    "title": "Assembly"
+  },
+  {
     "date": "2016-10-16T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2016/naari",
@@ -4141,6 +4169,13 @@
     }
   },
   {
+    "date": "2016-03-15T00:00:00.000Z",
+    "type": "version",
+    "url": "https://anandchowdhary.com/versions/2016/altitude",
+    "source": "https://anandchowdhary.github.io/versions/versions/2016/altitude",
+    "title": "Altitude"
+  },
+  {
     "date": "2016-03-01T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2016/firangana",
@@ -4178,6 +4213,13 @@
     }
   },
   {
+    "date": "2016-02-12T00:00:00.000Z",
+    "type": "version",
+    "url": "https://anandchowdhary.com/versions/2016/airbrush",
+    "source": "https://anandchowdhary.github.io/versions/versions/2016/airbrush",
+    "title": "Airbrush"
+  },
+  {
     "date": "2016-01-24T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2016/keeep",
@@ -4209,6 +4251,13 @@
     "data": {
       "excerpt": "Music has always been an integral part of our lives. Ever since people started using the internet, they’ve been downloading music and movies. The process became relatively simple with the introduction of Napster in 1999, which led to the development of many such tools. I remember growing up with Limewire and Bearshare. After the discontinuation of these services in after ten long years, downloading music became really complicated again."
     }
+  },
+  {
+    "date": "2016-01-09T00:00:00.000Z",
+    "type": "version",
+    "url": "https://anandchowdhary.com/versions/2016/asterisk",
+    "source": "https://anandchowdhary.github.io/versions/versions/2016/asterisk",
+    "title": "Asterisk"
   },
   {
     "date": "2016-01-01",
@@ -4380,6 +4429,13 @@
     }
   },
   {
+    "date": "2015-08-01T00:00:00.000Z",
+    "type": "version",
+    "url": "https://anandchowdhary.com/versions/2015/arise",
+    "source": "https://anandchowdhary.github.io/versions/versions/2015/arise",
+    "title": "Arise"
+  },
+  {
     "date": "2015-07-09T09:06:28.654Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2015/katra-in",
@@ -4531,6 +4587,13 @@
     }
   },
   {
+    "date": "2015-02-23T00:00:00.000Z",
+    "type": "version",
+    "url": "https://anandchowdhary.com/versions/2015/academia",
+    "source": "https://anandchowdhary.github.io/versions/versions/2015/academia",
+    "title": "Academia"
+  },
+  {
     "date": "2015-02-12T00:00:00.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2015/homo-deus",
@@ -4553,6 +4616,13 @@
       "publisher": "The Education Tree",
       "href": "https://www.facebook.com/theeducationtree/photos/a.997200647003369.1073741866.427682870621819/1011451428911624/?type=3"
     }
+  },
+  {
+    "date": "2014-12-16T00:00:00.000Z",
+    "type": "version",
+    "url": "https://anandchowdhary.com/versions/2014/artistic",
+    "source": "https://anandchowdhary.github.io/versions/versions/2014/artistic",
+    "title": "Artistic"
   },
   {
     "date": "2014-11-24T23:00:04.680Z",
@@ -5027,6 +5097,13 @@
         "color": "#9d2e2c"
       }
     }
+  },
+  {
+    "date": "2012-01-14T00:00:00.000Z",
+    "type": "version",
+    "url": "https://anandchowdhary.com/versions/2012/atom",
+    "source": "https://anandchowdhary.github.io/versions/versions/2012/atom",
+    "title": "Atom"
   },
   {
     "date": "2012-01-01",
