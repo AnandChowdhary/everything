@@ -1,5 +1,29 @@
 [
   {
+    "date": "2023-04-08T02:20:10.000Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2023/united-arab-emirates-ae",
+    "source": "https://github.com/AnandChowdhary/location/commit/cb539175757cca84f0b9b9fb0bd375274041af93",
+    "title": "United Arab Emirates, United Arab Emirates",
+    "data": {
+      "hash": "cb539175757cca84f0b9b9fb0bd375274041af93",
+      "approximateCoordinates": [
+        24.43,
+        54.65
+      ],
+      "label": "United Arab Emirates",
+      "timezone": {
+        "name": "Asia/Dubai",
+        "utcOffset": 240,
+        "dstOffset": 240
+      },
+      "country": {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      }
+    }
+  },
+  {
     "date": "2023-01-21",
     "type": "life-event",
     "url": "https://anandchowdhary.com/milestones/2023/got-married",
@@ -2544,7 +2568,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/03e5ed5579940ece546cf01ae1ac6166ea8f83d78951d363e403e15d50350000/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/63a4b7da66a443f12ddd38a80a4c1af8ee4c6115e319f743b20878ee9aa5fd01/AnandChowdhary/calendar-link"
     }
   },
   {
