@@ -4006,19 +4006,6 @@
     }
   },
   {
-    "date": "2016-10-03T00:00:00.000Z",
-    "type": "book",
-    "url": "https://anandchowdhary.com/books/2016/how-to-win-friends-and-influence-people",
-    "source": "https://github.com/AnandChowdhary/books/issues/19",
-    "title": "How To Win Friends and Influence People",
-    "data": {
-      "image": "http://books.google.com/books/content?id=1rW-QpIAs8UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "authors": [
-        "Dale Carnegie"
-      ]
-    }
-  },
-  {
     "date": "2016-10-01T00:00:00.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2016/think-and-grow-rich",
