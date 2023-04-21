@@ -1,5 +1,18 @@
 [
   {
+    "date": "2023-04-17T15:35:21.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/books/2023/sum",
+    "source": "https://github.com/AnandChowdhary/books/issues/59",
+    "title": "Sum",
+    "data": {
+      "image": "http://books.google.com/books/content?id=-cjWiI8DEywC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "David Eagleman"
+      ]
+    }
+  },
+  {
     "date": "2023-04-08T02:20:10.000Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2023/united-arab-emirates-ae",
@@ -2493,7 +2506,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/eb1ab7072a166bd4159a29f37a67c6ef06bf75ee2989f00631b48d2c795e4bd2/AnandChowdhary/language-icons"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/3dc3cceb0ee22fc22720679018b3103d44db8a673b48be3401b651b79d5fb789/AnandChowdhary/language-icons"
     }
   },
   {
