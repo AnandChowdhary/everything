@@ -4031,19 +4031,6 @@
     }
   },
   {
-    "date": "2016-10-03T00:00:00.000Z",
-    "type": "book",
-    "url": "https://anandchowdhary.com/books/2016/the-design-of-everyday-things",
-    "source": "https://github.com/AnandChowdhary/books/issues/20",
-    "title": "The Design of Everyday Things",
-    "data": {
-      "image": "http://books.google.com/books/content?id=heCtnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-      "authors": [
-        "Donald A. Norman"
-      ]
-    }
-  },
-  {
     "date": "2016-10-01T00:00:00.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2016/think-and-grow-rich",
