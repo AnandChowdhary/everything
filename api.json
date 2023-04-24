@@ -1,17 +1,17 @@
 [
   {
-    "date": "2023-04-23T12:36:25.000Z",
+    "date": "2023-04-23T18:46:18.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2023/lijnden-nl",
-    "source": "https://github.com/AnandChowdhary/location/commit/4a39b742816185d8e96bd4c53e86294b900a5cd6",
-    "title": "Lijnden, Netherlands",
+    "url": "https://anandchowdhary.com/travel/2023/lelystad-nl",
+    "source": "https://github.com/AnandChowdhary/location/commit/0fda8eab8a7af7521657dea22c8940b8c74a911e",
+    "title": "Lelystad, Netherlands",
     "data": {
-      "hash": "4a39b742816185d8e96bd4c53e86294b900a5cd6",
+      "hash": "0fda8eab8a7af7521657dea22c8940b8c74a911e",
       "approximateCoordinates": [
-        52.33,
-        4.73
+        52.42,
+        5.4
       ],
-      "label": "Lijnden",
+      "label": "Lelystad",
       "timezone": {
         "name": "Europe/Amsterdam",
         "utcOffset": 60,
