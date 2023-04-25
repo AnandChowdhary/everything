@@ -1,30 +1,5 @@
 [
   {
-    "date": "2023-04-23T18:46:18.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2023/lelystad-nl",
-    "source": "https://github.com/AnandChowdhary/location/commit/0fda8eab8a7af7521657dea22c8940b8c74a911e",
-    "title": "Lelystad, Netherlands",
-    "data": {
-      "hash": "0fda8eab8a7af7521657dea22c8940b8c74a911e",
-      "approximateCoordinates": [
-        52.42,
-        5.4
-      ],
-      "label": "Lelystad",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120,
-        "deprecated": true
-      },
-      "country": {
-        "code": "nl",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2023-04-17T15:35:21.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2023/sum",
