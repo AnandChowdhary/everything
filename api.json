@@ -37,6 +37,77 @@
     }
   },
   {
+    "type": "okr",
+    "url": "https://anandchowdhary.com/okrs/2023/2",
+    "source": "https://anandchowdhary.github.io/okrs/okrs/2023/2.json",
+    "title": "Published OKRs for Q2 2023",
+    "date": "2023-04-01",
+    "data": {
+      "name": 2,
+      "progress": 0.22,
+      "success": 0.78,
+      "objectives": [
+        {
+          "name": "Make big changes",
+          "progress": 0.43,
+          "success": 1.55,
+          "key_results": [
+            {
+              "name": "Successful trip to India",
+              "current_result": 1,
+              "target_result": 1,
+              "progress": 1,
+              "success": 3.57
+            },
+            {
+              "name": "Launch [redacted]",
+              "current_result": 0.3,
+              "target_result": 1,
+              "progress": 0.3,
+              "success": 1.07
+            },
+            {
+              "name": "Weigh 70 kg by Q3",
+              "current_result": 0,
+              "target_result": 5,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        },
+        {
+          "name": "Stronger health after recharging",
+          "progress": 0,
+          "success": 0,
+          "key_results": [
+            {
+              "name": "Complete one book every month",
+              "current_result": 0,
+              "target_result": 3,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "Go to the gym 20 times after April",
+              "current_result": 0,
+              "target_result": 20,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "Continue therapy after April",
+              "current_result": 0,
+              "target_result": 6,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        }
+      ],
+      "description": "Make big changes, Stronger health after recharging"
+    }
+  },
+  {
     "date": "2023-01-21",
     "type": "life-event",
     "url": "https://anandchowdhary.com/milestones/2023/got-married",
@@ -100,13 +171,13 @@
     "date": "2023-01-01",
     "data": {
       "name": 1,
-      "progress": 0.36,
-      "success": 0.36,
+      "progress": 0.44,
+      "success": 0.44,
       "objectives": [
         {
           "name": "Kickstart 2023",
-          "progress": 0.53,
-          "success": 0.53,
+          "progress": 0.67,
+          "success": 0.67,
           "key_results": [
             {
               "name": "Get married",
@@ -124,24 +195,24 @@
             },
             {
               "name": "[redacted]",
-              "current_result": 0.6,
+              "current_result": 1,
               "target_result": 1,
-              "progress": 0.6,
-              "success": 0.6
+              "progress": 1,
+              "success": 1
             }
           ]
         },
         {
           "name": "Work towards a strong mind",
-          "progress": 0.06,
-          "success": 0.06,
+          "progress": 0.17,
+          "success": 0.17,
           "key_results": [
             {
               "name": "Complete one book every month",
-              "current_result": 0,
+              "current_result": 1,
               "target_result": 3,
-              "progress": 0,
-              "success": 0
+              "progress": 0.33,
+              "success": 0.33
             },
             {
               "name": "Do therapy 2 or more times monthly",
@@ -1756,7 +1827,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/a55817eeb6a3310b2bdba152c22f160895adc4895405901ae5d8d7f51527770a/AnandChowdhary/archiver"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/b125cbb93dea1eacd7b66e20f4d4567cea29b1accb20a9284d75b5c2b8b4df22/AnandChowdhary/archiver"
     }
   },
   {
