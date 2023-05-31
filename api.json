@@ -291,10 +291,10 @@
     "source": "https://github.com/AnandChowdhary/NewsHaikusBot",
     "data": {
       "description": "🤖 Twitter bot which tweets news in haikus using GPT-3",
-      "stars": 3,
+      "stars": 4,
       "issues": 1,
       "forks": 0,
-      "watchers": 3,
+      "watchers": 4,
       "topics": [
         "gpt-3",
         "openai",
@@ -337,7 +337,7 @@
     "data": {
       "description": "🎁 Daily messages for birthday reminders using GitHub Actions",
       "stars": 5,
-      "issues": 2,
+      "issues": 3,
       "forks": 0,
       "watchers": 5,
       "topics": [
@@ -1395,10 +1395,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 55,
-      "issues": 8,
+      "stars": 56,
+      "issues": 9,
       "forks": 8,
-      "watchers": 55,
+      "watchers": 56,
       "topics": [
         "api",
         "books",
@@ -1524,10 +1524,10 @@
     "source": "https://github.com/AnandChowdhary/update-template",
     "data": {
       "description": "📠 Easily update repos created with GitHub templates",
-      "stars": 31,
+      "stars": 32,
       "issues": 1,
       "forks": 3,
-      "watchers": 31,
+      "watchers": 32,
       "topics": [
         "github-actions",
         "nodejs",
@@ -1548,10 +1548,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 12933,
-      "issues": 74,
-      "forks": 731,
-      "watchers": 12933,
+      "stars": 13222,
+      "issues": 77,
+      "forks": 763,
+      "watchers": 13222,
       "topics": [
         "incidents-reports",
         "status",
@@ -1707,10 +1707,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-slots",
     "data": {
       "description": "🗓️ Find empty appointment slots in a user's calendar",
-      "stars": 13,
+      "stars": 16,
       "issues": 21,
       "forks": 3,
-      "watchers": 13,
+      "watchers": 16,
       "topics": [
         "calendar",
         "calendar-api",
@@ -1731,10 +1731,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 32,
+      "stars": 34,
       "issues": 16,
-      "forks": 7,
-      "watchers": 32,
+      "forks": 9,
+      "watchers": 34,
       "topics": [
         "google",
         "google-docs",
@@ -1813,10 +1813,10 @@
     "source": "https://github.com/AnandChowdhary/archiver",
     "data": {
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
-      "stars": 8,
+      "stars": 9,
       "issues": 11,
-      "forks": 1,
-      "watchers": 8,
+      "forks": 2,
+      "watchers": 9,
       "topics": [
         "archive-dot-org",
         "automation",
@@ -2462,10 +2462,10 @@
     "source": "https://github.com/AnandChowdhary/sharer.link",
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
-      "stars": 18,
+      "stars": 19,
       "issues": 24,
       "forks": 1,
-      "watchers": 18,
+      "watchers": 19,
       "topics": [
         "links",
         "share",
@@ -2486,10 +2486,10 @@
     "source": "https://github.com/AnandChowdhary/auto-i18n",
     "data": {
       "description": "🌐 Automatically translate your JSON I18N files",
-      "stars": 20,
+      "stars": 21,
       "issues": 18,
       "forks": 2,
-      "watchers": 20,
+      "watchers": 21,
       "topics": [
         "automation",
         "google-translate",
@@ -2566,10 +2566,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 37,
-      "issues": 6,
-      "forks": 14,
-      "watchers": 37,
+      "stars": 42,
+      "issues": 7,
+      "forks": 16,
+      "watchers": 42,
       "topics": [
         "generator",
         "icons",
@@ -2637,10 +2637,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 263,
-      "issues": 13,
-      "forks": 54,
-      "watchers": 263,
+      "stars": 272,
+      "issues": 4,
+      "forks": 57,
+      "watchers": 272,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2696,10 +2696,10 @@
     "source": "https://github.com/AnandChowdhary/hello-bar",
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
-      "stars": 72,
+      "stars": 71,
       "issues": 27,
       "forks": 11,
-      "watchers": 72,
+      "watchers": 71,
       "topics": [
         "engagement",
         "hellobar",
@@ -2722,7 +2722,7 @@
       "description": "🖱️ Wikipedia summary cards for the web",
       "stars": 86,
       "issues": 23,
-      "forks": 10,
+      "forks": 11,
       "watchers": 86,
       "topics": [
         "a11y",
@@ -3328,10 +3328,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1768,
-      "issues": 42,
-      "forks": 121,
-      "watchers": 1768,
+      "stars": 1780,
+      "issues": 43,
+      "forks": 126,
+      "watchers": 1780,
       "topics": [
         "file-upload",
         "image",
@@ -4036,6 +4036,28 @@
     "url": "https://anandchowdhary.com/versions/2016/assembly",
     "source": "https://anandchowdhary.github.io/versions/versions/2016/assembly",
     "title": "Assembly"
+  },
+  {
+    "date": "2016-12-02T12:58:28Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/precis",
+    "url": "https://anandchowdhary.com/projects/2016/precis",
+    "source": "https://github.com/AnandChowdhary/precis",
+    "data": {
+      "description": "🔗 A simple and beautiful self-hostable URL Shortener",
+      "stars": 1,
+      "issues": 0,
+      "forks": 0,
+      "watchers": 1,
+      "topics": [
+        "jquery",
+        "php",
+        "url-shortener"
+      ],
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "openGraphImageUrl": "https://opengraph.githubassets.com/2094b6df0931985bb317f3bdf994784b3248a77f6bf61d18b399af19b5ab0d2b/AnandChowdhary/precis"
+    }
   },
   {
     "date": "2016-10-16T00:00:00.000Z",
@@ -4778,6 +4800,30 @@
         "attachment": "padded",
         "color": "#e4e4e4"
       }
+    }
+  },
+  {
+    "date": "2014-08-08T13:15:13Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/aptitude",
+    "url": "https://anandchowdhary.com/projects/2014/aptitude",
+    "source": "https://github.com/AnandChowdhary/aptitude",
+    "data": {
+      "description": "A super-simple theme for one-page articles and projects",
+      "stars": 1,
+      "issues": 0,
+      "forks": 1,
+      "watchers": 1,
+      "topics": [
+        "css",
+        "html",
+        "single-page",
+        "theme",
+        "typekit"
+      ],
+      "language": "CSS",
+      "languageColor": "#563d7c",
+      "openGraphImageUrl": "https://opengraph.githubassets.com/363a807e8961564ddd0f99ef48bd8470ba93b1ff4ac489b63aa5ca65b416fbbe/AnandChowdhary/aptitude"
     }
   },
   {
