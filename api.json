@@ -44,27 +44,27 @@
     "date": "2023-04-01",
     "data": {
       "name": 2,
-      "progress": 0.22,
-      "success": 0.7,
+      "progress": 0.33,
+      "success": 0.49,
       "objectives": [
         {
           "name": "Make big changes",
-          "progress": 0.43,
-          "success": 1.4,
+          "progress": 0.5,
+          "success": 0.74,
           "key_results": [
             {
               "name": "Successful trip to India",
               "current_result": 1,
               "target_result": 1,
               "progress": 1,
-              "success": 3.23
+              "success": 1.47
             },
             {
               "name": "Launch [redacted]",
-              "current_result": 0.3,
+              "current_result": 0.5,
               "target_result": 1,
-              "progress": 0.3,
-              "success": 0.97
+              "progress": 0.5,
+              "success": 0.74
             },
             {
               "name": "Weigh 70 kg by Q3",
@@ -77,8 +77,8 @@
         },
         {
           "name": "Stronger health after recharging",
-          "progress": 0,
-          "success": 0,
+          "progress": 0.16,
+          "success": 0.23,
           "key_results": [
             {
               "name": "Complete one book every month",
@@ -89,17 +89,17 @@
             },
             {
               "name": "Go to the gym 20 times after April",
-              "current_result": 0,
+              "current_result": 6,
               "target_result": 20,
-              "progress": 0,
-              "success": 0
+              "progress": 0.3,
+              "success": 0.44
             },
             {
               "name": "Continue therapy after April",
-              "current_result": 0,
+              "current_result": 1,
               "target_result": 6,
-              "progress": 0,
-              "success": 0
+              "progress": 0.17,
+              "success": 0.25
             }
           ]
         }
