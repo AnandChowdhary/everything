@@ -1,5 +1,30 @@
 [
   {
+    "date": "2023-06-04T21:34:31.000Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2023/zwolle-nl",
+    "source": "https://github.com/AnandChowdhary/location/commit/c31b6d46bf298cd95a6f0349a0f1545f91c2165b",
+    "title": "Zwolle, Netherlands",
+    "data": {
+      "hash": "c31b6d46bf298cd95a6f0349a0f1545f91c2165b",
+      "approximateCoordinates": [
+        52.5,
+        6.09
+      ],
+      "label": "Zwolle",
+      "timezone": {
+        "name": "Europe/Amsterdam",
+        "utcOffset": 60,
+        "dstOffset": 120,
+        "deprecated": true
+      },
+      "country": {
+        "code": "nl",
+        "name": "Netherlands"
+      }
+    }
+  },
+  {
     "date": "2023-06-03T08:42:52.000Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2023/hermies-fr",
@@ -1596,10 +1621,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13222,
+      "stars": 13235,
       "issues": 77,
-      "forks": 763,
-      "watchers": 13222,
+      "forks": 764,
+      "watchers": 13235,
       "topics": [
         "incidents-reports",
         "status",
@@ -2685,10 +2710,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 272,
-      "issues": 4,
+      "stars": 273,
+      "issues": 5,
       "forks": 57,
-      "watchers": 272,
+      "watchers": 273,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2700,7 +2725,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/f9c06f212bffb252d2e65c83e0ac9941c36595b3d1eed9e92a9219d90301362b/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/5761bef2fcd3ad1901c3e57e585651ad6fe18fc42f64dfcdf81a96af17461e64/AnandChowdhary/calendar-link"
     }
   },
   {
@@ -3376,10 +3401,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1780,
+      "stars": 1782,
       "issues": 43,
       "forks": 126,
-      "watchers": 1780,
+      "watchers": 1782,
       "topics": [
         "file-upload",
         "image",
