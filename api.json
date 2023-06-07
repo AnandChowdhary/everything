@@ -1,30 +1,5 @@
 [
   {
-    "date": "2023-06-04T21:34:31.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2023/zwolle-nl",
-    "source": "https://github.com/AnandChowdhary/location/commit/c31b6d46bf298cd95a6f0349a0f1545f91c2165b",
-    "title": "Zwolle, Netherlands",
-    "data": {
-      "hash": "c31b6d46bf298cd95a6f0349a0f1545f91c2165b",
-      "approximateCoordinates": [
-        52.5,
-        6.09
-      ],
-      "label": "Zwolle",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120,
-        "deprecated": true
-      },
-      "country": {
-        "code": "nl",
-        "name": "Netherlands"
-      }
-    }
-  },
-  {
     "date": "2023-06-03T08:42:52.000Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2023/hermies-fr",
@@ -422,7 +397,7 @@
       ],
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/3d1ac5b42a43ad67238ae9a2f1861b97bece71e3f6628890c5eac9255608c477/AnandChowdhary/birthday-reminders-action"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/85dd973279897714b0fab0b7221e8b6e05ef007e6ccb9fcff215542511cdff9b/AnandChowdhary/birthday-reminders-action"
     }
   },
   {
@@ -1483,7 +1458,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/782ee0c39d9bb4b40eb55fbd857a3d802c08a181a3d7e0a218faf508e7568204/AnandChowdhary/bookshelf-action"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/b204f3fd033511a77a3ef3fc9b9aa262ad94fb1c5361a3b49b538f603adece49/AnandChowdhary/bookshelf-action"
     }
   },
   {
@@ -1610,7 +1585,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/6eeda5b226860b1f2c6e878e10ac39219e5243511a927b27a7e0e46e2ee2ea4a/AnandChowdhary/update-template"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/6c175e55dae329366025f9e5cea98484d36c2c5449e48c9b9e7f9cc6e12cb0ad/AnandChowdhary/update-template"
     }
   },
   {
@@ -2253,7 +2228,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/f4061e38d1f80271c3f74934263352af5bb2c066b002d1860630e3e8033c8af8/AnandChowdhary/feeedback"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/5801fd8030e9d6934128d7146dd3fb1a198b0b508f5fd0d6e1b72a0b8267f544/AnandChowdhary/feeedback"
     }
   },
   {
@@ -2548,7 +2523,7 @@
       ],
       "language": "Vue",
       "languageColor": "#41b883",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/8b634df225114e37a90bf73ea1d966a04da854393a43c9ea3ae051cb5b84f9e4/AnandChowdhary/sharer.link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/7d030eff06184b38f0daee8f3529f10ee32fd21276d8eaa24cc82ea567b556a3/AnandChowdhary/sharer.link"
     }
   },
   {
@@ -2699,7 +2674,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/a83eba4b53002d964c72a64c0b8d559d299e53f1d3bef9b6044f96e91c2e7f81/AnandChowdhary/changebar"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/5f43f35f55c481c12102d57f45fcf3230d4b31cde7df40162edb873396ad2cd0/AnandChowdhary/changebar"
     }
   },
   {
@@ -2725,7 +2700,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/579dc5ed7f94067faf1f9565056821bdfb82cb2512869ffe39bf077ee9fcb3b5/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/b01a1d42fda924e4f9c913c1c19f13b0cfd22743930c84e961f6caa22730e2f4/AnandChowdhary/calendar-link"
     }
   },
   {
