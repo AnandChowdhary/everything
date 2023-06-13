@@ -502,7 +502,7 @@ export const generate = async () => {
       lower: true,
     })}-${location.country.code.toLowerCase()}`,
     source: `https://github.com/AnandChowdhary/location/commit/${location.hash}`,
-    title: `${location.label}, ${location.country.name}`,
+    title: location.label,
     data: {
       hash: location.hash,
       approximateCoordinates: location.approximateCoordinates,
