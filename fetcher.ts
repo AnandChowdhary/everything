@@ -337,7 +337,7 @@ const getLocation = async (): Promise<ILocation[]> => {
 
   const locations = (await (
     await fetch(
-      "https://raw.githubusercontent.com/AnandChowdhary/location/gh-pages/history-unique.json"
+      "https://raw.githubusercontent.com/AnandChowdhary/location/gh-pages/history-countries.json"
     )
   ).json()) as ILocation[];
   return locations;
