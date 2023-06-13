@@ -96,7 +96,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2023/united-arab-emirates-ae",
     "source": "https://github.com/AnandChowdhary/location/commit/09d556cf3cec18b8b33bee5885b88d5256ee1767",
-    "title": "United Arab Emirates, United Arab Emirates",
+    "title": "United Arab Emirates",
     "data": {
       "hash": "09d556cf3cec18b8b33bee5885b88d5256ee1767",
       "approximateCoordinates": [
@@ -583,7 +583,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2022/turkey-tr",
     "source": "https://github.com/AnandChowdhary/location/commit/1c80d9fc579dadadd0b95ff3e1335ed3a9d080ac",
-    "title": "Turkey, Turkey",
+    "title": "Turkey",
     "data": {
       "hash": "1c80d9fc579dadadd0b95ff3e1335ed3a9d080ac",
       "approximateCoordinates": [
@@ -749,7 +749,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2022/czechia-cz",
     "source": "https://github.com/AnandChowdhary/location/commit/4a0411f6f45f3f787446dda42c5ae7321175b025",
-    "title": "Czechia, Czechia",
+    "title": "Czechia",
     "data": {
       "hash": "4a0411f6f45f3f787446dda42c5ae7321175b025",
       "approximateCoordinates": [
@@ -1133,7 +1133,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2021/switzerland-ch",
     "source": "https://github.com/AnandChowdhary/location/commit/3428a2b77e75bad64cef8804e724573d022f2884",
-    "title": "Switzerland, Switzerland",
+    "title": "Switzerland",
     "data": {
       "hash": "3428a2b77e75bad64cef8804e724573d022f2884",
       "approximateCoordinates": [
@@ -1807,7 +1807,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2019/united-states-of-america-us",
     "source": "https://github.com/AnandChowdhary/location/commit/ddd7d180ee0bbf4b25f780f865b4331a1c17a1d0",
-    "title": "United States of America, United States of America",
+    "title": "United States of America",
     "data": {
       "hash": "ddd7d180ee0bbf4b25f780f865b4331a1c17a1d0",
       "approximateCoordinates": [
@@ -2474,7 +2474,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2018/united-kingdom-gb",
     "source": "https://github.com/AnandChowdhary/location/commit/de3f9ed38c82a7736486f36129a6711ab6b2cfd0",
-    "title": "United Kingdom, United Kingdom",
+    "title": "United Kingdom",
     "data": {
       "hash": "de3f9ed38c82a7736486f36129a6711ab6b2cfd0",
       "approximateCoordinates": [
@@ -2498,7 +2498,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2018/malaysia-my",
     "source": "https://github.com/AnandChowdhary/location/commit/0f6e37eaa6d6c6c65cecfb2846cde8cc403dacef",
-    "title": "Malaysia, Malaysia",
+    "title": "Malaysia",
     "data": {
       "hash": "0f6e37eaa6d6c6c65cecfb2846cde8cc403dacef",
       "approximateCoordinates": [
@@ -2723,7 +2723,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2018/france-fr",
     "source": "https://github.com/AnandChowdhary/location/commit/efb0698c77059cc4ac2955608d84a6c5ea3f3738",
-    "title": "France, France",
+    "title": "France",
     "data": {
       "hash": "efb0698c77059cc4ac2955608d84a6c5ea3f3738",
       "approximateCoordinates": [
@@ -2747,7 +2747,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2018/belgium-be",
     "source": "https://github.com/AnandChowdhary/location/commit/5471fc0a77fb476ae5954af77d85521149f0b422",
-    "title": "Belgium, Belgium",
+    "title": "Belgium",
     "data": {
       "hash": "5471fc0a77fb476ae5954af77d85521149f0b422",
       "approximateCoordinates": [
@@ -3098,7 +3098,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2017/germany-de",
     "source": "https://github.com/AnandChowdhary/location/commit/2c8b3d5b22d8224c34c64dea8babd494c674c8d7",
-    "title": "Germany, Germany",
+    "title": "Germany",
     "data": {
       "hash": "2c8b3d5b22d8224c34c64dea8babd494c674c8d7",
       "approximateCoordinates": [
@@ -3239,7 +3239,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2017/netherlands-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/b101b1ceccdd7677b66e89d085e2d31b03f74d61",
-    "title": "Netherlands, Netherlands",
+    "title": "Netherlands",
     "data": {
       "hash": "b101b1ceccdd7677b66e89d085e2d31b03f74d61",
       "approximateCoordinates": [
@@ -4101,7 +4101,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2014/japan-jp",
     "source": "https://github.com/AnandChowdhary/location/commit/52220368a0ec30a464bca97ddca3a1e09a9af64b",
-    "title": "Japan, Japan",
+    "title": "Japan",
     "data": {
       "hash": "52220368a0ec30a464bca97ddca3a1e09a9af64b",
       "approximateCoordinates": [
@@ -4619,7 +4619,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2011/thailand-th",
     "source": "https://github.com/AnandChowdhary/location/commit/47714b6311055eddd943ced582532f7a8d3e7018",
-    "title": "Thailand, Thailand",
+    "title": "Thailand",
     "data": {
       "hash": "47714b6311055eddd943ced582532f7a8d3e7018",
       "approximateCoordinates": [
@@ -4643,7 +4643,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2011/philippines-ph",
     "source": "https://github.com/AnandChowdhary/location/commit/48f8202c20e9535aca62b89bbbecd6ceb4230f75",
-    "title": "Philippines, Philippines",
+    "title": "Philippines",
     "data": {
       "hash": "48f8202c20e9535aca62b89bbbecd6ceb4230f75",
       "approximateCoordinates": [
@@ -4667,7 +4667,7 @@
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2011/india-in",
     "source": "https://github.com/AnandChowdhary/location/commit/caaa0d12e3fc314daa67616d577d1b3c75ce53d4",
-    "title": "India, India",
+    "title": "India",
     "data": {
       "hash": "caaa0d12e3fc314daa67616d577d1b3c75ce53d4",
       "approximateCoordinates": [
