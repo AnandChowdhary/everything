@@ -815,10 +815,10 @@
     "source": "https://github.com/AnandChowdhary/remix-starter",
     "data": {
       "description": "💿 Starter for @remix-run with localized routing and i18n",
-      "stars": 53,
+      "stars": 52,
       "issues": 5,
       "forks": 3,
-      "watchers": 53,
+      "watchers": 52,
       "topics": [
         "i18n",
         "javascript",
@@ -1390,10 +1390,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13266,
-      "issues": 78,
-      "forks": 766,
-      "watchers": 13266,
+      "stars": 13304,
+      "issues": 79,
+      "forks": 769,
+      "watchers": 13304,
       "topics": [
         "incidents-reports",
         "status",
@@ -2283,10 +2283,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 276,
-      "issues": 6,
+      "stars": 275,
+      "issues": 7,
       "forks": 59,
-      "watchers": 276,
+      "watchers": 275,
       "topics": [
         "calendar",
         "calendar-link",
