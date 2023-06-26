@@ -1390,10 +1390,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13304,
-      "issues": 79,
-      "forks": 769,
-      "watchers": 13304,
+      "stars": 13330,
+      "issues": 77,
+      "forks": 772,
+      "watchers": 13330,
       "topics": [
         "incidents-reports",
         "status",
@@ -2283,10 +2283,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 275,
-      "issues": 7,
-      "forks": 59,
-      "watchers": 275,
+      "stars": 277,
+      "issues": 6,
+      "forks": 58,
+      "watchers": 277,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2344,7 +2344,7 @@
       "description": "👋 Greet your visitors with a hello bar",
       "stars": 71,
       "issues": 27,
-      "forks": 11,
+      "forks": 10,
       "watchers": 71,
       "topics": [
         "engagement",
@@ -2366,10 +2366,10 @@
     "source": "https://github.com/AnandChowdhary/hovercard",
     "data": {
       "description": "🖱️ Wikipedia summary cards for the web",
-      "stars": 86,
+      "stars": 87,
       "issues": 23,
-      "forks": 11,
-      "watchers": 86,
+      "forks": 10,
+      "watchers": 87,
       "topics": [
         "a11y",
         "hovercard",
@@ -2840,10 +2840,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1783,
+      "stars": 1788,
       "issues": 43,
-      "forks": 126,
-      "watchers": 1783,
+      "forks": 125,
+      "watchers": 1788,
       "topics": [
         "file-upload",
         "image",
