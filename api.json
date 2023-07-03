@@ -1400,10 +1400,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13330,
+      "stars": 13351,
       "issues": 77,
-      "forks": 772,
-      "watchers": 13330,
+      "forks": 773,
+      "watchers": 13351,
       "topics": [
         "incidents-reports",
         "status",
@@ -1667,7 +1667,7 @@
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
       "stars": 9,
       "issues": 11,
-      "forks": 2,
+      "forks": 1,
       "watchers": 9,
       "topics": [
         "archive-dot-org",
@@ -2293,10 +2293,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 277,
+      "stars": 278,
       "issues": 6,
-      "forks": 58,
-      "watchers": 277,
+      "forks": 59,
+      "watchers": 278,
       "topics": [
         "calendar",
         "calendar-link",
