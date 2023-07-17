@@ -298,10 +298,10 @@
     "source": "https://github.com/AnandChowdhary/birthday-reminders-action",
     "data": {
       "description": "🎁 Daily messages for birthday reminders using GitHub Actions",
-      "stars": 6,
+      "stars": 7,
       "issues": 3,
-      "forks": 1,
-      "watchers": 6,
+      "forks": 2,
+      "watchers": 7,
       "topics": [
         "birthday",
         "birthday-reminder",
@@ -1400,10 +1400,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13375,
-      "issues": 79,
-      "forks": 777,
-      "watchers": 13375,
+      "stars": 13394,
+      "issues": 81,
+      "forks": 778,
+      "watchers": 13394,
       "topics": [
         "incidents-reports",
         "status",
@@ -1667,7 +1667,7 @@
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
       "stars": 9,
       "issues": 11,
-      "forks": 1,
+      "forks": 2,
       "watchers": 9,
       "topics": [
         "archive-dot-org",
@@ -2223,7 +2223,7 @@
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
       "stars": 46,
-      "issues": 7,
+      "issues": 8,
       "forks": 16,
       "watchers": 46,
       "topics": [
@@ -2293,10 +2293,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 282,
-      "issues": 7,
-      "forks": 59,
-      "watchers": 282,
+      "stars": 285,
+      "issues": 8,
+      "forks": 60,
+      "watchers": 285,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2850,10 +2850,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1788,
+      "stars": 1787,
       "issues": 43,
       "forks": 125,
-      "watchers": 1788,
+      "watchers": 1787,
       "topics": [
         "file-upload",
         "image",
