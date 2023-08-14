@@ -326,7 +326,7 @@
       "description": "🤖 Twitter bot which tweets news in haikus using GPT-3",
       "stars": 4,
       "issues": 1,
-      "forks": 0,
+      "forks": 1,
       "watchers": 4,
       "topics": [
         "gpt-3",
@@ -1471,10 +1471,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13485,
+      "stars": 13506,
       "issues": 80,
-      "forks": 781,
-      "watchers": 13485,
+      "forks": 783,
+      "watchers": 13506,
       "topics": [
         "incidents-reports",
         "status",
@@ -1631,7 +1631,7 @@
     "data": {
       "description": "🗓️ Find empty appointment slots in a user's calendar",
       "stars": 16,
-      "issues": 21,
+      "issues": 22,
       "forks": 3,
       "watchers": 16,
       "topics": [
@@ -2364,10 +2364,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 291,
-      "issues": 8,
-      "forks": 62,
-      "watchers": 291,
+      "stars": 293,
+      "issues": 10,
+      "forks": 61,
+      "watchers": 293,
       "topics": [
         "calendar",
         "calendar-link",
