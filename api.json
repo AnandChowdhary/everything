@@ -1,5 +1,17 @@
 [
   {
+    "date": "2023-08-16",
+    "type": "podcast-interview",
+    "url": "https://anandchowdhary.com/press/2023/from-pre-seed-to-seed:-101",
+    "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
+    "title": "Anand Chowdhary, co-founder of Pabio - On how to win at YC",
+    "data": {
+      "href": "https://open.spotify.com/episode/1DCz9ZeH0FRXmzoHXVzGfD",
+      "publisher": "From Pre-seed to Seed: 101",
+      "embed": "https://open.spotify.com/embed/episode/1DCz9ZeH0FRXmzoHXVzGfD"
+    }
+  },
+  {
     "type": "okr",
     "url": "https://anandchowdhary.com/okrs/2023/3",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2023/3.json",
