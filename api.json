@@ -869,10 +869,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 95,
+      "stars": 96,
       "issues": 4,
       "forks": 14,
-      "watchers": 95,
+      "watchers": 96,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -1483,10 +1483,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13568,
-      "issues": 81,
-      "forks": 785,
-      "watchers": 13568,
+      "stars": 13595,
+      "issues": 80,
+      "forks": 784,
+      "watchers": 13595,
       "topics": [
         "incidents-reports",
         "status",
@@ -1642,10 +1642,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-slots",
     "data": {
       "description": "🗓️ Find empty appointment slots in a user's calendar",
-      "stars": 16,
+      "stars": 15,
       "issues": 22,
       "forks": 3,
-      "watchers": 16,
+      "watchers": 15,
       "topics": [
         "calendar",
         "calendar-api",
@@ -2149,7 +2149,7 @@
       "description": "🧹 Track JS errors and send them to your backend",
       "stars": 10,
       "issues": 19,
-      "forks": 7,
+      "forks": 6,
       "watchers": 10,
       "topics": [
         "error-handling",
@@ -2376,10 +2376,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 296,
-      "issues": 9,
-      "forks": 61,
-      "watchers": 296,
+      "stars": 297,
+      "issues": 11,
+      "forks": 62,
+      "watchers": 297,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2933,10 +2933,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1793,
+      "stars": 1794,
       "issues": 43,
       "forks": 125,
-      "watchers": 1793,
+      "watchers": 1794,
       "topics": [
         "file-upload",
         "image",
