@@ -1459,10 +1459,10 @@
     "source": "https://github.com/AnandChowdhary/update-template",
     "data": {
       "description": "📠 Easily update repos created with GitHub templates",
-      "stars": 33,
+      "stars": 32,
       "issues": 1,
       "forks": 4,
-      "watchers": 33,
+      "watchers": 32,
       "topics": [
         "github-actions",
         "nodejs",
@@ -1483,10 +1483,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13595,
-      "issues": 80,
-      "forks": 784,
-      "watchers": 13595,
+      "stars": 13636,
+      "issues": 82,
+      "forks": 785,
+      "watchers": 13636,
       "topics": [
         "incidents-reports",
         "status",
@@ -1642,10 +1642,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-slots",
     "data": {
       "description": "🗓️ Find empty appointment slots in a user's calendar",
-      "stars": 15,
+      "stars": 16,
       "issues": 22,
       "forks": 3,
-      "watchers": 15,
+      "watchers": 16,
       "topics": [
         "calendar",
         "calendar-api",
@@ -1748,10 +1748,10 @@
     "source": "https://github.com/AnandChowdhary/archiver",
     "data": {
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
-      "stars": 9,
+      "stars": 10,
       "issues": 11,
       "forks": 2,
-      "watchers": 9,
+      "watchers": 10,
       "topics": [
         "archive-dot-org",
         "automation",
@@ -2376,10 +2376,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 297,
-      "issues": 11,
+      "stars": 299,
+      "issues": 10,
       "forks": 62,
-      "watchers": 297,
+      "watchers": 299,
       "topics": [
         "calendar",
         "calendar-link",
