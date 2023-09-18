@@ -1331,7 +1331,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 59,
-      "issues": 10,
+      "issues": 4,
       "forks": 10,
       "watchers": 59,
       "topics": [
@@ -1472,10 +1472,10 @@
     "source": "https://github.com/AnandChowdhary/update-template",
     "data": {
       "description": "📠 Easily update repos created with GitHub templates",
-      "stars": 32,
+      "stars": 33,
       "issues": 1,
       "forks": 4,
-      "watchers": 32,
+      "watchers": 33,
       "topics": [
         "github-actions",
         "nodejs",
@@ -1485,7 +1485,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/8d4c0937411f73b46c60d05935f37b3786b2be5b3317cf7887be1c6b41be44a3/AnandChowdhary/update-template"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/3aa772a807b8b93b52a5f493bb4393a70777a92ed89615c4601c1b72eaaff66d/AnandChowdhary/update-template"
     }
   },
   {
@@ -1496,10 +1496,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13636,
+      "stars": 13667,
       "issues": 82,
-      "forks": 785,
-      "watchers": 13636,
+      "forks": 786,
+      "watchers": 13667,
       "topics": [
         "incidents-reports",
         "status",
@@ -1787,10 +1787,10 @@
     "source": "https://github.com/AnandChowdhary/archiver",
     "data": {
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
-      "stars": 10,
+      "stars": 11,
       "issues": 11,
       "forks": 2,
-      "watchers": 10,
+      "watchers": 11,
       "topics": [
         "archive-dot-org",
         "automation",
@@ -2455,7 +2455,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 299,
-      "issues": 10,
+      "issues": 12,
       "forks": 62,
       "watchers": 299,
       "topics": [
@@ -3024,10 +3024,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1794,
+      "stars": 1795,
       "issues": 43,
       "forks": 125,
-      "watchers": 1794,
+      "watchers": 1795,
       "topics": [
         "file-upload",
         "image",
