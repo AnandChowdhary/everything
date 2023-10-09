@@ -1330,10 +1330,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 59,
+      "stars": 60,
       "issues": 4,
       "forks": 10,
-      "watchers": 59,
+      "watchers": 60,
       "topics": [
         "api",
         "books",
@@ -1496,10 +1496,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13734,
+      "stars": 13766,
       "issues": 82,
-      "forks": 784,
-      "watchers": 13734,
+      "forks": 790,
+      "watchers": 13766,
       "topics": [
         "incidents-reports",
         "status",
@@ -2290,10 +2290,10 @@
     "source": "https://github.com/AnandChowdhary/auto-i18n",
     "data": {
       "description": "🌐 Automatically translate your JSON I18N files",
-      "stars": 23,
+      "stars": 24,
       "issues": 18,
       "forks": 2,
-      "watchers": 23,
+      "watchers": 24,
       "topics": [
         "automation",
         "google-translate",
@@ -2455,7 +2455,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 302,
-      "issues": 7,
+      "issues": 9,
       "forks": 62,
       "watchers": 302,
       "topics": [
@@ -3024,10 +3024,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1796,
+      "stars": 1798,
       "issues": 43,
       "forks": 125,
-      "watchers": 1796,
+      "watchers": 1798,
       "topics": [
         "file-upload",
         "image",
@@ -4438,10 +4438,10 @@
     "source": "https://github.com/AnandChowdhary/essential.css",
     "data": {
       "description": "A single CSS file to design beautiful webpages",
-      "stars": 2,
+      "stars": 3,
       "issues": 0,
       "forks": 0,
-      "watchers": 2,
+      "watchers": 3,
       "topics": [
         "css",
         "library",
