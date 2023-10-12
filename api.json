@@ -1291,6 +1291,25 @@
     }
   },
   {
+    "date": "2021-05-21T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2021/pabio-website",
+    "source": "https://anandchowdhary.github.io/projects/projects/2021/pabio-website",
+    "title": "Pabio.com",
+    "data": {
+      "description": "Interactive marketing website and landing pages for Pabio",
+      "tags": [
+        "Web"
+      ],
+      "collaborators": [],
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/pabio-website/homepage-above-fold.jpg",
+        "attachment": "cover",
+        "color": "#ed7470"
+      }
+    }
+  },
+  {
     "date": "2021-04-05",
     "type": "life-event",
     "url": "https://anandchowdhary.com/milestones/2021/moved-to-groningen-the-netherlands",
