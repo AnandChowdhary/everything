@@ -52,7 +52,9 @@ const getOkrs = async (): Promise<IOkrs> => {
   }
 
   const okrs = (await (
-    await fetch("https://anandchowdhary.github.io/okrs/api.json")
+    await fetch(
+      "https://raw.githubusercontent.com/AnandChowdhary/okrs/main/api.json"
+    )
   ).json()) as IOkrs;
   return okrs;
 };
@@ -85,7 +87,9 @@ const getEvents = async (): Promise<IEvent[]> => {
   }
 
   const events = (await (
-    await fetch("https://anandchowdhary.github.io/events/api.json")
+    await fetch(
+      "https://raw.githubusercontent.com/AnandChowdhary/events/main/api.json"
+    )
   ).json()) as IEvent[];
   return events;
 };
@@ -104,7 +108,9 @@ const getThemes = async (): Promise<ITheme[]> => {
   }
 
   const themes = (await (
-    await fetch("https://anandchowdhary.github.io/themes/api.json")
+    await fetch(
+      "https://raw.githubusercontent.com/AnandChowdhary/themes/main/api.json"
+    )
   ).json()) as ITheme[];
   return themes;
 };
@@ -124,6 +130,7 @@ interface IProject {
     img_src?: string;
     img_type?: string;
     tools?: string[];
+    stack?: string[];
     icon?: string;
     icon_bg?: boolean;
   };
@@ -135,7 +142,9 @@ const getProjects = async (): Promise<IProject[]> => {
   }
 
   const projects = (await (
-    await fetch("https://anandchowdhary.github.io/projects/api.json")
+    await fetch(
+      "https://raw.githubusercontent.com/AnandChowdhary/projects/main/api.json"
+    )
   ).json()) as IProject[];
   return projects;
 };
@@ -152,7 +161,9 @@ const getVersions = async (): Promise<IVersion[]> => {
   }
 
   const versions = (await (
-    await fetch("https://anandchowdhary.github.io/versions/api.json")
+    await fetch(
+      "https://raw.githubusercontent.com/AnandChowdhary/versions/main/api.json"
+    )
   ).json()) as IVersion[];
   return versions;
 };
@@ -411,6 +422,7 @@ export const generate = async () => {
       tags: [
         ...(project.attributes?.work ?? []),
         ...(project.attributes?.tools ?? []),
+        ...(project.attributes?.stack ?? []),
       ],
       collaborators: project.attributes?.collaborators ?? [],
       icon: project.attributes?.icon
