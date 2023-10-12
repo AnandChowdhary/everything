@@ -1019,7 +1019,11 @@
       "description": "Internal ERP and inventory management system for Pabio",
       "tags": [
         "Web",
-        "Pabio"
+        "Pabio",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS"
       ],
       "collaborators": [],
       "image": {
@@ -1159,7 +1163,11 @@
       "description": "Style quiz and onboarding flow for Pabio's personalized interior design and furniture rental service",
       "tags": [
         "Web",
-        "Pabio"
+        "Pabio",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS"
       ],
       "collaborators": [],
       "image": {
@@ -1179,7 +1187,11 @@
       "description": "Interactive proposals with photorealistic renders for Pabio",
       "tags": [
         "Web",
-        "Pabio"
+        "Pabio",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS"
       ],
       "collaborators": [],
       "image": {
@@ -1431,7 +1443,11 @@
       "description": "Interactive marketing website and landing pages for Pabio",
       "tags": [
         "Web",
-        "Pabio"
+        "Pabio",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS"
       ],
       "collaborators": [],
       "image": {
@@ -1975,7 +1991,8 @@
       "description": "Open source JavaScript file uploading widget with 30+ plugins to select and edit photos",
       "tags": [
         "Web",
-        "Open source"
+        "Open source",
+        "TypeScript"
       ],
       "collaborators": [],
       "icon": {
@@ -2129,7 +2146,8 @@
         "Web",
         "Open source",
         "Node.js",
-        "Vue.js"
+        "Vue.js",
+        "TypeScript"
       ],
       "collaborators": [],
       "icon": {
@@ -2300,7 +2318,8 @@
     "data": {
       "description": "Scrum/Agile error mitigation platform with StackOverflow integration powered by open-source bug tracker",
       "tags": [
-        "Web"
+        "Web",
+        "TypeScript"
       ],
       "collaborators": [
         "alex-imbrea",
@@ -2744,7 +2763,9 @@
         "Web",
         "AI",
         "Vue.js",
-        "Firebase"
+        "Firebase",
+        "JavaScript",
+        "Python"
       ],
       "collaborators": [
         "alex-imbrea",
@@ -2772,7 +2793,8 @@
       "tags": [
         "App",
         "AI",
-        "Vue.js"
+        "Vue.js",
+        "JavaScript"
       ],
       "collaborators": [
         "alex-imbrea"
@@ -2876,7 +2898,8 @@
       "description": "Suite of free smartphone apps for people with disabilities like dyslexia, blindness, and deafness",
       "tags": [
         "Web",
-        "Oswald Labs"
+        "Oswald Labs",
+        "JavaScript"
       ],
       "collaborators": [
         "mahendra-singh-raghuwanshi"
@@ -3134,7 +3157,9 @@
         "AI",
         "IoT",
         "Vue.js",
-        "Firebase"
+        "Firebase",
+        "JavaScript",
+        "Python"
       ],
       "collaborators": [
         "mohit-ahuja"
@@ -3205,7 +3230,8 @@
         "Hardware",
         "Firebase",
         "Node.js",
-        "Vue.js"
+        "Vue.js",
+        "JavaScript"
       ],
       "collaborators": [],
       "icon": {
@@ -3239,7 +3265,8 @@
       "description": "Hyperlocal on-demand cleaning and employee training app for the Netherlands' second-largest cleaning service provider.",
       "tags": [
         "App",
-        "Vue.js"
+        "Vue.js",
+        "JavaScript"
       ],
       "collaborators": [
         "mohit-ahuja"
@@ -3268,7 +3295,8 @@
         "Branding",
         "Vue.js",
         "Node.js",
-        "Firebase"
+        "Firebase",
+        "JavaScript"
       ],
       "collaborators": [],
       "icon": {
@@ -3342,7 +3370,9 @@
         "Hardware",
         "Processing",
         "Arduino",
-        "Android"
+        "Android",
+        "C++",
+        "Java"
       ],
       "collaborators": [],
       "icon": {
@@ -3412,7 +3442,8 @@
       "tags": [
         "App",
         "AI",
-        "Vue.js"
+        "Vue.js",
+        "JavaScript"
       ],
       "collaborators": [
         "mohit-ahuja"
@@ -3493,7 +3524,9 @@
     "data": {
       "description": "Location-based offline friend discovery and music matching app built for Amsterdam Dance Event in 24 hours.",
       "tags": [
-        "App"
+        "App",
+        "JavaScript",
+        "PHP"
       ],
       "collaborators": [
         "mateo-sadowski"
@@ -3526,7 +3559,9 @@
       "description": "Face recognition Augmented Reality app for business events, built at the AWS Hackathon for StartupFest Europe.",
       "tags": [
         "App",
-        "AI"
+        "AI",
+        "JavaScript",
+        "Python"
       ],
       "collaborators": [
         "mohit-ahuja"
@@ -3553,7 +3588,8 @@
         "Web",
         "Oswald Labs",
         "Node.js",
-        "Vue.js"
+        "Vue.js",
+        "TypeScript"
       ],
       "collaborators": [
         "mahendra-singh-raghuwanshi"
@@ -3918,7 +3954,8 @@
       "description": "Period and sexual health companion for women that gives personalized tampon recommendations and access to self-help resources.",
       "tags": [
         "App",
-        "AI"
+        "AI",
+        "JavaScript"
       ],
       "collaborators": [
         "nishant-gadihoke"
@@ -4048,7 +4085,8 @@
       "description": "Browser extension for easy reading and web customization for people with dyslexia",
       "tags": [
         "Web",
-        "Oswald Labs"
+        "Oswald Labs",
+        "JavaScript"
       ],
       "collaborators": [
         "nishant-gadihoke"
@@ -4120,7 +4158,8 @@
         "Startup",
         "Photoshop",
         "WordPress",
-        "Woocommerce"
+        "Woocommerce",
+        "PHP"
       ],
       "collaborators": [],
       "icon": {
@@ -4159,7 +4198,8 @@
     "data": {
       "description": "Encryption engine and password manager in C/C++ built for my highschool Computer Science class.",
       "tags": [
-        "App"
+        "App",
+        "C++"
       ],
       "collaborators": [],
       "icon": {
@@ -4398,7 +4438,10 @@
         "App",
         "Branding",
         "Web",
-        "Android"
+        "Android",
+        "PHP",
+        "JavaScript",
+        "Java"
       ],
       "collaborators": [],
       "icon": {
@@ -4664,7 +4707,9 @@
     "data": {
       "description": "India's first online training platform, built in collaboration with government agencies and large corporates.",
       "tags": [
-        "Web"
+        "Web",
+        "PHP",
+        "JavaScript"
       ],
       "collaborators": [],
       "icon": {
@@ -4708,7 +4753,8 @@
       "description": "Platform to celebrate, promote, and build a brand — India. Over 75 organizations use the Made with Love in India badge.",
       "tags": [
         "Web",
-        "Branding"
+        "Branding",
+        "PHP"
       ],
       "collaborators": [],
       "icon": {
@@ -4786,7 +4832,10 @@
         "Web",
         "Startup",
         "Photoshop",
-        "Illustrator"
+        "Illustrator",
+        "PHP",
+        "Python",
+        "JavaScript"
       ],
       "collaborators": [],
       "icon": {
@@ -4938,7 +4987,8 @@
         "Web",
         "Branding",
         "Photoshop",
-        "Illustrator"
+        "Illustrator",
+        "PHP"
       ],
       "collaborators": [
         "akshat-srivastava"
