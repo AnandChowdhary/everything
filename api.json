@@ -1010,6 +1010,26 @@
     }
   },
   {
+    "date": "2022-01-03T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2022/pabio-lounge",
+    "source": "https://anandchowdhary.github.io/projects/projects/2022/pabio-lounge",
+    "title": "Pabio Lounge",
+    "data": {
+      "description": "Internal ERP and inventory management system for Pabio",
+      "tags": [
+        "Web",
+        "Pabio"
+      ],
+      "collaborators": [],
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/pabio-lounge/cover.jpg",
+        "attachment": "cover",
+        "color": "#ed7470"
+      }
+    }
+  },
+  {
     "type": "okr",
     "url": "https://anandchowdhary.com/okrs/2022/1",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2022/1.json",
@@ -1134,15 +1154,36 @@
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2021/pabio-onboarding",
     "source": "https://anandchowdhary.github.io/projects/projects/2021/pabio-onboarding",
-    "title": "Pabio Onboarding",
+    "title": "Onboarding on Pabio.com",
     "data": {
       "description": "Style quiz and onboarding flow for Pabio's personalized interior design and furniture rental service",
       "tags": [
-        "Web"
+        "Web",
+        "Pabio"
       ],
       "collaborators": [],
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/pabio-onboarding/1q.jpg",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/pabio-onboarding/cover.jpg",
+        "attachment": "cover",
+        "color": "#ed7470"
+      }
+    }
+  },
+  {
+    "date": "2021-12-22T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2021/pabio-proposal",
+    "source": "https://anandchowdhary.github.io/projects/projects/2021/pabio-proposal",
+    "title": "Proposals on Pabio.com",
+    "data": {
+      "description": "Interactive proposals with photorealistic renders for Pabio",
+      "tags": [
+        "Web",
+        "Pabio"
+      ],
+      "collaborators": [],
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/pabio-proposal/proposal.jpg",
         "attachment": "cover",
         "color": "#ed7470"
       }
@@ -1389,7 +1430,8 @@
     "data": {
       "description": "Interactive marketing website and landing pages for Pabio",
       "tags": [
-        "Web"
+        "Web",
+        "Pabio"
       ],
       "collaborators": [],
       "image": {
