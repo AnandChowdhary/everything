@@ -1,5 +1,76 @@
 [
   {
+    "type": "okr",
+    "url": "https://anandchowdhary.com/okrs/2023/4",
+    "source": "https://anandchowdhary.github.io/okrs/okrs/2023/4.json",
+    "title": "Published OKRs for Q4 2023",
+    "date": "2023-10-01",
+    "data": {
+      "name": 4,
+      "progress": 0.05,
+      "success": 0.35,
+      "objectives": [
+        {
+          "name": "Successful Year of Relashionships",
+          "progress": 0.03,
+          "success": 0.23,
+          "key_results": [
+            {
+              "name": "Make 20 outbound calls",
+              "current_result": 0,
+              "target_result": 20,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "Finish activity rings every other day",
+              "current_result": 3,
+              "target_result": 37,
+              "progress": 0.08,
+              "success": 0.68
+            },
+            {
+              "name": "Complete one book every month",
+              "current_result": 0,
+              "target_result": 3,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        },
+        {
+          "name": "Become personally default-alive",
+          "progress": 0.06,
+          "success": 0.46,
+          "key_results": [
+            {
+              "name": "Track finances every week",
+              "current_result": 2,
+              "target_result": 12,
+              "progress": 0.17,
+              "success": 1.39
+            },
+            {
+              "name": "Save for new house",
+              "current_result": 0,
+              "target_result": 1,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "[redacted]",
+              "current_result": 0,
+              "target_result": 1,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        }
+      ],
+      "description": "Successful Year of Relashionships, Become personally default-alive"
+    }
+  },
+  {
     "date": "2023-08-16",
     "type": "podcast-interview",
     "url": "https://anandchowdhary.com/press/2023/from-pre-seed-to-seed:-101",
