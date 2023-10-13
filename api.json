@@ -164,6 +164,19 @@
     }
   },
   {
+    "date": "2023-04-24T06:16:32.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/books/2023/doglapan",
+    "source": "https://github.com/AnandChowdhary/books/issues/62",
+    "title": "Doglapan",
+    "data": {
+      "image": "http://books.google.com/books/content?id=LimgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Ashneer Grover"
+      ]
+    }
+  },
+  {
     "date": "2023-04-17T15:35:21.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2023/sum",
