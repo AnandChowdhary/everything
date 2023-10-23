@@ -78,10 +78,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 4,
+      "stars": 6,
       "issues": 0,
       "forks": 0,
-      "watchers": 4,
+      "watchers": 6,
       "topics": [
         "deliverability",
         "dns",
@@ -1537,10 +1537,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 61,
-      "issues": 7,
-      "forks": 11,
-      "watchers": 61,
+      "stars": 62,
+      "issues": 4,
+      "forks": 12,
+      "watchers": 62,
       "topics": [
         "api",
         "books",
@@ -1703,10 +1703,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13802,
+      "stars": 13816,
       "issues": 83,
-      "forks": 793,
-      "watchers": 13802,
+      "forks": 798,
+      "watchers": 13816,
       "topics": [
         "incidents-reports",
         "status",
@@ -3241,7 +3241,7 @@
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
       "stars": 1801,
-      "issues": 43,
+      "issues": 45,
       "forks": 126,
       "watchers": 1801,
       "topics": [
