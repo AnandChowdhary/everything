@@ -980,10 +980,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 98,
+      "stars": 99,
       "issues": 4,
       "forks": 15,
-      "watchers": 98,
+      "watchers": 99,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -1703,10 +1703,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13839,
+      "stars": 13870,
       "issues": 85,
-      "forks": 805,
-      "watchers": 13839,
+      "forks": 808,
+      "watchers": 13870,
       "topics": [
         "incidents-reports",
         "status",
@@ -2664,10 +2664,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 306,
-      "issues": 10,
-      "forks": 63,
-      "watchers": 306,
+      "stars": 307,
+      "issues": 12,
+      "forks": 64,
+      "watchers": 307,
       "topics": [
         "calendar",
         "calendar-link",
