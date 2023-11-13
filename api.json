@@ -982,7 +982,7 @@
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
       "stars": 99,
       "issues": 4,
-      "forks": 15,
+      "forks": 16,
       "watchers": 99,
       "topics": [
         "help-ukraine",
@@ -1538,7 +1538,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 62,
-      "issues": 4,
+      "issues": 2,
       "forks": 12,
       "watchers": 62,
       "topics": [
@@ -1703,10 +1703,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13870,
+      "stars": 13894,
       "issues": 85,
-      "forks": 808,
-      "watchers": 13870,
+      "forks": 814,
+      "watchers": 13894,
       "topics": [
         "incidents-reports",
         "status",
@@ -3241,8 +3241,8 @@
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
       "stars": 1802,
-      "issues": 45,
-      "forks": 126,
+      "issues": 46,
+      "forks": 127,
       "watchers": 1802,
       "topics": [
         "file-upload",
