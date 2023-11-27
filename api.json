@@ -980,10 +980,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 99,
+      "stars": 100,
       "issues": 4,
       "forks": 16,
-      "watchers": 99,
+      "watchers": 100,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -1703,10 +1703,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 13920,
-      "issues": 86,
-      "forks": 818,
-      "watchers": 13920,
+      "stars": 13942,
+      "issues": 85,
+      "forks": 820,
+      "watchers": 13942,
       "topics": [
         "incidents-reports",
         "status",
@@ -2665,7 +2665,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 310,
-      "issues": 11,
+      "issues": 9,
       "forks": 64,
       "watchers": 310,
       "topics": [
@@ -3240,10 +3240,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1802,
+      "stars": 1804,
       "issues": 46,
       "forks": 127,
-      "watchers": 1802,
+      "watchers": 1804,
       "topics": [
         "file-upload",
         "image",
