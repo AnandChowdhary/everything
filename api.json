@@ -492,10 +492,10 @@
     "source": "https://github.com/AnandChowdhary/birthday-reminders-action",
     "data": {
       "description": "🎁 Daily messages for birthday reminders using GitHub Actions",
-      "stars": 7,
+      "stars": 8,
       "issues": 3,
       "forks": 2,
-      "watchers": 7,
+      "watchers": 8,
       "topics": [
         "birthday",
         "birthday-reminder",
@@ -1703,10 +1703,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 14087,
-      "issues": 86,
-      "forks": 825,
-      "watchers": 14087,
+      "stars": 14123,
+      "issues": 87,
+      "forks": 829,
+      "watchers": 14123,
       "topics": [
         "incidents-reports",
         "status",
@@ -1886,10 +1886,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 39,
+      "stars": 40,
       "issues": 16,
       "forks": 9,
-      "watchers": 39,
+      "watchers": 40,
       "topics": [
         "google",
         "google-docs",
@@ -2582,7 +2582,7 @@
       "description": "🈹 Better icons for languages, because flags just don't cut it",
       "stars": 56,
       "issues": 8,
-      "forks": 17,
+      "forks": 18,
       "watchers": 56,
       "topics": [
         "generator",
@@ -2664,10 +2664,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 311,
+      "stars": 312,
       "issues": 9,
       "forks": 64,
-      "watchers": 311,
+      "watchers": 312,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3240,10 +3240,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1806,
+      "stars": 1805,
       "issues": 46,
       "forks": 128,
-      "watchers": 1806,
+      "watchers": 1805,
       "topics": [
         "file-upload",
         "image",
