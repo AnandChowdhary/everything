@@ -980,10 +980,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 101,
+      "stars": 102,
       "issues": 4,
       "forks": 16,
-      "watchers": 101,
+      "watchers": 102,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -1538,7 +1538,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 63,
-      "issues": 1,
+      "issues": 0,
       "forks": 12,
       "watchers": 63,
       "topics": [
@@ -1703,10 +1703,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 14168,
+      "stars": 14199,
       "issues": 75,
-      "forks": 833,
-      "watchers": 14168,
+      "forks": 839,
+      "watchers": 14199,
       "topics": [
         "incidents-reports",
         "status",
@@ -1996,7 +1996,7 @@
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
       "stars": 11,
       "issues": 11,
-      "forks": 2,
+      "forks": 3,
       "watchers": 11,
       "topics": [
         "archive-dot-org",
@@ -2477,7 +2477,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 20,
-      "issues": 26,
+      "issues": 27,
       "forks": 2,
       "watchers": 20,
       "topics": [
@@ -2580,10 +2580,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 56,
+      "stars": 57,
       "issues": 8,
       "forks": 18,
-      "watchers": 56,
+      "watchers": 57,
       "topics": [
         "generator",
         "icons",
