@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-01-18",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/milestones/2024/bought-a-house",
+    "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
+    "title": "Bought a house",
+    "data": {
+      "description": "Sukriti and I bought our first house in Utrecht, the Netherlands."
+    }
+  },
+  {
     "type": "okr",
     "url": "https://anandchowdhary.com/okrs/2023/4",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2023/4.json",
@@ -293,7 +303,9 @@
     "url": "https://anandchowdhary.com/milestones/2023/got-married",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Got married",
-    "data": {}
+    "data": {
+      "description": "From January 19 to 21, Sukriti and I got married in Delhi-NCR, India."
+    }
   },
   {
     "date": "2023-01-08",
@@ -812,7 +824,9 @@
     "url": "https://anandchowdhary.com/milestones/2022/got-engaged",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Got engaged",
-    "data": {}
+    "data": {
+      "description": "I surprised Sukriti with a trip to Paris and asked her to marry me in front of the Eiffel Tower."
+    }
   },
   {
     "date": "2022-05-12T00:00:00.000Z",
