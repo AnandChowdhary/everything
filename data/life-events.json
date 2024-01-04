@@ -43,6 +43,19 @@
     "title": "Became a Y Combinator alum",
     "description": "Pabio was part of Y Combinator's S21 batch, being one of the first Swiss companies to be funded by YC. I was the third ever from my university to be part of YC and we raised a $2.2 million seed round after the batch."
   },
-  { "date": "2022-06-01", "title": "Got engaged" },
-  { "date": "2023-01-21", "title": "Got married" }
+  {
+    "date": "2022-06-01",
+    "title": "Got engaged",
+    "description": "I surprised Sukriti with a trip to Paris and asked her to marry me in front of the Eiffel Tower."
+  },
+  {
+    "date": "2023-01-21",
+    "title": "Got married",
+    "description": "From January 19 to 21, Sukriti and I got married in Delhi-NCR, India."
+  },
+  {
+    "date": "2024-01-18",
+    "title": "Bought a house",
+    "description": "Sukriti and I bought our first house in Utrecht, the Netherlands."
+  }
 ]
