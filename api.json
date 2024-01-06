@@ -20,6 +20,77 @@
     }
   },
   {
+    "type": "okr",
+    "url": "https://anandchowdhary.com/okrs/2024/1",
+    "source": "https://anandchowdhary.github.io/okrs/okrs/2024/1.json",
+    "title": "Published OKRs for Q1 2024",
+    "date": "2024-01-01",
+    "data": {
+      "name": 1,
+      "progress": 0.06,
+      "success": 0.8,
+      "objectives": [
+        {
+          "name": "Move in to new house",
+          "progress": 0,
+          "success": 0,
+          "key_results": [
+            {
+              "name": "Fully move from rental to owned house",
+              "current_result": 0,
+              "target_result": 1,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "Furnish and set up workspace",
+              "current_result": 0,
+              "target_result": 1,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "Update registrations and legal work",
+              "current_result": 0,
+              "target_result": 1,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        },
+        {
+          "name": "Strong start to 2024",
+          "progress": 0.11,
+          "success": 1.59,
+          "key_results": [
+            {
+              "name": "Track finances every week",
+              "current_result": 0,
+              "target_result": 12,
+              "progress": 0,
+              "success": 0
+            },
+            {
+              "name": "Write 1 blog post every month",
+              "current_result": 1,
+              "target_result": 3,
+              "progress": 0.33,
+              "success": 4.76
+            },
+            {
+              "name": "Publicly launch new company",
+              "current_result": 0,
+              "target_result": 1,
+              "progress": 0,
+              "success": 0
+            }
+          ]
+        }
+      ],
+      "description": "Move in to new house, Strong start to 2024"
+    }
+  },
+  {
     "date": "2024-01-01T00:00:00.000Z",
     "type": "theme",
     "url": "https://anandchowdhary.com/themes/2024",
