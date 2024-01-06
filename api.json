@@ -10,6 +10,16 @@
     }
   },
   {
+    "date": "2024-01-05T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2024/year-of-gratitude",
+    "source": "https://anandchowdhary.github.io/blog/blog/2024/year-of-gratitude",
+    "title": "2024 will be the Year of Gratitude",
+    "data": {
+      "excerpt": "I turned 26 last week and like years past, I wanted to reflect on this past year and plan my theme for 2024. 2023 was a big year for my personal growth and I'm looking forward to actively practicing gratitude in 2024. Year of Gratitude is a little different from my previous themes, as it's not a goal I'm trying to achieve, but rather a mindset I want to cultivate. I want to be more grateful for the things I have, the people in my life, and the opportunities I've been given."
+    }
+  },
+  {
     "type": "okr",
     "url": "https://anandchowdhary.com/okrs/2023/4",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2023/4.json",
