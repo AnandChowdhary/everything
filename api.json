@@ -20,6 +20,17 @@
     }
   },
   {
+    "date": "2024-01-01T00:00:00.000Z",
+    "type": "theme",
+    "url": "https://anandchowdhary.com/themes/2024",
+    "source": "https://anandchowdhary.github.io/themes/themes/2024/year-of-gratitude",
+    "title": "Year of Gratitude",
+    "data": {
+      "year": 2024,
+      "description": "In 2024, I want to focus on the wellbeing of myself and those around me:\n\nI want to focus on my mental health and give myself time to exercise, introspect, and learn. I want to properly take Sundays off and spend more time with myself and my loved ones, and I want to see my personal trainer and my therapist with more regularity and review my goals frequently. Secondly, I want to actively practice gratitude to be more thankful for everything I have. I want to be more appreciative of the people in"
+    }
+  },
+  {
     "type": "okr",
     "url": "https://anandchowdhary.com/okrs/2023/4",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2023/4.json",
