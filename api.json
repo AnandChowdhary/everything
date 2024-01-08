@@ -1809,10 +1809,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 14199,
-      "issues": 75,
-      "forks": 839,
-      "watchers": 14199,
+      "stars": 14220,
+      "issues": 76,
+      "forks": 844,
+      "watchers": 14220,
       "topics": [
         "incidents-reports",
         "status",
@@ -1992,10 +1992,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 41,
+      "stars": 42,
       "issues": 16,
       "forks": 9,
-      "watchers": 41,
+      "watchers": 42,
       "topics": [
         "google",
         "google-docs",
@@ -2017,10 +2017,10 @@
     "source": "https://github.com/AnandChowdhary/puppet",
     "data": {
       "description": "🎭 Natural language web automation with Puppeteer",
-      "stars": 8,
+      "stars": 9,
       "issues": 18,
       "forks": 1,
-      "watchers": 8,
+      "watchers": 9,
       "topics": [
         "automation",
         "chrome",
@@ -2102,7 +2102,7 @@
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
       "stars": 11,
       "issues": 11,
-      "forks": 3,
+      "forks": 2,
       "watchers": 11,
       "topics": [
         "archive-dot-org",
@@ -2583,7 +2583,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 20,
-      "issues": 27,
+      "issues": 29,
       "forks": 2,
       "watchers": 20,
       "topics": [
@@ -2686,10 +2686,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 57,
+      "stars": 58,
       "issues": 8,
-      "forks": 18,
-      "watchers": 57,
+      "forks": 17,
+      "watchers": 58,
       "topics": [
         "generator",
         "icons",
@@ -2697,7 +2697,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/49542936842c9fa1d9c376bdadd5682a4f5e17d47b9084d2522f0afc5a3aedc0/AnandChowdhary/language-icons"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/4cc4781457d73688cff642134917d0cc95f44798c2d98a614262d575d1c7a3b5/AnandChowdhary/language-icons"
     }
   },
   {
@@ -3346,10 +3346,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1806,
+      "stars": 1807,
       "issues": 46,
-      "forks": 127,
-      "watchers": 1806,
+      "forks": 129,
+      "watchers": 1807,
       "topics": [
         "file-upload",
         "image",
