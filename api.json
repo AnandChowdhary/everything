@@ -28,7 +28,7 @@
     "data": {
       "name": 1,
       "progress": 0.06,
-      "success": 0.8,
+      "success": 0.7,
       "objectives": [
         {
           "name": "Move in to new house",
@@ -61,7 +61,7 @@
         {
           "name": "Strong start to 2024",
           "progress": 0.11,
-          "success": 1.59,
+          "success": 1.39,
           "key_results": [
             {
               "name": "Track finances every week",
@@ -75,7 +75,7 @@
               "current_result": 1,
               "target_result": 3,
               "progress": 0.33,
-              "success": 4.76
+              "success": 4.17
             },
             {
               "name": "Publicly launch new company",
