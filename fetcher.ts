@@ -174,6 +174,7 @@ interface IBlogPost {
   words: number;
   date: string;
   excerpt: string;
+  attributes?: { draft?: true };
 }
 const getBlogPosts = async (): Promise<IBlogPost[]> => {
   if (CACHE_ENABLED) {
@@ -186,7 +187,7 @@ const getBlogPosts = async (): Promise<IBlogPost[]> => {
       "https://raw.githubusercontent.com/AnandChowdhary/blog/HEAD/api.json"
     )
   ).json()) as IBlogPost[];
-  return blogPosts;
+  return blogPosts.filter((post) => !post.attributes?.draft);
 };
 
 interface IBook {
