@@ -1799,10 +1799,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ Free uptime monitor and status page powered by GitHub",
-      "stars": 14220,
+      "stars": 14244,
       "issues": 76,
-      "forks": 844,
-      "watchers": 14220,
+      "forks": 846,
+      "watchers": 14244,
       "topics": [
         "incidents-reports",
         "status",
@@ -2761,7 +2761,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 313,
-      "issues": 6,
+      "issues": 7,
       "forks": 64,
       "watchers": 313,
       "topics": [
@@ -3336,10 +3336,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1807,
-      "issues": 46,
-      "forks": 129,
-      "watchers": 1807,
+      "stars": 1808,
+      "issues": 47,
+      "forks": 130,
+      "watchers": 1808,
       "topics": [
         "file-upload",
         "image",
