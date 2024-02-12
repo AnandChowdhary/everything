@@ -1809,10 +1809,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14421,
+      "stars": 14467,
       "issues": 78,
-      "forks": 856,
-      "watchers": 14421,
+      "forks": 857,
+      "watchers": 14467,
       "topics": [
         "incidents-reports",
         "status",
@@ -2606,10 +2606,10 @@
     "source": "https://github.com/AnandChowdhary/auto-i18n",
     "data": {
       "description": "🌐 Automatically translate your JSON I18N files",
-      "stars": 24,
+      "stars": 25,
       "issues": 18,
       "forks": 2,
-      "watchers": 24,
+      "watchers": 25,
       "topics": [
         "automation",
         "google-translate",
@@ -2771,7 +2771,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 315,
-      "issues": 8,
+      "issues": 9,
       "forks": 64,
       "watchers": 315,
       "topics": [
