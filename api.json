@@ -552,7 +552,7 @@
     "data": {
       "description": "🤖 Twitter bot which tweets news in haikus using GPT-3",
       "stars": 4,
-      "issues": 1,
+      "issues": 2,
       "forks": 1,
       "watchers": 4,
       "topics": [
@@ -1809,10 +1809,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14467,
+      "stars": 14488,
       "issues": 78,
-      "forks": 857,
-      "watchers": 14467,
+      "forks": 858,
+      "watchers": 14488,
       "topics": [
         "incidents-reports",
         "status",
@@ -2770,10 +2770,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 315,
-      "issues": 9,
+      "stars": 316,
+      "issues": 6,
       "forks": 64,
-      "watchers": 315,
+      "watchers": 316,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3346,10 +3346,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1812,
+      "stars": 1813,
       "issues": 47,
       "forks": 130,
-      "watchers": 1812,
+      "watchers": 1813,
       "topics": [
         "file-upload",
         "image",
