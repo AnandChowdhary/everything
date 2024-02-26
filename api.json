@@ -180,10 +180,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 6,
+      "stars": 7,
       "issues": 0,
       "forks": 0,
-      "watchers": 6,
+      "watchers": 7,
       "topics": [
         "deliverability",
         "dns",
@@ -1644,7 +1644,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 65,
-      "issues": 0,
+      "issues": 1,
       "forks": 13,
       "watchers": 65,
       "topics": [
@@ -1809,10 +1809,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14488,
-      "issues": 78,
-      "forks": 858,
-      "watchers": 14488,
+      "stars": 14523,
+      "issues": 79,
+      "forks": 807,
+      "watchers": 14523,
       "topics": [
         "incidents-reports",
         "status",
@@ -2583,7 +2583,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 20,
-      "issues": 29,
+      "issues": 31,
       "forks": 2,
       "watchers": 20,
       "topics": [
@@ -2663,7 +2663,7 @@
     "data": {
       "description": "📝 Version control your thoughts",
       "stars": 14,
-      "issues": 21,
+      "issues": 22,
       "forks": 1,
       "watchers": 14,
       "topics": [
@@ -2842,10 +2842,10 @@
     "source": "https://github.com/AnandChowdhary/hello-bar",
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
-      "stars": 72,
-      "issues": 27,
+      "stars": 71,
+      "issues": 28,
       "forks": 10,
-      "watchers": 72,
+      "watchers": 71,
       "topics": [
         "engagement",
         "hellobar",
@@ -3348,7 +3348,7 @@
       "description": "📁 JavaScript image uploader and editor, no backend required",
       "stars": 1813,
       "issues": 47,
-      "forks": 130,
+      "forks": 131,
       "watchers": 1813,
       "topics": [
         "file-upload",
