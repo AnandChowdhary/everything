@@ -180,10 +180,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 7,
+      "stars": 8,
       "issues": 0,
       "forks": 0,
-      "watchers": 7,
+      "watchers": 8,
       "topics": [
         "deliverability",
         "dns",
@@ -1643,10 +1643,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 65,
+      "stars": 64,
       "issues": 1,
       "forks": 13,
-      "watchers": 65,
+      "watchers": 64,
       "topics": [
         "api",
         "books",
@@ -1809,10 +1809,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14523,
+      "stars": 14577,
       "issues": 79,
-      "forks": 807,
-      "watchers": 14523,
+      "forks": 810,
+      "watchers": 14577,
       "topics": [
         "incidents-reports",
         "status",
@@ -2017,10 +2017,10 @@
     "source": "https://github.com/AnandChowdhary/puppet",
     "data": {
       "description": "🎭 Natural language web automation with Puppeteer",
-      "stars": 9,
+      "stars": 10,
       "issues": 18,
       "forks": 1,
-      "watchers": 9,
+      "watchers": 10,
       "topics": [
         "automation",
         "chrome",
@@ -2770,10 +2770,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 316,
+      "stars": 317,
       "issues": 6,
       "forks": 64,
-      "watchers": 316,
+      "watchers": 317,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3346,10 +3346,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1813,
+      "stars": 1814,
       "issues": 47,
       "forks": 131,
-      "watchers": 1813,
+      "watchers": 1814,
       "topics": [
         "file-upload",
         "image",
