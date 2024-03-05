@@ -102,6 +102,19 @@
     }
   },
   {
+    "date": "2023-10-13T20:37:46.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/books/2023/why-we-sleep",
+    "source": "https://github.com/AnandChowdhary/books/issues/63",
+    "title": "Why We Sleep",
+    "data": {
+      "image": "http://books.google.com/books/content?id=ZlU3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Matthew Walker"
+      ]
+    }
+  },
+  {
     "type": "okr",
     "url": "https://anandchowdhary.com/okrs/2023/4",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2023/4.json",
