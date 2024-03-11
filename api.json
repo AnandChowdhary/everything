@@ -193,10 +193,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 8,
+      "stars": 9,
       "issues": 0,
       "forks": 0,
-      "watchers": 8,
+      "watchers": 9,
       "topics": [
         "deliverability",
         "dns",
@@ -1822,10 +1822,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14577,
-      "issues": 79,
-      "forks": 810,
-      "watchers": 14577,
+      "stars": 14606,
+      "issues": 80,
+      "forks": 812,
+      "watchers": 14606,
       "topics": [
         "incidents-reports",
         "status",
@@ -2005,10 +2005,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 43,
+      "stars": 44,
       "issues": 16,
       "forks": 9,
-      "watchers": 43,
+      "watchers": 44,
       "topics": [
         "google",
         "google-docs",
@@ -3359,10 +3359,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1814,
+      "stars": 1816,
       "issues": 47,
-      "forks": 131,
-      "watchers": 1814,
+      "forks": 128,
+      "watchers": 1816,
       "topics": [
         "file-upload",
         "image",
