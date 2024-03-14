@@ -732,6 +732,19 @@
     }
   },
   {
+    "date": "2022-09-22T18:47:24.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/books/2022/bad-feminist",
+    "source": "https://github.com/AnandChowdhary/books/issues/51",
+    "title": "Bad Feminist",
+    "data": {
+      "image": "http://books.google.com/books/content?id=Gd6CvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "authors": [
+        "Roxane Gay"
+      ]
+    }
+  },
+  {
     "date": "2022-09-12T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2022/ut-opportunity-recognition",
