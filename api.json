@@ -1114,7 +1114,7 @@
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
       "stars": 103,
       "issues": 4,
-      "forks": 16,
+      "forks": 17,
       "watchers": 103,
       "topics": [
         "help-ukraine",
@@ -1835,10 +1835,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14606,
+      "stars": 14631,
       "issues": 80,
       "forks": 812,
-      "watchers": 14606,
+      "watchers": 14631,
       "topics": [
         "incidents-reports",
         "status",
@@ -2018,10 +2018,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 44,
+      "stars": 46,
       "issues": 16,
       "forks": 9,
-      "watchers": 44,
+      "watchers": 46,
       "topics": [
         "google",
         "google-docs",
@@ -2609,7 +2609,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 20,
-      "issues": 31,
+      "issues": 33,
       "forks": 2,
       "watchers": 20,
       "topics": [
@@ -2796,10 +2796,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 317,
+      "stars": 319,
       "issues": 6,
       "forks": 64,
-      "watchers": 317,
+      "watchers": 319,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2869,7 +2869,7 @@
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
       "stars": 71,
-      "issues": 28,
+      "issues": 29,
       "forks": 10,
       "watchers": 71,
       "topics": [
@@ -3372,10 +3372,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1816,
+      "stars": 1818,
       "issues": 47,
-      "forks": 128,
-      "watchers": 1816,
+      "forks": 129,
+      "watchers": 1818,
       "topics": [
         "file-upload",
         "image",
