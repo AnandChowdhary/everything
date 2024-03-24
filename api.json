@@ -1,5 +1,19 @@
 [
   {
+    "date": "2024-03-20T13:54:03.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/books/2024/rework",
+    "source": "https://github.com/AnandChowdhary/books/issues/66",
+    "title": "Rework",
+    "data": {
+      "image": "http://books.google.com/books/content?id=U77um_h_dgcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Jason Fried",
+        "David Heinemeier Hansson"
+      ]
+    }
+  },
+  {
     "date": "2024-01-18",
     "type": "life-event",
     "url": "https://anandchowdhary.com/milestones/2024/bought-a-house",
