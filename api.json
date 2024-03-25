@@ -1685,7 +1685,7 @@
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 64,
       "issues": 1,
-      "forks": 13,
+      "forks": 14,
       "watchers": 64,
       "topics": [
         "api",
@@ -1849,10 +1849,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14631,
+      "stars": 14643,
       "issues": 80,
-      "forks": 812,
-      "watchers": 14631,
+      "forks": 814,
+      "watchers": 14643,
       "topics": [
         "incidents-reports",
         "status",
@@ -2623,7 +2623,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 20,
-      "issues": 33,
+      "issues": 34,
       "forks": 2,
       "watchers": 20,
       "topics": [
@@ -2810,10 +2810,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 319,
+      "stars": 320,
       "issues": 6,
       "forks": 64,
-      "watchers": 319,
+      "watchers": 320,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2906,10 +2906,10 @@
     "source": "https://github.com/AnandChowdhary/hovercard",
     "data": {
       "description": "🖱️ Wikipedia summary cards for the web",
-      "stars": 87,
+      "stars": 88,
       "issues": 23,
       "forks": 10,
-      "watchers": 87,
+      "watchers": 88,
       "topics": [
         "a11y",
         "hovercard",
@@ -3386,10 +3386,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1818,
+      "stars": 1817,
       "issues": 47,
       "forks": 129,
-      "watchers": 1818,
+      "watchers": 1817,
       "topics": [
         "file-upload",
         "image",
