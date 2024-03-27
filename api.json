@@ -1,5 +1,19 @@
 [
   {
+    "date": "2024-03-24T15:28:15.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/books/2024/never-split-the-difference",
+    "source": "https://github.com/AnandChowdhary/books/issues/67",
+    "title": "Never Split the Difference",
+    "data": {
+      "image": "http://books.google.com/books/content?id=RmdqCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Chris Voss",
+        "Tahl Raz"
+      ]
+    }
+  },
+  {
     "date": "2024-03-20T13:54:03.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2024/rework",
@@ -2825,7 +2839,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/38c66f9175337c42bf42b0621a3ee6be8a49ca272f2455db06f11e2e792db914/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/489d74f57b960977abfebcd897da698f204d4190c2bd46956c8a71d2039b74d5/AnandChowdhary/calendar-link"
     }
   },
   {
