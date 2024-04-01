@@ -1140,10 +1140,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 103,
+      "stars": 102,
       "issues": 4,
       "forks": 17,
-      "watchers": 103,
+      "watchers": 102,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -1180,7 +1180,7 @@
     "data": {
       "description": "💿 Starter for @remix-run with localized routing and i18n",
       "stars": 55,
-      "issues": 5,
+      "issues": 6,
       "forks": 3,
       "watchers": 55,
       "topics": [
@@ -1863,10 +1863,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14643,
+      "stars": 14664,
       "issues": 80,
       "forks": 814,
-      "watchers": 14643,
+      "watchers": 14664,
       "topics": [
         "incidents-reports",
         "status",
@@ -2022,10 +2022,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-slots",
     "data": {
       "description": "🗓️ Find empty appointment slots in a user's calendar",
-      "stars": 16,
+      "stars": 17,
       "issues": 22,
       "forks": 3,
-      "watchers": 16,
+      "watchers": 17,
       "topics": [
         "calendar",
         "calendar-api",
@@ -2035,7 +2035,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/6847e1697b220c3f64111be7384b941acf8b9d89cd96b0dec2b832f739bdf3df/AnandChowdhary/calendar-slots"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/df75e21cdbc4993b656afa0dd16c503c4798df5b8f7cc690732232d91011b1ef/AnandChowdhary/calendar-slots"
     }
   },
   {
@@ -2071,10 +2071,10 @@
     "source": "https://github.com/AnandChowdhary/puppet",
     "data": {
       "description": "🎭 Natural language web automation with Puppeteer",
-      "stars": 10,
+      "stars": 11,
       "issues": 18,
       "forks": 1,
-      "watchers": 10,
+      "watchers": 11,
       "topics": [
         "automation",
         "chrome",
@@ -2741,7 +2741,7 @@
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
       "stars": 58,
-      "issues": 8,
+      "issues": 9,
       "forks": 17,
       "watchers": 58,
       "topics": [
@@ -2824,10 +2824,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 320,
+      "stars": 322,
       "issues": 6,
       "forks": 64,
-      "watchers": 320,
+      "watchers": 322,
       "topics": [
         "calendar",
         "calendar-link",
