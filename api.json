@@ -1841,7 +1841,7 @@
       "description": "📠 Easily update repos created with GitHub templates",
       "stars": 33,
       "issues": 1,
-      "forks": 4,
+      "forks": 5,
       "watchers": 33,
       "topics": [
         "github-actions",
@@ -1863,10 +1863,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14664,
-      "issues": 80,
-      "forks": 814,
-      "watchers": 14664,
+      "stars": 14686,
+      "issues": 79,
+      "forks": 812,
+      "watchers": 14686,
       "topics": [
         "incidents-reports",
         "status",
@@ -2741,8 +2741,8 @@
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
       "stars": 58,
-      "issues": 9,
-      "forks": 17,
+      "issues": 11,
+      "forks": 18,
       "watchers": 58,
       "topics": [
         "generator",
@@ -2824,10 +2824,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 322,
+      "stars": 324,
       "issues": 6,
       "forks": 64,
-      "watchers": 322,
+      "watchers": 324,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3400,10 +3400,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1817,
+      "stars": 1818,
       "issues": 47,
       "forks": 129,
-      "watchers": 1817,
+      "watchers": 1818,
       "topics": [
         "file-upload",
         "image",
