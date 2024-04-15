@@ -221,10 +221,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 9,
+      "stars": 12,
       "issues": 0,
       "forks": 0,
-      "watchers": 9,
+      "watchers": 12,
       "topics": [
         "deliverability",
         "dns",
@@ -1863,10 +1863,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14686,
+      "stars": 14714,
       "issues": 79,
-      "forks": 812,
-      "watchers": 14686,
+      "forks": 817,
+      "watchers": 14714,
       "topics": [
         "incidents-reports",
         "status",
@@ -2046,10 +2046,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 46,
+      "stars": 47,
       "issues": 16,
       "forks": 9,
-      "watchers": 46,
+      "watchers": 47,
       "topics": [
         "google",
         "google-docs",
@@ -2071,10 +2071,10 @@
     "source": "https://github.com/AnandChowdhary/puppet",
     "data": {
       "description": "🎭 Natural language web automation with Puppeteer",
-      "stars": 11,
+      "stars": 12,
       "issues": 18,
       "forks": 1,
-      "watchers": 11,
+      "watchers": 12,
       "topics": [
         "automation",
         "chrome",
@@ -2154,10 +2154,10 @@
     "source": "https://github.com/AnandChowdhary/archiver",
     "data": {
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
-      "stars": 11,
+      "stars": 12,
       "issues": 11,
       "forks": 2,
-      "watchers": 11,
+      "watchers": 12,
       "topics": [
         "archive-dot-org",
         "automation",
@@ -2398,7 +2398,7 @@
     "data": {
       "description": "🙋 Collect feedback from your users on the web",
       "stars": 8,
-      "issues": 17,
+      "issues": 2,
       "forks": 3,
       "watchers": 8,
       "topics": [
@@ -2716,10 +2716,10 @@
     "source": "https://github.com/AnandChowdhary/gitwriter",
     "data": {
       "description": "📝 Version control your thoughts",
-      "stars": 14,
+      "stars": 15,
       "issues": 22,
       "forks": 1,
-      "watchers": 14,
+      "watchers": 15,
       "topics": [
         "app",
         "git",
@@ -2740,10 +2740,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 58,
+      "stars": 59,
       "issues": 11,
       "forks": 18,
-      "watchers": 58,
+      "watchers": 59,
       "topics": [
         "generator",
         "icons",
@@ -2787,7 +2787,7 @@
     "data": {
       "description": "🔔 Changelog notifications widget for the web, powered by GitHub",
       "stars": 6,
-      "issues": 22,
+      "issues": 5,
       "forks": 1,
       "watchers": 6,
       "topics": [
@@ -2824,10 +2824,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 324,
-      "issues": 6,
+      "stars": 326,
+      "issues": 4,
       "forks": 64,
-      "watchers": 324,
+      "watchers": 326,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2897,7 +2897,7 @@
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
       "stars": 71,
-      "issues": 29,
+      "issues": 5,
       "forks": 10,
       "watchers": 71,
       "topics": [
@@ -3400,10 +3400,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1818,
+      "stars": 1819,
       "issues": 47,
       "forks": 129,
-      "watchers": 1818,
+      "watchers": 1819,
       "topics": [
         "file-upload",
         "image",
