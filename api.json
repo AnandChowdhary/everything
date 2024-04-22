@@ -1863,10 +1863,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14714,
+      "stars": 14735,
       "issues": 79,
-      "forks": 817,
-      "watchers": 14714,
+      "forks": 823,
+      "watchers": 14735,
       "topics": [
         "incidents-reports",
         "status",
@@ -2022,10 +2022,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-slots",
     "data": {
       "description": "🗓️ Find empty appointment slots in a user's calendar",
-      "stars": 17,
+      "stars": 18,
       "issues": 22,
       "forks": 3,
-      "watchers": 17,
+      "watchers": 18,
       "topics": [
         "calendar",
         "calendar-api",
@@ -2824,10 +2824,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 326,
+      "stars": 327,
       "issues": 4,
       "forks": 64,
-      "watchers": 326,
+      "watchers": 327,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2896,10 +2896,10 @@
     "source": "https://github.com/AnandChowdhary/hello-bar",
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
-      "stars": 71,
+      "stars": 72,
       "issues": 5,
       "forks": 10,
-      "watchers": 71,
+      "watchers": 72,
       "topics": [
         "engagement",
         "hellobar",
@@ -2920,10 +2920,10 @@
     "source": "https://github.com/AnandChowdhary/hovercard",
     "data": {
       "description": "🖱️ Wikipedia summary cards for the web",
-      "stars": 88,
+      "stars": 89,
       "issues": 23,
       "forks": 10,
-      "watchers": 88,
+      "watchers": 89,
       "topics": [
         "a11y",
         "hovercard",
@@ -3400,10 +3400,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1819,
+      "stars": 1821,
       "issues": 47,
       "forks": 129,
-      "watchers": 1819,
+      "watchers": 1821,
       "topics": [
         "file-upload",
         "image",
