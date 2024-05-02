@@ -661,6 +661,19 @@
     "title": "Alameda"
   },
   {
+    "date": "2022-10-03T14:15:35.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/books/2022/can't-hurt-me",
+    "source": "https://github.com/AnandChowdhary/books/issues/53",
+    "title": "Can't Hurt Me",
+    "data": {
+      "image": "http://books.google.com/books/content?id=i-VtzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "authors": [
+        "David Goggins"
+      ]
+    }
+  },
+  {
     "type": "okr",
     "url": "https://anandchowdhary.com/okrs/2022/4",
     "source": "https://anandchowdhary.github.io/okrs/okrs/2022/4.json",
@@ -2839,7 +2852,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/d490a93844f03a34a40df26b399fcd5064e68f0433ea5b471e61e88f3db4cd53/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/3ac21dc6e4f70584ac2e3881cfeb01b8248efeaa45059a6b5773d1647da75d76/AnandChowdhary/calendar-link"
     }
   },
   {
