@@ -221,10 +221,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 12,
+      "stars": 13,
       "issues": 0,
       "forks": 0,
-      "watchers": 12,
+      "watchers": 13,
       "topics": [
         "deliverability",
         "dns",
@@ -1710,10 +1710,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 64,
+      "stars": 65,
       "issues": 1,
       "forks": 14,
-      "watchers": 64,
+      "watchers": 65,
       "topics": [
         "api",
         "books",
@@ -1876,10 +1876,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14749,
-      "issues": 80,
-      "forks": 827,
-      "watchers": 14749,
+      "stars": 14774,
+      "issues": 79,
+      "forks": 829,
+      "watchers": 14774,
       "topics": [
         "incidents-reports",
         "status",
@@ -2650,7 +2650,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 21,
-      "issues": 34,
+      "issues": 10,
       "forks": 2,
       "watchers": 21,
       "topics": [
@@ -2730,7 +2730,7 @@
     "data": {
       "description": "📝 Version control your thoughts",
       "stars": 15,
-      "issues": 22,
+      "issues": 3,
       "forks": 1,
       "watchers": 15,
       "topics": [
@@ -2753,10 +2753,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 59,
+      "stars": 60,
       "issues": 8,
       "forks": 17,
-      "watchers": 59,
+      "watchers": 60,
       "topics": [
         "generator",
         "icons",
@@ -2837,10 +2837,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 327,
+      "stars": 330,
       "issues": 3,
-      "forks": 64,
-      "watchers": 327,
+      "forks": 65,
+      "watchers": 330,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2910,7 +2910,7 @@
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
       "stars": 72,
-      "issues": 5,
+      "issues": 6,
       "forks": 10,
       "watchers": 72,
       "topics": [
@@ -3413,10 +3413,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1819,
+      "stars": 1820,
       "issues": 47,
       "forks": 129,
-      "watchers": 1819,
+      "watchers": 1820,
       "topics": [
         "file-upload",
         "image",
