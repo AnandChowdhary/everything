@@ -222,7 +222,7 @@
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
       "stars": 13,
-      "issues": 0,
+      "issues": 1,
       "forks": 0,
       "watchers": 13,
       "topics": [
@@ -1876,10 +1876,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14774,
+      "stars": 14790,
       "issues": 79,
-      "forks": 829,
-      "watchers": 14774,
+      "forks": 831,
+      "watchers": 14790,
       "topics": [
         "incidents-reports",
         "status",
@@ -2837,10 +2837,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 330,
+      "stars": 333,
       "issues": 3,
       "forks": 65,
-      "watchers": 330,
+      "watchers": 333,
       "topics": [
         "calendar",
         "calendar-link",
