@@ -1876,10 +1876,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14790,
-      "issues": 79,
-      "forks": 831,
-      "watchers": 14790,
+      "stars": 14806,
+      "issues": 80,
+      "forks": 832,
+      "watchers": 14806,
       "topics": [
         "incidents-reports",
         "status",
@@ -2059,10 +2059,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 47,
+      "stars": 49,
       "issues": 16,
       "forks": 9,
-      "watchers": 47,
+      "watchers": 49,
       "topics": [
         "google",
         "google-docs",
@@ -2837,10 +2837,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 333,
+      "stars": 334,
       "issues": 3,
       "forks": 65,
-      "watchers": 333,
+      "watchers": 334,
       "topics": [
         "calendar",
         "calendar-link",
