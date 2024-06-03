@@ -1876,10 +1876,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14829,
+      "stars": 14848,
       "issues": 80,
-      "forks": 835,
-      "watchers": 14829,
+      "forks": 836,
+      "watchers": 14848,
       "topics": [
         "incidents-reports",
         "status",
@@ -2775,10 +2775,10 @@
     "source": "https://github.com/AnandChowdhary/fraud",
     "data": {
       "description": "🗄 File-based key-JSON database with nodecache",
-      "stars": 13,
+      "stars": 14,
       "issues": 14,
       "forks": 0,
-      "watchers": 13,
+      "watchers": 14,
       "topics": [
         "filesystem",
         "fs",
@@ -2837,10 +2837,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 334,
-      "issues": 2,
+      "stars": 337,
+      "issues": 3,
       "forks": 65,
-      "watchers": 334,
+      "watchers": 337,
       "topics": [
         "calendar",
         "calendar-link",
