@@ -1710,10 +1710,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 65,
+      "stars": 66,
       "issues": 1,
       "forks": 14,
-      "watchers": 65,
+      "watchers": 66,
       "topics": [
         "api",
         "books",
@@ -1876,10 +1876,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14848,
-      "issues": 80,
-      "forks": 836,
-      "watchers": 14848,
+      "stars": 14875,
+      "issues": 81,
+      "forks": 838,
+      "watchers": 14875,
       "topics": [
         "incidents-reports",
         "status",
@@ -2837,10 +2837,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 337,
+      "stars": 338,
       "issues": 3,
       "forks": 65,
-      "watchers": 337,
+      "watchers": 338,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3413,10 +3413,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1821,
+      "stars": 1823,
       "issues": 47,
       "forks": 129,
-      "watchers": 1821,
+      "watchers": 1823,
       "topics": [
         "file-upload",
         "image",
@@ -4530,10 +4530,10 @@
     "source": "https://github.com/AnandChowdhary/one-grid",
     "data": {
       "description": "One Grid is the simplest grid system in 1 KB",
-      "stars": 1,
+      "stars": 2,
       "issues": 0,
       "forks": 0,
-      "watchers": 1,
+      "watchers": 2,
       "topics": [
         "css",
         "grid",
