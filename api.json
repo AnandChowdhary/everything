@@ -1193,7 +1193,7 @@
     "data": {
       "description": "💿 Starter for @remix-run with localized routing and i18n",
       "stars": 55,
-      "issues": 6,
+      "issues": 3,
       "forks": 3,
       "watchers": 55,
       "topics": [
@@ -1711,7 +1711,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 66,
-      "issues": 1,
+      "issues": 0,
       "forks": 14,
       "watchers": 66,
       "topics": [
@@ -1876,10 +1876,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14893,
-      "issues": 81,
-      "forks": 839,
-      "watchers": 14893,
+      "stars": 14910,
+      "issues": 83,
+      "forks": 841,
+      "watchers": 14910,
       "topics": [
         "incidents-reports",
         "status",
@@ -2059,10 +2059,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 51,
+      "stars": 52,
       "issues": 10,
       "forks": 9,
-      "watchers": 51,
+      "watchers": 52,
       "topics": [
         "google",
         "google-docs",
@@ -2753,10 +2753,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 60,
+      "stars": 61,
       "issues": 8,
       "forks": 17,
-      "watchers": 60,
+      "watchers": 61,
       "topics": [
         "generator",
         "icons",
@@ -2837,10 +2837,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 340,
+      "stars": 341,
       "issues": 3,
       "forks": 66,
-      "watchers": 340,
+      "watchers": 341,
       "topics": [
         "calendar",
         "calendar-link",
