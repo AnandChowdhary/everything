@@ -1711,7 +1711,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 66,
-      "issues": 0,
+      "issues": 1,
       "forks": 14,
       "watchers": 66,
       "topics": [
@@ -1876,10 +1876,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14910,
-      "issues": 83,
-      "forks": 841,
-      "watchers": 14910,
+      "stars": 14930,
+      "issues": 82,
+      "forks": 842,
+      "watchers": 14930,
       "topics": [
         "incidents-reports",
         "status",
@@ -1888,8 +1888,8 @@
         "uptime",
         "uptime-monitor"
       ],
-      "language": "Markdown",
-      "languageColor": "#083fa1",
+      "language": "JSON",
+      "languageColor": "#292929",
       "openGraphImageUrl": "https://repository-images.githubusercontent.com/286080143/14b2b180-19f1-11eb-991c-ced0b1719fe9"
     }
   },
@@ -2649,10 +2649,10 @@
     "source": "https://github.com/AnandChowdhary/sharer.link",
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
-      "stars": 21,
+      "stars": 22,
       "issues": 10,
       "forks": 2,
-      "watchers": 21,
+      "watchers": 22,
       "topics": [
         "links",
         "share",
@@ -2839,7 +2839,7 @@
       "description": "📅 Calendar link generator for popular services",
       "stars": 341,
       "issues": 3,
-      "forks": 66,
+      "forks": 67,
       "watchers": 341,
       "topics": [
         "calendar",
@@ -3413,10 +3413,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1823,
+      "stars": 1824,
       "issues": 47,
       "forks": 129,
-      "watchers": 1823,
+      "watchers": 1824,
       "topics": [
         "file-upload",
         "image",
