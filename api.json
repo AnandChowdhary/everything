@@ -1710,10 +1710,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 66,
+      "stars": 67,
       "issues": 1,
       "forks": 14,
-      "watchers": 66,
+      "watchers": 67,
       "topics": [
         "api",
         "books",
@@ -1876,10 +1876,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14930,
-      "issues": 82,
-      "forks": 842,
-      "watchers": 14930,
+      "stars": 14952,
+      "issues": 85,
+      "forks": 844,
+      "watchers": 14952,
       "topics": [
         "incidents-reports",
         "status",
@@ -2059,10 +2059,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 52,
+      "stars": 53,
       "issues": 10,
       "forks": 9,
-      "watchers": 52,
+      "watchers": 53,
       "topics": [
         "google",
         "google-docs",
@@ -2753,10 +2753,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 61,
+      "stars": 62,
       "issues": 8,
       "forks": 17,
-      "watchers": 61,
+      "watchers": 62,
       "topics": [
         "generator",
         "icons",
@@ -2837,10 +2837,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 341,
-      "issues": 3,
+      "stars": 342,
+      "issues": 2,
       "forks": 67,
-      "watchers": 341,
+      "watchers": 342,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3413,10 +3413,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1824,
+      "stars": 1825,
       "issues": 47,
       "forks": 129,
-      "watchers": 1824,
+      "watchers": 1825,
       "topics": [
         "file-upload",
         "image",
