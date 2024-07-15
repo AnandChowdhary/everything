@@ -221,10 +221,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 13,
+      "stars": 14,
       "issues": 1,
       "forks": 0,
-      "watchers": 13,
+      "watchers": 14,
       "topics": [
         "deliverability",
         "dns",
@@ -1876,10 +1876,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14952,
+      "stars": 14959,
       "issues": 85,
-      "forks": 844,
-      "watchers": 14952,
+      "forks": 845,
+      "watchers": 14959,
       "topics": [
         "incidents-reports",
         "status",
@@ -2753,10 +2753,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 62,
+      "stars": 63,
       "issues": 8,
       "forks": 17,
-      "watchers": 62,
+      "watchers": 63,
       "topics": [
         "generator",
         "icons",
@@ -2764,7 +2764,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/7adde5df3fef3f1bc10300df7533b055c3048ecfa752748f3ec27a52677966fd/AnandChowdhary/language-icons"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/94a59a1c06366e8410802857cf81778b0478a892e83b2565b8aac5429a606246/AnandChowdhary/language-icons"
     }
   },
   {
@@ -2838,8 +2838,8 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 342,
-      "issues": 2,
-      "forks": 67,
+      "issues": 3,
+      "forks": 68,
       "watchers": 342,
       "topics": [
         "calendar",
@@ -3413,10 +3413,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1825,
+      "stars": 1827,
       "issues": 47,
       "forks": 129,
-      "watchers": 1825,
+      "watchers": 1827,
       "topics": [
         "file-upload",
         "image",
