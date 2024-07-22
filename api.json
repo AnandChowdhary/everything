@@ -1192,10 +1192,10 @@
     "source": "https://github.com/AnandChowdhary/remix-starter",
     "data": {
       "description": "💿 Starter for @remix-run with localized routing and i18n",
-      "stars": 55,
+      "stars": 56,
       "issues": 3,
       "forks": 3,
-      "watchers": 55,
+      "watchers": 56,
       "topics": [
         "i18n",
         "javascript",
@@ -1876,10 +1876,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14959,
+      "stars": 14978,
       "issues": 85,
-      "forks": 845,
-      "watchers": 14959,
+      "forks": 846,
+      "watchers": 14978,
       "topics": [
         "incidents-reports",
         "status",
@@ -2036,7 +2036,7 @@
     "data": {
       "description": "🗓️ Find empty appointment slots in a user's calendar",
       "stars": 18,
-      "issues": 8,
+      "issues": 9,
       "forks": 3,
       "watchers": 18,
       "topics": [
@@ -2837,10 +2837,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 342,
-      "issues": 3,
+      "stars": 343,
+      "issues": 4,
       "forks": 68,
-      "watchers": 342,
+      "watchers": 343,
       "topics": [
         "calendar",
         "calendar-link",
