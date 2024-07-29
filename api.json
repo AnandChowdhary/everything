@@ -1153,10 +1153,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 102,
+      "stars": 101,
       "issues": 4,
       "forks": 17,
-      "watchers": 102,
+      "watchers": 101,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -1876,10 +1876,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 14978,
+      "stars": 15007,
       "issues": 85,
       "forks": 846,
-      "watchers": 14978,
+      "watchers": 15007,
       "topics": [
         "incidents-reports",
         "status",
@@ -2035,10 +2035,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-slots",
     "data": {
       "description": "🗓️ Find empty appointment slots in a user's calendar",
-      "stars": 18,
+      "stars": 19,
       "issues": 9,
-      "forks": 3,
-      "watchers": 18,
+      "forks": 4,
+      "watchers": 19,
       "topics": [
         "calendar",
         "calendar-api",
@@ -2838,8 +2838,8 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 343,
-      "issues": 4,
-      "forks": 68,
+      "issues": 9,
+      "forks": 69,
       "watchers": 343,
       "topics": [
         "calendar",
@@ -3413,10 +3413,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1827,
+      "stars": 1828,
       "issues": 47,
       "forks": 129,
-      "watchers": 1827,
+      "watchers": 1828,
       "topics": [
         "file-upload",
         "image",
