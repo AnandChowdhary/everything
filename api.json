@@ -1876,10 +1876,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15054,
+      "stars": 15071,
       "issues": 85,
       "forks": 849,
-      "watchers": 15054,
+      "watchers": 15071,
       "topics": [
         "incidents-reports",
         "status",
@@ -2059,10 +2059,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 54,
+      "stars": 55,
       "issues": 10,
       "forks": 9,
-      "watchers": 54,
+      "watchers": 55,
       "topics": [
         "google",
         "google-docs",
@@ -2837,10 +2837,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 460,
-      "issues": 8,
-      "forks": 71,
-      "watchers": 460,
+      "stars": 486,
+      "issues": 2,
+      "forks": 69,
+      "watchers": 486,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2852,7 +2852,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/40918da7055d9d419d1f98177824df6898ee6bbab784d401a506ea7d96e4dbb7/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/0915c2bcfda8f84f2c5d4b6207799a25e71fb1d17a1365ae63110627dc128514/AnandChowdhary/calendar-link"
     }
   },
   {
@@ -3413,10 +3413,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1831,
+      "stars": 1830,
       "issues": 47,
       "forks": 129,
-      "watchers": 1831,
+      "watchers": 1830,
       "topics": [
         "file-upload",
         "image",
