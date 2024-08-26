@@ -1205,10 +1205,10 @@
     "source": "https://github.com/AnandChowdhary/remix-starter",
     "data": {
       "description": "💿 Starter for @remix-run with localized routing and i18n",
-      "stars": 56,
+      "stars": 57,
       "issues": 3,
       "forks": 3,
-      "watchers": 56,
+      "watchers": 57,
       "topics": [
         "i18n",
         "javascript",
@@ -1219,7 +1219,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/eb625c3b6d2b2f26da8913bb67272435dcf6217d2f47049d6b4cdc20c11651aa/AnandChowdhary/remix-starter"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/91ece1d1af3a0379beeaaf8c154a941ea3c05b317aa3e7d79fe4f313e80b6067/AnandChowdhary/remix-starter"
     }
   },
   {
@@ -1725,7 +1725,7 @@
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 67,
       "issues": 1,
-      "forks": 15,
+      "forks": 16,
       "watchers": 67,
       "topics": [
         "api",
@@ -1889,10 +1889,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15071,
-      "issues": 85,
-      "forks": 849,
-      "watchers": 15071,
+      "stars": 15094,
+      "issues": 86,
+      "forks": 851,
+      "watchers": 15094,
       "topics": [
         "incidents-reports",
         "status",
@@ -2688,7 +2688,7 @@
       "description": "🌐 Automatically translate your JSON I18N files",
       "stars": 26,
       "issues": 4,
-      "forks": 2,
+      "forks": 3,
       "watchers": 26,
       "topics": [
         "automation",
@@ -2850,10 +2850,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 486,
-      "issues": 2,
+      "stars": 489,
+      "issues": 3,
       "forks": 69,
-      "watchers": 486,
+      "watchers": 489,
       "topics": [
         "calendar",
         "calendar-link",
