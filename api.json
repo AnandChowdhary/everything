@@ -1,5 +1,29 @@
 [
   {
+    "date": "2024-08-31T11:19:08.000Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2024/portugal-pt",
+    "source": "https://github.com/AnandChowdhary/location/commit/10ab1a2b3016a75b1aa9b641cfcde74f0fd11e26",
+    "title": "Portugal",
+    "data": {
+      "hash": "10ab1a2b3016a75b1aa9b641cfcde74f0fd11e26",
+      "approximateCoordinates": [
+        38.74,
+        -9.17
+      ],
+      "label": "Portugal",
+      "timezone": {
+        "name": "Europe/Lisbon",
+        "utcOffset": 0,
+        "dstOffset": 60
+      },
+      "country": {
+        "code": "pt",
+        "name": "Portugal"
+      }
+    }
+  },
+  {
     "date": "2024-08-03T11:03:15.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2024/the-other-pandemic",
