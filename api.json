@@ -1748,7 +1748,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 67,
-      "issues": 1,
+      "issues": 2,
       "forks": 16,
       "watchers": 67,
       "topics": [
@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15094,
+      "stars": 15111,
       "issues": 86,
-      "forks": 851,
-      "watchers": 15094,
+      "forks": 853,
+      "watchers": 15111,
       "topics": [
         "incidents-reports",
         "status",
@@ -2874,10 +2874,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 489,
-      "issues": 3,
-      "forks": 69,
-      "watchers": 489,
+      "stars": 496,
+      "issues": 4,
+      "forks": 70,
+      "watchers": 496,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2889,7 +2889,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/e037b1f570c87294032acaf2e12c86131e3881fcf7bc065d806049d34e2a8a06/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/2e408cbb2faa82aedea214789411941c591418438e4dc6a545d2455c7cefdee1/AnandChowdhary/calendar-link"
     }
   },
   {
@@ -3450,10 +3450,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1830,
+      "stars": 1831,
       "issues": 47,
       "forks": 129,
-      "watchers": 1830,
+      "watchers": 1831,
       "topics": [
         "file-upload",
         "image",
