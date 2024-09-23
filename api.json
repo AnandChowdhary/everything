@@ -260,7 +260,7 @@
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
       "stars": 14,
       "issues": 2,
-      "forks": 1,
+      "forks": 2,
       "watchers": 14,
       "topics": [
         "deliverability",
@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15338,
+      "stars": 15376,
       "issues": 92,
-      "forks": 867,
-      "watchers": 15338,
+      "forks": 870,
+      "watchers": 15376,
       "topics": [
         "incidents-reports",
         "status",
@@ -2874,10 +2874,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 513,
-      "issues": 4,
+      "stars": 531,
+      "issues": 6,
       "forks": 70,
-      "watchers": 513,
+      "watchers": 531,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2889,7 +2889,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/4bbfac340a979be7d3cd975b9b989c0b74d60430a3933b44171286b595107d3d/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/c520c1d64a21d1f67e56440b44a67ad6b9e71f1f4eac2889a2dbf0bf1a4a849f/AnandChowdhary/calendar-link"
     }
   },
   {
