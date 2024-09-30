@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15376,
+      "stars": 15407,
       "issues": 92,
-      "forks": 870,
-      "watchers": 15376,
+      "forks": 871,
+      "watchers": 15407,
       "topics": [
         "incidents-reports",
         "status",
@@ -2710,10 +2710,10 @@
     "source": "https://github.com/AnandChowdhary/auto-i18n",
     "data": {
       "description": "🌐 Automatically translate your JSON I18N files",
-      "stars": 27,
+      "stars": 29,
       "issues": 4,
       "forks": 3,
-      "watchers": 27,
+      "watchers": 29,
       "topics": [
         "automation",
         "google-translate",
@@ -2874,10 +2874,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 531,
-      "issues": 6,
-      "forks": 70,
-      "watchers": 531,
+      "stars": 538,
+      "issues": 8,
+      "forks": 71,
+      "watchers": 538,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2889,7 +2889,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/eaca0c3d07c675a0a88fb0cf5b975bf908bd74b46e4db4d759d6d798e382bd77/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/700efb7e767710f7d62b7f073702b207a29480015d87e733120da83250097dcc/AnandChowdhary/calendar-link"
     }
   },
   {
@@ -3450,10 +3450,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1832,
+      "stars": 1834,
       "issues": 48,
       "forks": 129,
-      "watchers": 1832,
+      "watchers": 1834,
       "topics": [
         "file-upload",
         "image",
