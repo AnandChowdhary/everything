@@ -258,10 +258,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 14,
+      "stars": 15,
       "issues": 2,
       "forks": 2,
-      "watchers": 14,
+      "watchers": 15,
       "topics": [
         "deliverability",
         "dns",
@@ -1190,10 +1190,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 100,
-      "issues": 4,
+      "stars": 99,
+      "issues": 5,
       "forks": 17,
-      "watchers": 100,
+      "watchers": 99,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15436,
+      "stars": 15453,
       "issues": 92,
-      "forks": 874,
-      "watchers": 15436,
+      "forks": 877,
+      "watchers": 15453,
       "topics": [
         "incidents-reports",
         "status",
@@ -2874,10 +2874,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 541,
-      "issues": 7,
+      "stars": 543,
+      "issues": 8,
       "forks": 71,
-      "watchers": 541,
+      "watchers": 543,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3450,10 +3450,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1835,
+      "stars": 1836,
       "issues": 48,
       "forks": 129,
-      "watchers": 1835,
+      "watchers": 1836,
       "topics": [
         "file-upload",
         "image",
