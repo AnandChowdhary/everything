@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15483,
+      "stars": 15508,
       "issues": 92,
       "forks": 879,
-      "watchers": 15483,
+      "watchers": 15508,
       "topics": [
         "incidents-reports",
         "status",
@@ -2687,7 +2687,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 22,
-      "issues": 10,
+      "issues": 11,
       "forks": 2,
       "watchers": 22,
       "topics": [
@@ -2792,7 +2792,7 @@
       "description": "🈹 Better icons for languages, because flags just don't cut it",
       "stars": 64,
       "issues": 8,
-      "forks": 17,
+      "forks": 18,
       "watchers": 64,
       "topics": [
         "generator",
@@ -2874,10 +2874,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 545,
-      "issues": 8,
+      "stars": 547,
+      "issues": 6,
       "forks": 71,
-      "watchers": 545,
+      "watchers": 547,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2889,7 +2889,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/9d28312edbab68a8a4fa4c8465edaedac2c1c6e0d32cb952c47942d334f1b7f4/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/da616be6bb2baa790ddf8ad4606fb04b9a3fde6c1b85fc8929ee3fea2974daf6/AnandChowdhary/calendar-link"
     }
   },
   {
