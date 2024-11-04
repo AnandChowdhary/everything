@@ -629,10 +629,10 @@
     "source": "https://github.com/AnandChowdhary/NewsHaikusBot",
     "data": {
       "description": "🤖 Twitter bot which tweets news in haikus using GPT-3",
-      "stars": 4,
+      "stars": 5,
       "issues": 2,
       "forks": 1,
-      "watchers": 4,
+      "watchers": 5,
       "topics": [
         "gpt-3",
         "openai",
@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15508,
+      "stars": 15525,
       "issues": 92,
-      "forks": 879,
-      "watchers": 15508,
+      "forks": 887,
+      "watchers": 15525,
       "topics": [
         "incidents-reports",
         "status",
@@ -2096,10 +2096,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 56,
+      "stars": 57,
       "issues": 10,
       "forks": 9,
-      "watchers": 56,
+      "watchers": 57,
       "topics": [
         "google",
         "google-docs",
@@ -2874,10 +2874,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 547,
+      "stars": 550,
       "issues": 6,
       "forks": 71,
-      "watchers": 547,
+      "watchers": 550,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2946,10 +2946,10 @@
     "source": "https://github.com/AnandChowdhary/hello-bar",
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
-      "stars": 73,
+      "stars": 74,
       "issues": 6,
       "forks": 10,
-      "watchers": 73,
+      "watchers": 74,
       "topics": [
         "engagement",
         "hellobar",
@@ -3452,7 +3452,7 @@
       "description": "📁 JavaScript image uploader and editor, no backend required",
       "stars": 1837,
       "issues": 48,
-      "forks": 130,
+      "forks": 129,
       "watchers": 1837,
       "topics": [
         "file-upload",
