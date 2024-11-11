@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15525,
+      "stars": 15568,
       "issues": 92,
       "forks": 887,
-      "watchers": 15525,
+      "watchers": 15568,
       "topics": [
         "incidents-reports",
         "status",
@@ -3450,10 +3450,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1837,
+      "stars": 1839,
       "issues": 48,
-      "forks": 129,
-      "watchers": 1837,
+      "forks": 128,
+      "watchers": 1839,
       "topics": [
         "file-upload",
         "image",
