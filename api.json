@@ -258,10 +258,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 15,
+      "stars": 16,
       "issues": 2,
       "forks": 2,
-      "watchers": 15,
+      "watchers": 16,
       "topics": [
         "deliverability",
         "dns",
@@ -1748,7 +1748,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 67,
-      "issues": 1,
+      "issues": 2,
       "forks": 16,
       "watchers": 67,
       "topics": [
@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15568,
+      "stars": 15595,
       "issues": 92,
       "forks": 887,
-      "watchers": 15568,
+      "watchers": 15595,
       "topics": [
         "incidents-reports",
         "status",
@@ -2710,10 +2710,10 @@
     "source": "https://github.com/AnandChowdhary/auto-i18n",
     "data": {
       "description": "🌐 Automatically translate your JSON I18N files",
-      "stars": 30,
+      "stars": 31,
       "issues": 4,
       "forks": 3,
-      "watchers": 30,
+      "watchers": 31,
       "topics": [
         "automation",
         "google-translate",
@@ -3450,10 +3450,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1839,
+      "stars": 1842,
       "issues": 48,
       "forks": 128,
-      "watchers": 1839,
+      "watchers": 1842,
       "topics": [
         "file-upload",
         "image",
