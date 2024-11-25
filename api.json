@@ -258,10 +258,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 16,
+      "stars": 17,
       "issues": 2,
       "forks": 2,
-      "watchers": 16,
+      "watchers": 17,
       "topics": [
         "deliverability",
         "dns",
@@ -1189,7 +1189,7 @@
     "url": "https://anandchowdhary.com/projects/2022/redirect-russia",
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
-      "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
+      "description": "🇺��� Redirect Russian traffic from your site to support Ukraine",
       "stars": 99,
       "issues": 5,
       "forks": 17,
@@ -1747,10 +1747,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 67,
+      "stars": 68,
       "issues": 2,
       "forks": 16,
-      "watchers": 67,
+      "watchers": 68,
       "topics": [
         "api",
         "books",
@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15595,
+      "stars": 15612,
       "issues": 92,
       "forks": 887,
-      "watchers": 15595,
+      "watchers": 15612,
       "topics": [
         "incidents-reports",
         "status",
@@ -2792,7 +2792,7 @@
       "description": "🈹 Better icons for languages, because flags just don't cut it",
       "stars": 64,
       "issues": 8,
-      "forks": 18,
+      "forks": 19,
       "watchers": 64,
       "topics": [
         "generator",
@@ -3450,10 +3450,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1842,
+      "stars": 1846,
       "issues": 48,
       "forks": 128,
-      "watchers": 1842,
+      "watchers": 1846,
       "topics": [
         "file-upload",
         "image",
