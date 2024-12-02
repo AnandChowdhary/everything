@@ -1189,7 +1189,7 @@
     "url": "https://anandchowdhary.com/projects/2022/redirect-russia",
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
-      "description": "🇺��� Redirect Russian traffic from your site to support Ukraine",
+      "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
       "stars": 99,
       "issues": 5,
       "forks": 17,
@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15612,
+      "stars": 15640,
       "issues": 92,
-      "forks": 887,
-      "watchers": 15612,
+      "forks": 889,
+      "watchers": 15640,
       "topics": [
         "incidents-reports",
         "status",
@@ -2687,7 +2687,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 22,
-      "issues": 11,
+      "issues": 12,
       "forks": 2,
       "watchers": 22,
       "topics": [
@@ -4894,7 +4894,7 @@
         "typekit"
       ],
       "language": "CSS",
-      "languageColor": "#563d7c",
+      "languageColor": "#663399",
       "openGraphImageUrl": "https://opengraph.githubassets.com/363a807e8961564ddd0f99ef48bd8470ba93b1ff4ac489b63aa5ca65b416fbbe/AnandChowdhary/aptitude"
     }
   },
