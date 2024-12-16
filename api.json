@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15661,
+      "stars": 15684,
       "issues": 92,
-      "forks": 888,
-      "watchers": 15661,
+      "forks": 890,
+      "watchers": 15684,
       "topics": [
         "incidents-reports",
         "status",
@@ -2790,10 +2790,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 64,
+      "stars": 65,
       "issues": 8,
       "forks": 19,
-      "watchers": 64,
+      "watchers": 65,
       "topics": [
         "generator",
         "icons",
@@ -2874,10 +2874,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 551,
+      "stars": 552,
       "issues": 5,
       "forks": 71,
-      "watchers": 551,
+      "watchers": 552,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3450,10 +3450,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1847,
+      "stars": 1849,
       "issues": 48,
       "forks": 128,
-      "watchers": 1847,
+      "watchers": 1849,
       "topics": [
         "file-upload",
         "image",
