@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15684,
-      "issues": 92,
-      "forks": 890,
-      "watchers": 15684,
+      "stars": 15710,
+      "issues": 93,
+      "forks": 893,
+      "watchers": 15710,
       "topics": [
         "incidents-reports",
         "status",
@@ -2874,10 +2874,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 552,
+      "stars": 557,
       "issues": 5,
       "forks": 71,
-      "watchers": 552,
+      "watchers": 557,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2889,7 +2889,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/08ae28d77b854275c753d6d7cd0d5ab39691ef512a77bb8d9dfa3607d8c65d0c/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/e16e84fd8b3c8b3150fd608ba652e8a73cba04e3f6897ad1158defcf877ccb08/AnandChowdhary/calendar-link"
     }
   },
   {
@@ -2946,10 +2946,10 @@
     "source": "https://github.com/AnandChowdhary/hello-bar",
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
-      "stars": 74,
+      "stars": 75,
       "issues": 6,
       "forks": 10,
-      "watchers": 74,
+      "watchers": 75,
       "topics": [
         "engagement",
         "hellobar",
@@ -3450,10 +3450,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1849,
+      "stars": 1851,
       "issues": 48,
       "forks": 128,
-      "watchers": 1849,
+      "watchers": 1851,
       "topics": [
         "file-upload",
         "image",
