@@ -1913,10 +1913,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15710,
+      "stars": 15726,
       "issues": 93,
-      "forks": 893,
-      "watchers": 15710,
+      "forks": 896,
+      "watchers": 15726,
       "topics": [
         "incidents-reports",
         "status",
@@ -2812,10 +2812,10 @@
     "source": "https://github.com/AnandChowdhary/fraud",
     "data": {
       "description": "🗄 File-based key-JSON database with nodecache",
-      "stars": 14,
+      "stars": 15,
       "issues": 1,
       "forks": 0,
-      "watchers": 14,
+      "watchers": 15,
       "topics": [
         "filesystem",
         "fs",
@@ -2874,10 +2874,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 557,
-      "issues": 5,
+      "stars": 560,
+      "issues": 3,
       "forks": 71,
-      "watchers": 557,
+      "watchers": 560,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3450,10 +3450,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1851,
+      "stars": 1852,
       "issues": 48,
       "forks": 128,
-      "watchers": 1851,
+      "watchers": 1852,
       "topics": [
         "file-upload",
         "image",
