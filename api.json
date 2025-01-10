@@ -1,5 +1,18 @@
 [
   {
+    "date": "2024-12-03T12:48:25.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/books/2024/nexus",
+    "source": "https://github.com/AnandChowdhary/books/issues/75",
+    "title": "Nexus",
+    "data": {
+      "image": "http://books.google.com/books/content?id=PYvsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Yuval Noah Harari"
+      ]
+    }
+  },
+  {
     "date": "2024-08-31T11:19:08.000Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/travel/2024/portugal-pt",
