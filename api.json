@@ -1762,7 +1762,7 @@
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 68,
       "issues": 2,
-      "forks": 16,
+      "forks": 17,
       "watchers": 68,
       "topics": [
         "api",
@@ -1926,10 +1926,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15752,
-      "issues": 94,
-      "forks": 896,
-      "watchers": 15752,
+      "stars": 15768,
+      "issues": 96,
+      "forks": 899,
+      "watchers": 15768,
       "topics": [
         "incidents-reports",
         "status",
@@ -2887,10 +2887,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 561,
+      "stars": 562,
       "issues": 1,
       "forks": 71,
-      "watchers": 561,
+      "watchers": 562,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2902,7 +2902,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/f3e68a81c91eaec3ec81dc651d6abc513bff223963cfc67409b7008da9c93f0e/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/04d53b33deeb9b1f5d1dce2bfc14b76c1a06f12dcb653694eb4726d0daa5acbb/AnandChowdhary/calendar-link"
     }
   },
   {
