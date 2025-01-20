@@ -1926,10 +1926,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15768,
-      "issues": 96,
-      "forks": 899,
-      "watchers": 15768,
+      "stars": 15796,
+      "issues": 97,
+      "forks": 900,
+      "watchers": 15796,
       "topics": [
         "incidents-reports",
         "status",
@@ -2887,10 +2887,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 562,
-      "issues": 1,
+      "stars": 564,
+      "issues": 3,
       "forks": 71,
-      "watchers": 562,
+      "watchers": 564,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3463,10 +3463,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1853,
-      "issues": 48,
-      "forks": 128,
-      "watchers": 1853,
+      "stars": 1854,
+      "issues": 50,
+      "forks": 129,
+      "watchers": 1854,
       "topics": [
         "file-upload",
         "image",
