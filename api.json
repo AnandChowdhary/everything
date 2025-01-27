@@ -1203,10 +1203,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 99,
+      "stars": 100,
       "issues": 5,
       "forks": 18,
-      "watchers": 99,
+      "watchers": 100,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -1926,10 +1926,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15796,
-      "issues": 97,
-      "forks": 900,
-      "watchers": 15796,
+      "stars": 15820,
+      "issues": 98,
+      "forks": 909,
+      "watchers": 15820,
       "topics": [
         "incidents-reports",
         "status",
@@ -2887,10 +2887,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 564,
-      "issues": 3,
+      "stars": 566,
+      "issues": 8,
       "forks": 71,
-      "watchers": 564,
+      "watchers": 566,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3463,10 +3463,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1854,
+      "stars": 1856,
       "issues": 50,
-      "forks": 129,
-      "watchers": 1854,
+      "forks": 128,
+      "watchers": 1856,
       "topics": [
         "file-upload",
         "image",
