@@ -1,5 +1,18 @@
 [
   {
+    "date": "2025-01-27T10:41:54.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/books/2025/the-anthropocene-reviewed",
+    "source": "https://github.com/AnandChowdhary/books/issues/76",
+    "title": "The Anthropocene Reviewed",
+    "data": {
+      "image": "http://books.google.com/books/content?id=ZPD4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "John Green"
+      ]
+    }
+  },
+  {
     "date": "2024-12-03T12:48:25.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2024/nexus",
@@ -1257,19 +1270,6 @@
       "language": "TypeScript",
       "languageColor": "#3178c6",
       "openGraphImageUrl": "https://opengraph.githubassets.com/518b7b707831f5196cbf0d7f17796d94daca41c6d8f66b967fc7557e447a935b/AnandChowdhary/remix-starter"
-    }
-  },
-  {
-    "date": "2022-01-13T05:54:04.000Z",
-    "type": "book",
-    "url": "https://anandchowdhary.com/books/2022/the-cold-start-problem",
-    "source": "https://github.com/AnandChowdhary/books/issues/38",
-    "title": "The Cold Start Problem",
-    "data": {
-      "image": "http://books.google.com/books/content?id=4ezYzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-      "authors": [
-        "Andrew Chen"
-      ]
     }
   },
   {
