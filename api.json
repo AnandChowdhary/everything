@@ -1216,10 +1216,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 100,
+      "stars": 101,
       "issues": 5,
       "forks": 18,
-      "watchers": 100,
+      "watchers": 101,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -1255,10 +1255,10 @@
     "source": "https://github.com/AnandChowdhary/remix-starter",
     "data": {
       "description": "💿 Starter for @remix-run with localized routing and i18n",
-      "stars": 57,
+      "stars": 56,
       "issues": 3,
       "forks": 3,
-      "watchers": 57,
+      "watchers": 56,
       "topics": [
         "i18n",
         "javascript",
@@ -1926,10 +1926,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15859,
-      "issues": 98,
-      "forks": 910,
-      "watchers": 15859,
+      "stars": 15883,
+      "issues": 99,
+      "forks": 913,
+      "watchers": 15883,
       "topics": [
         "incidents-reports",
         "status",
@@ -2887,10 +2887,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 569,
-      "issues": 9,
+      "stars": 570,
+      "issues": 8,
       "forks": 71,
-      "watchers": 569,
+      "watchers": 570,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3463,10 +3463,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1857,
+      "stars": 1860,
       "issues": 50,
       "forks": 128,
-      "watchers": 1857,
+      "watchers": 1860,
       "topics": [
         "file-upload",
         "image",
