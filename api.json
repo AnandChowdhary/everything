@@ -1761,8 +1761,8 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 69,
-      "issues": 2,
-      "forks": 17,
+      "issues": 3,
+      "forks": 18,
       "watchers": 69,
       "topics": [
         "api",
@@ -1926,10 +1926,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15903,
+      "stars": 15918,
       "issues": 100,
-      "forks": 919,
-      "watchers": 15903,
+      "forks": 925,
+      "watchers": 15918,
       "topics": [
         "incidents-reports",
         "status",
@@ -2825,10 +2825,10 @@
     "source": "https://github.com/AnandChowdhary/fraud",
     "data": {
       "description": "🗄 File-based key-JSON database with nodecache",
-      "stars": 15,
+      "stars": 16,
       "issues": 1,
       "forks": 0,
-      "watchers": 15,
+      "watchers": 16,
       "topics": [
         "filesystem",
         "fs",
@@ -2887,10 +2887,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 570,
+      "stars": 571,
       "issues": 9,
-      "forks": 71,
-      "watchers": 570,
+      "forks": 70,
+      "watchers": 571,
       "topics": [
         "calendar",
         "calendar-link",
