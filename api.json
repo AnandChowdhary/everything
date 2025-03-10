@@ -1926,10 +1926,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15918,
-      "issues": 100,
-      "forks": 925,
-      "watchers": 15918,
+      "stars": 15937,
+      "issues": 101,
+      "forks": 926,
+      "watchers": 15937,
       "topics": [
         "incidents-reports",
         "status",
@@ -2134,10 +2134,10 @@
     "source": "https://github.com/AnandChowdhary/puppet",
     "data": {
       "description": "🎭 Natural language web automation with Puppeteer",
-      "stars": 12,
+      "stars": 13,
       "issues": 12,
       "forks": 1,
-      "watchers": 12,
+      "watchers": 13,
       "topics": [
         "automation",
         "chrome",
@@ -2700,7 +2700,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 22,
-      "issues": 12,
+      "issues": 13,
       "forks": 2,
       "watchers": 22,
       "topics": [
@@ -2889,7 +2889,7 @@
       "description": "📅 Calendar link generator for popular services",
       "stars": 571,
       "issues": 9,
-      "forks": 70,
+      "forks": 71,
       "watchers": 571,
       "topics": [
         "calendar",
