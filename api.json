@@ -1926,10 +1926,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15937,
+      "stars": 15953,
       "issues": 101,
-      "forks": 926,
-      "watchers": 15937,
+      "forks": 927,
+      "watchers": 15953,
       "topics": [
         "incidents-reports",
         "status",
@@ -2109,10 +2109,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 58,
+      "stars": 59,
       "issues": 10,
       "forks": 9,
-      "watchers": 58,
+      "watchers": 59,
       "topics": [
         "google",
         "google-docs",
@@ -2699,10 +2699,10 @@
     "source": "https://github.com/AnandChowdhary/sharer.link",
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
-      "stars": 22,
+      "stars": 23,
       "issues": 13,
-      "forks": 2,
-      "watchers": 22,
+      "forks": 3,
+      "watchers": 23,
       "topics": [
         "links",
         "share",
@@ -3464,7 +3464,7 @@
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
       "stars": 1861,
-      "issues": 50,
+      "issues": 49,
       "forks": 128,
       "watchers": 1861,
       "topics": [
