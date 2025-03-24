@@ -284,10 +284,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 18,
+      "stars": 19,
       "issues": 2,
       "forks": 2,
-      "watchers": 18,
+      "watchers": 19,
       "topics": [
         "deliverability",
         "dns",
@@ -1760,10 +1760,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 69,
+      "stars": 70,
       "issues": 3,
       "forks": 18,
-      "watchers": 69,
+      "watchers": 70,
       "topics": [
         "api",
         "books",
@@ -1926,10 +1926,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15953,
-      "issues": 101,
-      "forks": 927,
-      "watchers": 15953,
+      "stars": 15974,
+      "issues": 102,
+      "forks": 936,
+      "watchers": 15974,
       "topics": [
         "incidents-reports",
         "status",
@@ -2887,10 +2887,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 571,
+      "stars": 572,
       "issues": 9,
       "forks": 71,
-      "watchers": 571,
+      "watchers": 572,
       "topics": [
         "calendar",
         "calendar-link",
