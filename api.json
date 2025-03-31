@@ -700,10 +700,10 @@
     "source": "https://github.com/AnandChowdhary/birthday-reminders-action",
     "data": {
       "description": "🎁 Daily messages for birthday reminders using GitHub Actions",
-      "stars": 8,
+      "stars": 7,
       "issues": 3,
       "forks": 2,
-      "watchers": 8,
+      "watchers": 7,
       "topics": [
         "birthday",
         "birthday-reminder",
@@ -1926,10 +1926,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 15974,
-      "issues": 102,
-      "forks": 936,
-      "watchers": 15974,
+      "stars": 15991,
+      "issues": 103,
+      "forks": 941,
+      "watchers": 15991,
       "topics": [
         "incidents-reports",
         "status",
@@ -2700,7 +2700,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 23,
-      "issues": 13,
+      "issues": 14,
       "forks": 3,
       "watchers": 23,
       "topics": [
@@ -2804,8 +2804,8 @@
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
       "stars": 65,
-      "issues": 8,
-      "forks": 19,
+      "issues": 9,
+      "forks": 20,
       "watchers": 65,
       "topics": [
         "generator",
@@ -2888,7 +2888,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 572,
-      "issues": 9,
+      "issues": 6,
       "forks": 71,
       "watchers": 572,
       "topics": [
@@ -2983,10 +2983,10 @@
     "source": "https://github.com/AnandChowdhary/hovercard",
     "data": {
       "description": "🖱️ Wikipedia summary cards for the web",
-      "stars": 89,
+      "stars": 90,
       "issues": 6,
       "forks": 10,
-      "watchers": 89,
+      "watchers": 90,
       "topics": [
         "a11y",
         "hovercard",
@@ -3463,10 +3463,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1861,
+      "stars": 1862,
       "issues": 49,
       "forks": 128,
-      "watchers": 1861,
+      "watchers": 1862,
       "topics": [
         "file-upload",
         "image",
