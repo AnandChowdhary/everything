@@ -1273,6 +1273,19 @@
     }
   },
   {
+    "date": "2022-01-13T05:54:04.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/books/2022/the-cold-start-problem",
+    "source": "https://github.com/AnandChowdhary/books/issues/38",
+    "title": "The Cold Start Problem",
+    "data": {
+      "image": "http://books.google.com/books/content?id=4ezYzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "authors": [
+        "Andrew Chen"
+      ]
+    }
+  },
+  {
     "date": "2022-01-03T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2022/pabio-lounge",
@@ -2123,7 +2136,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/fa0d9ddeb826c604cfa5a6af3d94b4f2a8beb8b00479e226683ab92196c99dc1/AnandChowdhary/docs-markdown"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/2e2d225e0ab5d293effa80222b4f9db9b0d581cf306c69f977385c763f04e931/AnandChowdhary/docs-markdown"
     }
   },
   {
