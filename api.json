@@ -284,10 +284,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 19,
+      "stars": 20,
       "issues": 2,
       "forks": 2,
-      "watchers": 19,
+      "watchers": 20,
       "topics": [
         "deliverability",
         "dns",
@@ -1939,10 +1939,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16045,
+      "stars": 16065,
       "issues": 112,
-      "forks": 942,
-      "watchers": 16045,
+      "forks": 946,
+      "watchers": 16065,
       "topics": [
         "incidents-reports",
         "status",
@@ -2122,10 +2122,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 60,
+      "stars": 61,
       "issues": 10,
       "forks": 9,
-      "watchers": 60,
+      "watchers": 61,
       "topics": [
         "google",
         "google-docs",
@@ -2900,10 +2900,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 575,
+      "stars": 576,
       "issues": 8,
       "forks": 71,
-      "watchers": 575,
+      "watchers": 576,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3476,10 +3476,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1862,
+      "stars": 1863,
       "issues": 49,
       "forks": 128,
-      "watchers": 1862,
+      "watchers": 1863,
       "topics": [
         "file-upload",
         "image",
