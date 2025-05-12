@@ -7,10 +7,10 @@
     "source": "https://github.com/AnandChowdhary/chat",
     "data": {
       "description": "💬 Use your GitHub repo's Issues as your own ChatGPT (yes, really!)",
-      "stars": 12,
+      "stars": 13,
       "issues": 6,
       "forks": 0,
-      "watchers": 12,
+      "watchers": 13,
       "topics": [],
       "language": null,
       "languageColor": null,
@@ -1957,10 +1957,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16088,
-      "issues": 112,
-      "forks": 946,
-      "watchers": 16088,
+      "stars": 16102,
+      "issues": 111,
+      "forks": 947,
+      "watchers": 16102,
       "topics": [
         "incidents-reports",
         "status",
@@ -2167,7 +2167,7 @@
       "description": "🎭 Natural language web automation with Puppeteer",
       "stars": 13,
       "issues": 12,
-      "forks": 1,
+      "forks": 2,
       "watchers": 13,
       "topics": [
         "automation",
@@ -2730,10 +2730,10 @@
     "source": "https://github.com/AnandChowdhary/sharer.link",
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
-      "stars": 23,
+      "stars": 24,
       "issues": 14,
       "forks": 3,
-      "watchers": 23,
+      "watchers": 24,
       "topics": [
         "links",
         "share",
@@ -2834,10 +2834,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 65,
+      "stars": 66,
       "issues": 9,
       "forks": 20,
-      "watchers": 65,
+      "watchers": 66,
       "topics": [
         "generator",
         "icons",
@@ -2918,10 +2918,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 576,
+      "stars": 578,
       "issues": 9,
       "forks": 71,
-      "watchers": 576,
+      "watchers": 578,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3494,10 +3494,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1863,
+      "stars": 1862,
       "issues": 49,
       "forks": 128,
-      "watchers": 1863,
+      "watchers": 1862,
       "topics": [
         "file-upload",
         "image",
