@@ -1957,10 +1957,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16102,
-      "issues": 111,
-      "forks": 947,
-      "watchers": 16102,
+      "stars": 16124,
+      "issues": 110,
+      "forks": 946,
+      "watchers": 16124,
       "topics": [
         "incidents-reports",
         "status",
@@ -2919,7 +2919,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 578,
-      "issues": 9,
+      "issues": 10,
       "forks": 71,
       "watchers": 578,
       "topics": [
@@ -2933,7 +2933,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/8c4c00310596fe3999e4d867b4b78e00fb5ec934ae30210ebaa3c0ba3462d9be/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/f8761407f16a855a37a4262aac0017de9df358c071afa5247ebe4319926293b9/AnandChowdhary/calendar-link"
     }
   },
   {
@@ -3494,10 +3494,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1862,
+      "stars": 1863,
       "issues": 49,
-      "forks": 128,
-      "watchers": 1862,
+      "forks": 129,
+      "watchers": 1863,
       "topics": [
         "file-upload",
         "image",
