@@ -1957,10 +1957,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16124,
-      "issues": 110,
+      "stars": 16138,
+      "issues": 109,
       "forks": 946,
-      "watchers": 16124,
+      "watchers": 16138,
       "topics": [
         "incidents-reports",
         "status",
@@ -2140,10 +2140,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 61,
+      "stars": 62,
       "issues": 10,
       "forks": 9,
-      "watchers": 61,
+      "watchers": 62,
       "topics": [
         "google",
         "google-docs",
@@ -2918,10 +2918,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 578,
-      "issues": 10,
-      "forks": 71,
-      "watchers": 578,
+      "stars": 599,
+      "issues": 1,
+      "forks": 73,
+      "watchers": 599,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2933,7 +2933,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/7b812165d28aa6d0f2af2fc5c3f02cc0da933b1578a61c918a06c990e7e446ee/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/2ac25e4c675364b99495df18e1094a9bbfa07a7d51c12def03cce60cb1949dc4/AnandChowdhary/calendar-link"
     }
   },
   {
