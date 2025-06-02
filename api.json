@@ -1957,10 +1957,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16138,
-      "issues": 109,
-      "forks": 946,
-      "watchers": 16138,
+      "stars": 16169,
+      "issues": 111,
+      "forks": 950,
+      "watchers": 16169,
       "topics": [
         "incidents-reports",
         "status",
@@ -2918,10 +2918,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 599,
-      "issues": 1,
-      "forks": 73,
-      "watchers": 599,
+      "stars": 601,
+      "issues": 3,
+      "forks": 75,
+      "watchers": 601,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2933,7 +2933,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/d6f2c5d6c9b7e9bc8b08645a6e0edc8aef8034f241a1fdc0cd6dd1e299840c15/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/1605d8c055255d8b9986da9d1344b30d38c39af17f818cfd4aa3585084f7cec1/AnandChowdhary/calendar-link"
     }
   },
   {
