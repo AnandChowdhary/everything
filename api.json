@@ -18,6 +18,19 @@
     }
   },
   {
+    "date": "2025-04-11T08:46:28.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/books/2025/everything-is-tuberculosis-(signed-edition)",
+    "source": "https://github.com/AnandChowdhary/books/issues/78",
+    "title": "Everything Is Tuberculosis (Signed Edition)",
+    "data": {
+      "image": "http://books.google.com/books/content?id=VJIrEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "authors": [
+        "John Green"
+      ]
+    }
+  },
+  {
     "date": "2025-01-27T10:41:54.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2025/the-anthropocene-reviewed",
