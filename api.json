@@ -1970,10 +1970,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16169,
-      "issues": 111,
-      "forks": 950,
-      "watchers": 16169,
+      "stars": 16188,
+      "issues": 112,
+      "forks": 948,
+      "watchers": 16188,
       "topics": [
         "incidents-reports",
         "status",
@@ -2155,7 +2155,7 @@
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
       "stars": 62,
       "issues": 10,
-      "forks": 9,
+      "forks": 10,
       "watchers": 62,
       "topics": [
         "google",
@@ -2848,8 +2848,8 @@
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
       "stars": 66,
-      "issues": 9,
-      "forks": 20,
+      "issues": 10,
+      "forks": 21,
       "watchers": 66,
       "topics": [
         "generator",
@@ -2931,10 +2931,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 601,
-      "issues": 3,
+      "stars": 603,
+      "issues": 4,
       "forks": 75,
-      "watchers": 601,
+      "watchers": 603,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3507,10 +3507,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1863,
+      "stars": 1864,
       "issues": 49,
       "forks": 129,
-      "watchers": 1863,
+      "watchers": 1864,
       "topics": [
         "file-upload",
         "image",
