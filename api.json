@@ -315,10 +315,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 20,
+      "stars": 21,
       "issues": 2,
       "forks": 2,
-      "watchers": 20,
+      "watchers": 21,
       "topics": [
         "deliverability",
         "dns",
@@ -1970,10 +1970,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16188,
+      "stars": 16214,
       "issues": 112,
-      "forks": 948,
-      "watchers": 16188,
+      "forks": 951,
+      "watchers": 16214,
       "topics": [
         "incidents-reports",
         "status",
@@ -2848,7 +2848,7 @@
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
       "stars": 66,
-      "issues": 10,
+      "issues": 9,
       "forks": 21,
       "watchers": 66,
       "topics": [
@@ -2931,10 +2931,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 603,
-      "issues": 4,
+      "stars": 604,
+      "issues": 6,
       "forks": 75,
-      "watchers": 603,
+      "watchers": 604,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3507,10 +3507,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1864,
+      "stars": 1865,
       "issues": 49,
       "forks": 129,
-      "watchers": 1864,
+      "watchers": 1865,
       "topics": [
         "file-upload",
         "image",
