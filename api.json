@@ -1970,10 +1970,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16214,
+      "stars": 16243,
       "issues": 112,
-      "forks": 951,
-      "watchers": 16214,
+      "forks": 955,
+      "watchers": 16243,
       "topics": [
         "incidents-reports",
         "status",
@@ -2178,10 +2178,10 @@
     "source": "https://github.com/AnandChowdhary/puppet",
     "data": {
       "description": "🎭 Natural language web automation with Puppeteer",
-      "stars": 13,
+      "stars": 14,
       "issues": 12,
       "forks": 2,
-      "watchers": 13,
+      "watchers": 14,
       "topics": [
         "automation",
         "chrome",
@@ -2931,10 +2931,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 604,
-      "issues": 6,
+      "stars": 605,
+      "issues": 5,
       "forks": 75,
-      "watchers": 604,
+      "watchers": 605,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3507,10 +3507,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1865,
+      "stars": 1864,
       "issues": 49,
       "forks": 129,
-      "watchers": 1865,
+      "watchers": 1864,
       "topics": [
         "file-upload",
         "image",
