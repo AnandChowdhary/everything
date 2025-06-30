@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-06-24T10:11:52Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/priced-in",
+    "url": "https://anandchowdhary.com/projects/2025/priced-in",
+    "source": "https://github.com/AnandChowdhary/priced-in",
+    "data": {
+      "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
+      "stars": 4,
+      "issues": 0,
+      "forks": 0,
+      "watchers": 4,
+      "topics": [],
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "openGraphImageUrl": "https://opengraph.githubassets.com/94592e01fbb9de372b28d085179d93712e256865e3dc677ad2a5cdf60f87024a/AnandChowdhary/priced-in"
+    }
+  },
+  {
     "date": "2025-04-25T17:28:04Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/chat",
@@ -7,10 +25,10 @@
     "source": "https://github.com/AnandChowdhary/chat",
     "data": {
       "description": "💬 Use your GitHub repo's Issues as your own ChatGPT (yes, really!)",
-      "stars": 13,
+      "stars": 14,
       "issues": 6,
       "forks": 0,
-      "watchers": 13,
+      "watchers": 14,
       "topics": [],
       "language": null,
       "languageColor": null,
@@ -1970,10 +1988,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16243,
-      "issues": 112,
-      "forks": 955,
-      "watchers": 16243,
+      "stars": 16259,
+      "issues": 111,
+      "forks": 960,
+      "watchers": 16259,
       "topics": [
         "incidents-reports",
         "status",
@@ -2932,8 +2950,8 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 605,
-      "issues": 5,
-      "forks": 75,
+      "issues": 6,
+      "forks": 74,
       "watchers": 605,
       "topics": [
         "calendar",
