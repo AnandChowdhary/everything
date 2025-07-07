@@ -9,12 +9,12 @@
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
       "stars": 4,
       "issues": 0,
-      "forks": 0,
+      "forks": 1,
       "watchers": 4,
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/6e5fcee1364f397bca693b7e40be19b75acb8c0f3a4558230aa67b70eb52394b/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/b367ef3bd7a63ce90242e19080e9219cfa43c133972f9cfb414e12746eb3035e/AnandChowdhary/priced-in"
     }
   },
   {
@@ -1988,10 +1988,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16259,
-      "issues": 111,
+      "stars": 16283,
+      "issues": 112,
       "forks": 960,
-      "watchers": 16259,
+      "watchers": 16283,
       "topics": [
         "incidents-reports",
         "status",
@@ -2171,10 +2171,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 62,
+      "stars": 63,
       "issues": 10,
       "forks": 10,
-      "watchers": 62,
+      "watchers": 63,
       "topics": [
         "google",
         "google-docs",
@@ -2949,10 +2949,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 605,
+      "stars": 606,
       "issues": 6,
       "forks": 74,
-      "watchers": 605,
+      "watchers": 606,
       "topics": [
         "calendar",
         "calendar-link",
@@ -2964,7 +2964,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/d2038fef37317fe04f797ddc2978d3c0eb5e574767417a99a9e4d1f4dcf8b64d/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/b32a06dba5d203bebe538b009040de18c5c8a8c3a873a1a3c48a54f1cb6ff989/AnandChowdhary/calendar-link"
     }
   },
   {
@@ -3525,10 +3525,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1864,
-      "issues": 49,
+      "stars": 1866,
+      "issues": 50,
       "forks": 129,
-      "watchers": 1864,
+      "watchers": 1866,
       "topics": [
         "file-upload",
         "image",
