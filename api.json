@@ -1,5 +1,31 @@
 [
   {
+    "date": "2025-07-13T20:53:58Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/mintlify-slack-assistant",
+    "url": "https://anandchowdhary.com/projects/2025/mintlify-slack-assistant",
+    "source": "https://github.com/AnandChowdhary/mintlify-slack-assistant",
+    "data": {
+      "description": "⁉️ Slack bot that answers questions using your Mintlify docs' built-in AI assistant",
+      "stars": 1,
+      "issues": 0,
+      "forks": 0,
+      "watchers": 1,
+      "topics": [
+        "assistant",
+        "bot",
+        "docs",
+        "mintlify",
+        "openai",
+        "slack",
+        "slack-bot"
+      ],
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "openGraphImageUrl": "https://opengraph.githubassets.com/612f5d279948ec4093c16cb98767fdf0c4f9f5a2708de49a27b4486505f9e903/AnandChowdhary/mintlify-slack-assistant"
+    }
+  },
+  {
     "date": "2025-06-24T10:11:52Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/priced-in",
@@ -7,14 +33,14 @@
     "source": "https://github.com/AnandChowdhary/priced-in",
     "data": {
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
-      "stars": 4,
+      "stars": 5,
       "issues": 0,
       "forks": 1,
-      "watchers": 4,
+      "watchers": 5,
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/650cdf01ca7bdd456e416bd63832646d9241f7e289cfb49b1e9f56b85854a470/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/66eef0c51d6d6f9a726828f27bb7c01b49de134b9121ccd5eda625f2c0353e41/AnandChowdhary/priced-in"
     }
   },
   {
@@ -1988,10 +2014,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16283,
+      "stars": 16304,
       "issues": 112,
-      "forks": 960,
-      "watchers": 16283,
+      "forks": 966,
+      "watchers": 16304,
       "topics": [
         "incidents-reports",
         "status",
@@ -2950,7 +2976,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 606,
-      "issues": 6,
+      "issues": 7,
       "forks": 74,
       "watchers": 606,
       "topics": [
@@ -3525,10 +3551,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1866,
+      "stars": 1867,
       "issues": 50,
       "forks": 129,
-      "watchers": 1866,
+      "watchers": 1867,
       "topics": [
         "file-upload",
         "image",
