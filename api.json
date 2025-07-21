@@ -1,5 +1,32 @@
 [
   {
+    "date": "2025-07-14T10:13:02Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/claude-code-slack-bot",
+    "url": "https://anandchowdhary.com/projects/2025/claude-code-slack-bot",
+    "source": "https://github.com/AnandChowdhary/claude-code-slack-bot",
+    "data": {
+      "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
+      "stars": 4,
+      "issues": 0,
+      "forks": 1,
+      "watchers": 4,
+      "topics": [
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "cloudflare-workers",
+        "github-actions",
+        "hono",
+        "slack",
+        "slack-bot"
+      ],
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "openGraphImageUrl": "https://opengraph.githubassets.com/1703140eb5d56bb4666dedf5bab7cf0cf1a4c3ae656b60be11723c7e47de71ba/AnandChowdhary/claude-code-slack-bot"
+    }
+  },
+  {
     "date": "2025-07-13T20:53:58Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/mintlify-slack-assistant",
@@ -7,10 +34,10 @@
     "source": "https://github.com/AnandChowdhary/mintlify-slack-assistant",
     "data": {
       "description": "⁉️ Slack bot that answers questions using your Mintlify docs' built-in AI assistant",
-      "stars": 1,
+      "stars": 3,
       "issues": 0,
       "forks": 0,
-      "watchers": 1,
+      "watchers": 3,
       "topics": [
         "assistant",
         "bot",
@@ -33,10 +60,10 @@
     "source": "https://github.com/AnandChowdhary/priced-in",
     "data": {
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
-      "stars": 5,
+      "stars": 7,
       "issues": 0,
       "forks": 1,
-      "watchers": 5,
+      "watchers": 7,
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
@@ -2014,10 +2041,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16304,
+      "stars": 16339,
       "issues": 112,
-      "forks": 966,
-      "watchers": 16304,
+      "forks": 969,
+      "watchers": 16339,
       "topics": [
         "incidents-reports",
         "status",
