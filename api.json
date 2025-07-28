@@ -7,10 +7,10 @@
     "source": "https://github.com/AnandChowdhary/claude-code-slack-bot",
     "data": {
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
-      "stars": 4,
+      "stars": 5,
       "issues": 0,
       "forks": 1,
-      "watchers": 4,
+      "watchers": 5,
       "topics": [
         "claude",
         "claude-ai",
@@ -60,14 +60,14 @@
     "source": "https://github.com/AnandChowdhary/priced-in",
     "data": {
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
-      "stars": 7,
-      "issues": 0,
-      "forks": 1,
-      "watchers": 7,
+      "stars": 28,
+      "issues": 2,
+      "forks": 7,
+      "watchers": 28,
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/0cc045fda263c245d6658e5ffce3835a2fc4eb8a06b2eeabde355215f37de4bc/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/88a533c1cb83fb9b70681d45fd8a896ed064644d7960d70839f1fcd7a60a6588/AnandChowdhary/priced-in"
     }
   },
   {
@@ -2041,10 +2041,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16339,
+      "stars": 16363,
       "issues": 112,
-      "forks": 969,
-      "watchers": 16339,
+      "forks": 971,
+      "watchers": 16363,
       "topics": [
         "incidents-reports",
         "status",
@@ -2224,10 +2224,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 63,
+      "stars": 64,
       "issues": 10,
       "forks": 10,
-      "watchers": 63,
+      "watchers": 64,
       "topics": [
         "google",
         "google-docs",
@@ -3002,10 +3002,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 606,
+      "stars": 608,
       "issues": 7,
       "forks": 74,
-      "watchers": 606,
+      "watchers": 608,
       "topics": [
         "calendar",
         "calendar-link",
