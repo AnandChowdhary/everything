@@ -71,6 +71,24 @@
     }
   },
   {
+    "date": "2025-06-12T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2025/render-atl",
+    "source": "https://anandchowdhary.github.io/events/events/2025/render-atl",
+    "title": "Build your own Cursor at RenderATL",
+    "data": {
+      "remote": false,
+      "country": "UA",
+      "city": "Atlanta",
+      "venue": "AmericasMart",
+      "coordinates": [
+        33.7603155,
+        -84.3927116
+      ],
+      "event": "RenderATL 2025"
+    }
+  },
+  {
     "date": "2025-04-25T17:28:04Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/chat",
@@ -112,6 +130,35 @@
       "authors": [
         "John Green"
       ]
+    }
+  },
+  {
+    "date": "2024-12-10T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2024/ai-community-day",
+    "source": "https://anandchowdhary.github.io/events/events/2024/ai-community-day",
+    "title": "How we test and deploy prompts at FirstQuadrant for AI Community Day",
+    "data": {
+      "remote": false,
+      "country": "NL",
+      "city": "Utrecht",
+      "venue": "The Fabrique",
+      "coordinates": [
+        52.1276767,
+        5.0470815
+      ],
+      "event": "AI Community Day"
+    }
+  },
+  {
+    "date": "2024-12-10T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2024/coding-ninjas",
+    "source": "https://anandchowdhary.github.io/events/events/2024/coding-ninjas",
+    "title": "Developer to Founder at 10x Club",
+    "data": {
+      "remote": true,
+      "event": "Coding Ninjas 10x Club"
     }
   },
   {
