@@ -85,7 +85,8 @@
         33.7603155,
         -84.3927116
       ],
-      "event": "RenderATL 2025"
+      "event": "RenderATL 2025",
+      "talk": "Build your own AI engineer like Copilot & Devin"
     }
   },
   {
@@ -147,7 +148,8 @@
         52.1276767,
         5.0470815
       ],
-      "event": "AI Community Day"
+      "event": "AI Community Day",
+      "talk": "How we test and deploy prompts at FirstQuadrant"
     }
   },
   {
@@ -158,7 +160,8 @@
     "title": "Developer to Founder at 10x Club",
     "data": {
       "remote": true,
-      "event": "Coding Ninjas 10x Club"
+      "event": "Coding Ninjas 10x Club",
+      "talk": "Developer to Founder"
     }
   },
   {
@@ -3064,7 +3067,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/6beb6b16d55c2aaf64fa038378d39f0cb61c394f3a0aada8448f04d455350543/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/335ef4fbc9b64efb2366b7d5e1173b3cd186e72e3d2b78b0b9c5a0c6f0583240/AnandChowdhary/calendar-link"
     }
   },
   {
