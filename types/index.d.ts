@@ -89,15 +89,7 @@ export type TimelineTravel = TimelineBaseItem<
     hash: string;
     approximateCoordinates: [number, number];
     label: string;
-    timezone: {
-      name: string;
-      utcOffset: number;
-      dstOffset: number;
-    };
-    country: {
-      code: string;
-      name: string;
-    };
+    countryCode: string;
   }
 >;
 

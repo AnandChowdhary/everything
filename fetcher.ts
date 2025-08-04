@@ -328,18 +328,10 @@ const getRepos = async (): Promise<IRepo[]> => {
 
 interface ILocation {
   hash: string;
-  updatedAt: string;
-  approximateCoordinates: [number, number];
+  date: string;
+  coordinates: [number, number];
   label: string;
-  timezone: {
-    name: string;
-    utcOffset: number;
-    dstOffset: number;
-  };
-  country: {
-    code: string;
-    name: string;
-  };
+  country_code: string;
 }
 const getLocation = async (): Promise<ILocation[]> => {
   if (CACHE_ENABLED) {
@@ -507,21 +499,20 @@ export const generate = async () => {
     }));
 
   const locations: TimelineTravel[] = (await getLocation()).map((location) => ({
-    date: location.updatedAt,
+    date: location.date,
     type: "travel",
     url: `https://anandchowdhary.com/travel/${new Date(
-      location.updatedAt
+      location.date
     ).getUTCFullYear()}/${slugify(location.label, {
       lower: true,
-    })}-${location.country.code.toLowerCase()}`,
+    })}-${location.country_code.toLowerCase()}`,
     source: `https://github.com/AnandChowdhary/location/commit/${location.hash}`,
     title: location.label,
     data: {
       hash: location.hash,
-      approximateCoordinates: location.approximateCoordinates,
+      approximateCoordinates: location.coordinates,
       label: location.label,
-      timezone: location.timezone,
-      country: location.country,
+      countryCode: location.country_code,
     },
   }));
 
