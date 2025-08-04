@@ -60,14 +60,14 @@
     "source": "https://github.com/AnandChowdhary/priced-in",
     "data": {
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
-      "stars": 28,
-      "issues": 2,
-      "forks": 7,
-      "watchers": 28,
+      "stars": 32,
+      "issues": 6,
+      "forks": 12,
+      "watchers": 32,
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/7297a3aebe6ae065f7b6b14a6fa0c661c4578cb35bdbad5a8ca572d9759810e7/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/d50ffdc9cdebb1a8a69646a24bdcca97966ef69c9d2b34d6b9acd69153be94d0/AnandChowdhary/priced-in"
     }
   },
   {
@@ -178,27 +178,19 @@
     }
   },
   {
-    "date": "2024-08-31T11:19:08.000Z",
+    "date": "2024-08-30T16:11:53.661Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2024/portugal-pt",
-    "source": "https://github.com/AnandChowdhary/location/commit/10ab1a2b3016a75b1aa9b641cfcde74f0fd11e26",
-    "title": "Portugal",
+    "url": "https://anandchowdhary.com/travel/2024/pt-pt",
+    "source": "https://github.com/AnandChowdhary/location/commit/3e8a78ca587759049e8fb8a80968c5d049ab54b0",
+    "title": "pt",
     "data": {
-      "hash": "10ab1a2b3016a75b1aa9b641cfcde74f0fd11e26",
+      "hash": "3e8a78ca587759049e8fb8a80968c5d049ab54b0",
       "approximateCoordinates": [
-        38.74,
-        -9.17
+        38.76,
+        -9.14
       ],
-      "label": "Portugal",
-      "timezone": {
-        "name": "Europe/Lisbon",
-        "utcOffset": 0,
-        "dstOffset": 60
-      },
-      "country": {
-        "code": "pt",
-        "name": "Portugal"
-      }
+      "label": "pt",
+      "countryCode": "pt"
     }
   },
   {
@@ -656,27 +648,19 @@
     }
   },
   {
-    "date": "2023-01-08",
+    "date": "2023-01-03T18:58:34.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2023/united-arab-emirates-ae",
-    "source": "https://github.com/AnandChowdhary/location/commit/09d556cf3cec18b8b33bee5885b88d5256ee1767",
-    "title": "United Arab Emirates",
+    "url": "https://anandchowdhary.com/travel/2023/ae-ae",
+    "source": "https://github.com/AnandChowdhary/location/commit/98a741638fe5f56b93452fd8f27460def87cc49e",
+    "title": "ae",
     "data": {
-      "hash": "09d556cf3cec18b8b33bee5885b88d5256ee1767",
+      "hash": "98a741638fe5f56b93452fd8f27460def87cc49e",
       "approximateCoordinates": [
         24.43,
-        54.64
+        54.65
       ],
-      "label": "United Arab Emirates",
-      "timezone": {
-        "name": "Asia/Dubai",
-        "utcOffset": 240,
-        "dstOffset": 240
-      },
-      "country": {
-        "code": "ae",
-        "name": "United Arab Emirates"
-      }
+      "label": "ae",
+      "countryCode": "ae"
     }
   },
   {
@@ -1169,30 +1153,6 @@
     }
   },
   {
-    "date": "2022-06-06T18:21:48.839Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2022/turkey-tr",
-    "source": "https://github.com/AnandChowdhary/location/commit/1c80d9fc579dadadd0b95ff3e1335ed3a9d080ac",
-    "title": "Turkey",
-    "data": {
-      "hash": "1c80d9fc579dadadd0b95ff3e1335ed3a9d080ac",
-      "approximateCoordinates": [
-        40.91,
-        29.32
-      ],
-      "label": "Turkey",
-      "timezone": {
-        "name": "Europe/Istanbul",
-        "utcOffset": 180,
-        "dstOffset": 180
-      },
-      "country": {
-        "code": "tr",
-        "name": "Turkey"
-      }
-    }
-  },
-  {
     "date": "2022-06-01",
     "type": "life-event",
     "url": "https://anandchowdhary.com/milestones/2022/got-engaged",
@@ -1337,27 +1297,19 @@
     }
   },
   {
-    "date": "2022-03-09T10:23:56.999Z",
+    "date": "2022-03-06T16:24:08.641Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2022/czechia-cz",
-    "source": "https://github.com/AnandChowdhary/location/commit/4a0411f6f45f3f787446dda42c5ae7321175b025",
-    "title": "Czechia",
+    "url": "https://anandchowdhary.com/travel/2022/cz-cz",
+    "source": "https://github.com/AnandChowdhary/location/commit/9b1fe42714ad522f138b17eb2260e6d174df3ff3",
+    "title": "cz",
     "data": {
-      "hash": "4a0411f6f45f3f787446dda42c5ae7321175b025",
+      "hash": "9b1fe42714ad522f138b17eb2260e6d174df3ff3",
       "approximateCoordinates": [
-        50.1,
-        14.26
+        50.09,
+        14.44
       ],
-      "label": "Czechia",
-      "timezone": {
-        "name": "Europe/Prague",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "cz",
-        "name": "Czechia"
-      }
+      "label": "cz",
+      "countryCode": "cz"
     }
   },
   {
@@ -1793,27 +1745,19 @@
     }
   },
   {
-    "date": "2021-09-29T14:52:28.375Z",
+    "date": "2021-09-29T13:30:39.747Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2021/switzerland-ch",
-    "source": "https://github.com/AnandChowdhary/location/commit/3428a2b77e75bad64cef8804e724573d022f2884",
-    "title": "Switzerland",
+    "url": "https://anandchowdhary.com/travel/2021/ch-ch",
+    "source": "https://github.com/AnandChowdhary/location/commit/b1ba6f1eecd0019e8ffd4aa2d562d41fb67e9617",
+    "title": "ch",
     "data": {
-      "hash": "3428a2b77e75bad64cef8804e724573d022f2884",
+      "hash": "b1ba6f1eecd0019e8ffd4aa2d562d41fb67e9617",
       "approximateCoordinates": [
-        47.46,
-        8.55
+        47.45,
+        8.56
       ],
-      "label": "Switzerland",
-      "timezone": {
-        "name": "Europe/Zurich",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "ch",
-        "name": "Switzerland"
-      }
+      "label": "ch",
+      "countryCode": "ch"
     }
   },
   {
@@ -2091,10 +2035,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16363,
+      "stars": 16392,
       "issues": 112,
       "forks": 971,
-      "watchers": 16363,
+      "watchers": 16392,
       "topics": [
         "incidents-reports",
         "status",
@@ -2400,6 +2344,22 @@
     }
   },
   {
+    "date": "2020-01-31T20:58:20.906Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2020/tr-tr",
+    "source": "https://github.com/AnandChowdhary/location/commit/45f6753ba0c82a634e8e83d46f8c7d4fe613e952",
+    "title": "tr",
+    "data": {
+      "hash": "45f6753ba0c82a634e8e83d46f8c7d4fe613e952",
+      "approximateCoordinates": [
+        41.26,
+        28.74
+      ],
+      "label": "tr",
+      "countryCode": "tr"
+    }
+  },
+  {
     "date": "2020-01-03T00:00:00.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2020/introducing-uppload-v2",
@@ -2544,22 +2504,19 @@
     }
   },
   {
-    "date": "2019-09-16T05:49:15.179Z",
+    "date": "2019-09-15T14:48:56.459Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2019/united-states-of-america-us",
-    "source": "https://github.com/AnandChowdhary/location/commit/ddd7d180ee0bbf4b25f780f865b4331a1c17a1d0",
-    "title": "United States of America",
+    "url": "https://anandchowdhary.com/travel/2019/us-us",
+    "source": "https://github.com/AnandChowdhary/location/commit/f4a6045fdaac4b973d503b343bc9073c535b7512",
+    "title": "us",
     "data": {
-      "hash": "ddd7d180ee0bbf4b25f780f865b4331a1c17a1d0",
+      "hash": "f4a6045fdaac4b973d503b343bc9073c535b7512",
       "approximateCoordinates": [
         37.72,
         -121.85
       ],
-      "label": "United States of America",
-      "country": {
-        "code": "us",
-        "name": "United States of America"
-      }
+      "label": "us",
+      "countryCode": "us"
     }
   },
   {
@@ -3052,10 +3009,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 608,
-      "issues": 7,
+      "stars": 609,
+      "issues": 6,
       "forks": 74,
-      "watchers": 608,
+      "watchers": 609,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3255,46 +3212,35 @@
     }
   },
   {
-    "date": "2018-11-14T23:00:17.996Z",
+    "date": "2018-11-14T12:30:07.370Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2018/united-kingdom-gb",
-    "source": "https://github.com/AnandChowdhary/location/commit/de3f9ed38c82a7736486f36129a6711ab6b2cfd0",
-    "title": "United Kingdom",
+    "url": "https://anandchowdhary.com/travel/2018/gb-gb",
+    "source": "https://github.com/AnandChowdhary/location/commit/a12f0366c67e076682f704f30c255272e3bbf7d9",
+    "title": "gb",
     "data": {
-      "hash": "de3f9ed38c82a7736486f36129a6711ab6b2cfd0",
+      "hash": "a12f0366c67e076682f704f30c255272e3bbf7d9",
       "approximateCoordinates": [
-        51.52,
-        -0.12
+        51.89,
+        0.25
       ],
-      "label": "United Kingdom",
-      "timezone": {
-        "name": "Europe/London",
-        "utcOffset": 0,
-        "dstOffset": 60
-      },
-      "country": {
-        "code": "gb",
-        "name": "United Kingdom"
-      }
+      "label": "gb",
+      "countryCode": "gb"
     }
   },
   {
-    "date": "2018-10-23T03:38:17.213Z",
+    "date": "2018-10-22T15:02:53.309Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2018/malaysia-my",
-    "source": "https://github.com/AnandChowdhary/location/commit/0f6e37eaa6d6c6c65cecfb2846cde8cc403dacef",
-    "title": "Malaysia",
+    "url": "https://anandchowdhary.com/travel/2018/my-my",
+    "source": "https://github.com/AnandChowdhary/location/commit/a77db8caaa5fe57a0e6bcc8a8cfb4bde59331a2d",
+    "title": "my",
     "data": {
-      "hash": "0f6e37eaa6d6c6c65cecfb2846cde8cc403dacef",
+      "hash": "a77db8caaa5fe57a0e6bcc8a8cfb4bde59331a2d",
       "approximateCoordinates": [
         3.17,
         101.69
       ],
-      "label": "Malaysia",
-      "country": {
-        "code": "my",
-        "name": "Malaysia"
-      }
+      "label": "my",
+      "countryCode": "my"
     }
   },
   {
@@ -3505,51 +3451,35 @@
     "title": "Abacus"
   },
   {
-    "date": "2018-07-04T07:20:43.283Z",
+    "date": "2018-06-22T16:26:30.604Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2018/france-fr",
-    "source": "https://github.com/AnandChowdhary/location/commit/efb0698c77059cc4ac2955608d84a6c5ea3f3738",
-    "title": "France",
+    "url": "https://anandchowdhary.com/travel/2018/be-be",
+    "source": "https://github.com/AnandChowdhary/location/commit/6a9a79c0e696addbce9fc0eacbd01f5dbf8652f0",
+    "title": "be",
     "data": {
-      "hash": "efb0698c77059cc4ac2955608d84a6c5ea3f3738",
-      "approximateCoordinates": [
-        43.63,
-        1.37
-      ],
-      "label": "France",
-      "timezone": {
-        "name": "Europe/Paris",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "fr",
-        "name": "France"
-      }
-    }
-  },
-  {
-    "date": "2018-06-22T20:45:52.000Z",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2018/belgium-be",
-    "source": "https://github.com/AnandChowdhary/location/commit/5471fc0a77fb476ae5954af77d85521149f0b422",
-    "title": "Belgium",
-    "data": {
-      "hash": "5471fc0a77fb476ae5954af77d85521149f0b422",
+      "hash": "6a9a79c0e696addbce9fc0eacbd01f5dbf8652f0",
       "approximateCoordinates": [
         51.2,
         3.23
       ],
-      "label": "Belgium",
-      "timezone": {
-        "name": "Europe/Brussels",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "be",
-        "name": "Belgium"
-      }
+      "label": "be",
+      "countryCode": "be"
+    }
+  },
+  {
+    "date": "2018-06-13T22:27:00.501Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2018/fr-fr",
+    "source": "https://github.com/AnandChowdhary/location/commit/c27ad8f02211bb9b385783a63d91eab647bd2e8a",
+    "title": "fr",
+    "data": {
+      "hash": "c27ad8f02211bb9b385783a63d91eab647bd2e8a",
+      "approximateCoordinates": [
+        50.64,
+        3.08
+      ],
+      "label": "fr",
+      "countryCode": "fr"
     }
   },
   {
@@ -3628,10 +3558,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1867,
+      "stars": 1868,
       "issues": 50,
       "forks": 129,
-      "watchers": 1867,
+      "watchers": 1868,
       "topics": [
         "file-upload",
         "image",
@@ -3825,6 +3755,22 @@
     }
   },
   {
+    "date": "2018-01-12T22:34:33.892Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/2018/it-it",
+    "source": "https://github.com/AnandChowdhary/location/commit/8079abbfd22d0341718ae1fef4e275d885994b0c",
+    "title": "it",
+    "data": {
+      "hash": "8079abbfd22d0341718ae1fef4e275d885994b0c",
+      "approximateCoordinates": [
+        41.8,
+        12.25
+      ],
+      "label": "it",
+      "countryCode": "it"
+    }
+  },
+  {
     "date": "2018-01-01",
     "type": "press-feature",
     "url": "https://anandchowdhary.com/press/2018/university-of-twente",
@@ -3888,22 +3834,19 @@
     }
   },
   {
-    "date": "2017-11-18T09:11:15.990Z",
+    "date": "2017-11-18T06:19:01.100Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2017/germany-de",
-    "source": "https://github.com/AnandChowdhary/location/commit/2c8b3d5b22d8224c34c64dea8babd494c674c8d7",
-    "title": "Germany",
+    "url": "https://anandchowdhary.com/travel/2017/de-de",
+    "source": "https://github.com/AnandChowdhary/location/commit/c0f2fe829abddb01e5bebfedab9db2b4744d5921",
+    "title": "de",
     "data": {
-      "hash": "2c8b3d5b22d8224c34c64dea8babd494c674c8d7",
+      "hash": "c0f2fe829abddb01e5bebfedab9db2b4744d5921",
       "approximateCoordinates": [
         51.22,
         6.79
       ],
-      "label": "Germany",
-      "country": {
-        "code": "de",
-        "name": "Germany"
-      }
+      "label": "de",
+      "countryCode": "de"
     }
   },
   {
@@ -4034,27 +3977,19 @@
     }
   },
   {
-    "date": "2017-08-22T18:04:29.765Z",
+    "date": "2017-08-22T10:34:19.660Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2017/netherlands-nl",
-    "source": "https://github.com/AnandChowdhary/location/commit/b101b1ceccdd7677b66e89d085e2d31b03f74d61",
-    "title": "Netherlands",
+    "url": "https://anandchowdhary.com/travel/2017/nl-nl",
+    "source": "https://github.com/AnandChowdhary/location/commit/f54f433776c2eef8d64d00d1826065fdef4fa30e",
+    "title": "nl",
     "data": {
-      "hash": "b101b1ceccdd7677b66e89d085e2d31b03f74d61",
+      "hash": "f54f433776c2eef8d64d00d1826065fdef4fa30e",
       "approximateCoordinates": [
         52.31,
         4.77
       ],
-      "label": "Netherlands",
-      "timezone": {
-        "name": "Europe/Amsterdam",
-        "utcOffset": 60,
-        "dstOffset": 120
-      },
-      "country": {
-        "code": "nl",
-        "name": "Netherlands"
-      }
+      "label": "nl",
+      "countryCode": "nl"
     }
   },
   {
@@ -4979,27 +4914,19 @@
     "title": "Artistic"
   },
   {
-    "date": "2014-11-24T23:00:04.680Z",
+    "date": "2014-11-24T06:29:59.700Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2014/japan-jp",
-    "source": "https://github.com/AnandChowdhary/location/commit/52220368a0ec30a464bca97ddca3a1e09a9af64b",
-    "title": "Japan",
+    "url": "https://anandchowdhary.com/travel/2014/jp-jp",
+    "source": "https://github.com/AnandChowdhary/location/commit/da447ddac2236a1f5a24c1359c4282a06e5b9cc5",
+    "title": "jp",
     "data": {
-      "hash": "52220368a0ec30a464bca97ddca3a1e09a9af64b",
+      "hash": "da447ddac2236a1f5a24c1359c4282a06e5b9cc5",
       "approximateCoordinates": [
         35.77,
         140.39
       ],
-      "label": "Japan",
-      "timezone": {
-        "name": "Asia/Tokyo",
-        "utcOffset": 540,
-        "dstOffset": 540
-      },
-      "country": {
-        "code": "jp",
-        "name": "Japan"
-      }
+      "label": "jp",
+      "countryCode": "jp"
     }
   },
   {
@@ -5504,75 +5431,35 @@
     }
   },
   {
-    "date": "2011-06-15",
+    "date": "2011-05-30T00:00:00.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2011/thailand-th",
-    "source": "https://github.com/AnandChowdhary/location/commit/47714b6311055eddd943ced582532f7a8d3e7018",
-    "title": "Thailand",
+    "url": "https://anandchowdhary.com/travel/2011/th-th",
+    "source": "https://github.com/AnandChowdhary/location/commit/a0a73fc409841b3bf089b1d6d8112dc21d7805c0",
+    "title": "th",
     "data": {
-      "hash": "47714b6311055eddd943ced582532f7a8d3e7018",
+      "hash": "a0a73fc409841b3bf089b1d6d8112dc21d7805c0",
       "approximateCoordinates": [
-        12.93,
-        100.88
+        13.75,
+        100.5
       ],
-      "label": "Thailand",
-      "timezone": {
-        "name": "Asia/Bangkok",
-        "utcOffset": 420,
-        "dstOffset": 420
-      },
-      "country": {
-        "code": "th",
-        "name": "Thailand"
-      }
+      "label": "th",
+      "countryCode": "th"
     }
   },
   {
-    "date": "2011-05-27",
+    "date": "2011-05-30T00:00:00.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2011/philippines-ph",
-    "source": "https://github.com/AnandChowdhary/location/commit/48f8202c20e9535aca62b89bbbecd6ceb4230f75",
-    "title": "Philippines",
+    "url": "https://anandchowdhary.com/travel/2011/ph-ph",
+    "source": "https://github.com/AnandChowdhary/location/commit/54586ae8d7a05c66a59d9783d53f336f01f19822",
+    "title": "ph",
     "data": {
-      "hash": "48f8202c20e9535aca62b89bbbecd6ceb4230f75",
+      "hash": "54586ae8d7a05c66a59d9783d53f336f01f19822",
       "approximateCoordinates": [
         14.59,
-        120.99
+        120.98
       ],
-      "label": "Philippines",
-      "timezone": {
-        "name": "Asia/Manila",
-        "utcOffset": 480,
-        "dstOffset": 480
-      },
-      "country": {
-        "code": "ph",
-        "name": "Philippines"
-      }
-    }
-  },
-  {
-    "date": "2011-05-26",
-    "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2011/india-in",
-    "source": "https://github.com/AnandChowdhary/location/commit/caaa0d12e3fc314daa67616d577d1b3c75ce53d4",
-    "title": "India",
-    "data": {
-      "hash": "caaa0d12e3fc314daa67616d577d1b3c75ce53d4",
-      "approximateCoordinates": [
-        28.53,
-        77.24
-      ],
-      "label": "India",
-      "timezone": {
-        "name": "Asia/Kolkata",
-        "utcOffset": 330,
-        "dstOffset": 330
-      },
-      "country": {
-        "code": "in",
-        "name": "India"
-      }
+      "label": "ph",
+      "countryCode": "ph"
     }
   },
   {
@@ -5596,6 +5483,22 @@
       "href": "https://www.hindustantimes.com/delhi/delhi-kids-show-the-way/story-mASjzUCDtbQIa9pya13tCK.html",
       "author": "Avishek G. Dastidar",
       "description": "I was featured by one of the largest newspapers in India by circulation, Hindustan Times, for my work promoting Earth Hour 2008 with my sister Mishika."
+    }
+  },
+  {
+    "date": "1997-12-29T12:00:00.000Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/travel/1997/in-in",
+    "source": "https://github.com/AnandChowdhary/location/commit/7dfe75d2d19cc5fdf2f76e7322f263a101f42a75",
+    "title": "in",
+    "data": {
+      "hash": "7dfe75d2d19cc5fdf2f76e7322f263a101f42a75",
+      "approximateCoordinates": [
+        28.61,
+        77.21
+      ],
+      "label": "in",
+      "countryCode": "in"
     }
   },
   {
