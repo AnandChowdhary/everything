@@ -67,7 +67,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/6e92398ec5a94e8ed8c2b9ad51268cb566c26f6207772a355b42bbade8fc8aa6/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/0956a6edcdca8beb5fb17e07a60b299249de37edaddf4f9c6d34d4727890dfbc/AnandChowdhary/priced-in"
     }
   },
   {
@@ -101,7 +101,8 @@
       "city": "Utrecht",
       "venue": "Witteveen+Bos",
       "coordinates": [
-        "52.0939846 5.027699"
+        52.0939846,
+        5.027699
       ],
       "event": "4TU.Alumni NL Kickoff Event"
     }
