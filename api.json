@@ -9,7 +9,7 @@
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
       "stars": 5,
       "issues": 0,
-      "forks": 1,
+      "forks": 2,
       "watchers": 5,
       "topics": [
         "claude",
@@ -67,7 +67,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/e2a6499d50fe90d026d2b3d02d5070bdb901001ae5b2f224b3af80a08fc90bed/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/0d28a11325ba1b21dc92ebbbd7d36d66a334f88c1c2d08a8dc3c366400d40f2e/AnandChowdhary/priced-in"
     }
   },
   {
@@ -2230,10 +2230,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16419,
+      "stars": 16430,
       "issues": 113,
       "forks": 972,
-      "watchers": 16419,
+      "watchers": 16430,
       "topics": [
         "incidents-reports",
         "status",
@@ -2498,8 +2498,7 @@
         "typescript"
       ],
       "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/6d73c0f0d63286c6467cb9e2baab8ceb09850399ffd8a5774c8126ea31e39ed5/AnandChowdhary/docs-markdown"
+      "languageColor": "#3178c6"
     }
   },
   {
@@ -2667,10 +2666,10 @@
     "source": "https://github.com/AnandChowdhary/hackerbadge",
     "data": {
       "description": "📛 Embeddable badges for Hacker News posts/launches",
-      "stars": 17,
+      "stars": 18,
       "issues": 1,
       "forks": 2,
-      "watchers": 17,
+      "watchers": 18,
       "topics": [
         "badge",
         "hacker-news",
@@ -3544,7 +3543,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 610,
-      "issues": 6,
+      "issues": 7,
       "forks": 74,
       "watchers": 610,
       "topics": [
