@@ -67,7 +67,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/99623d8a662877aec0e5b7c7e6366c467d64e07fefe0b2435b52e413a08808a7/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/6f2ffd12b2ec428c820f3235b0b9813f1bb8ce63c62802777d2d1a121aa132dc/AnandChowdhary/priced-in"
     }
   },
   {
@@ -1865,7 +1865,7 @@
     }
   },
   {
-    "date": "2021-06-31",
+    "date": "2021-06-30",
     "type": "life-event",
     "url": "https://anandchowdhary.com/milestones/2021/became-a-y-combinator-alum",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
@@ -6176,6 +6176,26 @@
       "href": "https://www.hindustantimes.com/delhi/delhi-kids-show-the-way/story-mASjzUCDtbQIa9pya13tCK.html",
       "author": "Avishek G. Dastidar",
       "description": "I was featured by one of the largest newspapers in India by circulation, Hindustan Times, for my work promoting Earth Hour 2008 with my sister Mishika."
+    }
+  },
+  {
+    "date": "2008-10-19",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/milestones/2008/published-my-first-website",
+    "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
+    "title": "Published my first website",
+    "data": {
+      "description": "In the summer of 2008, I learned how to make websites using Macromedia Dreamweaver and the earliest website I made that is still available on the Internet Archive is from October 2008."
+    }
+  },
+  {
+    "date": "2008-01-01",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/milestones/2008/created-a-gmail-account",
+    "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
+    "title": "Created a Gmail account",
+    "data": {
+      "description": "I created my first Google account with access to Gmail on the first day of 2008, a few days after I turned 10, which I still use to this day."
     }
   },
   {
