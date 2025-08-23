@@ -1,6 +1,16 @@
 [
   { "date": "1997-12-29", "title": "Born in New Delhi, India" },
   {
+    "date": "2008-01-01",
+    "title": "Created a Gmail account",
+    "description": "I created my first Google account with access to Gmail on the first day of 2008, a few days after I turned 10, which I still use to this day."
+  },
+  {
+    "date": "2008-10-19",
+    "title": "Published my first website",
+    "description": "In the summer of 2008, I learned how to make websites using Macromedia Dreamweaver and the earliest website I made that is still available on the Internet Archive is from October 2008."
+  },
+  {
     "date": "2010-12-29",
     "title": "Became a vegetarian",
     "description": "On my thirteenth birthday, I became a vegetarian."
@@ -39,7 +49,7 @@
   },
   { "date": "2021-04-05", "title": "Moved to Groningen, the Netherlands" },
   {
-    "date": "2021-06-31",
+    "date": "2021-06-30",
     "title": "Became a Y Combinator alum",
     "description": "Pabio was part of Y Combinator's S21 batch, being one of the first Swiss companies to be funded by YC. I was the third ever from my university to be part of YC and we raised a $2.2 million seed round after the batch."
   },
