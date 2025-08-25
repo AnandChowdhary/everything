@@ -67,7 +67,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/c6173a756bd62a0b6eed9b1a69246da536a4ccbbf52305436190622f2fe0aaac/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/0a668b46049227a5de43b3755307e7a7178dbdb350dbe5808ccc421c8a1133d6/AnandChowdhary/priced-in"
     }
   },
   {
@@ -198,16 +198,16 @@
   {
     "date": "2024-08-30T16:11:53.661Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2024/pt-pt",
+    "url": "https://anandchowdhary.com/travel/2024/portugal-pt",
     "source": "https://github.com/AnandChowdhary/location/commit/3e8a78ca587759049e8fb8a80968c5d049ab54b0",
-    "title": "pt",
+    "title": "Portugal",
     "data": {
       "hash": "3e8a78ca587759049e8fb8a80968c5d049ab54b0",
       "approximateCoordinates": [
         38.76,
         -9.14
       ],
-      "label": "pt",
+      "label": "Portugal",
       "countryCode": "pt"
     }
   },
@@ -255,7 +255,7 @@
   {
     "date": "2024-01-18",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2024/bought-a-house",
+    "url": "https://anandchowdhary.com/life/2024/bought-a-house",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Bought a house",
     "data": {
@@ -681,7 +681,7 @@
   {
     "date": "2023-01-21",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2023/got-married",
+    "url": "https://anandchowdhary.com/life/2023/got-married",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Got married",
     "data": {
@@ -691,16 +691,16 @@
   {
     "date": "2023-01-03T18:58:34.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2023/ae-ae",
+    "url": "https://anandchowdhary.com/travel/2023/united-arab-emirates-ae",
     "source": "https://github.com/AnandChowdhary/location/commit/98a741638fe5f56b93452fd8f27460def87cc49e",
-    "title": "ae",
+    "title": "United Arab Emirates",
     "data": {
       "hash": "98a741638fe5f56b93452fd8f27460def87cc49e",
       "approximateCoordinates": [
         24.43,
         54.65
       ],
-      "label": "ae",
+      "label": "United Arab Emirates",
       "countryCode": "ae"
     }
   },
@@ -1196,7 +1196,7 @@
   {
     "date": "2022-06-01",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2022/got-engaged",
+    "url": "https://anandchowdhary.com/life/2022/got-engaged",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Got engaged",
     "data": {
@@ -1368,16 +1368,16 @@
   {
     "date": "2022-03-06T16:24:08.641Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2022/cz-cz",
+    "url": "https://anandchowdhary.com/travel/2022/czechia-cz",
     "source": "https://github.com/AnandChowdhary/location/commit/9b1fe42714ad522f138b17eb2260e6d174df3ff3",
-    "title": "cz",
+    "title": "Czechia",
     "data": {
       "hash": "9b1fe42714ad522f138b17eb2260e6d174df3ff3",
       "approximateCoordinates": [
         50.09,
         14.44
       ],
-      "label": "cz",
+      "label": "Czechia",
       "countryCode": "cz"
     }
   },
@@ -1816,16 +1816,16 @@
   {
     "date": "2021-09-29T13:30:39.747Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2021/ch-ch",
+    "url": "https://anandchowdhary.com/travel/2021/switzerland-ch",
     "source": "https://github.com/AnandChowdhary/location/commit/b1ba6f1eecd0019e8ffd4aa2d562d41fb67e9617",
-    "title": "ch",
+    "title": "Switzerland",
     "data": {
       "hash": "b1ba6f1eecd0019e8ffd4aa2d562d41fb67e9617",
       "approximateCoordinates": [
         47.45,
         8.56
       ],
-      "label": "ch",
+      "label": "Switzerland",
       "countryCode": "ch"
     }
   },
@@ -1867,7 +1867,7 @@
   {
     "date": "2021-06-30",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2021/became-a-y-combinator-alum",
+    "url": "https://anandchowdhary.com/life/2021/became-a-y-combinator-alum",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Became a Y Combinator alum",
     "data": {
@@ -1901,7 +1901,7 @@
   {
     "date": "2021-04-05",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2021/moved-to-groningen-the-netherlands",
+    "url": "https://anandchowdhary.com/life/2021/moved-to-groningen-the-netherlands",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Moved to Groningen, the Netherlands",
     "data": {}
@@ -2340,7 +2340,7 @@
   {
     "date": "2020-07-04",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2020/graduated-from-university-of-twente",
+    "url": "https://anandchowdhary.com/life/2020/graduated-from-university-of-twente",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Graduated from University of Twente",
     "data": {
@@ -2350,7 +2350,7 @@
   {
     "date": "2020-07-01",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2020/co-founded-pabio",
+    "url": "https://anandchowdhary.com/life/2020/co-founded-pabio",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Co-founded Pabio",
     "data": {
@@ -2809,16 +2809,16 @@
   {
     "date": "2020-01-31T20:58:20.906Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2020/tr-tr",
+    "url": "https://anandchowdhary.com/travel/2020/turkiye-tr",
     "source": "https://github.com/AnandChowdhary/location/commit/45f6753ba0c82a634e8e83d46f8c7d4fe613e952",
-    "title": "tr",
+    "title": "Türkiye",
     "data": {
       "hash": "45f6753ba0c82a634e8e83d46f8c7d4fe613e952",
       "approximateCoordinates": [
         41.26,
         28.74
       ],
-      "label": "tr",
+      "label": "Türkiye",
       "countryCode": "tr"
     }
   },
@@ -2929,7 +2929,7 @@
   {
     "date": "2019-12-04",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2019/studied-at-santa-clara-university",
+    "url": "https://anandchowdhary.com/life/2019/studied-at-santa-clara-university",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Studied at Santa Clara University",
     "data": {
@@ -3017,16 +3017,16 @@
   {
     "date": "2019-09-15T14:48:56.459Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2019/us-us",
+    "url": "https://anandchowdhary.com/travel/2019/united-states-of-america-us",
     "source": "https://github.com/AnandChowdhary/location/commit/f4a6045fdaac4b973d503b343bc9073c535b7512",
-    "title": "us",
+    "title": "United States of America",
     "data": {
       "hash": "f4a6045fdaac4b973d503b343bc9073c535b7512",
       "approximateCoordinates": [
         37.72,
         -121.85
       ],
-      "label": "us",
+      "label": "United States of America",
       "countryCode": "us"
     }
   },
@@ -3748,32 +3748,32 @@
   {
     "date": "2018-11-14T12:30:07.370Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2018/gb-gb",
+    "url": "https://anandchowdhary.com/travel/2018/united-kingdom-gb",
     "source": "https://github.com/AnandChowdhary/location/commit/a12f0366c67e076682f704f30c255272e3bbf7d9",
-    "title": "gb",
+    "title": "United Kingdom",
     "data": {
       "hash": "a12f0366c67e076682f704f30c255272e3bbf7d9",
       "approximateCoordinates": [
         51.89,
         0.25
       ],
-      "label": "gb",
+      "label": "United Kingdom",
       "countryCode": "gb"
     }
   },
   {
     "date": "2018-10-22T15:02:53.309Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2018/my-my",
+    "url": "https://anandchowdhary.com/travel/2018/malaysia-my",
     "source": "https://github.com/AnandChowdhary/location/commit/a77db8caaa5fe57a0e6bcc8a8cfb4bde59331a2d",
-    "title": "my",
+    "title": "Malaysia",
     "data": {
       "hash": "a77db8caaa5fe57a0e6bcc8a8cfb4bde59331a2d",
       "approximateCoordinates": [
         3.17,
         101.69
       ],
-      "label": "my",
+      "label": "Malaysia",
       "countryCode": "my"
     }
   },
@@ -3987,32 +3987,32 @@
   {
     "date": "2018-06-22T16:26:30.604Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2018/be-be",
+    "url": "https://anandchowdhary.com/travel/2018/belgium-be",
     "source": "https://github.com/AnandChowdhary/location/commit/6a9a79c0e696addbce9fc0eacbd01f5dbf8652f0",
-    "title": "be",
+    "title": "Belgium",
     "data": {
       "hash": "6a9a79c0e696addbce9fc0eacbd01f5dbf8652f0",
       "approximateCoordinates": [
         51.2,
         3.23
       ],
-      "label": "be",
+      "label": "Belgium",
       "countryCode": "be"
     }
   },
   {
     "date": "2018-06-13T22:27:00.501Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2018/fr-fr",
+    "url": "https://anandchowdhary.com/travel/2018/france-fr",
     "source": "https://github.com/AnandChowdhary/location/commit/c27ad8f02211bb9b385783a63d91eab647bd2e8a",
-    "title": "fr",
+    "title": "France",
     "data": {
       "hash": "c27ad8f02211bb9b385783a63d91eab647bd2e8a",
       "approximateCoordinates": [
         50.64,
         3.08
       ],
-      "label": "fr",
+      "label": "France",
       "countryCode": "fr"
     }
   },
@@ -4336,16 +4336,16 @@
   {
     "date": "2018-01-12T22:34:33.892Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2018/it-it",
+    "url": "https://anandchowdhary.com/travel/2018/italy-it",
     "source": "https://github.com/AnandChowdhary/location/commit/8079abbfd22d0341718ae1fef4e275d885994b0c",
-    "title": "it",
+    "title": "Italy",
     "data": {
       "hash": "8079abbfd22d0341718ae1fef4e275d885994b0c",
       "approximateCoordinates": [
         41.8,
         12.25
       ],
-      "label": "it",
+      "label": "Italy",
       "countryCode": "it"
     }
   },
@@ -4415,16 +4415,16 @@
   {
     "date": "2017-11-18T06:19:01.100Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2017/de-de",
+    "url": "https://anandchowdhary.com/travel/2017/germany-de",
     "source": "https://github.com/AnandChowdhary/location/commit/c0f2fe829abddb01e5bebfedab9db2b4744d5921",
-    "title": "de",
+    "title": "Germany",
     "data": {
       "hash": "c0f2fe829abddb01e5bebfedab9db2b4744d5921",
       "approximateCoordinates": [
         51.22,
         6.79
       ],
-      "label": "de",
+      "label": "Germany",
       "countryCode": "de"
     }
   },
@@ -4607,23 +4607,23 @@
   {
     "date": "2017-08-22T10:34:19.660Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2017/nl-nl",
+    "url": "https://anandchowdhary.com/travel/2017/netherlands-nl",
     "source": "https://github.com/AnandChowdhary/location/commit/f54f433776c2eef8d64d00d1826065fdef4fa30e",
-    "title": "nl",
+    "title": "Netherlands",
     "data": {
       "hash": "f54f433776c2eef8d64d00d1826065fdef4fa30e",
       "approximateCoordinates": [
         52.31,
         4.77
       ],
-      "label": "nl",
+      "label": "Netherlands",
       "countryCode": "nl"
     }
   },
   {
     "date": "2017-08-22",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2017/moved-to-enschede-the-netherlands",
+    "url": "https://anandchowdhary.com/life/2017/moved-to-enschede-the-netherlands",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Moved to Enschede, the Netherlands",
     "data": {}
@@ -5070,7 +5070,7 @@
   {
     "date": "2016-08-05",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2016/co-founded-oswald-labs",
+    "url": "https://anandchowdhary.com/life/2016/co-founded-oswald-labs",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Co-founded Oswald Labs",
     "data": {
@@ -5145,7 +5145,7 @@
   {
     "date": "2016-03-26",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2016/finished-high-school",
+    "url": "https://anandchowdhary.com/life/2016/finished-high-school",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Finished high school",
     "data": {
@@ -5360,7 +5360,7 @@
   {
     "date": "2015-12-29",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2015/became-an-adult",
+    "url": "https://anandchowdhary.com/life/2015/became-an-adult",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Became an adult",
     "data": {}
@@ -5609,16 +5609,16 @@
   {
     "date": "2014-11-24T06:29:59.700Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2014/jp-jp",
+    "url": "https://anandchowdhary.com/travel/2014/japan-jp",
     "source": "https://github.com/AnandChowdhary/location/commit/da447ddac2236a1f5a24c1359c4282a06e5b9cc5",
-    "title": "jp",
+    "title": "Japan",
     "data": {
       "hash": "da447ddac2236a1f5a24c1359c4282a06e5b9cc5",
       "approximateCoordinates": [
         35.77,
         140.39
       ],
-      "label": "jp",
+      "label": "Japan",
       "countryCode": "jp"
     }
   },
@@ -5874,7 +5874,7 @@
   {
     "date": "2014-02-08",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2014/co-founded-class-rebels",
+    "url": "https://anandchowdhary.com/life/2014/co-founded-class-rebels",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Co-founded Class Rebels",
     "data": {
@@ -6126,39 +6126,39 @@
   {
     "date": "2011-05-30T00:00:00.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2011/th-th",
+    "url": "https://anandchowdhary.com/travel/2011/thailand-th",
     "source": "https://github.com/AnandChowdhary/location/commit/a0a73fc409841b3bf089b1d6d8112dc21d7805c0",
-    "title": "th",
+    "title": "Thailand",
     "data": {
       "hash": "a0a73fc409841b3bf089b1d6d8112dc21d7805c0",
       "approximateCoordinates": [
         13.75,
         100.5
       ],
-      "label": "th",
+      "label": "Thailand",
       "countryCode": "th"
     }
   },
   {
     "date": "2011-05-30T00:00:00.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/2011/ph-ph",
+    "url": "https://anandchowdhary.com/travel/2011/philippines-ph",
     "source": "https://github.com/AnandChowdhary/location/commit/54586ae8d7a05c66a59d9783d53f336f01f19822",
-    "title": "ph",
+    "title": "Philippines",
     "data": {
       "hash": "54586ae8d7a05c66a59d9783d53f336f01f19822",
       "approximateCoordinates": [
         14.59,
         120.98
       ],
-      "label": "ph",
+      "label": "Philippines",
       "countryCode": "ph"
     }
   },
   {
     "date": "2010-12-29",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2010/became-a-vegetarian",
+    "url": "https://anandchowdhary.com/life/2010/became-a-vegetarian",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Became a vegetarian",
     "data": {
@@ -6181,7 +6181,7 @@
   {
     "date": "2008-10-19",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2008/published-my-first-website",
+    "url": "https://anandchowdhary.com/life/2008/published-my-first-website",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Published my first website",
     "data": {
@@ -6191,7 +6191,7 @@
   {
     "date": "2008-01-01",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/2008/created-a-gmail-account",
+    "url": "https://anandchowdhary.com/life/2008/created-a-gmail-account",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Created a Gmail account",
     "data": {
@@ -6201,23 +6201,23 @@
   {
     "date": "1997-12-29T12:00:00.000Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/travel/1997/in-in",
+    "url": "https://anandchowdhary.com/travel/1997/india-in",
     "source": "https://github.com/AnandChowdhary/location/commit/7dfe75d2d19cc5fdf2f76e7322f263a101f42a75",
-    "title": "in",
+    "title": "India",
     "data": {
       "hash": "7dfe75d2d19cc5fdf2f76e7322f263a101f42a75",
       "approximateCoordinates": [
         28.61,
         77.21
       ],
-      "label": "in",
+      "label": "India",
       "countryCode": "in"
     }
   },
   {
     "date": "1997-12-29",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/milestones/1997/born-in-new-delhi-india",
+    "url": "https://anandchowdhary.com/life/1997/born-in-new-delhi-india",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Born in New Delhi, India",
     "data": {}
