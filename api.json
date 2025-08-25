@@ -3,7 +3,7 @@
     "date": "2025-07-14T10:13:02Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/claude-code-slack-bot",
-    "url": "https://anandchowdhary.com/projects/2025/claude-code-slack-bot",
+    "url": "https://anandchowdhary.com/open-source/2025/claude-code-slack-bot",
     "source": "https://github.com/AnandChowdhary/claude-code-slack-bot",
     "data": {
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
@@ -30,7 +30,7 @@
     "date": "2025-07-13T20:53:58Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/mintlify-slack-assistant",
-    "url": "https://anandchowdhary.com/projects/2025/mintlify-slack-assistant",
+    "url": "https://anandchowdhary.com/open-source/2025/mintlify-slack-assistant",
     "source": "https://github.com/AnandChowdhary/mintlify-slack-assistant",
     "data": {
       "description": "⁉️ Slack bot that answers questions using your Mintlify docs' built-in AI assistant",
@@ -56,7 +56,7 @@
     "date": "2025-06-24T10:11:52Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/priced-in",
-    "url": "https://anandchowdhary.com/projects/2025/priced-in",
+    "url": "https://anandchowdhary.com/open-source/2025/priced-in",
     "source": "https://github.com/AnandChowdhary/priced-in",
     "data": {
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
@@ -67,7 +67,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/af242dae108c9778a3fcd31acd2ce6a302ea5acf682ad93d3827d21562be5c14/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/c6173a756bd62a0b6eed9b1a69246da536a4ccbbf52305436190622f2fe0aaac/AnandChowdhary/priced-in"
     }
   },
   {
@@ -111,7 +111,7 @@
     "date": "2025-04-25T17:28:04Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/chat",
-    "url": "https://anandchowdhary.com/projects/2025/chat",
+    "url": "https://anandchowdhary.com/open-source/2025/chat",
     "source": "https://github.com/AnandChowdhary/chat",
     "data": {
       "description": "💬 Use your GitHub repo's Issues as your own ChatGPT (yes, really!)",
@@ -442,7 +442,7 @@
     "date": "2023-08-24T13:15:59Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/deliverabilityguide.com",
-    "url": "https://anandchowdhary.com/projects/2023/deliverabilityguide.com",
+    "url": "https://anandchowdhary.com/open-source/2023/deliverabilityguide.com",
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
@@ -562,7 +562,7 @@
     "date": "2023-06-12T12:53:26Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/gpt-search",
-    "url": "https://anandchowdhary.com/projects/2023/gpt-search",
+    "url": "https://anandchowdhary.com/open-source/2023/gpt-search",
     "source": "https://github.com/AnandChowdhary/gpt-search",
     "data": {
       "description": "Get any question answered. A knowledge search engine powered by Google Search and GPT-4, similar to Bing Chat or You.",
@@ -828,7 +828,7 @@
     "date": "2022-12-02T08:04:37Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/NewsHaikusBot",
-    "url": "https://anandchowdhary.com/projects/2022/NewsHaikusBot",
+    "url": "https://anandchowdhary.com/open-source/2022/NewsHaikusBot",
     "source": "https://github.com/AnandChowdhary/NewsHaikusBot",
     "data": {
       "description": "🤖 Twitter bot which tweets news in haikus using GPT-3",
@@ -873,7 +873,7 @@
     "date": "2022-11-01T10:01:10Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/birthday-reminders-action",
-    "url": "https://anandchowdhary.com/projects/2022/birthday-reminders-action",
+    "url": "https://anandchowdhary.com/open-source/2022/birthday-reminders-action",
     "source": "https://github.com/AnandChowdhary/birthday-reminders-action",
     "data": {
       "description": "🎁 Daily messages for birthday reminders using GitHub Actions",
@@ -1207,7 +1207,7 @@
     "date": "2022-05-14T16:21:44Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/nord.js",
-    "url": "https://anandchowdhary.com/projects/2022/nord.js",
+    "url": "https://anandchowdhary.com/open-source/2022/nord.js",
     "source": "https://github.com/AnandChowdhary/nord.js",
     "data": {
       "description": "⚡️ Fast and familiar TypeScript backend framework for Bun, Node.js, and Deno",
@@ -1385,7 +1385,7 @@
     "date": "2022-03-02T15:42:29Z",
     "type": "open-source-project",
     "title": "pabio/redirect-russia",
-    "url": "https://anandchowdhary.com/projects/2022/redirect-russia",
+    "url": "https://anandchowdhary.com/open-source/2022/redirect-russia",
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
@@ -1424,7 +1424,7 @@
     "date": "2022-01-24T10:22:46Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/remix-starter",
-    "url": "https://anandchowdhary.com/projects/2022/remix-starter",
+    "url": "https://anandchowdhary.com/open-source/2022/remix-starter",
     "source": "https://github.com/AnandChowdhary/remix-starter",
     "data": {
       "description": "💿 Starter for @remix-run with localized routing and i18n",
@@ -1934,7 +1934,7 @@
     "date": "2021-02-20T15:30:48Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/status-sync",
-    "url": "https://anandchowdhary.com/projects/2021/status-sync",
+    "url": "https://anandchowdhary.com/open-source/2021/status-sync",
     "source": "https://github.com/AnandChowdhary/status-sync",
     "data": {
       "description": "🔴 Set and sync your real-time status on Slack & GitHub",
@@ -1958,7 +1958,7 @@
     "date": "2021-02-10T16:52:45Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/bookshelf-action",
-    "url": "https://anandchowdhary.com/projects/2021/bookshelf-action",
+    "url": "https://anandchowdhary.com/open-source/2021/bookshelf-action",
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
@@ -2023,7 +2023,7 @@
     "date": "2021-01-22T15:43:52Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/errol",
-    "url": "https://anandchowdhary.com/projects/2021/errol",
+    "url": "https://anandchowdhary.com/open-source/2021/errol",
     "source": "https://github.com/AnandChowdhary/errol",
     "data": {
       "description": "🦉 Errol delivers your notifications wherever you want them",
@@ -2079,7 +2079,7 @@
     "date": "2020-10-21T08:45:35Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/unqueue",
-    "url": "https://anandchowdhary.com/projects/2020/unqueue",
+    "url": "https://anandchowdhary.com/open-source/2020/unqueue",
     "source": "https://github.com/AnandChowdhary/unqueue",
     "data": {
       "description": "📏 Simple, zero-config, in-memory queue for async JS tasks",
@@ -2105,7 +2105,7 @@
     "date": "2020-09-19T08:51:09Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/algolia-crawl",
-    "url": "https://anandchowdhary.com/projects/2020/algolia-crawl",
+    "url": "https://anandchowdhary.com/open-source/2020/algolia-crawl",
     "source": "https://github.com/AnandChowdhary/algolia-crawl",
     "data": {
       "description": "🕷️🔍 Crawl your site and sync your Algolia search index",
@@ -2177,7 +2177,7 @@
     "date": "2020-08-17T08:28:28Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/deploy-pr-action",
-    "url": "https://anandchowdhary.com/projects/2020/deploy-pr-action",
+    "url": "https://anandchowdhary.com/open-source/2020/deploy-pr-action",
     "source": "https://github.com/AnandChowdhary/deploy-pr-action",
     "data": {
       "description": "🚀🎬 GitHub Action to deploy every pull request to a static URL on Surge.sh",
@@ -2202,7 +2202,7 @@
     "date": "2020-08-12T08:16:16Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/update-template",
-    "url": "https://anandchowdhary.com/projects/2020/update-template",
+    "url": "https://anandchowdhary.com/open-source/2020/update-template",
     "source": "https://github.com/AnandChowdhary/update-template",
     "data": {
       "description": "📠 Easily update repos created with GitHub templates",
@@ -2226,7 +2226,7 @@
     "date": "2020-08-08T16:34:41Z",
     "type": "open-source-project",
     "title": "upptime/upptime",
-    "url": "https://anandchowdhary.com/projects/2020/upptime",
+    "url": "https://anandchowdhary.com/open-source/2020/upptime",
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
@@ -2251,7 +2251,7 @@
     "date": "2020-07-31T08:33:28Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/cosmic",
-    "url": "https://anandchowdhary.com/projects/2020/cosmic",
+    "url": "https://anandchowdhary.com/open-source/2020/cosmic",
     "source": "https://github.com/AnandChowdhary/cosmic",
     "data": {
       "description": "🌌 Find and load configuration for your app, based on cosmiconfig",
@@ -2275,7 +2275,7 @@
     "date": "2020-07-30T10:54:45Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/firebase-github-backup",
-    "url": "https://anandchowdhary.com/projects/2020/firebase-github-backup",
+    "url": "https://anandchowdhary.com/open-source/2020/firebase-github-backup",
     "source": "https://github.com/AnandChowdhary/firebase-github-backup",
     "data": {
       "description": "🔥🗄️ Encrypted backups of your Firebase database in a GitHub repo",
@@ -2299,7 +2299,7 @@
     "date": "2020-07-17T07:25:45Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/twt",
-    "url": "https://anandchowdhary.com/projects/2020/twt",
+    "url": "https://anandchowdhary.com/open-source/2020/twt",
     "source": "https://github.com/AnandChowdhary/twt",
     "data": {
       "description": "🤏 Tiny Web Tokens (TWT) are like like JWTs but tiny",
@@ -2396,7 +2396,7 @@
     "date": "2020-06-26T08:15:07Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/rescuetime-slack",
-    "url": "https://anandchowdhary.com/projects/2020/rescuetime-slack",
+    "url": "https://anandchowdhary.com/open-source/2020/rescuetime-slack",
     "source": "https://github.com/AnandChowdhary/rescuetime-slack",
     "data": {
       "description": "⏰ Share your daily productivity score from RescueTime on Slack",
@@ -2420,7 +2420,7 @@
     "date": "2020-06-13T16:08:43Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/carpent",
-    "url": "https://anandchowdhary.com/projects/2020/carpent",
+    "url": "https://anandchowdhary.com/open-source/2020/carpent",
     "source": "https://github.com/AnandChowdhary/carpent",
     "data": {
       "description": "🔨 Bootstrap and configure any project using its template",
@@ -2457,7 +2457,7 @@
     "date": "2020-05-02T22:23:19Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/calendar-slots",
-    "url": "https://anandchowdhary.com/projects/2020/calendar-slots",
+    "url": "https://anandchowdhary.com/open-source/2020/calendar-slots",
     "source": "https://github.com/AnandChowdhary/calendar-slots",
     "data": {
       "description": "🗓️ Find empty appointment slots in a user's calendar",
@@ -2481,7 +2481,7 @@
     "date": "2020-04-16T19:08:22Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/docs-markdown",
-    "url": "https://anandchowdhary.com/projects/2020/docs-markdown",
+    "url": "https://anandchowdhary.com/open-source/2020/docs-markdown",
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
@@ -2506,7 +2506,7 @@
     "date": "2020-04-15T15:39:39Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/puppet",
-    "url": "https://anandchowdhary.com/projects/2020/puppet",
+    "url": "https://anandchowdhary.com/open-source/2020/puppet",
     "source": "https://github.com/AnandChowdhary/puppet",
     "data": {
       "description": "🎭 Natural language web automation with Puppeteer",
@@ -2532,7 +2532,7 @@
     "date": "2020-03-25T16:09:24Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/eject-dependencies",
-    "url": "https://anandchowdhary.com/projects/2020/eject-dependencies",
+    "url": "https://anandchowdhary.com/open-source/2020/eject-dependencies",
     "source": "https://github.com/AnandChowdhary/eject-dependencies",
     "data": {
       "description": "🪂 CLI to eject your npm dependencies to your source code",
@@ -2557,7 +2557,7 @@
     "date": "2020-03-19T11:13:25Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/browser-extension",
-    "url": "https://anandchowdhary.com/projects/2020/browser-extension",
+    "url": "https://anandchowdhary.com/open-source/2020/browser-extension",
     "source": "https://github.com/AnandChowdhary/browser-extension",
     "data": {
       "description": "🌐 Opinionated starter for a web browser extension with TypeScript",
@@ -2582,7 +2582,7 @@
     "date": "2020-03-19T06:50:16Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/node.ts",
-    "url": "https://anandchowdhary.com/projects/2020/node.ts",
+    "url": "https://anandchowdhary.com/open-source/2020/node.ts",
     "source": "https://github.com/AnandChowdhary/node.ts",
     "data": {
       "description": "🏷️ Opinionated TypeScript starter for server-side Node.js libraries",
@@ -2606,7 +2606,7 @@
     "date": "2020-03-18T17:06:38Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/run-url",
-    "url": "https://anandchowdhary.com/projects/2020/run-url",
+    "url": "https://anandchowdhary.com/open-source/2020/run-url",
     "source": "https://github.com/AnandChowdhary/run-url",
     "data": {
       "description": "🏃 Run a Node.js file from a URL, easily \"npx run-url\"",
@@ -2645,7 +2645,7 @@
     "date": "2020-02-26T09:29:43Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/citepls",
-    "url": "https://anandchowdhary.com/projects/2020/citepls",
+    "url": "https://anandchowdhary.com/open-source/2020/citepls",
     "source": "https://github.com/AnandChowdhary/citepls",
     "data": {
       "description": "🧠 Unlimited free citation generator with APA, MLA, Chicago, and custom formats",
@@ -2663,7 +2663,7 @@
     "date": "2020-02-25T21:02:51Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/hackerbadge",
-    "url": "https://anandchowdhary.com/projects/2020/hackerbadge",
+    "url": "https://anandchowdhary.com/open-source/2020/hackerbadge",
     "source": "https://github.com/AnandChowdhary/hackerbadge",
     "data": {
       "description": "📛 Embeddable badges for Hacker News posts/launches",
@@ -2702,7 +2702,7 @@
     "date": "2020-02-20T16:11:05Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/mockingbird",
-    "url": "https://anandchowdhary.com/projects/2020/mockingbird",
+    "url": "https://anandchowdhary.com/open-source/2020/mockingbird",
     "source": "https://github.com/AnandChowdhary/mockingbird",
     "data": {
       "description": "Smartphone app to help people with multiple sclerosis read more easily",
@@ -2727,7 +2727,7 @@
     "date": "2020-02-16T19:34:08Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/gitwords",
-    "url": "https://anandchowdhary.com/projects/2020/gitwords",
+    "url": "https://anandchowdhary.com/open-source/2020/gitwords",
     "source": "https://github.com/AnandChowdhary/gitwords",
     "data": {
       "description": "🔐 GitHub-powered secure writing platform, deployed on ZEIT",
@@ -2760,7 +2760,7 @@
     "date": "2020-02-12T08:24:31Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/unfs",
-    "url": "https://anandchowdhary.com/projects/2020/unfs",
+    "url": "https://anandchowdhary.com/open-source/2020/unfs",
     "source": "https://github.com/AnandChowdhary/unfs",
     "data": {
       "description": "📁 Unified Node.js fs-like API for cloud storage services",
@@ -2785,7 +2785,7 @@
     "date": "2020-02-09T19:08:44Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/archiver",
-    "url": "https://anandchowdhary.com/projects/2020/archiver",
+    "url": "https://anandchowdhary.com/open-source/2020/archiver",
     "source": "https://github.com/AnandChowdhary/archiver",
     "data": {
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
@@ -2826,7 +2826,7 @@
     "date": "2020-01-05T11:41:56Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/anand.link",
-    "url": "https://anandchowdhary.com/projects/2020/anand.link",
+    "url": "https://anandchowdhary.com/open-source/2020/anand.link",
     "source": "https://github.com/AnandChowdhary/anand.link",
     "data": {
       "description": "🔗  Multi-domain URL shortener and redirector",
@@ -2940,7 +2940,7 @@
     "date": "2019-11-25T18:27:53Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/yoga",
-    "url": "https://anandchowdhary.com/projects/2019/yoga",
+    "url": "https://anandchowdhary.com/open-source/2019/yoga",
     "source": "https://github.com/AnandChowdhary/yoga",
     "data": {
       "description": "🧘 iOS app to send data from HealthKit to webhook",
@@ -3089,7 +3089,7 @@
     "date": "2019-07-24T06:21:53Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/feeedback",
-    "url": "https://anandchowdhary.com/projects/2019/feeedback",
+    "url": "https://anandchowdhary.com/open-source/2019/feeedback",
     "source": "https://github.com/AnandChowdhary/feeedback",
     "data": {
       "description": "🙋 Collect feedback from your users on the web",
@@ -3236,7 +3236,7 @@
     "date": "2019-05-17T14:36:43Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/analytics-icons",
-    "url": "https://anandchowdhary.com/projects/2019/analytics-icons",
+    "url": "https://anandchowdhary.com/open-source/2019/analytics-icons",
     "source": "https://github.com/AnandChowdhary/analytics-icons",
     "data": {
       "description": "📈 Icons for browsers, OSes, devices, flags, and more",
@@ -3261,7 +3261,7 @@
     "date": "2019-05-17T12:30:24Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/scrub",
-    "url": "https://anandchowdhary.com/projects/2019/scrub",
+    "url": "https://anandchowdhary.com/open-source/2019/scrub",
     "source": "https://github.com/AnandChowdhary/scrub",
     "data": {
       "description": "🧹 Track JS errors and send them to your backend",
@@ -3328,7 +3328,7 @@
     "date": "2019-03-22T15:43:15Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/sharer.link",
-    "url": "https://anandchowdhary.com/projects/2019/sharer.link",
+    "url": "https://anandchowdhary.com/open-source/2019/sharer.link",
     "source": "https://github.com/AnandChowdhary/sharer.link",
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
@@ -3352,7 +3352,7 @@
     "date": "2019-03-18T10:41:08Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/auto-i18n",
-    "url": "https://anandchowdhary.com/projects/2019/auto-i18n",
+    "url": "https://anandchowdhary.com/open-source/2019/auto-i18n",
     "source": "https://github.com/AnandChowdhary/auto-i18n",
     "data": {
       "description": "🌐 Automatically translate your JSON I18N files",
@@ -3408,7 +3408,7 @@
     "date": "2019-03-05T13:55:42Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/gitwriter",
-    "url": "https://anandchowdhary.com/projects/2019/gitwriter",
+    "url": "https://anandchowdhary.com/open-source/2019/gitwriter",
     "source": "https://github.com/AnandChowdhary/gitwriter",
     "data": {
       "description": "📝 Version control your thoughts",
@@ -3432,7 +3432,7 @@
     "date": "2019-03-02T13:13:08Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/language-icons",
-    "url": "https://anandchowdhary.com/projects/2019/language-icons",
+    "url": "https://anandchowdhary.com/open-source/2019/language-icons",
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
@@ -3454,7 +3454,7 @@
     "date": "2019-02-21T12:49:05Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/fraud",
-    "url": "https://anandchowdhary.com/projects/2019/fraud",
+    "url": "https://anandchowdhary.com/open-source/2019/fraud",
     "source": "https://github.com/AnandChowdhary/fraud",
     "data": {
       "description": "🗄 File-based key-JSON database with nodecache",
@@ -3478,7 +3478,7 @@
     "date": "2019-02-19T14:41:35Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/changebar",
-    "url": "https://anandchowdhary.com/projects/2019/changebar",
+    "url": "https://anandchowdhary.com/open-source/2019/changebar",
     "source": "https://github.com/AnandChowdhary/changebar",
     "data": {
       "description": "🔔 Changelog notifications widget for the web, powered by GitHub",
@@ -3503,7 +3503,7 @@
     "date": "2019-02-13T12:48:05Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/typestart",
-    "url": "https://anandchowdhary.com/projects/2019/typestart",
+    "url": "https://anandchowdhary.com/open-source/2019/typestart",
     "source": "https://github.com/AnandChowdhary/typestart",
     "data": {
       "description": "📦 Typescript DOM library starter template",
@@ -3539,7 +3539,7 @@
     "date": "2019-01-16T15:51:01Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/calendar-link",
-    "url": "https://anandchowdhary.com/projects/2019/calendar-link",
+    "url": "https://anandchowdhary.com/open-source/2019/calendar-link",
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
@@ -3611,7 +3611,7 @@
     "date": "2018-12-30T16:44:23Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/hello-bar",
-    "url": "https://anandchowdhary.com/projects/2018/hello-bar",
+    "url": "https://anandchowdhary.com/open-source/2018/hello-bar",
     "source": "https://github.com/AnandChowdhary/hello-bar",
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
@@ -3635,7 +3635,7 @@
     "date": "2018-12-01T10:21:05Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/hovercard",
-    "url": "https://anandchowdhary.com/projects/2018/hovercard",
+    "url": "https://anandchowdhary.com/open-source/2018/hovercard",
     "source": "https://github.com/AnandChowdhary/hovercard",
     "data": {
       "description": "🖱️ Wikipedia summary cards for the web",
@@ -4088,7 +4088,7 @@
     "date": "2018-04-19T14:23:20Z",
     "type": "open-source-project",
     "title": "elninotech/uppload",
-    "url": "https://anandchowdhary.com/projects/2018/uppload",
+    "url": "https://anandchowdhary.com/open-source/2018/uppload",
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
@@ -4227,7 +4227,7 @@
     "date": "2018-03-05T09:00:12Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/words",
-    "url": "https://anandchowdhary.com/projects/2018/words",
+    "url": "https://anandchowdhary.com/open-source/2018/words",
     "source": "https://github.com/AnandChowdhary/words",
     "data": {
       "description": "Words doesn't come in the way of you and your thoughts",
@@ -4276,7 +4276,7 @@
     "date": "2018-01-26T13:09:41Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/drumpad",
-    "url": "https://anandchowdhary.com/projects/2018/drumpad",
+    "url": "https://anandchowdhary.com/open-source/2018/drumpad",
     "source": "https://github.com/AnandChowdhary/drumpad",
     "data": {
       "description": "Ardunio-based music generator",
@@ -4450,7 +4450,7 @@
     "date": "2017-10-31T09:41:48Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/abendgebet",
-    "url": "https://anandchowdhary.com/projects/2017/abendgebet",
+    "url": "https://anandchowdhary.com/open-source/2017/abendgebet",
     "source": "https://github.com/AnandChowdhary/abendgebet",
     "data": {
       "description": "A game based on the painting Abendgebet by Milan Kunc",
@@ -4554,7 +4554,7 @@
     "date": "2017-09-18T15:10:55Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/wikibility",
-    "url": "https://anandchowdhary.com/projects/2017/wikibility",
+    "url": "https://anandchowdhary.com/open-source/2017/wikibility",
     "source": "https://github.com/AnandChowdhary/wikibility",
     "data": {
       "description": "A beautiful, more legible, and accessible Wikipedia",
@@ -4741,7 +4741,7 @@
     "date": "2017-04-02T13:29:53Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/access",
-    "url": "https://anandchowdhary.com/projects/2017/access",
+    "url": "https://anandchowdhary.com/open-source/2017/access",
     "source": "https://github.com/AnandChowdhary/access",
     "data": {
       "description": "An elegant, simple WordPress theme for writers",
@@ -4928,7 +4928,7 @@
     "date": "2016-12-02T12:58:28Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/precis",
-    "url": "https://anandchowdhary.com/projects/2016/precis",
+    "url": "https://anandchowdhary.com/open-source/2016/precis",
     "source": "https://github.com/AnandChowdhary/precis",
     "data": {
       "description": "🔗 A simple and beautiful self-hostable URL Shortener",
@@ -5163,7 +5163,7 @@
     "date": "2016-03-12T07:06:33Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/555-lazy-load",
-    "url": "https://anandchowdhary.com/projects/2016/555-lazy-load",
+    "url": "https://anandchowdhary.com/open-source/2016/555-lazy-load",
     "source": "https://github.com/AnandChowdhary/555-lazy-load",
     "data": {
       "description": "A super tiny JavaScript library for lazy loading (555 byes)",
@@ -5250,7 +5250,7 @@
     "date": "2016-01-20T17:14:14Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/keeep",
-    "url": "https://anandchowdhary.com/projects/2016/keeep",
+    "url": "https://anandchowdhary.com/open-source/2016/keeep",
     "source": "https://github.com/AnandChowdhary/keeep",
     "data": {
       "description": "Password manager and text encoder",
@@ -5369,7 +5369,7 @@
     "date": "2015-12-25T16:13:36Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/one-grid",
-    "url": "https://anandchowdhary.com/projects/2015/one-grid",
+    "url": "https://anandchowdhary.com/open-source/2015/one-grid",
     "source": "https://github.com/AnandChowdhary/one-grid",
     "data": {
       "description": "One Grid is the simplest grid system in 1 KB",
@@ -5676,7 +5676,7 @@
     "date": "2014-08-08T13:15:13Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/aptitude",
-    "url": "https://anandchowdhary.com/projects/2014/aptitude",
+    "url": "https://anandchowdhary.com/open-source/2014/aptitude",
     "source": "https://github.com/AnandChowdhary/aptitude",
     "data": {
       "description": "A super-simple theme for one-page articles and projects",
@@ -5700,7 +5700,7 @@
     "date": "2014-07-05T17:10:51Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/essential.css",
-    "url": "https://anandchowdhary.com/projects/2014/essential.css",
+    "url": "https://anandchowdhary.com/open-source/2014/essential.css",
     "source": "https://github.com/AnandChowdhary/essential.css",
     "data": {
       "description": "A single CSS file to design beautiful webpages",
