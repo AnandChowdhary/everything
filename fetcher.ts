@@ -607,7 +607,7 @@ export const generate = async () => {
     date: repo.created_at,
     type: "open-source-project",
     title: repo.full_name,
-    url: `https://anandchowdhary.com/projects/${new Date(
+    url: `https://anandchowdhary.com/open-source/${new Date(
       repo.created_at
     ).getUTCFullYear()}/${repo.full_name.split("/")[1]}`,
     source: repo.html_url,
