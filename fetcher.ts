@@ -520,7 +520,7 @@ export const generate = async () => {
     (event) => ({
       date: event.date,
       type: "life-event",
-      url: `https://anandchowdhary.com/milestones/${new Date(
+      url: `https://anandchowdhary.com/life/${new Date(
         event.date
       ).getUTCFullYear()}/${slugify(event.title, {
         lower: true,
