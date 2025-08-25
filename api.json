@@ -67,7 +67,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/c987ec1966cec7a65483f5953a75a765e2d778bb8ff4522769b8b3ac8687d9d4/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/af242dae108c9778a3fcd31acd2ce6a302ea5acf682ad93d3827d21562be5c14/AnandChowdhary/priced-in"
     }
   },
   {
@@ -2230,10 +2230,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16430,
-      "issues": 113,
+      "stars": 16449,
+      "issues": 114,
       "forks": 972,
-      "watchers": 16430,
+      "watchers": 16449,
       "topics": [
         "incidents-reports",
         "status",
@@ -3545,7 +3545,7 @@
       "description": "📅 Calendar link generator for popular services",
       "stars": 610,
       "issues": 7,
-      "forks": 74,
+      "forks": 75,
       "watchers": 610,
       "topics": [
         "calendar",
@@ -3639,10 +3639,10 @@
     "source": "https://github.com/AnandChowdhary/hovercard",
     "data": {
       "description": "🖱️ Wikipedia summary cards for the web",
-      "stars": 90,
+      "stars": 91,
       "issues": 6,
       "forks": 10,
-      "watchers": 90,
+      "watchers": 91,
       "topics": [
         "a11y",
         "hovercard",
@@ -4092,10 +4092,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1868,
+      "stars": 1869,
       "issues": 50,
       "forks": 128,
-      "watchers": 1868,
+      "watchers": 1869,
       "topics": [
         "file-upload",
         "image",
