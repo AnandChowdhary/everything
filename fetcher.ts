@@ -501,11 +501,11 @@ export const generate = async () => {
   const locations: TimelineTravel[] = (await getLocation()).map((location) => ({
     date: location.date,
     type: "travel",
-    url: `https://anandchowdhary.com/travel/${new Date(
+    url: `https://anandchowdhary.com/location/${new Date(
       location.date
     ).getUTCFullYear()}/${slugify(location.label, {
       lower: true,
-    })}-${location.country_code.toLowerCase()}`,
+    })}`,
     source: `https://github.com/AnandChowdhary/location/commit/${location.hash}`,
     title: location.label,
     data: {
@@ -556,7 +556,7 @@ export const generate = async () => {
     type: "award",
     url: `https://anandchowdhary.com/press/${new Date(
       award.date
-    ).getUTCFullYear()}/${slugify(award.title, {
+    ).getUTCFullYear()}/${slugify(award.publisher, {
       lower: true,
     })}`,
     source: `https://github.com/AnandChowdhary/everything/blob/main/data/press.json`,
