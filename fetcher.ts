@@ -534,7 +534,7 @@ export const generate = async () => {
   const videos: TimelineVideo[] = (await getVideos()).map((video) => ({
     date: video.date,
     type: "video",
-    url: `https://anandchowdhary.com/press/${new Date(
+    url: `https://anandchowdhary.com/videos/${new Date(
       video.date
     ).getUTCFullYear()}/${slugify(video.title, {
       lower: true,
