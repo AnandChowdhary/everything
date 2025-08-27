@@ -1,5 +1,16 @@
 [
   {
+    "title": "Anand Chowdhary on his new startup, Typescript and other things",
+    "date": "2021-03-27",
+    "city": "New Delhi",
+    "country": "IN",
+    "href": "https://www.youtube.com/watch?v=O-bVJoWULBE",
+    "img": "https://img.youtube.com/vi/O-bVJoWULBE/maxresdefault.jpg",
+    "publisher": "Minimum Viable Podcast",
+    "duration": "1:49:42",
+    "description": "In this episode of the Minimum Viable Podcast, my old friend Anand talks about his interior design startup: Koj and his role and responsibilities there. We then move to the address my bias towards functional languages, and the reason why TypeScript is not the JavaScript we need. In time, we digress to utopian UIs."
+  },
+  {
     "title": "Building Technology for the Next Billion",
     "date": "2020-06-30",
     "city": "New Delhi",
