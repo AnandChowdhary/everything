@@ -67,7 +67,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/1dfaf405803c34b5eb6e4515030c5b996761fe8b9d36e633785ee9627e663c42/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/ec88073681ed45fbbdbeedf041103c6f6767452639620b6fdbb77aeac355c5e6/AnandChowdhary/priced-in"
     }
   },
   {
@@ -1905,6 +1905,21 @@
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Moved to Groningen, the Netherlands",
     "data": {}
+  },
+  {
+    "date": "2021-03-27",
+    "type": "video",
+    "url": "https://anandchowdhary.com/videos/2021/anand-chowdhary-on-his-new-startup-typescript-and-other-things",
+    "source": "https://github.com/AnandChowdhary/everything/blob/main/data/videos.json",
+    "title": "Anand Chowdhary on his new startup, Typescript and other things",
+    "data": {
+      "href": "https://www.youtube.com/watch?v=O-bVJoWULBE",
+      "city": "New Delhi",
+      "country": "IN",
+      "img": "https://img.youtube.com/vi/O-bVJoWULBE/maxresdefault.jpg",
+      "publisher": "Minimum Viable Podcast",
+      "duration": "1:49:42"
+    }
   },
   {
     "date": "2021-03-27",
