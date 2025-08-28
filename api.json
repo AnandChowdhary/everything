@@ -171,6 +171,17 @@
     }
   },
   {
+    "date": "2025-01-01T00:00:00.000Z",
+    "type": "theme",
+    "url": "https://anandchowdhary.com/themes/2025",
+    "source": "https://anandchowdhary.github.io/themes/themes/2025/year-of-sukriti",
+    "title": "Year of Sukriti",
+    "data": {
+      "year": 2025,
+      "description": "In 2025, I want to focus on my wife Sukriti. This time I did not write a blog post explaining this theme in detail - so see you next year!"
+    }
+  },
+  {
     "date": "2024-12-10T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2024/ai-community-day",
