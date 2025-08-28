@@ -1,5 +1,12 @@
 [
   {
+    "date": "2025-08-28T00:00:00.000Z",
+    "type": "version",
+    "url": "https://anandchowdhary.com/versions/2025/anchor",
+    "source": "https://anandchowdhary.github.io/versions/versions/2025/anchor",
+    "title": "Anchor"
+  },
+  {
     "date": "2025-07-14T10:13:02Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/claude-code-slack-bot",
@@ -67,7 +74,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/5a71a48c8c0fd85be7caa78982c6f19d9ad28829ec809d1ac4c25c11b4ad6f6b/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/dabb84fde4f7a8789b07a3fe498a2890fcf27b7c16ad75e454266959b1edff63/AnandChowdhary/priced-in"
     }
   },
   {
