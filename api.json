@@ -74,7 +74,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/8cfd2c1cf88a81b937df311ac5662ec14859839680e229dd591dc54f1129dbba/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/019a44d9c9d8c2b28450c064214016d706c2a6af124dd1211ac098188c2b0a4e/AnandChowdhary/priced-in"
     }
   },
   {
@@ -1407,10 +1407,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 101,
+      "stars": 100,
       "issues": 5,
       "forks": 18,
-      "watchers": 101,
+      "watchers": 100,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -2263,10 +2263,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16449,
+      "stars": 16473,
       "issues": 114,
-      "forks": 972,
-      "watchers": 16449,
+      "forks": 973,
+      "watchers": 16473,
       "topics": [
         "incidents-reports",
         "status",
@@ -2518,10 +2518,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 64,
+      "stars": 65,
       "issues": 10,
       "forks": 10,
-      "watchers": 64,
+      "watchers": 65,
       "topics": [
         "google",
         "google-docs",
@@ -3576,10 +3576,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 610,
+      "stars": 612,
       "issues": 7,
       "forks": 75,
-      "watchers": 610,
+      "watchers": 612,
       "topics": [
         "calendar",
         "calendar-link",
