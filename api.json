@@ -74,7 +74,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/019a44d9c9d8c2b28450c064214016d706c2a6af124dd1211ac098188c2b0a4e/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/5b8439a61362e1bf276279dddf3b572a38ca2fba4cd08edca22045dc7857ecef/AnandChowdhary/priced-in"
     }
   },
   {
@@ -6214,11 +6214,11 @@
   {
     "date": "2008-10-19",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/2008/published-my-first-website",
+    "url": "https://anandchowdhary.com/life/2008/first-internet-archive'd-website",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
-    "title": "Published my first website",
+    "title": "First Internet Archive'd website",
     "data": {
-      "description": "In the summer of 2008, I learned how to make websites using Macromedia Dreamweaver and the earliest website I made that is still available on the Internet Archive is from October 2008."
+      "description": "The earliest website I made that is still available on the Internet Archive is from October 2008."
     }
   },
   {
@@ -6229,6 +6229,16 @@
     "title": "Created a Gmail account",
     "data": {
       "description": "I created my first Google account with access to Gmail on the first day of 2008, a few days after I turned 10, which I still use to this day."
+    }
+  },
+  {
+    "date": "2007-06-01",
+    "type": "life-event",
+    "url": "https://anandchowdhary.com/life/2007/learned-how-to-make-websites",
+    "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
+    "title": "Learned how to make websites",
+    "data": {
+      "description": "In the summer of 2007, I learned how to make websites using Macromedia Dreamweaver and Adobe Photoshop from my uncle during my summer break."
     }
   },
   {
