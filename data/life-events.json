@@ -6,9 +6,14 @@
     "description": "I created my first Google account with access to Gmail on the first day of 2008, a few days after I turned 10, which I still use to this day."
   },
   {
+    "date": "2007-06-01",
+    "title": "Learned how to make websites",
+    "description": "In the summer of 2007, I learned how to make websites using Macromedia Dreamweaver and Adobe Photoshop from my uncle during my summer break."
+  },
+  {
     "date": "2008-10-19",
-    "title": "Published my first website",
-    "description": "In the summer of 2008, I learned how to make websites using Macromedia Dreamweaver and the earliest website I made that is still available on the Internet Archive is from October 2008."
+    "title": "First Internet Archive'd website",
+    "description": "The earliest website I made that is still available on the Internet Archive is from October 2008."
   },
   {
     "date": "2010-12-29",
