@@ -14,10 +14,10 @@
     "source": "https://github.com/AnandChowdhary/claude-code-slack-bot",
     "data": {
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
-      "stars": 5,
-      "issues": 0,
+      "stars": 6,
+      "issues": 1,
       "forks": 2,
-      "watchers": 5,
+      "watchers": 6,
       "topics": [
         "claude",
         "claude-ai",
@@ -42,7 +42,7 @@
     "data": {
       "description": "⁉️ Slack bot that answers questions using your Mintlify docs' built-in AI assistant",
       "stars": 3,
-      "issues": 0,
+      "issues": 1,
       "forks": 0,
       "watchers": 3,
       "topics": [
@@ -2263,10 +2263,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16473,
-      "issues": 114,
-      "forks": 973,
-      "watchers": 16473,
+      "stars": 16504,
+      "issues": 115,
+      "forks": 974,
+      "watchers": 16504,
       "topics": [
         "incidents-reports",
         "status",
@@ -3126,10 +3126,10 @@
     "source": "https://github.com/AnandChowdhary/feeedback",
     "data": {
       "description": "🙋 Collect feedback from your users on the web",
-      "stars": 8,
+      "stars": 9,
       "issues": 2,
       "forks": 3,
-      "watchers": 8,
+      "watchers": 9,
       "topics": [
         "dom",
         "feedback",
@@ -3447,7 +3447,7 @@
       "description": "📝 Version control your thoughts",
       "stars": 16,
       "issues": 3,
-      "forks": 1,
+      "forks": 2,
       "watchers": 16,
       "topics": [
         "app",
@@ -3576,10 +3576,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 612,
-      "issues": 7,
+      "stars": 614,
+      "issues": 10,
       "forks": 75,
-      "watchers": 612,
+      "watchers": 614,
       "topics": [
         "calendar",
         "calendar-link",
@@ -4125,10 +4125,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1869,
+      "stars": 1868,
       "issues": 50,
       "forks": 128,
-      "watchers": 1869,
+      "watchers": 1868,
       "topics": [
         "file-upload",
         "image",
