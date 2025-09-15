@@ -67,14 +67,14 @@
     "source": "https://github.com/AnandChowdhary/priced-in",
     "data": {
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
-      "stars": 34,
+      "stars": 35,
       "issues": 6,
-      "forks": 12,
-      "watchers": 34,
+      "forks": 13,
+      "watchers": 35,
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/e9aa45ae63bf6e54b1dd224b83de9fe27a121eb4f82ecf0bd77a6f4b32e67855/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/c948548a047be59ddd7f2f854a59bcbdfef9578986131346eef6ef76363f1722/AnandChowdhary/priced-in"
     }
   },
   {
@@ -2263,10 +2263,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16504,
+      "stars": 16511,
       "issues": 115,
-      "forks": 974,
-      "watchers": 16504,
+      "forks": 977,
+      "watchers": 16511,
       "topics": [
         "incidents-reports",
         "status",
@@ -3366,7 +3366,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 24,
-      "issues": 14,
+      "issues": 15,
       "forks": 3,
       "watchers": 24,
       "topics": [
@@ -3470,7 +3470,7 @@
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
       "stars": 67,
-      "issues": 9,
+      "issues": 10,
       "forks": 21,
       "watchers": 67,
       "topics": [
@@ -3576,10 +3576,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 614,
-      "issues": 10,
+      "stars": 613,
+      "issues": 9,
       "forks": 75,
-      "watchers": 614,
+      "watchers": 613,
       "topics": [
         "calendar",
         "calendar-link",
@@ -4125,10 +4125,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1868,
+      "stars": 1870,
       "issues": 50,
       "forks": 128,
-      "watchers": 1868,
+      "watchers": 1870,
       "topics": [
         "file-upload",
         "image",
