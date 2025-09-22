@@ -74,7 +74,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/d5f1c802ae6e1de715d6518211dcfbc025ff3343bf0062d82f9f44b1703742b7/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/526b064046ed159515076474db89277cd575515ebb7c8f7faea736796c7009bb/AnandChowdhary/priced-in"
     }
   },
   {
@@ -2263,10 +2263,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16511,
+      "stars": 16523,
       "issues": 115,
-      "forks": 977,
-      "watchers": 16511,
+      "forks": 981,
+      "watchers": 16523,
       "topics": [
         "incidents-reports",
         "status",
@@ -2518,10 +2518,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 65,
+      "stars": 66,
       "issues": 10,
       "forks": 10,
-      "watchers": 65,
+      "watchers": 66,
       "topics": [
         "google",
         "google-docs",
@@ -3576,10 +3576,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 613,
-      "issues": 9,
+      "stars": 614,
+      "issues": 10,
       "forks": 75,
-      "watchers": 613,
+      "watchers": 614,
       "topics": [
         "calendar",
         "calendar-link",
