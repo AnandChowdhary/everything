@@ -74,7 +74,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/c502bc410a498e8489a44d38692c4d2fd7236c746b6a220a2d9520ab6a8d102f/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/08c1a0ffb01c7f3fd71af8e3d477332c76ee9b413caa9f433e7c9c7f2d192dc9/AnandChowdhary/priced-in"
     }
   },
   {
@@ -464,10 +464,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 21,
+      "stars": 22,
       "issues": 2,
       "forks": 2,
-      "watchers": 21,
+      "watchers": 22,
       "topics": [
         "deliverability",
         "dns",
@@ -2263,10 +2263,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16523,
-      "issues": 115,
-      "forks": 981,
-      "watchers": 16523,
+      "stars": 16545,
+      "issues": 114,
+      "forks": 983,
+      "watchers": 16545,
       "topics": [
         "incidents-reports",
         "status",
@@ -3128,7 +3128,7 @@
       "description": "🙋 Collect feedback from your users on the web",
       "stars": 9,
       "issues": 2,
-      "forks": 3,
+      "forks": 4,
       "watchers": 9,
       "topics": [
         "dom",
@@ -4131,6 +4131,7 @@
       "watchers": 1870,
       "topics": [
         "file-upload",
+        "hacktoberfest",
         "image",
         "javascript",
         "plugin",
