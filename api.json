@@ -14,10 +14,10 @@
     "source": "https://github.com/AnandChowdhary/claude-code-slack-bot",
     "data": {
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
-      "stars": 6,
+      "stars": 7,
       "issues": 1,
       "forks": 2,
-      "watchers": 6,
+      "watchers": 7,
       "topics": [
         "claude",
         "claude-ai",
@@ -67,14 +67,14 @@
     "source": "https://github.com/AnandChowdhary/priced-in",
     "data": {
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
-      "stars": 35,
-      "issues": 6,
-      "forks": 13,
-      "watchers": 35,
+      "stars": 38,
+      "issues": 4,
+      "forks": 14,
+      "watchers": 38,
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/dccc23af1f57852609d1ee5fecf83086675bd4091956ea218c1a5ca661e5d3da/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/26dc2171b7635fa2bf5b8e7d1e6b5a80f10406931b94c1168de671cfa9fb52d9/AnandChowdhary/priced-in"
     }
   },
   {
@@ -464,10 +464,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 22,
+      "stars": 21,
       "issues": 2,
       "forks": 2,
-      "watchers": 22,
+      "watchers": 21,
       "topics": [
         "deliverability",
         "dns",
@@ -2263,10 +2263,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16545,
+      "stars": 16550,
       "issues": 114,
-      "forks": 983,
-      "watchers": 16545,
+      "forks": 981,
+      "watchers": 16550,
       "topics": [
         "incidents-reports",
         "status",
@@ -3469,10 +3469,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 67,
+      "stars": 68,
       "issues": 10,
       "forks": 21,
-      "watchers": 67,
+      "watchers": 68,
       "topics": [
         "generator",
         "icons",
@@ -3576,10 +3576,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 614,
-      "issues": 10,
-      "forks": 75,
-      "watchers": 614,
+      "stars": 615,
+      "issues": 11,
+      "forks": 76,
+      "watchers": 615,
       "topics": [
         "calendar",
         "calendar-link",
@@ -4125,10 +4125,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1870,
+      "stars": 1867,
       "issues": 50,
       "forks": 128,
-      "watchers": 1870,
+      "watchers": 1867,
       "topics": [
         "file-upload",
         "hacktoberfest",
