@@ -74,7 +74,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/2d3d42e353b6578b034ee05d8688e28f9f49d22fe6e2d14182b1c68b0cd2725a/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/332dbbf35f4c630e35f79446002e89e04009ac34c737eef86d1f93449c289984/AnandChowdhary/priced-in"
     }
   },
   {
@@ -122,10 +122,10 @@
     "source": "https://github.com/AnandChowdhary/chat",
     "data": {
       "description": "💬 Use your GitHub repo's Issues as your own ChatGPT (yes, really!)",
-      "stars": 14,
+      "stars": 13,
       "issues": 6,
       "forks": 0,
-      "watchers": 14,
+      "watchers": 13,
       "topics": [],
       "language": null,
       "languageColor": null,
@@ -464,10 +464,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 21,
+      "stars": 22,
       "issues": 2,
       "forks": 2,
-      "watchers": 21,
+      "watchers": 22,
       "topics": [
         "deliverability",
         "dns",
@@ -2263,10 +2263,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16550,
+      "stars": 16560,
       "issues": 114,
-      "forks": 981,
-      "watchers": 16550,
+      "forks": 986,
+      "watchers": 16560,
       "topics": [
         "incidents-reports",
         "status",
@@ -3576,10 +3576,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 615,
+      "stars": 614,
       "issues": 11,
-      "forks": 76,
-      "watchers": 615,
+      "forks": 77,
+      "watchers": 614,
       "topics": [
         "calendar",
         "calendar-link",
