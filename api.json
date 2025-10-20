@@ -74,7 +74,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/1329f20e892dfea339a86fe67908a7c5ae82fe301264d3c1c084b387406db332/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/b4eaf09f28edc6e45e00d4e77e7840e4c23b183f87c6a5b21c26b306a4e67639/AnandChowdhary/priced-in"
     }
   },
   {
@@ -2263,10 +2263,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16560,
-      "issues": 114,
-      "forks": 986,
-      "watchers": 16560,
+      "stars": 16587,
+      "issues": 113,
+      "forks": 994,
+      "watchers": 16587,
       "topics": [
         "incidents-reports",
         "status",
@@ -3128,7 +3128,7 @@
       "description": "🙋 Collect feedback from your users on the web",
       "stars": 9,
       "issues": 2,
-      "forks": 4,
+      "forks": 5,
       "watchers": 9,
       "topics": [
         "dom",
@@ -3576,10 +3576,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 614,
-      "issues": 11,
+      "stars": 613,
+      "issues": 10,
       "forks": 77,
-      "watchers": 614,
+      "watchers": 613,
       "topics": [
         "calendar",
         "calendar-link",
@@ -4125,10 +4125,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1867,
+      "stars": 1869,
       "issues": 50,
       "forks": 128,
-      "watchers": 1867,
+      "watchers": 1869,
       "topics": [
         "file-upload",
         "hacktoberfest",
