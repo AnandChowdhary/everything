@@ -67,14 +67,14 @@
     "source": "https://github.com/AnandChowdhary/priced-in",
     "data": {
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
-      "stars": 38,
+      "stars": 39,
       "issues": 4,
       "forks": 14,
-      "watchers": 38,
+      "watchers": 39,
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/d953620debde7102fdc0d41f276b81c99b622fe07aa783888b98c17c55d3007f/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/3f59f954a8b41f705a78529fb7b57f3d04e32a0b4494c2611f00678c4dad7f24/AnandChowdhary/priced-in"
     }
   },
   {
@@ -122,10 +122,10 @@
     "source": "https://github.com/AnandChowdhary/chat",
     "data": {
       "description": "💬 Use your GitHub repo's Issues as your own ChatGPT (yes, really!)",
-      "stars": 13,
+      "stars": 12,
       "issues": 6,
       "forks": 0,
-      "watchers": 13,
+      "watchers": 12,
       "topics": [],
       "language": null,
       "languageColor": null,
@@ -2263,10 +2263,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16587,
+      "stars": 16637,
       "issues": 113,
-      "forks": 994,
-      "watchers": 16587,
+      "forks": 997,
+      "watchers": 16637,
       "topics": [
         "incidents-reports",
         "status",
@@ -3447,7 +3447,7 @@
       "description": "📝 Version control your thoughts",
       "stars": 16,
       "issues": 3,
-      "forks": 2,
+      "forks": 1,
       "watchers": 16,
       "topics": [
         "app",
@@ -4126,7 +4126,7 @@
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
       "stars": 1869,
-      "issues": 50,
+      "issues": 51,
       "forks": 128,
       "watchers": 1869,
       "topics": [
