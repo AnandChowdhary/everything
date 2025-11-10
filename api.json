@@ -74,7 +74,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/dc19f7a20c1b5494849d290e72e83d532bd5b6dc6a29b3fdbc8c02dab547dc94/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/e73c5b744f26708d283a7fa39672f45e171cb04d2a8fd320cacf2b6fdf19b074/AnandChowdhary/priced-in"
     }
   },
   {
@@ -464,10 +464,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 22,
+      "stars": 23,
       "issues": 2,
       "forks": 2,
-      "watchers": 22,
+      "watchers": 23,
       "topics": [
         "deliverability",
         "dns",
@@ -2263,10 +2263,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16637,
+      "stars": 16644,
       "issues": 113,
-      "forks": 997,
-      "watchers": 16637,
+      "forks": 999,
+      "watchers": 16644,
       "topics": [
         "incidents-reports",
         "status",
