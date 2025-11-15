@@ -1,5 +1,15 @@
 [
   {
+    "date": "2025-11-15T15:22:04.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2025/running-claude-code-in-a-loop",
+    "source": "https://anandchowdhary.github.io/blog/blog/2025/running-claude-code-in-a-loop",
+    "title": "Running Claude Code in a loop",
+    "data": {
+      "excerpt": "This all started because I was contractually obligated to write unit tests for a codebase with hundreds of thousands of lines of code and go from 0% to 80%+ coverage in the next few weeks - seems like something Claude should do. So I built Continuous Claude, a CLI tool to run Claude Code in a loop that maintains a persistent context across multiple iterations."
+    }
+  },
+  {
     "date": "2025-08-28T00:00:00.000Z",
     "type": "version",
     "url": "https://anandchowdhary.com/versions/2025/anchor",
@@ -74,7 +84,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/f9e63ba03fdc7deda6b2ef0292810ec902bd5f3afc2d0869e6f8ee504439db1b/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/84a2b896049d5eb7657374df55b00cbdd1d3ae5b40024fd7b8c0673439b37907/AnandChowdhary/priced-in"
     }
   },
   {
