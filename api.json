@@ -10,6 +10,24 @@
     }
   },
   {
+    "date": "2025-11-15T08:59:04Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/continuous-claude",
+    "url": "https://anandchowdhary.com/open-source/2025/continuous-claude",
+    "source": "https://github.com/AnandChowdhary/continuous-claude",
+    "data": {
+      "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+      "stars": 8,
+      "issues": 0,
+      "forks": 3,
+      "watchers": 8,
+      "topics": [],
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "openGraphImageUrl": "https://opengraph.githubassets.com/3173a046ab3b6c976de95f0de421e91742222f688f88b5a41dd620fc8256beb1/AnandChowdhary/continuous-claude"
+    }
+  },
+  {
     "date": "2025-08-28T00:00:00.000Z",
     "type": "version",
     "url": "https://anandchowdhary.com/versions/2025/anchor",
@@ -84,7 +102,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/9546e52bc13590d5dc5a39330d106d2e286012999a829828b036665ca4cf1354/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/594a3fc43a065a8d74a5ffc798fe97d24355ead250c9257720e61becdbbfd9c4/AnandChowdhary/priced-in"
     }
   },
   {
@@ -596,7 +614,7 @@
       "description": "Get any question answered. A knowledge search engine powered by Google Search and GPT-4, similar to Bing Chat or You.",
       "stars": 4,
       "issues": 3,
-      "forks": 1,
+      "forks": 2,
       "watchers": 4,
       "topics": [
         "google",
@@ -2273,10 +2291,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16644,
+      "stars": 16655,
       "issues": 113,
-      "forks": 999,
-      "watchers": 16644,
+      "forks": 998,
+      "watchers": 16655,
       "topics": [
         "incidents-reports",
         "status",
@@ -3588,7 +3606,7 @@
       "description": "📅 Calendar link generator for popular services",
       "stars": 613,
       "issues": 10,
-      "forks": 77,
+      "forks": 78,
       "watchers": 613,
       "topics": [
         "calendar",
