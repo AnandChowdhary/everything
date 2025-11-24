@@ -17,10 +17,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 617,
+      "stars": 621,
       "issues": 3,
-      "forks": 40,
-      "watchers": 617,
+      "forks": 41,
+      "watchers": 621,
       "topics": [
         "ai",
         "ai-agents",
@@ -2297,10 +2297,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16682,
+      "stars": 16681,
       "issues": 114,
       "forks": 1006,
-      "watchers": 16682,
+      "watchers": 16681,
       "topics": [
         "incidents-reports",
         "status",
