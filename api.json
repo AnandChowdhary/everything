@@ -17,14 +17,20 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 8,
-      "issues": 0,
-      "forks": 3,
-      "watchers": 8,
-      "topics": [],
+      "stars": 617,
+      "issues": 3,
+      "forks": 40,
+      "watchers": 617,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "continuous-ai"
+      ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/0e91ccc9f7aff3b5275984b580048b08648a85a7a36e3d003c183af0b2621d1e/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/fa3f1e76ebc079e98f2699b38fb75c79040c0f202609047929d5e31ec2b0150d/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -44,7 +50,7 @@
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
       "stars": 7,
       "issues": 1,
-      "forks": 2,
+      "forks": 3,
       "watchers": 7,
       "topics": [
         "claude",
@@ -95,14 +101,14 @@
     "source": "https://github.com/AnandChowdhary/priced-in",
     "data": {
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
-      "stars": 39,
+      "stars": 44,
       "issues": 4,
-      "forks": 14,
-      "watchers": 39,
+      "forks": 15,
+      "watchers": 44,
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/0a320c5a3507a3eb18dfb7a5306d9b198f9bdfe2cc8d9bada4e1a0df66cfb90a/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/421566f5cec69d2ae1cf9d549b1c7d12672ed368dc52c2540e4d66bea70e619d/AnandChowdhary/priced-in"
     }
   },
   {
@@ -150,10 +156,10 @@
     "source": "https://github.com/AnandChowdhary/chat",
     "data": {
       "description": "💬 Use your GitHub repo's Issues as your own ChatGPT (yes, really!)",
-      "stars": 12,
+      "stars": 13,
       "issues": 6,
       "forks": 0,
-      "watchers": 12,
+      "watchers": 13,
       "topics": [],
       "language": null,
       "languageColor": null,
@@ -2023,10 +2029,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 70,
+      "stars": 71,
       "issues": 3,
       "forks": 18,
-      "watchers": 70,
+      "watchers": 71,
       "topics": [
         "api",
         "books",
@@ -2291,10 +2297,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16655,
-      "issues": 113,
-      "forks": 998,
-      "watchers": 16655,
+      "stars": 16682,
+      "issues": 114,
+      "forks": 1006,
+      "watchers": 16682,
       "topics": [
         "incidents-reports",
         "status",
@@ -3605,7 +3611,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 613,
-      "issues": 10,
+      "issues": 11,
       "forks": 78,
       "watchers": 613,
       "topics": [
@@ -4153,10 +4159,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1869,
+      "stars": 1868,
       "issues": 51,
       "forks": 128,
-      "watchers": 1869,
+      "watchers": 1868,
       "topics": [
         "file-upload",
         "hacktoberfest",
