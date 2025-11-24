@@ -1,5 +1,25 @@
 [
   {
+    "date": "2025-11-24T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2025/the-life-of-pabio",
+    "source": "https://anandchowdhary.github.io/blog/blog/2025/the-life-of-pabio",
+    "title": "The Life of Pabio",
+    "data": {
+      "excerpt": "This is the second chapter in my five-year retrospective. After accidentally founding Koj, we somehow convinced Y Combinator to let a furniture company into their batch (I still don't know how) and embarked on what I can only describe as the wildest operational rollercoaster of my life. Convincing Silicon Valley that sofas are SaaS\n\nWe weren't building the next frontier AI model or developer tool, we were arguing about ottoman colors and d"
+    }
+  },
+  {
+    "date": "2025-11-23T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2025/accidentally-founding-koj",
+    "source": "https://anandchowdhary.github.io/blog/blog/2025/accidentally-founding-koj",
+    "title": "Accidentally founding Koj",
+    "data": {
+      "excerpt": "This is the first chapter in a five-year retrospective I'm writing for myself as much as for anyone else. It's the story of how we accidentally founded Koj (later Pabio), and the lessons we learned along the way. A real meet-cute\n\nMy cofounder Carlo Badini created a new Slack workspace in October 2019. Carlo started Swiss explainer video agency Cleverclip in 2013 and after several years of running it, he was looking for hi"
+    }
+  },
+  {
     "date": "2025-11-15T15:22:04.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2025/running-claude-code-in-a-loop",
@@ -30,7 +50,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/3997ccc14ef8bc03da5b6f4d6b6a45ba4dd38d65511453c2b2c23af0285c814f/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/2dd024d20209e762ca6efcefb88bbf8dc86a478dcd46761f5525edd041c74c4f/AnandChowdhary/continuous-claude"
     }
   },
   {
