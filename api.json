@@ -1,5 +1,15 @@
 [
   {
+    "date": "2025-11-25T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2025/move-fast-and-save-things",
+    "source": "https://anandchowdhary.github.io/blog/blog/2025/move-fast-and-save-things",
+    "title": "Move fast and save things",
+    "data": {
+      "excerpt": "This is the third chapter in my five-year retrospective. After the life of Pabio, where we somehow convinced Y Combinator that sofas were SaaS and built an apartment in Zurich's main train station, we were about to discover that math doesn't care about your YC badge. Our culture was... unique? Carlo introduced the XX:59 meeting - every meeting started at 29 or 59 minutes past the hour so if you're on time at 8 am, you're already late. Miss the 7:59 am standup by even 30 seconds?"
+    }
+  },
+  {
     "date": "2025-11-24T00:00:00.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2025/the-life-of-pabio",
@@ -16,7 +26,7 @@
     "source": "https://anandchowdhary.github.io/blog/blog/2025/accidentally-founding-koj",
     "title": "Accidentally founding Koj",
     "data": {
-      "excerpt": "This is the first chapter in a five-year retrospective I'm writing for myself as much as for anyone else. It's the story of how we accidentally founded Koj (later Pabio), and the lessons we learned along the way. A real meet-cute\n\nMy cofounder Carlo Badini created a new Slack workspace in October 2019. Carlo started Swiss explainer video agency Cleverclip in 2013 and after several years of running it, he was looking for hi"
+      "excerpt": "This is the first chapter in a five-year retrospective about how two founders who'd never met in person built a furniture subscription company, got into Y Combinator, discovered we were losing money on every sofa, pivoted to AI in 48 hours, built the first AI SDR, and eventually sold everything. I'm writing this for myself as much as for anyone else - it's the kind of post-mortem I wish I'd read before starting. A real meet-cute\n\nMy cofounder Carlo Badini created a new Slack workspace"
     }
   },
   {
@@ -50,7 +60,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/2dd024d20209e762ca6efcefb88bbf8dc86a478dcd46761f5525edd041c74c4f/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/c7947dcd17610b26f344d13d17e5faeff44ab03463ee2a8bc03406e0a356500a/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -128,7 +138,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/5196aa0fbb61eb308b024a2f6ae45136ada9109cd8a92042af3aa7d71fda2855/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/61bc030200cba464865b8d3bc8d4189d44cb64c15f386c46b8b483f3b3a6568a/AnandChowdhary/priced-in"
     }
   },
   {
