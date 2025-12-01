@@ -47,10 +47,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 621,
-      "issues": 3,
-      "forks": 41,
-      "watchers": 621,
+      "stars": 729,
+      "issues": 6,
+      "forks": 51,
+      "watchers": 729,
       "topics": [
         "ai",
         "ai-agents",
@@ -60,7 +60,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/3f3a4b794670f6b1c86f7fe8f9051cc4805ccd32706f48faf30708ccf3b6da4e/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/3c527784e04119805071ac8544b58ab59e2f1896732a2ac687e81417260dbf94/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -78,10 +78,10 @@
     "source": "https://github.com/AnandChowdhary/claude-code-slack-bot",
     "data": {
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
-      "stars": 7,
+      "stars": 8,
       "issues": 1,
       "forks": 3,
-      "watchers": 7,
+      "watchers": 8,
       "topics": [
         "claude",
         "claude-ai",
@@ -132,13 +132,13 @@
     "data": {
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
       "stars": 44,
-      "issues": 4,
+      "issues": 5,
       "forks": 15,
       "watchers": 44,
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/799b12529c9646e2f02f7e6fcd2e26f70ad1b0356140581de176ee32d96945d1/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/51a25240f3630f5b1e1e25c8a734812dc357e8cd092bebac6186e6f7df23cece/AnandChowdhary/priced-in"
     }
   },
   {
@@ -1471,10 +1471,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 100,
+      "stars": 101,
       "issues": 5,
       "forks": 18,
-      "watchers": 100,
+      "watchers": 101,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -2327,10 +2327,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16681,
+      "stars": 16693,
       "issues": 114,
-      "forks": 1006,
-      "watchers": 16681,
+      "forks": 1007,
+      "watchers": 16693,
       "topics": [
         "incidents-reports",
         "status",
