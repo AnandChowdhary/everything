@@ -1,6 +1,3 @@
-const CACHE_ENABLED = Deno.env.get("CACHE_ENABLED") === "true";
-console.log("Cache enabled", CACHE_ENABLED);
-
 import { slugify } from "https://deno.land/x/slugify@0.3.0/mod.ts";
 import type {
   IBlogPost,
@@ -32,11 +29,6 @@ import type {
   TimelineVideo,
 } from "./types/index.d.ts";
 const getOkrs = async (): Promise<IOkrs> => {
-  if (CACHE_ENABLED) {
-    const data = await Deno.readTextFile("./.cache/okrs.json");
-    return JSON.parse(data);
-  }
-
   const okrs = (await (
     await fetch(
       "https://raw.githubusercontent.com/AnandChowdhary/okrs/main/api.json"
@@ -46,11 +38,6 @@ const getOkrs = async (): Promise<IOkrs> => {
 };
 
 const getEvents = async (): Promise<IEvent[]> => {
-  if (CACHE_ENABLED) {
-    const data = await Deno.readTextFile("./.cache/events.json");
-    return JSON.parse(data);
-  }
-
   const events = (await (
     await fetch(
       "https://raw.githubusercontent.com/AnandChowdhary/events/main/api.json"
@@ -60,11 +47,6 @@ const getEvents = async (): Promise<IEvent[]> => {
 };
 
 const getThemes = async (): Promise<ITheme[]> => {
-  if (CACHE_ENABLED) {
-    const data = await Deno.readTextFile("./.cache/themes.json");
-    return JSON.parse(data);
-  }
-
   const themes = (await (
     await fetch(
       "https://raw.githubusercontent.com/AnandChowdhary/themes/main/api.json"
@@ -74,11 +56,6 @@ const getThemes = async (): Promise<ITheme[]> => {
 };
 
 const getProjects = async (): Promise<IProject[]> => {
-  if (CACHE_ENABLED) {
-    const data = await Deno.readTextFile("./.cache/projects.json");
-    return JSON.parse(data);
-  }
-
   const projects = (await (
     await fetch(
       "https://raw.githubusercontent.com/AnandChowdhary/projects/main/api.json"
@@ -88,11 +65,6 @@ const getProjects = async (): Promise<IProject[]> => {
 };
 
 const getVersions = async (): Promise<IVersion[]> => {
-  if (CACHE_ENABLED) {
-    const data = await Deno.readTextFile("./.cache/versions.json");
-    return JSON.parse(data);
-  }
-
   const versions = (await (
     await fetch(
       "https://raw.githubusercontent.com/AnandChowdhary/versions/main/api.json"
@@ -102,11 +74,6 @@ const getVersions = async (): Promise<IVersion[]> => {
 };
 
 const getBlogPosts = async (): Promise<IBlogPost[]> => {
-  if (CACHE_ENABLED) {
-    const data = await Deno.readTextFile("./.cache/blog.json");
-    return JSON.parse(data);
-  }
-
   const blogPosts = (await (
     await fetch(
       "https://raw.githubusercontent.com/AnandChowdhary/blog/HEAD/api.json"
@@ -116,11 +83,6 @@ const getBlogPosts = async (): Promise<IBlogPost[]> => {
 };
 
 const getBooks = async (): Promise<IBook[]> => {
-  if (CACHE_ENABLED) {
-    const data = await Deno.readTextFile("./.cache/books.json");
-    return JSON.parse(data);
-  }
-
   const books = (await (
     await fetch(
       "https://raw.githubusercontent.com/AnandChowdhary/books/HEAD/api.json"
@@ -151,11 +113,6 @@ const getVideos = async () => {
 };
 
 const getRepos = async (): Promise<IRepo[]> => {
-  if (CACHE_ENABLED) {
-    const data = await Deno.readTextFile("./.cache/repos.json");
-    return JSON.parse(data);
-  }
-
   const repos = (await (
     await fetch(
       "https://raw.githubusercontent.com/AnandChowdhary/featured/HEAD/repos.json"
@@ -187,11 +144,6 @@ const getRepos = async (): Promise<IRepo[]> => {
 };
 
 const getLocation = async (): Promise<ILocation[]> => {
-  if (CACHE_ENABLED) {
-    const data = await Deno.readTextFile("./.cache/location.json");
-    return JSON.parse(data);
-  }
-
   const locations = (await (
     await fetch(
       "https://raw.githubusercontent.com/AnandChowdhary/location/gh-pages/history-countries.json"
