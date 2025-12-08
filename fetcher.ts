@@ -1,450 +1,53 @@
-import { readFile, writeFile } from "fs/promises";
-import slugify from "slugify";
-import type {
-  IBlogPost,
-  IBook,
-  IEvent,
-  ILifeEvent,
-  ILocation,
-  IOkrs,
-  IPress,
-  IProject,
-  IRepo,
-  ITheme,
-  IVersion,
-  IVideo,
-  Timeline,
-  TimelineAward,
-  TimelineBlogPost,
-  TimelineBook,
-  TimelineEvent,
-  TimelineLifeEvent,
-  TimelineOkr,
-  TimelineOpenSourceProject,
-  TimelinePodcastInterview,
-  TimelinePressFeature,
-  TimelineProject,
-  TimelineTheme,
-  TimelineTravel,
-  TimelineVersion,
-  TimelineVideo,
-} from "./types/index.d.ts";
-const getOkrs = async (): Promise<IOkrs> => {
-  const okrs = (await (
-    await fetch(
-      "https://raw.githubusercontent.com/AnandChowdhary/okrs/main/api.json"
-    )
-  ).json()) as IOkrs;
-  return okrs;
-};
-
-const getEvents = async (): Promise<IEvent[]> => {
-  const events = (await (
-    await fetch(
-      "https://raw.githubusercontent.com/AnandChowdhary/events/main/api.json"
-    )
-  ).json()) as IEvent[];
-  return events;
-};
-
-const getThemes = async (): Promise<ITheme[]> => {
-  const themes = (await (
-    await fetch(
-      "https://raw.githubusercontent.com/AnandChowdhary/themes/main/api.json"
-    )
-  ).json()) as ITheme[];
-  return themes;
-};
-
-const getProjects = async (): Promise<IProject[]> => {
-  const projects = (await (
-    await fetch(
-      "https://raw.githubusercontent.com/AnandChowdhary/projects/main/api.json"
-    )
-  ).json()) as IProject[];
-  return projects;
-};
-
-const getVersions = async (): Promise<IVersion[]> => {
-  const versions = (await (
-    await fetch(
-      "https://raw.githubusercontent.com/AnandChowdhary/versions/main/api.json"
-    )
-  ).json()) as IVersion[];
-  return versions;
-};
-
-const getBlogPosts = async (): Promise<IBlogPost[]> => {
-  const blogPosts = (await (
-    await fetch(
-      "https://raw.githubusercontent.com/AnandChowdhary/blog/HEAD/api.json"
-    )
-  ).json()) as IBlogPost[];
-  return blogPosts.filter((post) => !post.attributes?.draft);
-};
-
-const getBooks = async (): Promise<IBook[]> => {
-  const books = (await (
-    await fetch(
-      "https://raw.githubusercontent.com/AnandChowdhary/books/HEAD/api.json"
-    )
-  ).json()) as IBook[];
-  return books;
-};
-
-const getLifeEvents = async (): Promise<ILifeEvent[]> => {
-  const lifeEvents = JSON.parse(
-    await readFile("./data/life-events.json", "utf-8")
-  ) as ILifeEvent[];
-  return lifeEvents;
-};
-
-const getPress = async (): Promise<IPress> => {
-  const press = JSON.parse(
-    await readFile("./data/press.json", "utf-8")
-  ) as IPress;
-  return press;
-};
-
-const getVideos = async () => {
-  const videos = JSON.parse(
-    await readFile("./data/videos.json", "utf-8")
-  ) as IVideo[];
-  return videos;
-};
-
-const getRepos = async (): Promise<IRepo[]> => {
-  const repos = (await (
-    await fetch(
-      "https://raw.githubusercontent.com/AnandChowdhary/featured/HEAD/repos.json"
-    )
-  ).json()) as (IRepo & { open_graph_image_url?: string })[];
-
-  for (const repo of repos) {
-    const [owner, slug] = repo.full_name.split("/");
-    const res = await fetch("https://api.github.com/graphql", {
-      method: "POST",
-      headers: { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` },
-      body: JSON.stringify({
-        query: `
-          {
-            repository(owner: "${owner}", name: "${slug}") {  
-              openGraphImageUrl
-            }
-          }
-        `,
-      }),
-    });
-    const json = (await res.json()) as {
-      data?: { repository?: { openGraphImageUrl?: string } };
-    };
-    repo.open_graph_image_url = json?.data?.repository?.openGraphImageUrl;
-  }
-
-  return repos;
-};
-
-const getLocation = async (): Promise<ILocation[]> => {
-  const locations = (await (
-    await fetch(
-      "https://raw.githubusercontent.com/AnandChowdhary/location/gh-pages/history-countries.json"
-    )
-  ).json()) as ILocation[];
-  return locations;
-};
+import { writeFile } from "fs/promises";
+import { getBlogPosts } from "./fetchers/blog-posts";
+import { getBooks } from "./fetchers/books";
+import { getEvents } from "./fetchers/events";
+import { getLifeEvents } from "./fetchers/life-events";
+import { getLocation } from "./fetchers/location";
+import { getOkrs } from "./fetchers/okrs";
+import { getPress } from "./fetchers/press";
+import { getProjects } from "./fetchers/projects";
+import { getRepos } from "./fetchers/repos";
+import { getThemes } from "./fetchers/themes";
+import { getVersions } from "./fetchers/versions";
+import { getVideos } from "./fetchers/videos";
+import { transformBlogPosts } from "./transformers/blog-posts";
+import { transformBooks } from "./transformers/books";
+import { transformEvents } from "./transformers/events";
+import { transformLifeEvents } from "./transformers/life-events";
+import { transformLocation } from "./transformers/location";
+import { transformOkrs } from "./transformers/okrs";
+import {
+  transformAwards,
+  transformPodcastInterviews,
+  transformPressFeatures,
+} from "./transformers/press";
+import { transformProjects } from "./transformers/projects";
+import { transformRepos } from "./transformers/repos";
+import { transformThemes } from "./transformers/themes";
+import { transformVersions } from "./transformers/versions";
+import { transformVideos } from "./transformers/videos";
+import type { Timeline } from "./types/index.d.ts";
 
 export const generate = async () => {
-  const {
-    awards: awardsData,
-    podcasts: podcastsData,
-    features: featuresData,
-  } = await getPress();
-
-  const { years } = await getOkrs();
-  const okrs: TimelineOkr[] = [];
-  years.forEach(({ name, quarters }) => {
-    quarters.forEach((quarter) => {
-      const date = new Date();
-      date.setUTCFullYear(name);
-      date.setUTCDate(1);
-      date.setUTCMonth((quarter.name - 1) * 3);
-      okrs.push({
-        type: "okr",
-        url: `https://anandchowdhary.com/okrs/${name}/${quarter.name}`,
-        source: `https://anandchowdhary.github.io/okrs/okrs/${name}/${quarter.name}.json`,
-        title: `Published OKRs for Q${quarter.name} ${name}`,
-        date: date.toISOString().substring(0, 10),
-        data: {
-          ...quarter,
-          description: quarter.objectives.map(({ name }) => name).join(", "),
-        },
-      });
-    });
-  });
-
-  const events: TimelineEvent[] = (await getEvents()).map((event) => ({
-    date: event.date,
-    type: "event",
-    url: `https://anandchowdhary.com/events/${new Date(
-      event.date
-    ).getUTCFullYear()}/${event.slug.replace(".md", "")}`,
-    source: `https://anandchowdhary.github.io/events/events/${new Date(
-      event.date
-    ).getUTCFullYear()}/${event.slug.replace(".md", "")}`,
-    title: event.title,
-    data: {
-      remote: !!event.attributes.remote,
-      country: event.attributes.country,
-      city: event.attributes.city,
-      venue: event.attributes.venue,
-      coordinates: event.attributes.coordinates,
-      video: event.attributes.video,
-      event: event.attributes.event,
-      talk: event.attributes.talk,
-      slides: event.attributes.slides,
-      embed: event.attributes.embed,
-    },
-  }));
-
-  const projects: TimelineProject[] = (await getProjects()).map((project) => ({
-    date: project.date,
-    type: "project",
-    url: `https://anandchowdhary.com/projects/${new Date(
-      project.date
-    ).getUTCFullYear()}/${project.slug.replace(".md", "")}`,
-    source: `https://anandchowdhary.github.io/projects/projects/${new Date(
-      project.date
-    ).getUTCFullYear()}/${project.slug.replace(".md", "")}`,
-    title: project.title,
-    data: {
-      description: project.attributes?.intro ?? project.excerpt,
-      tags: [
-        ...(project.attributes?.work ?? []),
-        ...(project.attributes?.tools ?? []),
-        ...(project.attributes?.stack ?? []),
-      ],
-      collaborators: project.attributes?.collaborators ?? [],
-      icon: project.attributes?.icon
-        ? {
-            url: `https://raw.githubusercontent.com/AnandChowdhary/projects/main${project.attributes.icon}`,
-            requiresBackground: !!project.attributes?.icon_bg,
-          }
-        : undefined,
-      image: project.attributes?.img_src
-        ? {
-            url: `https://raw.githubusercontent.com/AnandChowdhary/projects/main${
-              project.attributes.img_src
-            }${
-              project.attributes?.img_type
-                ? `.${project.attributes.img_type}`
-                : ""
-            }`,
-            attachment:
-              project.attributes?.style === "padded" ? "padded" : "cover",
-            color: project.attributes?.bg,
-          }
-        : undefined,
-    },
-  }));
-
-  const versions: TimelineVersion[] = (await getVersions()).map((version) => ({
-    date: version.date,
-    type: "version",
-    url: `https://anandchowdhary.com/versions/${new Date(
-      version.date
-    ).getUTCFullYear()}/${version.slug.replace(".md", "")}`,
-    source: `https://anandchowdhary.github.io/versions/versions/${new Date(
-      version.date
-    ).getUTCFullYear()}/${version.slug.replace(".md", "")}`,
-    title: version.title,
-    data: undefined,
-  }));
-
-  const blog: TimelineBlogPost[] = (await getBlogPosts()).map((post) => ({
-    date: post.date,
-    type: "blog-post",
-    url: `https://anandchowdhary.com/blog/${new Date(
-      post.date
-    ).getUTCFullYear()}/${post.slug.replace(".md", "")}`,
-    source: `https://anandchowdhary.github.io/blog/blog/${new Date(
-      post.date
-    ).getUTCFullYear()}/${post.slug.replace(".md", "")}`,
-    title: post.title,
-    data: { words: post.words, excerpt: post.excerpt },
-  }));
-
-  const themes: TimelineTheme[] = (await getThemes()).map((theme) => ({
-    date: theme.date,
-    type: "theme",
-    url: `https://anandchowdhary.com/themes/${new Date(
-      theme.date
-    ).getUTCFullYear()}`,
-    source: `https://anandchowdhary.github.io/themes/themes/${new Date(
-      theme.date
-    ).getUTCFullYear()}/${theme.slug.replace(".md", "")}`,
-    title: theme.title,
-    data: {
-      year: new Date(theme.date).getUTCFullYear(),
-      description: theme.excerpt,
-    },
-  }));
-
-  const books: TimelineBook[] = (await getBooks())
-    .filter(({ state }) => state == "completed")
-    .map((book) => ({
-      date: book.startedAt,
-      type: "book",
-      url: `https://anandchowdhary.com/books/${new Date(
-        book.startedAt
-      ).getUTCFullYear()}/${slugify(book.title, {
-        lower: true,
-      })}`,
-      source: `https://github.com/AnandChowdhary/books/issues/${book.issueNumber}`,
-      title: book.title,
-      data: { image: book.image, authors: book.authors },
-    }));
-
-  const locations: TimelineTravel[] = (await getLocation()).map((location) => ({
-    date: location.date,
-    type: "travel",
-    url: `https://anandchowdhary.com/location/${new Date(
-      location.date
-    ).getUTCFullYear()}/${slugify(location.label, {
-      lower: true,
-    })}`,
-    source: `https://github.com/AnandChowdhary/location/commit/${location.hash}`,
-    title: location.label,
-    data: {
-      hash: location.hash,
-      approximateCoordinates: location.coordinates,
-      label: location.label,
-      countryCode: location.country_code,
-    },
-  }));
-
-  const lifeEvents: TimelineLifeEvent[] = (await getLifeEvents()).map(
-    (event) => ({
-      date: event.date,
-      type: "life-event",
-      url: `https://anandchowdhary.com/life/${new Date(
-        event.date
-      ).getUTCFullYear()}/${slugify(event.title, {
-        lower: true,
-      })}`,
-      source: `https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json`,
-      title: event.title,
-      data: { description: event.description },
-    })
-  );
-
-  const videos: TimelineVideo[] = (await getVideos()).map((video) => ({
-    date: video.date,
-    type: "video",
-    url: `https://anandchowdhary.com/videos/${new Date(
-      video.date
-    ).getUTCFullYear()}/${slugify(video.title, {
-      lower: true,
-    })}`,
-    source: `https://github.com/AnandChowdhary/everything/blob/main/data/videos.json`,
-    title: video.title,
-    data: {
-      href: video.href,
-      city: video.city,
-      country: video.country,
-      img: video.img,
-      publisher: video.publisher,
-      duration: video.duration,
-    },
-  }));
-
-  const awards: TimelineAward[] = awardsData.map((award) => ({
-    date: award.date,
-    type: "award",
-    url: `https://anandchowdhary.com/press/${new Date(
-      award.date
-    ).getUTCFullYear()}/${slugify(award.publisher, {
-      lower: true,
-    })}`,
-    source: `https://github.com/AnandChowdhary/everything/blob/main/data/press.json`,
-    title: award.title,
-    data: { href: award.href, publisher: award.publisher },
-  }));
-
-  const podcastInterviews: TimelinePodcastInterview[] = podcastsData.map(
-    (interview) => ({
-      date: interview.date,
-      type: "podcast-interview",
-      url: `https://anandchowdhary.com/press/${new Date(
-        interview.date
-      ).getUTCFullYear()}/${slugify(interview.publisher, {
-        lower: true,
-      })}`,
-      source: `https://github.com/AnandChowdhary/everything/blob/main/data/press.json`,
-      title: interview.title,
-      data: {
-        href: interview.href,
-        publisher: interview.publisher,
-        embed: interview.embed,
-      },
-    })
-  );
-
-  const pressFeatures: TimelinePressFeature[] = featuresData.map((article) => ({
-    date: article.date,
-    type: "press-feature",
-    url: `https://anandchowdhary.com/press/${new Date(
-      article.date
-    ).getUTCFullYear()}/${slugify(article.publisher, {
-      lower: true,
-    })}`,
-    source: `https://github.com/AnandChowdhary/everything/blob/main/data/press.json`,
-    title: article.title,
-    data: {
-      publisher: article.publisher,
-      href: article.href,
-      author: article.author,
-      description: article.description,
-    },
-  }));
-
-  const openSourceProjects: TimelineOpenSourceProject[] = (
-    await getRepos()
-  ).map((repo) => ({
-    date: repo.created_at,
-    type: "open-source-project",
-    title: repo.full_name,
-    url: `https://anandchowdhary.com/open-source/${new Date(
-      repo.created_at
-    ).getUTCFullYear()}/${repo.full_name.split("/")[1]}`,
-    source: repo.html_url,
-    data: {
-      description: repo.description,
-      stars: repo.stargazers_count,
-      issues: repo.open_issues,
-      forks: repo.forks_count,
-      watchers: repo.watchers_count,
-      topics: repo.topics ?? [],
-      language: repo.language,
-      languageColor: repo.language_color,
-      openGraphImageUrl: repo.open_graph_image_url,
-    },
-  }));
+  const press = await getPress();
+  const okrs = await getOkrs();
 
   const timeline: Timeline = [
-    ...okrs,
-    ...events,
-    ...projects,
-    ...versions,
-    ...blog,
-    ...themes,
-    ...books,
-    ...locations,
-    ...lifeEvents,
-    ...videos,
-    ...awards,
-    ...podcastInterviews,
-    ...pressFeatures,
-    ...openSourceProjects,
+    ...transformOkrs(okrs),
+    ...transformEvents(await getEvents()),
+    ...transformProjects(await getProjects()),
+    ...transformVersions(await getVersions()),
+    ...transformBlogPosts(await getBlogPosts()),
+    ...transformThemes(await getThemes()),
+    ...transformBooks(await getBooks()),
+    ...transformLocation(await getLocation()),
+    ...transformLifeEvents(await getLifeEvents()),
+    ...transformVideos(await getVideos()),
+    ...transformAwards(press.awards),
+    ...transformPodcastInterviews(press.podcasts),
+    ...transformPressFeatures(press.features),
+    ...transformRepos(await getRepos()),
   ].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   await writeFile(
