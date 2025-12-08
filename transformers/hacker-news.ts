@@ -1,4 +1,3 @@
-import slugify from "slugify";
 import type { IHackerNews, TimelineHackerNews } from "../types/index.d.ts";
 
 export const transformHackerNews = (
@@ -7,11 +6,7 @@ export const transformHackerNews = (
   return items.map((item) => ({
     date: item.date,
     type: "hacker-news",
-    url: `https://anandchowdhary.com/hacker-news/${new Date(
-      item.date
-    ).getUTCFullYear()}/${slugify(item.title, {
-      lower: true,
-    })}`,
+    url: `https://news.ycombinator.com/item?id=${item.id}`,
     source: item.url,
     title: item.title,
     data: {

@@ -1,4 +1,4 @@
-import slugify from "slugify";
+import { slugify } from "@sindresorhus/slugify";
 import type { ILifeEvent, TimelineLifeEvent } from "../types/index.d.ts";
 
 export const transformLifeEvents = (
@@ -9,9 +9,7 @@ export const transformLifeEvents = (
     type: "life-event",
     url: `https://anandchowdhary.com/life/${new Date(
       event.date
-    ).getUTCFullYear()}/${slugify(event.title, {
-      lower: true,
-    })}`,
+    ).getUTCFullYear()}/${slugify(event.title)}`,
     source: `https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json`,
     title: event.title,
     data: { description: event.description },

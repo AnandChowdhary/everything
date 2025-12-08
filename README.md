@@ -14,6 +14,7 @@ The project is organized into modular components:
 - **`transformers/`** - Functions that transform raw data into timeline items
 - **`types/`** - TypeScript type definitions
 - **`data/`** - Local JSON data files
+- **`tests/`** - Test files for individual data sources
 
 ## 💽 Data Sources
 
@@ -28,6 +29,7 @@ This repository generates an API from the data available in the [`./data`](./dat
 - 📱 [AnandChowdhary/projects](https://github.com/AnandChowdhary/projects) - Projects I've worked on
 - 🌈 [AnandChowdhary/themes](https://github.com/AnandChowdhary/themes) - My yearly themes
 - 🔖 [AnandChowdhary/versions](https://github.com/AnandChowdhary/versions) - Redesigns of my personal website
+- 🟠 [Hacker News](https://news.ycombinator.com/favorites?id=anandchowdhary) - My Hacker News favorites
 
 ## 📄 License
 

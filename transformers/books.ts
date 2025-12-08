@@ -1,4 +1,4 @@
-import slugify from "slugify";
+import { slugify } from "@sindresorhus/slugify";
 import type { IBook, TimelineBook } from "../types/index.d.ts";
 
 export const transformBooks = (books: IBook[]): TimelineBook[] => {
@@ -9,9 +9,7 @@ export const transformBooks = (books: IBook[]): TimelineBook[] => {
       type: "book",
       url: `https://anandchowdhary.com/books/${new Date(
         book.startedAt
-      ).getUTCFullYear()}/${slugify(book.title, {
-        lower: true,
-      })}`,
+      ).getUTCFullYear()}/${slugify(book.title)}`,
       source: `https://github.com/AnandChowdhary/books/issues/${book.issueNumber}`,
       title: book.title,
       data: { image: book.image, authors: book.authors },

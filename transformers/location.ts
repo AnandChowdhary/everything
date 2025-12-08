@@ -1,4 +1,4 @@
-import slugify from "slugify";
+import { slugify } from "@sindresorhus/slugify";
 import type { ILocation, TimelineTravel } from "../types/index.d.ts";
 
 export const transformLocation = (locations: ILocation[]): TimelineTravel[] => {
@@ -7,9 +7,7 @@ export const transformLocation = (locations: ILocation[]): TimelineTravel[] => {
     type: "travel",
     url: `https://anandchowdhary.com/location/${new Date(
       location.date
-    ).getUTCFullYear()}/${slugify(location.label, {
-      lower: true,
-    })}`,
+    ).getUTCFullYear()}/${slugify(location.label)}`,
     source: `https://github.com/AnandChowdhary/location/commit/${location.hash}`,
     title: location.label,
     data: {

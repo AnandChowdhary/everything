@@ -1,4 +1,4 @@
-import slugify from "slugify";
+import { slugify } from "@sindresorhus/slugify";
 import type { IVideo, TimelineVideo } from "../types/index.d.ts";
 
 export const transformVideos = (videos: IVideo[]): TimelineVideo[] => {
@@ -7,9 +7,7 @@ export const transformVideos = (videos: IVideo[]): TimelineVideo[] => {
     type: "video",
     url: `https://anandchowdhary.com/videos/${new Date(
       video.date
-    ).getUTCFullYear()}/${slugify(video.title, {
-      lower: true,
-    })}`,
+    ).getUTCFullYear()}/${slugify(video.title)}`,
     source: `https://github.com/AnandChowdhary/everything/blob/main/data/videos.json`,
     title: video.title,
     data: {
