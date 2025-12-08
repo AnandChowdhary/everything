@@ -1,12 +1,21 @@
 # ⏳ Everything
 
-This repository contains timeline of all my activities as an API. It's built using Deno and it periodically fetches data from various sources and compiles it as a single JSON file.
+This repository contains timeline of all my activities as an API. It's built using TypeScript and periodically fetches data from various sources and compiles it as a single JSON file.
 
 **API:** https://anandchowdhary.github.io/everything/api.json
 
 [![API CI](https://github.com/AnandChowdhary/everything/actions/workflows/api.yml/badge.svg)](https://github.com/AnandChowdhary/everything/actions/workflows/api.yml)
 
-## 💽 Data sources
+## 🏗️ Project Structure
+
+The project is organized into modular components:
+
+- **`fetchers/`** - Data fetching functions for each data source
+- **`transformers/`** - Functions that transform raw data into timeline items
+- **`types/`** - TypeScript type definitions
+- **`data/`** - Local JSON data files
+
+## 💽 Data Sources
 
 This repository generates an API from the data available in the [`./data`](./data) directory, and these repositories:
 
