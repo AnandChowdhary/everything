@@ -66,7 +66,7 @@
   {
     "date": "2025-11-15",
     "type": "hacker-news",
-    "url": "https://anandchowdhary.com/hacker-news/2025/show-hn:-continuous-claude-run-claude-code-in-a-loop",
+    "url": "https://news.ycombinator.com/item?id=45938517",
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "title": "Show HN: Continuous Claude – run Claude Code in a loop",
     "data": {
@@ -212,7 +212,7 @@
   {
     "date": "2025-04-11T08:46:28.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/books/2025/everything-is-tuberculosis-(signed-edition)",
+    "url": "https://anandchowdhary.com/books/2025/everything-is-tuberculosis-signed-edition",
     "source": "https://github.com/AnandChowdhary/books/issues/78",
     "title": "Everything Is Tuberculosis (Signed Edition)",
     "data": {
@@ -563,7 +563,7 @@
   {
     "date": "2023-08-16",
     "type": "podcast-interview",
-    "url": "https://anandchowdhary.com/press/2023/from-pre-seed-to-seed:-101",
+    "url": "https://anandchowdhary.com/press/2023/from-pre-seed-to-seed-101",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "Anand Chowdhary, co-founder of Pabio - On how to win at YC",
     "data": {
@@ -998,7 +998,7 @@
   {
     "date": "2022-10-03T14:15:35.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/books/2022/can't-hurt-me",
+    "url": "https://anandchowdhary.com/books/2022/cant-hurt-me",
     "source": "https://github.com/AnandChowdhary/books/issues/53",
     "title": "Can't Hurt Me",
     "data": {
@@ -1503,7 +1503,7 @@
   {
     "date": "2022-02-25",
     "type": "hacker-news",
-    "url": "https://anandchowdhary.com/hacker-news/2022/explain-the-first-10-lines-of-twitter's-source-code-to-me",
+    "url": "https://news.ycombinator.com/item?id=30468793",
     "source": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
     "title": "Explain the first 10 lines of Twitter's source code to me",
     "data": {
@@ -1761,7 +1761,7 @@
   {
     "date": "2021-12-15",
     "type": "press-feature",
-    "url": "https://anandchowdhary.com/press/2021/techcrunch",
+    "url": "https://anandchowdhary.com/press/2021/tech-crunch",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "Furniture rental company Pabio expands to Germany",
     "data": {
@@ -1975,7 +1975,7 @@
   {
     "date": "2021-07-09",
     "type": "hacker-news",
-    "url": "https://anandchowdhary.com/hacker-news/2021/launch-hn:-pabio-(yc-s21)-interior-design-and-furniture-rental-as-a-service",
+    "url": "https://news.ycombinator.com/item?id=27783939",
     "source": "https://news.ycombinator.com/item?id=27783939",
     "title": "Launch HN: Pabio (YC S21) – Interior design and furniture rental as a service",
     "data": {
@@ -2119,7 +2119,7 @@
   {
     "date": "2021-02-09",
     "type": "award",
-    "url": "https://anandchowdhary.com/press/2021/github",
+    "url": "https://anandchowdhary.com/press/2021/git-hub",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "GitHub Stars",
     "data": {
@@ -2130,7 +2130,7 @@
   {
     "date": "2021-01-28",
     "type": "award",
-    "url": "https://anandchowdhary.com/press/2021/icongo",
+    "url": "https://anandchowdhary.com/press/2021/i-congo",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "Karmaveer Chakra Award",
     "data": {
@@ -2195,7 +2195,7 @@
   {
     "date": "2020-12-27",
     "type": "hacker-news",
-    "url": "https://anandchowdhary.com/hacker-news/2020/upptime-github-powered-open-source-uptime-monitor-and-status-page",
+    "url": "https://news.ycombinator.com/item?id=25553445",
     "source": "https://upptime.js.org/",
     "title": "Upptime – GitHub-powered open-source uptime monitor and status page",
     "data": {
@@ -2958,7 +2958,7 @@
   {
     "date": "2020-01-31T20:58:20.906Z",
     "type": "travel",
-    "url": "https://anandchowdhary.com/location/2020/turkiye",
+    "url": "https://anandchowdhary.com/location/2020/tuerkiye",
     "source": "https://github.com/AnandChowdhary/location/commit/45f6753ba0c82a634e8e83d46f8c7d4fe613e952",
     "title": "Türkiye",
     "data": {
@@ -3044,7 +3044,7 @@
   {
     "date": "2020-01-01",
     "type": "press-feature",
-    "url": "https://anandchowdhary.com/press/2020/github",
+    "url": "https://anandchowdhary.com/press/2020/git-hub",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "Karuna 2020: Using GitHub Actions in the COVID-19 response efforts",
     "data": {
@@ -3280,7 +3280,7 @@
   {
     "date": "2019-06-20",
     "type": "video",
-    "url": "https://anandchowdhary.com/videos/2019/the-best-entrepreneurs-in-the-ut-(de-beste-ondernemers-van-de-ut)",
+    "url": "https://anandchowdhary.com/videos/2019/the-best-entrepreneurs-in-the-ut-de-beste-ondernemers-van-de-ut",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/videos.json",
     "title": "The best entrepreneurs in the UT (De beste ondernemers van de UT)",
     "data": {
@@ -3737,7 +3737,7 @@
   {
     "date": "2019-01-01",
     "type": "press-feature",
-    "url": "https://anandchowdhary.com/press/2019/browserstack",
+    "url": "https://anandchowdhary.com/press/2019/browser-stack",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "Open Source Spotlight: Oswald Labs with Anand Chowdhary",
     "data": {
@@ -4061,7 +4061,7 @@
   {
     "date": "2018-08-21",
     "type": "award",
-    "url": "https://anandchowdhary.com/press/2018/yourstory",
+    "url": "https://anandchowdhary.com/press/2018/your-story",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "21 Under 21",
     "data": {
@@ -4513,7 +4513,7 @@
   {
     "date": "2018-01-01",
     "type": "press-feature",
-    "url": "https://anandchowdhary.com/press/2018/utoday",
+    "url": "https://anandchowdhary.com/press/2018/u-today",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "UT student among the top 50 young entrepreneurs",
     "data": {
@@ -4834,7 +4834,7 @@
   {
     "date": "2017-06-17",
     "type": "video",
-    "url": "https://anandchowdhary.com/videos/2017/bharathacks-live",
+    "url": "https://anandchowdhary.com/videos/2017/bharat-hacks-live",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/videos.json",
     "title": "BharatHacks Live",
     "data": {
@@ -4990,7 +4990,7 @@
   {
     "date": "2017-01-01",
     "type": "press-feature",
-    "url": "https://anandchowdhary.com/press/2017/paisawapas",
+    "url": "https://anandchowdhary.com/press/2017/paisa-wapas",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "Are You Tech Savvy? Meet This Super Teen Who Has Created MAGIC For People On How To Use The Web.",
     "data": {
@@ -5001,7 +5001,7 @@
   {
     "date": "2017-01-01",
     "type": "press-feature",
-    "url": "https://anandchowdhary.com/press/2017/yourstory",
+    "url": "https://anandchowdhary.com/press/2017/your-story",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "At just 16 and 18, these Delhi teens are using tech to make the web accessible to dyslexics and the visually impaired",
     "data": {
@@ -5012,7 +5012,7 @@
   {
     "date": "2017-01-01",
     "type": "press-feature",
-    "url": "https://anandchowdhary.com/press/2017/businessworld-disrupt",
+    "url": "https://anandchowdhary.com/press/2017/business-world-disrupt",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "BharatHacks, a Hackathon to Solve Problems for India",
     "data": {
@@ -5035,7 +5035,7 @@
   {
     "date": "2017-01-01",
     "type": "press-feature",
-    "url": "https://anandchowdhary.com/press/2017/businessworld-disrupt",
+    "url": "https://anandchowdhary.com/press/2017/business-world-disrupt",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "Oswald Foundation, 10 Month Old Startup Goes Multinational",
     "data": {
@@ -5046,7 +5046,7 @@
   {
     "date": "2017-01-01",
     "type": "press-feature",
-    "url": "https://anandchowdhary.com/press/2017/scoopwhoop",
+    "url": "https://anandchowdhary.com/press/2017/scoop-whoop",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "These Delhi Teens Created A Reading App For People With Dyslexia. Bravo!",
     "data": {
@@ -5058,7 +5058,7 @@
   {
     "date": "2017-01-01",
     "type": "press-feature",
-    "url": "https://anandchowdhary.com/press/2017/huffpost",
+    "url": "https://anandchowdhary.com/press/2017/huff-post",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
     "title": "These Delhi Teens Want To Change The Web With Their Reading App For Dyslexics",
     "data": {
@@ -5099,7 +5099,7 @@
   {
     "date": "2016-11-15T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/books/2016/\"surely-you're-joking-mr.-feynman!\":-adventures-of-a-curious-character",
+    "url": "https://anandchowdhary.com/books/2016/surely-you-re-joking-mr-feynman-adventures-of-a-curious-character",
     "source": "https://github.com/AnandChowdhary/books/issues/17",
     "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
     "data": {
@@ -5785,7 +5785,7 @@
   {
     "date": "2014-10-12T00:00:00.000Z",
     "type": "book",
-    "url": "https://anandchowdhary.com/books/2014/creativity-inc.",
+    "url": "https://anandchowdhary.com/books/2014/creativity-inc",
     "source": "https://github.com/AnandChowdhary/books/issues/30",
     "title": "Creativity, Inc.",
     "data": {
@@ -6331,7 +6331,7 @@
   {
     "date": "2008-10-19",
     "type": "life-event",
-    "url": "https://anandchowdhary.com/life/2008/first-internet-archive'd-website",
+    "url": "https://anandchowdhary.com/life/2008/first-internet-archive-d-website",
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "First Internet Archive'd website",
     "data": {
