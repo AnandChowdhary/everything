@@ -47,10 +47,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 729,
+      "stars": 820,
       "issues": 6,
-      "forks": 51,
-      "watchers": 729,
+      "forks": 56,
+      "watchers": 820,
       "topics": [
         "ai",
         "ai-agents",
@@ -60,7 +60,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/498668c6e2ccda6ced554f8b57e1fcc4bd349883e7aa05b6a73814fbdf7d4c56/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/0c8fa12620e788ec32c80061af51b969b7603323fc2ff33c96827ad30d635bf8/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -138,7 +138,7 @@
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/70132d080ad893e619d14c7ed707468cc674a646a62e7a1ce01cb42c28b8e514/AnandChowdhary/priced-in"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/a1be0becc0bb3e8a760266574db1cf94150dd44e3a58c00f94310a0523e0c6cf/AnandChowdhary/priced-in"
     }
   },
   {
@@ -2327,10 +2327,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16693,
-      "issues": 114,
-      "forks": 1007,
-      "watchers": 16693,
+      "stars": 16707,
+      "issues": 113,
+      "forks": 1006,
+      "watchers": 16707,
       "topics": [
         "incidents-reports",
         "status",
@@ -3429,10 +3429,10 @@
     "source": "https://github.com/AnandChowdhary/sharer.link",
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
-      "stars": 24,
+      "stars": 25,
       "issues": 15,
       "forks": 3,
-      "watchers": 24,
+      "watchers": 25,
       "topics": [
         "links",
         "share",
@@ -3640,10 +3640,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 613,
-      "issues": 11,
-      "forks": 78,
-      "watchers": 613,
+      "stars": 615,
+      "issues": 13,
+      "forks": 79,
+      "watchers": 615,
       "topics": [
         "calendar",
         "calendar-link",
@@ -4189,10 +4189,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1868,
+      "stars": 1870,
       "issues": 51,
       "forks": 128,
-      "watchers": 1868,
+      "watchers": 1870,
       "topics": [
         "file-upload",
         "hacktoberfest",
