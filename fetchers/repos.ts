@@ -3,7 +3,7 @@ import type { IRepo } from "../types/index.d.ts";
 export const getRepos = async (): Promise<IRepo[]> => {
   const repos = (await (
     await fetch(
-      "https://raw.githubusercontent.com/AnandChowdhary/featured/HEAD/repos.json"
+      "https://raw.githubusercontent.com/AnandChowdhary/featured/main/repos.json"
     )
   ).json()) as (IRepo & { open_graph_image_url?: string })[];
 
@@ -30,4 +30,3 @@ export const getRepos = async (): Promise<IRepo[]> => {
 
   return repos;
 };
-
