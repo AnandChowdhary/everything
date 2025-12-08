@@ -3,6 +3,18 @@ console.log("Cache enabled", CACHE_ENABLED);
 
 import { slugify } from "https://deno.land/x/slugify@0.3.0/mod.ts";
 import type {
+  IBlogPost,
+  IBook,
+  IEvent,
+  ILifeEvent,
+  ILocation,
+  IOkrs,
+  IPress,
+  IProject,
+  IRepo,
+  ITheme,
+  IVersion,
+  IVideo,
   Timeline,
   TimelineAward,
   TimelineBlogPost,
@@ -19,32 +31,6 @@ import type {
   TimelineVersion,
   TimelineVideo,
 } from "./types/index.d.ts";
-
-interface IOkrs {
-  updatedAt: string;
-  years: {
-    name: number;
-    progress: number;
-    success: number;
-    quarters: {
-      name: number;
-      progress: number;
-      success: number;
-      objectives: {
-        name: string;
-        progress: number;
-        success: number;
-        key_results: {
-          name: string;
-          target_result: number;
-          current_result: number;
-          progress: number;
-          success: number;
-        }[];
-      }[];
-    }[];
-  }[];
-}
 const getOkrs = async (): Promise<IOkrs> => {
   if (CACHE_ENABLED) {
     const data = await Deno.readTextFile("./.cache/okrs.json");
@@ -59,27 +45,6 @@ const getOkrs = async (): Promise<IOkrs> => {
   return okrs;
 };
 
-interface IEvent {
-  slug: string;
-  path: string;
-  source: string;
-  title: string;
-  date: string;
-  excerpt: string;
-  caption: string;
-  attributes: {
-    remote?: boolean;
-    city?: string;
-    country?: string;
-    venue?: string;
-    coordinates?: [number, number];
-    video?: string;
-    talk?: string;
-    event?: string;
-    slides?: string;
-    embed?: string;
-  };
-}
 const getEvents = async (): Promise<IEvent[]> => {
   if (CACHE_ENABLED) {
     const data = await Deno.readTextFile("./.cache/events.json");
@@ -94,13 +59,6 @@ const getEvents = async (): Promise<IEvent[]> => {
   return events;
 };
 
-interface ITheme {
-  slug: string;
-  title: string;
-  words: number;
-  date: string;
-  excerpt: string;
-}
 const getThemes = async (): Promise<ITheme[]> => {
   if (CACHE_ENABLED) {
     const data = await Deno.readTextFile("./.cache/themes.json");
@@ -115,26 +73,6 @@ const getThemes = async (): Promise<ITheme[]> => {
   return themes;
 };
 
-interface IProject {
-  slug: string;
-  title: string;
-  date: string;
-  excerpt: string;
-  attributes?: {
-    title?: string;
-    intro?: string;
-    work?: string[];
-    collaborators?: string[];
-    bg?: string;
-    style?: string;
-    img_src?: string;
-    img_type?: string;
-    tools?: string[];
-    stack?: string[];
-    icon?: string;
-    icon_bg?: boolean;
-  };
-}
 const getProjects = async (): Promise<IProject[]> => {
   if (CACHE_ENABLED) {
     const data = await Deno.readTextFile("./.cache/projects.json");
@@ -149,11 +87,6 @@ const getProjects = async (): Promise<IProject[]> => {
   return projects;
 };
 
-interface IVersion {
-  slug: string;
-  title: string;
-  date: string;
-}
 const getVersions = async (): Promise<IVersion[]> => {
   if (CACHE_ENABLED) {
     const data = await Deno.readTextFile("./.cache/versions.json");
@@ -168,14 +101,6 @@ const getVersions = async (): Promise<IVersion[]> => {
   return versions;
 };
 
-interface IBlogPost {
-  slug: string;
-  title: string;
-  words: number;
-  date: string;
-  excerpt: string;
-  attributes?: { draft?: true };
-}
 const getBlogPosts = async (): Promise<IBlogPost[]> => {
   if (CACHE_ENABLED) {
     const data = await Deno.readTextFile("./.cache/blog.json");
@@ -190,18 +115,6 @@ const getBlogPosts = async (): Promise<IBlogPost[]> => {
   return blogPosts.filter((post) => !post.attributes?.draft);
 };
 
-interface IBook {
-  title: string;
-  authors: string[];
-  publisher: string;
-  publishedDate: string;
-  description: string;
-  image: string;
-  issueNumber: number;
-  progressPercent: number;
-  state: "reading" | "completed";
-  startedAt: string;
-}
 const getBooks = async (): Promise<IBook[]> => {
   if (CACHE_ENABLED) {
     const data = await Deno.readTextFile("./.cache/books.json");
@@ -216,11 +129,6 @@ const getBooks = async (): Promise<IBook[]> => {
   return books;
 };
 
-interface ILifeEvent {
-  date: string;
-  title: string;
-  description?: string;
-}
 const getLifeEvents = async (): Promise<ILifeEvent[]> => {
   const lifeEvents = JSON.parse(
     await Deno.readTextFile("./data/life-events.json")
@@ -228,29 +136,6 @@ const getLifeEvents = async (): Promise<ILifeEvent[]> => {
   return lifeEvents;
 };
 
-interface IPress {
-  awards: {
-    title: string;
-    publisher: string;
-    date: string;
-    href: string;
-  }[];
-  podcasts: {
-    title: string;
-    publisher: string;
-    date: string;
-    href: string;
-    embed?: string;
-  }[];
-  features: {
-    title: string;
-    publisher: string;
-    date: string;
-    href: string;
-    author?: string;
-    description?: string;
-  }[];
-}
 const getPress = async (): Promise<IPress> => {
   const press = JSON.parse(
     await Deno.readTextFile("./data/press.json")
@@ -258,17 +143,6 @@ const getPress = async (): Promise<IPress> => {
   return press;
 };
 
-interface IVideo {
-  title: string;
-  href: string;
-  city: string;
-  country: string;
-  date: string;
-  img: string;
-  publisher: string;
-  duration: string;
-  description: string;
-}
 const getVideos = async () => {
   const videos = JSON.parse(
     await Deno.readTextFile("./data/videos.json")
@@ -276,20 +150,6 @@ const getVideos = async () => {
   return videos;
 };
 
-interface IRepo {
-  html_url: string;
-  full_name: string;
-  created_at: string;
-  description?: string;
-  stargazers_count: number;
-  topics?: string[];
-  open_issues: number;
-  forks_count: number;
-  watchers_count: number;
-  language?: string;
-  language_color?: string;
-  open_graph_image_url?: string;
-}
 const getRepos = async (): Promise<IRepo[]> => {
   if (CACHE_ENABLED) {
     const data = await Deno.readTextFile("./.cache/repos.json");
@@ -326,13 +186,6 @@ const getRepos = async (): Promise<IRepo[]> => {
   return repos;
 };
 
-interface ILocation {
-  hash: string;
-  date: string;
-  coordinates: [number, number];
-  label: string;
-  country_code: string;
-}
 const getLocation = async (): Promise<ILocation[]> => {
   if (CACHE_ENABLED) {
     const data = await Deno.readTextFile("./.cache/location.json");
