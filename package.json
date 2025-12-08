@@ -5,15 +5,18 @@
   "type": "module",
   "main": "fetcher.ts",
   "scripts": {
-    "start": "tsx fetcher.ts"
+    "start": "tsx fetcher.ts",
+    "test:hacker-news": "tsx tests/hacker-news.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.1.2",
     "slugify": "^1.6.6"
   },
   "devDependencies": {
+    "@types/cheerio": "^0.22.35",
     "@types/node": "^24.10.1",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"

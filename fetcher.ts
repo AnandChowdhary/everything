@@ -2,6 +2,7 @@ import { writeFile } from "fs/promises";
 import { getBlogPosts } from "./fetchers/blog-posts";
 import { getBooks } from "./fetchers/books";
 import { getEvents } from "./fetchers/events";
+import { getHackerNewsFavorites } from "./fetchers/hacker-news";
 import { getLifeEvents } from "./fetchers/life-events";
 import { getLocation } from "./fetchers/location";
 import { getOkrs } from "./fetchers/okrs";
@@ -14,6 +15,7 @@ import { getVideos } from "./fetchers/videos";
 import { transformBlogPosts } from "./transformers/blog-posts";
 import { transformBooks } from "./transformers/books";
 import { transformEvents } from "./transformers/events";
+import { transformHackerNews } from "./transformers/hacker-news";
 import { transformLifeEvents } from "./transformers/life-events";
 import { transformLocation } from "./transformers/location";
 import { transformOkrs } from "./transformers/okrs";
@@ -48,6 +50,7 @@ export const generate = async () => {
     ...transformPodcastInterviews(press.podcasts),
     ...transformPressFeatures(press.features),
     ...transformRepos(await getRepos()),
+    ...transformHackerNews(await getHackerNewsFavorites()),
   ].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   await writeFile(

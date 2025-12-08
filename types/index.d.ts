@@ -140,6 +140,16 @@ export type TimelineOpenSourceProject = TimelineBaseItem<
   }
 >;
 
+export type TimelineHackerNews = TimelineBaseItem<
+  "hacker-news",
+  {
+    points: number;
+    comments: number;
+    url: string;
+    id: string;
+  }
+>;
+
 export type TimeLineItem =
   | TimelineOkr
   | TimelineEvent
@@ -154,7 +164,8 @@ export type TimeLineItem =
   | TimelineAward
   | TimelinePodcastInterview
   | TimelinePressFeature
-  | TimelineOpenSourceProject;
+  | TimelineOpenSourceProject
+  | TimelineHackerNews;
 
 export type Timeline = TimeLineItem[];
 
@@ -326,4 +337,13 @@ export interface ILocation {
   coordinates: [number, number];
   label: string;
   country_code: string;
+}
+
+export interface IHackerNews {
+  title: string;
+  points: number;
+  date: string;
+  comments: number;
+  url: string;
+  id: string;
 }
