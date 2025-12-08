@@ -1,4 +1,5 @@
-import { slugify } from "https://deno.land/x/slugify@0.3.0/mod.ts";
+import { readFile, writeFile } from "fs/promises";
+import slugify from "slugify";
 import type {
   IBlogPost,
   IBook,
@@ -93,21 +94,21 @@ const getBooks = async (): Promise<IBook[]> => {
 
 const getLifeEvents = async (): Promise<ILifeEvent[]> => {
   const lifeEvents = JSON.parse(
-    await Deno.readTextFile("./data/life-events.json")
+    await readFile("./data/life-events.json", "utf-8")
   ) as ILifeEvent[];
   return lifeEvents;
 };
 
 const getPress = async (): Promise<IPress> => {
   const press = JSON.parse(
-    await Deno.readTextFile("./data/press.json")
+    await readFile("./data/press.json", "utf-8")
   ) as IPress;
   return press;
 };
 
 const getVideos = async () => {
   const videos = JSON.parse(
-    await Deno.readTextFile("./data/videos.json")
+    await readFile("./data/videos.json", "utf-8")
   ) as IVideo[];
   return videos;
 };
@@ -123,7 +124,7 @@ const getRepos = async (): Promise<IRepo[]> => {
     const [owner, slug] = repo.full_name.split("/");
     const res = await fetch("https://api.github.com/graphql", {
       method: "POST",
-      headers: { Authorization: `Bearer ${Deno.env.get("GITHUB_TOKEN")}` },
+      headers: { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` },
       body: JSON.stringify({
         query: `
           {
@@ -446,7 +447,11 @@ export const generate = async () => {
     ...openSourceProjects,
   ].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
-  Deno.writeTextFile("api.json", JSON.stringify(timeline, null, 2) + "\n");
+  await writeFile(
+    "api.json",
+    JSON.stringify(timeline, null, 2) + "\n",
+    "utf-8"
+  );
 };
 
 await generate();
