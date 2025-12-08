@@ -1,4 +1,4 @@
-import { slugify } from "@sindresorhus/slugify";
+import slugify from "@sindresorhus/slugify";
 import type { ILifeEvent, TimelineLifeEvent } from "../types/index.d.ts";
 
 export const transformLifeEvents = (

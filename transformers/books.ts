@@ -1,4 +1,4 @@
-import { slugify } from "@sindresorhus/slugify";
+import slugify from "@sindresorhus/slugify";
 import type { IBook, TimelineBook } from "../types/index.d.ts";
 
 export const transformBooks = (books: IBook[]): TimelineBook[] => {

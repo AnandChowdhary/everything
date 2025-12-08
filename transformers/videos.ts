@@ -1,4 +1,4 @@
-import { slugify } from "@sindresorhus/slugify";
+import slugify from "@sindresorhus/slugify";
 import type { IVideo, TimelineVideo } from "../types/index.d.ts";
 
 export const transformVideos = (videos: IVideo[]): TimelineVideo[] => {

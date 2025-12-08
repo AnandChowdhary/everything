@@ -1,4 +1,4 @@
-import { slugify } from "@sindresorhus/slugify";
+import slugify from "@sindresorhus/slugify";
 import type { ILocation, TimelineTravel } from "../types/index.d.ts";
 
 export const transformLocation = (locations: ILocation[]): TimelineTravel[] => {
