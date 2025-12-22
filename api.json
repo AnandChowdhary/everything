@@ -47,10 +47,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 953,
+      "stars": 987,
       "issues": 6,
-      "forks": 68,
-      "watchers": 953,
+      "forks": 70,
+      "watchers": 987,
       "topics": [
         "ai",
         "ai-agents",
@@ -60,7 +60,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/ca4cb3f0dd2bc557575ff63a034e7c311e5ff67b38861af0255086f623ee2fe6/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/4591305317276b4105d0cd65731ef1115b7fa4118218e35e2e97c0021a2cf2be/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -2379,10 +2379,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16732,
+      "stars": 16742,
       "issues": 115,
-      "forks": 1005,
-      "watchers": 16732,
+      "forks": 1006,
+      "watchers": 16742,
       "topics": [
         "incidents-reports",
         "status",
@@ -2634,10 +2634,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 66,
+      "stars": 67,
       "issues": 10,
-      "forks": 10,
-      "watchers": 66,
+      "forks": 11,
+      "watchers": 67,
       "topics": [
         "google",
         "google-docs",
@@ -3692,10 +3692,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 616,
-      "issues": 13,
-      "forks": 79,
-      "watchers": 616,
+      "stars": 617,
+      "issues": 12,
+      "forks": 78,
+      "watchers": 617,
       "topics": [
         "calendar",
         "calendar-link",
@@ -4241,10 +4241,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1869,
+      "stars": 1868,
       "issues": 51,
       "forks": 128,
-      "watchers": 1869,
+      "watchers": 1868,
       "topics": [
         "file-upload",
         "hacktoberfest",
