@@ -1,5 +1,15 @@
 [
   {
+    "date": "2025-12-29T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2025/year-of-discovery",
+    "source": "https://anandchowdhary.github.io/blog/blog/2025/year-of-discovery",
+    "title": "2026 will be the Year of Discovery",
+    "data": {
+      "excerpt": "I turned 28 yesterday and like years past, I wanted to reflect on this past year and plan my theme for 2026. But 2025 was different; this isn't a typical growth year to celebrate, this is a year with a clean ending, introspection, and searching for what comes next. Past themes\n\nThe theme system was popularized by CGP Grey in the Cortex podcast. I've been using it for years as an alternative to New Year's"
+    }
+  },
+  {
     "date": "2025-11-27T00:00:00.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2025/move-fast-and-save-things",
@@ -60,7 +70,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/11c977a95eda192a9a4c9e7d67cfb9987135ddc8a30a4985cec7b84add751c32/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/98a66f825722748869533a87752f0b72ee0113b02e3ea3eff8c614b6659f7b0d/AnandChowdhary/continuous-claude"
     }
   },
   {
