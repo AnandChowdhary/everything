@@ -57,10 +57,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1041,
-      "issues": 9,
-      "forks": 77,
-      "watchers": 1041,
+      "stars": 1099,
+      "issues": 11,
+      "forks": 80,
+      "watchers": 1099,
       "topics": [
         "ai",
         "ai-agents",
@@ -70,7 +70,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/cf096fe52f1aefab67cea99f840b5d4a7c022496be684856db75255cf9539551/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/c815e28683e8e6fac7d9c33caaf51d1573074db153b8eafee363ef6cf1cc1673/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -1494,10 +1494,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 101,
+      "stars": 99,
       "issues": 5,
       "forks": 18,
-      "watchers": 101,
+      "watchers": 99,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -2389,10 +2389,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16757,
+      "stars": 16767,
       "issues": 115,
       "forks": 1011,
-      "watchers": 16757,
+      "watchers": 16767,
       "topics": [
         "incidents-reports",
         "status",
@@ -4251,10 +4251,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1868,
+      "stars": 1867,
       "issues": 51,
       "forks": 128,
-      "watchers": 1868,
+      "watchers": 1867,
       "topics": [
         "file-upload",
         "hacktoberfest",
