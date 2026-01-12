@@ -57,10 +57,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1099,
-      "issues": 11,
-      "forks": 80,
-      "watchers": 1099,
+      "stars": 1149,
+      "issues": 13,
+      "forks": 81,
+      "watchers": 1149,
       "topics": [
         "ai",
         "ai-agents",
@@ -70,7 +70,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/89eb2fee08f71f18aa752d3991b9daa9d9adff2d5dac121d1f9f87b4f02fe697/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/c392ebdc6f16f92a997f214e7de2317864d574f68637daabc1ab8cbcd02816a8/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -101,10 +101,10 @@
     "source": "https://github.com/AnandChowdhary/claude-code-slack-bot",
     "data": {
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
-      "stars": 8,
+      "stars": 9,
       "issues": 1,
       "forks": 3,
-      "watchers": 8,
+      "watchers": 9,
       "topics": [
         "claude",
         "claude-ai",
@@ -128,10 +128,10 @@
     "source": "https://github.com/AnandChowdhary/mintlify-slack-assistant",
     "data": {
       "description": "⁉️ Slack bot that answers questions using your Mintlify docs' built-in AI assistant",
-      "stars": 3,
+      "stars": 4,
       "issues": 1,
       "forks": 0,
-      "watchers": 3,
+      "watchers": 4,
       "topics": [
         "assistant",
         "bot",
@@ -1494,10 +1494,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 99,
+      "stars": 100,
       "issues": 5,
-      "forks": 18,
-      "watchers": 99,
+      "forks": 17,
+      "watchers": 100,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -2389,10 +2389,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16767,
+      "stars": 16778,
       "issues": 115,
-      "forks": 1011,
-      "watchers": 16767,
+      "forks": 1014,
+      "watchers": 16778,
       "topics": [
         "incidents-reports",
         "status",
@@ -3703,7 +3703,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 618,
-      "issues": 12,
+      "issues": 11,
       "forks": 77,
       "watchers": 618,
       "topics": [
@@ -3774,10 +3774,10 @@
     "source": "https://github.com/AnandChowdhary/hello-bar",
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
-      "stars": 75,
+      "stars": 76,
       "issues": 6,
       "forks": 10,
-      "watchers": 75,
+      "watchers": 76,
       "topics": [
         "engagement",
         "hellobar",
@@ -4251,10 +4251,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1867,
+      "stars": 1868,
       "issues": 51,
       "forks": 128,
-      "watchers": 1867,
+      "watchers": 1868,
       "topics": [
         "file-upload",
         "hacktoberfest",
