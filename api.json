@@ -50,30 +50,6 @@
     }
   },
   {
-    "date": "2025-11-15T08:59:04Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/continuous-claude",
-    "url": "https://anandchowdhary.com/open-source/2025/continuous-claude",
-    "source": "https://github.com/AnandChowdhary/continuous-claude",
-    "data": {
-      "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1186,
-      "issues": 14,
-      "forks": 86,
-      "watchers": 1186,
-      "topics": [
-        "ai",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "continuous-ai"
-      ],
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/b1201ad692e4f26bf8de30bd55efe888ed161182bdc5c8301a8e205e589d57cb/AnandChowdhary/continuous-claude"
-    }
-  },
-  {
     "date": "2025-11-15",
     "type": "hacker-news",
     "url": "https://news.ycombinator.com/item?id=45938517",
@@ -92,77 +68,6 @@
     "url": "https://anandchowdhary.com/versions/2025/anchor",
     "source": "https://anandchowdhary.github.io/versions/versions/2025/anchor",
     "title": "Anchor"
-  },
-  {
-    "date": "2025-07-14T10:13:02Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/claude-code-slack-bot",
-    "url": "https://anandchowdhary.com/open-source/2025/claude-code-slack-bot",
-    "source": "https://github.com/AnandChowdhary/claude-code-slack-bot",
-    "data": {
-      "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
-      "stars": 9,
-      "issues": 1,
-      "forks": 3,
-      "watchers": 9,
-      "topics": [
-        "claude",
-        "claude-ai",
-        "claude-code",
-        "cloudflare-workers",
-        "github-actions",
-        "hono",
-        "slack",
-        "slack-bot"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/9ed38c5fb9d1484575613d83f8518ab99cc8d640656410b747723492db14895b/AnandChowdhary/claude-code-slack-bot"
-    }
-  },
-  {
-    "date": "2025-07-13T20:53:58Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/mintlify-slack-assistant",
-    "url": "https://anandchowdhary.com/open-source/2025/mintlify-slack-assistant",
-    "source": "https://github.com/AnandChowdhary/mintlify-slack-assistant",
-    "data": {
-      "description": "⁉️ Slack bot that answers questions using your Mintlify docs' built-in AI assistant",
-      "stars": 4,
-      "issues": 1,
-      "forks": 0,
-      "watchers": 4,
-      "topics": [
-        "assistant",
-        "bot",
-        "docs",
-        "mintlify",
-        "openai",
-        "slack",
-        "slack-bot"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/7f871dabe98e51bbe7ef86351bba86868e011381ec80e81c84b6922da898fe70/AnandChowdhary/mintlify-slack-assistant"
-    }
-  },
-  {
-    "date": "2025-06-24T10:11:52Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/priced-in",
-    "url": "https://anandchowdhary.com/open-source/2025/priced-in",
-    "source": "https://github.com/AnandChowdhary/priced-in",
-    "data": {
-      "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
-      "stars": 45,
-      "issues": 5,
-      "forks": 15,
-      "watchers": 45,
-      "topics": [],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/5732822d48e3779c9256a1cf3bbf1e571c6647cb45eccb039a18e825553c68af/AnandChowdhary/priced-in"
-    }
   },
   {
     "date": "2025-06-12T00:00:00.000Z",
@@ -199,24 +104,6 @@
         5.027699
       ],
       "event": "4TU.Alumni NL Kickoff Event"
-    }
-  },
-  {
-    "date": "2025-04-25T17:28:04Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/chat",
-    "url": "https://anandchowdhary.com/open-source/2025/chat",
-    "source": "https://github.com/AnandChowdhary/chat",
-    "data": {
-      "description": "💬 Use your GitHub repo's Issues as your own ChatGPT (yes, really!)",
-      "stars": 13,
-      "issues": 6,
-      "forks": 0,
-      "watchers": 13,
-      "topics": [],
-      "language": null,
-      "languageColor": null,
-      "openGraphImageUrl": "https://opengraph.githubassets.com/304fae033f206c0b12adc5953953b8069391c669c6f277b1b87028fbca993d6d/AnandChowdhary/chat"
     }
   },
   {
@@ -544,33 +431,6 @@
     }
   },
   {
-    "date": "2023-08-24T13:15:59Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/deliverabilityguide.com",
-    "url": "https://anandchowdhary.com/open-source/2023/deliverabilityguide.com",
-    "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
-    "data": {
-      "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 23,
-      "issues": 2,
-      "forks": 2,
-      "watchers": 23,
-      "topics": [
-        "deliverability",
-        "dns",
-        "email",
-        "email-deliverability",
-        "email-deliverability-checklist",
-        "mx",
-        "smtp",
-        "tutorial"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/682574392/3130d028-0a0d-49c0-9158-89ea366d38ff"
-    }
-  },
-  {
     "date": "2023-08-16",
     "type": "podcast-interview",
     "url": "https://anandchowdhary.com/press/2023/from-pre-seed-to-seed-101",
@@ -661,29 +521,6 @@
     "title": "Pabio's startup visa application",
     "data": {
       "excerpt": "After you graduate from a Dutch university, you get a one-year orientation year visa to find a job or set up a business. Sukriti and I moved to the Netherlands in 2021 after spending a year in India during the pandemic, so the clock started ticking for my visa. Since Pabio was already fully operational at this point as a Swiss company (owned by an American company), I decided to set up a Dutch subsidiary and apply for a startup visa to keep my residency here."
-    }
-  },
-  {
-    "date": "2023-06-12T12:53:26Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/gpt-search",
-    "url": "https://anandchowdhary.com/open-source/2023/gpt-search",
-    "source": "https://github.com/AnandChowdhary/gpt-search",
-    "data": {
-      "description": "Get any question answered. A knowledge search engine powered by Google Search and GPT-4, similar to Bing Chat or You.",
-      "stars": 4,
-      "issues": 3,
-      "forks": 2,
-      "watchers": 4,
-      "topics": [
-        "google",
-        "gpt-4",
-        "openai",
-        "search"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/b62b601bf4019c8c64a15d41847cd756829c77fa5587da7a32aac653f29120e0/AnandChowdhary/gpt-search"
     }
   },
   {
@@ -930,31 +767,6 @@
     }
   },
   {
-    "date": "2022-12-02T08:04:37Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/NewsHaikusBot",
-    "url": "https://anandchowdhary.com/open-source/2022/NewsHaikusBot",
-    "source": "https://github.com/AnandChowdhary/NewsHaikusBot",
-    "data": {
-      "description": "🤖 Twitter bot which tweets news in haikus using GPT-3",
-      "stars": 5,
-      "issues": 2,
-      "forks": 1,
-      "watchers": 5,
-      "topics": [
-        "gpt-3",
-        "openai",
-        "twitter",
-        "twitter-api",
-        "twitter-bot",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/573333314/73be3851-2097-430e-bb2b-d4b85243b53e"
-    }
-  },
-  {
     "date": "2022-11-09T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2022/github-universe",
@@ -972,30 +784,6 @@
       "video": "https://www.youtube.com/watch?v=F3dtaDJi_bo",
       "event": "GitHub Universe 2022",
       "talk": "How to open source as a startup"
-    }
-  },
-  {
-    "date": "2022-11-01T10:01:10Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/birthday-reminders-action",
-    "url": "https://anandchowdhary.com/open-source/2022/birthday-reminders-action",
-    "source": "https://github.com/AnandChowdhary/birthday-reminders-action",
-    "data": {
-      "description": "🎁 Daily messages for birthday reminders using GitHub Actions",
-      "stars": 7,
-      "issues": 3,
-      "forks": 2,
-      "watchers": 7,
-      "topics": [
-        "birthday",
-        "birthday-reminder",
-        "github-actions",
-        "telegram-bot",
-        "typescript"
-      ],
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/8e3256f0b9129ea465af76db5ae759268c2bbe16de1337af09fb264294eb9985/AnandChowdhary/birthday-reminders-action"
     }
   },
   {
@@ -1309,34 +1097,6 @@
     }
   },
   {
-    "date": "2022-05-14T16:21:44Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/nord.js",
-    "url": "https://anandchowdhary.com/open-source/2022/nord.js",
-    "source": "https://github.com/AnandChowdhary/nord.js",
-    "data": {
-      "description": "⚡️ Fast and familiar TypeScript backend framework for Bun, Node.js, and Deno",
-      "stars": 11,
-      "issues": 1,
-      "forks": 1,
-      "watchers": 11,
-      "topics": [
-        "api",
-        "backend",
-        "bun",
-        "deno",
-        "framework",
-        "nodejs",
-        "rest-api",
-        "swc",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/492267193/82b137e2-78a6-4ea5-94cf-772bfc9ee1c4"
-    }
-  },
-  {
     "date": "2022-05-12T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2022/twitter-space-open-source",
@@ -1487,30 +1247,6 @@
     }
   },
   {
-    "date": "2022-03-02T15:42:29Z",
-    "type": "open-source-project",
-    "title": "pabio/redirect-russia",
-    "url": "https://anandchowdhary.com/open-source/2022/redirect-russia",
-    "source": "https://github.com/pabio/redirect-russia",
-    "data": {
-      "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 100,
-      "issues": 5,
-      "forks": 17,
-      "watchers": 100,
-      "topics": [
-        "help-ukraine",
-        "javascript",
-        "typescript",
-        "ukraine",
-        "ukraine-invasion"
-      ],
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/465367050/848de093-5b6a-4c77-be9b-fe3ce0ab2827"
-    }
-  },
-  {
     "date": "2022-02-25",
     "type": "hacker-news",
     "url": "https://news.ycombinator.com/item?id=30468793",
@@ -1536,31 +1272,6 @@
         "Kenneth H. Blanchard",
         "Spencer Johnson"
       ]
-    }
-  },
-  {
-    "date": "2022-01-24T10:22:46Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/remix-starter",
-    "url": "https://anandchowdhary.com/open-source/2022/remix-starter",
-    "source": "https://github.com/AnandChowdhary/remix-starter",
-    "data": {
-      "description": "💿 Starter for @remix-run with localized routing and i18n",
-      "stars": 56,
-      "issues": 3,
-      "forks": 3,
-      "watchers": 56,
-      "topics": [
-        "i18n",
-        "javascript",
-        "nextjs",
-        "remix",
-        "remix-run",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/518b7b707831f5196cbf0d7f17796d94daca41c6d8f66b967fc7557e447a935b/AnandChowdhary/remix-starter"
     }
   },
   {
@@ -2077,56 +1788,6 @@
     }
   },
   {
-    "date": "2021-02-20T15:30:48Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/status-sync",
-    "url": "https://anandchowdhary.com/open-source/2021/status-sync",
-    "source": "https://github.com/AnandChowdhary/status-sync",
-    "data": {
-      "description": "🔴 Set and sync your real-time status on Slack & GitHub",
-      "stars": 7,
-      "issues": 14,
-      "forks": 0,
-      "watchers": 7,
-      "topics": [
-        "github-actions",
-        "github-api",
-        "slack-api",
-        "status",
-        "sync"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/4d0f0c85027efccbb18c7bc524adbd3212e6805400af477e8dee5663c921133f/AnandChowdhary/status-sync"
-    }
-  },
-  {
-    "date": "2021-02-10T16:52:45Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/bookshelf-action",
-    "url": "https://anandchowdhary.com/open-source/2021/bookshelf-action",
-    "source": "https://github.com/AnandChowdhary/bookshelf-action",
-    "data": {
-      "description": "📚 Track your reading using GitHub Actions",
-      "stars": 71,
-      "issues": 3,
-      "forks": 18,
-      "watchers": 71,
-      "topics": [
-        "api",
-        "books",
-        "data",
-        "generator",
-        "github-actions",
-        "reading",
-        "tracker"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/30a0c0955b2faba0391be092d59420e1fce4f50a50d7f9802780275a07bfe6a2/AnandChowdhary/bookshelf-action"
-    }
-  },
-  {
     "date": "2021-02-09",
     "type": "award",
     "url": "https://anandchowdhary.com/press/2021/git-hub",
@@ -2163,32 +1824,6 @@
       ],
       "event": "DotSlash Hackathon",
       "talk": "Opportunity recognition"
-    }
-  },
-  {
-    "date": "2021-01-22T15:43:52Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/errol",
-    "url": "https://anandchowdhary.com/open-source/2021/errol",
-    "source": "https://github.com/AnandChowdhary/errol",
-    "data": {
-      "description": "🦉 Errol delivers your notifications wherever you want them",
-      "stars": 6,
-      "issues": 15,
-      "forks": 3,
-      "watchers": 6,
-      "topics": [
-        "email",
-        "javascript",
-        "nodejs",
-        "notification-service",
-        "notifications",
-        "slack",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/79f1b8d8aa828b9ef6c770e38a6dd0106cb16199f150ac911941195a69b4f0fc/AnandChowdhary/errol"
     }
   },
   {
@@ -2232,57 +1867,6 @@
       ],
       "event": "Global Entrepreneurship Week",
       "talk": "Opportunity recognition"
-    }
-  },
-  {
-    "date": "2020-10-21T08:45:35Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/unqueue",
-    "url": "https://anandchowdhary.com/open-source/2020/unqueue",
-    "source": "https://github.com/AnandChowdhary/unqueue",
-    "data": {
-      "description": "📏 Simple, zero-config, in-memory queue for async JS tasks",
-      "stars": 3,
-      "issues": 20,
-      "forks": 1,
-      "watchers": 3,
-      "topics": [
-        "nodejs",
-        "queue",
-        "queued-jobs",
-        "task-manager",
-        "task-runner",
-        "task-scheduler",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/707ad3e591ac9c251d2edf2ffa48b9ba2cc43772b6bb980fa5b2ba51fb24b463/AnandChowdhary/unqueue"
-    }
-  },
-  {
-    "date": "2020-09-19T08:51:09Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/algolia-crawl",
-    "url": "https://anandchowdhary.com/open-source/2020/algolia-crawl",
-    "source": "https://github.com/AnandChowdhary/algolia-crawl",
-    "data": {
-      "description": "🕷️🔍 Crawl your site and sync your Algolia search index",
-      "stars": 1,
-      "issues": 16,
-      "forks": 2,
-      "watchers": 1,
-      "topics": [
-        "algolia",
-        "algolia-api",
-        "algolia-search",
-        "algoliasearch",
-        "crawler",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/28902210ce46b661b8253db1215567dcf1595804bdc338d7bc2fff5c37816a31/AnandChowdhary/algolia-crawl"
     }
   },
   {
@@ -2330,153 +1914,6 @@
         28.613895,
         77.209006
       ]
-    }
-  },
-  {
-    "date": "2020-08-17T08:28:28Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/deploy-pr-action",
-    "url": "https://anandchowdhary.com/open-source/2020/deploy-pr-action",
-    "source": "https://github.com/AnandChowdhary/deploy-pr-action",
-    "data": {
-      "description": "🚀🎬 GitHub Action to deploy every pull request to a static URL on Surge.sh",
-      "stars": 10,
-      "issues": 21,
-      "forks": 1,
-      "watchers": 10,
-      "topics": [
-        "deployment",
-        "github-action",
-        "nodejs",
-        "surge",
-        "surge-sh",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/5853769b5b3640968c2e1c7cf922e6b70bbe4119710d6955014bc4c52d41aee1/AnandChowdhary/deploy-pr-action"
-    }
-  },
-  {
-    "date": "2020-08-12T08:16:16Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/update-template",
-    "url": "https://anandchowdhary.com/open-source/2020/update-template",
-    "source": "https://github.com/AnandChowdhary/update-template",
-    "data": {
-      "description": "📠 Easily update repos created with GitHub templates",
-      "stars": 33,
-      "issues": 1,
-      "forks": 5,
-      "watchers": 33,
-      "topics": [
-        "github-actions",
-        "nodejs",
-        "template",
-        "template-repository",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/3aa772a807b8b93b52a5f493bb4393a70777a92ed89615c4601c1b72eaaff66d/AnandChowdhary/update-template"
-    }
-  },
-  {
-    "date": "2020-08-08T16:34:41Z",
-    "type": "open-source-project",
-    "title": "upptime/upptime",
-    "url": "https://anandchowdhary.com/open-source/2020/upptime",
-    "source": "https://github.com/upptime/upptime",
-    "data": {
-      "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16816,
-      "issues": 114,
-      "forks": 1016,
-      "watchers": 16816,
-      "topics": [
-        "incidents-reports",
-        "status",
-        "statuspage",
-        "upptime",
-        "uptime",
-        "uptime-monitor"
-      ],
-      "language": "JSON",
-      "languageColor": "#292929",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/286080143/14b2b180-19f1-11eb-991c-ced0b1719fe9"
-    }
-  },
-  {
-    "date": "2020-07-31T08:33:28Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/cosmic",
-    "url": "https://anandchowdhary.com/open-source/2020/cosmic",
-    "source": "https://github.com/AnandChowdhary/cosmic",
-    "data": {
-      "description": "🌌 Find and load configuration for your app, based on cosmiconfig",
-      "stars": 2,
-      "issues": 9,
-      "forks": 0,
-      "watchers": 2,
-      "topics": [
-        "config",
-        "cosmiconfig",
-        "loader",
-        "nodejs",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/4cdd650a3b6675b5cd29df6d51b0b8bb6c6fbb45a34b2dc4312e0b510dcfc6ae/AnandChowdhary/cosmic"
-    }
-  },
-  {
-    "date": "2020-07-30T10:54:45Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/firebase-github-backup",
-    "url": "https://anandchowdhary.com/open-source/2020/firebase-github-backup",
-    "source": "https://github.com/AnandChowdhary/firebase-github-backup",
-    "data": {
-      "description": "🔥🗄️ Encrypted backups of your Firebase database in a GitHub repo",
-      "stars": 5,
-      "issues": 16,
-      "forks": 0,
-      "watchers": 5,
-      "topics": [
-        "backup",
-        "backups",
-        "firebase",
-        "firebase-database",
-        "github"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/8ac6ed3588cbbc6b31767a9b3641a0b58f3a3a16858f03d2a2054f21dc558b71/AnandChowdhary/firebase-github-backup"
-    }
-  },
-  {
-    "date": "2020-07-17T07:25:45Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/twt",
-    "url": "https://anandchowdhary.com/open-source/2020/twt",
-    "source": "https://github.com/AnandChowdhary/twt",
-    "data": {
-      "description": "🤏 Tiny Web Tokens (TWT) are like like JWTs but tiny",
-      "stars": 7,
-      "issues": 7,
-      "forks": 2,
-      "watchers": 7,
-      "topics": [
-        "hmac",
-        "jsonwebtoken",
-        "jwt",
-        "sha1",
-        "token",
-        "tokens"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/ec65e9ce229e7498c7db14ae2c6121be83ce887c8f16b7279e97dbaaf02ae090/AnandChowdhary/twt"
     }
   },
   {
@@ -2552,54 +1989,6 @@
     }
   },
   {
-    "date": "2020-06-26T08:15:07Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/rescuetime-slack",
-    "url": "https://anandchowdhary.com/open-source/2020/rescuetime-slack",
-    "source": "https://github.com/AnandChowdhary/rescuetime-slack",
-    "data": {
-      "description": "⏰ Share your daily productivity score from RescueTime on Slack",
-      "stars": 3,
-      "issues": 3,
-      "forks": 0,
-      "watchers": 3,
-      "topics": [
-        "github-actions",
-        "rescue-time",
-        "rescuetime",
-        "slack",
-        "slack-bot"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/cf0fff0f6f6b0695e6875683c7c908c39b27c30fa15dd18da09b96ab70edcb05/AnandChowdhary/rescuetime-slack"
-    }
-  },
-  {
-    "date": "2020-06-13T16:08:43Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/carpent",
-    "url": "https://anandchowdhary.com/open-source/2020/carpent",
-    "source": "https://github.com/AnandChowdhary/carpent",
-    "data": {
-      "description": "🔨 Bootstrap and configure any project using its template",
-      "stars": 3,
-      "issues": 9,
-      "forks": 1,
-      "watchers": 3,
-      "topics": [
-        "bootstrapping",
-        "cli",
-        "node-ts",
-        "nodejs",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/3e823fd20e71cdd85f6005cdc38e3ba74a6e924d00cb70d31c22bb4a90c42d03/AnandChowdhary/carpent"
-    }
-  },
-  {
     "date": "2020-05-25T00:00:00.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2020/tuesdays-with-morrie",
@@ -2610,181 +1999,6 @@
       "authors": [
         "Mitch Albom"
       ]
-    }
-  },
-  {
-    "date": "2020-05-02T22:23:19Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/calendar-slots",
-    "url": "https://anandchowdhary.com/open-source/2020/calendar-slots",
-    "source": "https://github.com/AnandChowdhary/calendar-slots",
-    "data": {
-      "description": "🗓️ Find empty appointment slots in a user's calendar",
-      "stars": 20,
-      "issues": 9,
-      "forks": 5,
-      "watchers": 20,
-      "topics": [
-        "calendar",
-        "calendar-api",
-        "google-calendar",
-        "nodejs",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/bc6def04af7972b0cc0034a91f99077776e32419e9d4459a451c31c1c26281e4/AnandChowdhary/calendar-slots"
-    }
-  },
-  {
-    "date": "2020-04-16T19:08:22Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/docs-markdown",
-    "url": "https://anandchowdhary.com/open-source/2020/docs-markdown",
-    "source": "https://github.com/AnandChowdhary/docs-markdown",
-    "data": {
-      "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 67,
-      "issues": 10,
-      "forks": 11,
-      "watchers": 67,
-      "topics": [
-        "google",
-        "google-docs",
-        "google-drive",
-        "markdown",
-        "nodejs",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/ce8456895ee5d43d9ab6915352b5de29bf9d6c9da6ccfebe85ee0c4b2a4e1044/AnandChowdhary/docs-markdown"
-    }
-  },
-  {
-    "date": "2020-04-15T15:39:39Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/puppet",
-    "url": "https://anandchowdhary.com/open-source/2020/puppet",
-    "source": "https://github.com/AnandChowdhary/puppet",
-    "data": {
-      "description": "🎭 Natural language web automation with Puppeteer",
-      "stars": 14,
-      "issues": 12,
-      "forks": 2,
-      "watchers": 14,
-      "topics": [
-        "automation",
-        "chrome",
-        "chromium",
-        "puppeteer",
-        "scraper",
-        "typescript",
-        "web"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/b6f9c8c1061e90a8fe5615ccff48e60665d7d76cc6ab904014adc5a32739163e/AnandChowdhary/puppet"
-    }
-  },
-  {
-    "date": "2020-03-25T16:09:24Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/eject-dependencies",
-    "url": "https://anandchowdhary.com/open-source/2020/eject-dependencies",
-    "source": "https://github.com/AnandChowdhary/eject-dependencies",
-    "data": {
-      "description": "🪂 CLI to eject your npm dependencies to your source code",
-      "stars": 2,
-      "issues": 9,
-      "forks": 1,
-      "watchers": 2,
-      "topics": [
-        "cli",
-        "dependencies",
-        "eject",
-        "nodejs",
-        "npm",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/f939ad04b5884ece8f368bf015cd492e37875273785de0b7f021606781a9d3eb/AnandChowdhary/eject-dependencies"
-    }
-  },
-  {
-    "date": "2020-03-19T11:13:25Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/browser-extension",
-    "url": "https://anandchowdhary.com/open-source/2020/browser-extension",
-    "source": "https://github.com/AnandChowdhary/browser-extension",
-    "data": {
-      "description": "🌐 Opinionated starter for a web browser extension with TypeScript",
-      "stars": 5,
-      "issues": 12,
-      "forks": 1,
-      "watchers": 5,
-      "topics": [
-        "browser-extention",
-        "chrome-extension",
-        "firefox-addon",
-        "starter",
-        "typescript",
-        "web-browser"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/6d4add190b4ce2f801a914a951e0ea87d3a4ca22c6132e7e5dc46415ce697087/AnandChowdhary/browser-extension"
-    }
-  },
-  {
-    "date": "2020-03-19T06:50:16Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/node.ts",
-    "url": "https://anandchowdhary.com/open-source/2020/node.ts",
-    "source": "https://github.com/AnandChowdhary/node.ts",
-    "data": {
-      "description": "🏷️ Opinionated TypeScript starter for server-side Node.js libraries",
-      "stars": 2,
-      "issues": 10,
-      "forks": 3,
-      "watchers": 2,
-      "topics": [
-        "javascript",
-        "library",
-        "nodejs",
-        "starter",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/f89e3aa8b3ba405e75cb39fa0551e1d5bb09ea43d123421aaf77daba9e8645b8/AnandChowdhary/node.ts"
-    }
-  },
-  {
-    "date": "2020-03-18T17:06:38Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/run-url",
-    "url": "https://anandchowdhary.com/open-source/2020/run-url",
-    "source": "https://github.com/AnandChowdhary/run-url",
-    "data": {
-      "description": "🏃 Run a Node.js file from a URL, easily \"npx run-url\"",
-      "stars": 9,
-      "issues": 3,
-      "forks": 2,
-      "watchers": 9,
-      "topics": [
-        "bash",
-        "cli",
-        "nodejs",
-        "runner",
-        "script",
-        "typescript",
-        "util"
-      ],
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/13cb433724aba1a5022e7aa0b0b48942b51d2c67667c731b4bf0e0abdce32911/AnandChowdhary/run-url"
     }
   },
   {
@@ -2801,50 +2015,6 @@
     }
   },
   {
-    "date": "2020-02-26T09:29:43Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/citepls",
-    "url": "https://anandchowdhary.com/open-source/2020/citepls",
-    "source": "https://github.com/AnandChowdhary/citepls",
-    "data": {
-      "description": "🧠 Unlimited free citation generator with APA, MLA, Chicago, and custom formats",
-      "stars": 5,
-      "issues": 3,
-      "forks": 0,
-      "watchers": 5,
-      "topics": [],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/2ed2537ef81604cf7d1e715e27e7ab66057f2e906127ebf1051a639c4ff5519e/AnandChowdhary/citepls"
-    }
-  },
-  {
-    "date": "2020-02-25T21:02:51Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/hackerbadge",
-    "url": "https://anandchowdhary.com/open-source/2020/hackerbadge",
-    "source": "https://github.com/AnandChowdhary/hackerbadge",
-    "data": {
-      "description": "📛 Embeddable badges for Hacker News posts/launches",
-      "stars": 18,
-      "issues": 1,
-      "forks": 2,
-      "watchers": 18,
-      "topics": [
-        "badge",
-        "hacker-news",
-        "nodejs",
-        "serverless",
-        "shield",
-        "svg",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/2bdf4ae01e3fb6d3f25125f8e43ad55ef28e595fb20799dcfd5a0e58fafde4d4/AnandChowdhary/hackerbadge"
-    }
-  },
-  {
     "date": "2020-02-21T00:00:00.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2020/outliers",
@@ -2858,112 +2028,11 @@
     }
   },
   {
-    "date": "2020-02-20T16:11:05Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/mockingbird",
-    "url": "https://anandchowdhary.com/open-source/2020/mockingbird",
-    "source": "https://github.com/AnandChowdhary/mockingbird",
-    "data": {
-      "description": "Smartphone app to help people with multiple sclerosis read more easily",
-      "stars": 4,
-      "issues": 3,
-      "forks": 1,
-      "watchers": 4,
-      "topics": [
-        "a11y",
-        "android",
-        "app",
-        "ios",
-        "react-native",
-        "utwente"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/7e8ae414f976895dc7d276950d412e1e409c4924691c580b040fb1abce5c8e36/AnandChowdhary/mockingbird"
-    }
-  },
-  {
-    "date": "2020-02-16T19:34:08Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/gitwords",
-    "url": "https://anandchowdhary.com/open-source/2020/gitwords",
-    "source": "https://github.com/AnandChowdhary/gitwords",
-    "data": {
-      "description": "🔐 GitHub-powered secure writing platform, deployed on ZEIT",
-      "stars": 4,
-      "issues": 9,
-      "forks": 0,
-      "watchers": 4,
-      "topics": [
-        "github",
-        "nodejs",
-        "react",
-        "serverless",
-        "typescript",
-        "writing",
-        "zeit"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/2b6a8251efbd64499225d504f710a223e420ed09d71ee16aa9b82e2251c2e2b7/AnandChowdhary/gitwords"
-    }
-  },
-  {
     "date": "2020-02-15T00:00:00.000Z",
     "type": "version",
     "url": "https://anandchowdhary.com/versions/2020/amsterdam",
     "source": "https://anandchowdhary.github.io/versions/versions/2020/amsterdam",
     "title": "Amsterdam"
-  },
-  {
-    "date": "2020-02-12T08:24:31Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/unfs",
-    "url": "https://anandchowdhary.com/open-source/2020/unfs",
-    "source": "https://github.com/AnandChowdhary/unfs",
-    "data": {
-      "description": "📁 Unified Node.js fs-like API for cloud storage services",
-      "stars": 9,
-      "issues": 10,
-      "forks": 0,
-      "watchers": 9,
-      "topics": [
-        "file-upload",
-        "fs",
-        "nodejs",
-        "s3",
-        "storage",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/49cc326f529c80fa59225eb10cf85f1e4b2ffc90a6076bcc077f2bf285baedcb/AnandChowdhary/unfs"
-    }
-  },
-  {
-    "date": "2020-02-09T19:08:44Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/archiver",
-    "url": "https://anandchowdhary.com/open-source/2020/archiver",
-    "source": "https://github.com/AnandChowdhary/archiver",
-    "data": {
-      "description": "🗄️ Auto-archive your webpages on the Internet Archive",
-      "stars": 12,
-      "issues": 10,
-      "forks": 2,
-      "watchers": 12,
-      "topics": [
-        "archive-dot-org",
-        "automation",
-        "internet-archive",
-        "nodejs",
-        "typescript",
-        "wayback-machine"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/d867fc8ed55b64f375fc0833bab4ceeff44ced80a9ab62af980ca5b6f803004f/AnandChowdhary/archiver"
-    }
   },
   {
     "date": "2020-01-31T20:58:20.906Z",
@@ -2979,30 +2048,6 @@
       ],
       "label": "Türkiye",
       "countryCode": "tr"
-    }
-  },
-  {
-    "date": "2020-01-05T11:41:56Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/anand.link",
-    "url": "https://anandchowdhary.com/open-source/2020/anand.link",
-    "source": "https://github.com/AnandChowdhary/anand.link",
-    "data": {
-      "description": "🔗  Multi-domain URL shortener and redirector",
-      "stars": 3,
-      "issues": 0,
-      "forks": 0,
-      "watchers": 3,
-      "topics": [
-        "github-actions",
-        "netlify",
-        "python",
-        "url-shortener",
-        "utilities"
-      ],
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/4cd20c8671f172681cb0468ad0edbaa4c886894f7aa5f75b750ff1ba78c631b1/AnandChowdhary/anand.link"
     }
   },
   {
@@ -3093,30 +2138,6 @@
     "title": "Studied at Santa Clara University",
     "data": {
       "description": "I was the first student in my program to study for a semester at Santa Clara University in Silicon Valley as part of the Global Engineering Education Exchange (Global E3). I was a recipient of the Twente Mobility Fund Scholarship and my coursework consisted of computer graphics, venture capital, marketing, and typography."
-    }
-  },
-  {
-    "date": "2019-11-25T18:27:53Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/yoga",
-    "url": "https://anandchowdhary.com/open-source/2019/yoga",
-    "source": "https://github.com/AnandChowdhary/yoga",
-    "data": {
-      "description": "🧘 iOS app to send data from HealthKit to webhook",
-      "stars": 10,
-      "issues": 6,
-      "forks": 1,
-      "watchers": 10,
-      "topics": [
-        "app",
-        "healthkit",
-        "ios",
-        "react-native",
-        "webhook"
-      ],
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/5d2781c0aaec6874fbe7ac92a9bbbb534580b4e8c0f660c9d8b0098a6896f266/AnandChowdhary/yoga"
     }
   },
   {
@@ -3245,32 +2266,6 @@
     }
   },
   {
-    "date": "2019-07-24T06:21:53Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/feeedback",
-    "url": "https://anandchowdhary.com/open-source/2019/feeedback",
-    "source": "https://github.com/AnandChowdhary/feeedback",
-    "data": {
-      "description": "🙋 Collect feedback from your users on the web",
-      "stars": 9,
-      "issues": 2,
-      "forks": 5,
-      "watchers": 9,
-      "topics": [
-        "dom",
-        "feedback",
-        "javascript",
-        "plugin",
-        "screenshot",
-        "typescript",
-        "widget"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/7d08701ac51703a906a86829ec80260551d02832ec55a3564c38a38a31c8250f/AnandChowdhary/feeedback"
-    }
-  },
-  {
     "date": "2019-07-08T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2019/el-nino-design",
@@ -3392,54 +2387,6 @@
     }
   },
   {
-    "date": "2019-05-17T14:36:43Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/analytics-icons",
-    "url": "https://anandchowdhary.com/open-source/2019/analytics-icons",
-    "source": "https://github.com/AnandChowdhary/analytics-icons",
-    "data": {
-      "description": "📈 Icons for browsers, OSes, devices, flags, and more",
-      "stars": 3,
-      "issues": 0,
-      "forks": 3,
-      "watchers": 3,
-      "topics": [
-        "browser",
-        "icons",
-        "image",
-        "logo",
-        "os",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/9566d402b11282bdf5553a8bffad2932a1ad0016b31eea3cf8052246abaae144/AnandChowdhary/analytics-icons"
-    }
-  },
-  {
-    "date": "2019-05-17T12:30:24Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/scrub",
-    "url": "https://anandchowdhary.com/open-source/2019/scrub",
-    "source": "https://github.com/AnandChowdhary/scrub",
-    "data": {
-      "description": "🧹 Track JS errors and send them to your backend",
-      "stars": 11,
-      "issues": 1,
-      "forks": 6,
-      "watchers": 11,
-      "topics": [
-        "error-handling",
-        "error-monitoring",
-        "scrum",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/95af08ca248ea6000f0847f7068a3ee9990b4584dca7a789430f6f0198b99b78/AnandChowdhary/scrub"
-    }
-  },
-  {
     "date": "2019-05-08",
     "type": "award",
     "url": "https://anandchowdhary.com/press/2019/the-next-web",
@@ -3484,56 +2431,6 @@
     }
   },
   {
-    "date": "2019-03-22T15:43:15Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/sharer.link",
-    "url": "https://anandchowdhary.com/open-source/2019/sharer.link",
-    "source": "https://github.com/AnandChowdhary/sharer.link",
-    "data": {
-      "description": "🔗 Share links for songs, places, podcasts, and more",
-      "stars": 25,
-      "issues": 15,
-      "forks": 3,
-      "watchers": 25,
-      "topics": [
-        "links",
-        "share",
-        "typescript",
-        "url-shortener",
-        "vue"
-      ],
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/24804829eb928f946673b3891d4d8050a4233fbef59361d53129c0d5f4e38abe/AnandChowdhary/sharer.link"
-    }
-  },
-  {
-    "date": "2019-03-18T10:41:08Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/auto-i18n",
-    "url": "https://anandchowdhary.com/open-source/2019/auto-i18n",
-    "source": "https://github.com/AnandChowdhary/auto-i18n",
-    "data": {
-      "description": "🌐 Automatically translate your JSON I18N files",
-      "stars": 31,
-      "issues": 4,
-      "forks": 3,
-      "watchers": 31,
-      "topics": [
-        "automation",
-        "google-translate",
-        "i18n",
-        "l18n",
-        "nodejs",
-        "translation",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/a5aa22c1526d40dde0ce46eb68b9f0995ac45f2c12604a71de342bd888e3cff5/AnandChowdhary/auto-i18n"
-    }
-  },
-  {
     "date": "2019-03-15T18:54:59.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2019/package-managers",
@@ -3564,124 +2461,6 @@
     }
   },
   {
-    "date": "2019-03-05T13:55:42Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/gitwriter",
-    "url": "https://anandchowdhary.com/open-source/2019/gitwriter",
-    "source": "https://github.com/AnandChowdhary/gitwriter",
-    "data": {
-      "description": "📝 Version control your thoughts",
-      "stars": 16,
-      "issues": 3,
-      "forks": 1,
-      "watchers": 16,
-      "topics": [
-        "app",
-        "git",
-        "typescript",
-        "vue",
-        "writing"
-      ],
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/91af4d8e1454006fd9548eb8bf7528c46b7fde5209d79e3be4937a4d994ee1cf/AnandChowdhary/gitwriter"
-    }
-  },
-  {
-    "date": "2019-03-02T13:13:08Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/language-icons",
-    "url": "https://anandchowdhary.com/open-source/2019/language-icons",
-    "source": "https://github.com/AnandChowdhary/language-icons",
-    "data": {
-      "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 69,
-      "issues": 10,
-      "forks": 21,
-      "watchers": 69,
-      "topics": [
-        "generator",
-        "icons",
-        "languages"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/24ef7a5cb2a41ba704757d38bf5ca5de20bfd23e4a5542047646a43767573162/AnandChowdhary/language-icons"
-    }
-  },
-  {
-    "date": "2019-02-21T12:49:05Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/fraud",
-    "url": "https://anandchowdhary.com/open-source/2019/fraud",
-    "source": "https://github.com/AnandChowdhary/fraud",
-    "data": {
-      "description": "🗄 File-based key-JSON database with nodecache",
-      "stars": 16,
-      "issues": 1,
-      "forks": 0,
-      "watchers": 16,
-      "topics": [
-        "filesystem",
-        "fs",
-        "library",
-        "nodejs",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/47228dc0682a6c79e58cd29bdb9d16cb265322d7b99ac4eb06b361333ed81141/AnandChowdhary/fraud"
-    }
-  },
-  {
-    "date": "2019-02-19T14:41:35Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/changebar",
-    "url": "https://anandchowdhary.com/open-source/2019/changebar",
-    "source": "https://github.com/AnandChowdhary/changebar",
-    "data": {
-      "description": "🔔 Changelog notifications widget for the web, powered by GitHub",
-      "stars": 7,
-      "issues": 5,
-      "forks": 1,
-      "watchers": 7,
-      "topics": [
-        "changelog",
-        "notifications",
-        "plugin",
-        "semantic-versioning",
-        "typescript",
-        "widget"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/aa008604ddfb6b1711f179ddbc1f5ef9320dc0a59ed2ed249294622950adc099/AnandChowdhary/changebar"
-    }
-  },
-  {
-    "date": "2019-02-13T12:48:05Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/typestart",
-    "url": "https://anandchowdhary.com/open-source/2019/typestart",
-    "source": "https://github.com/AnandChowdhary/typestart",
-    "data": {
-      "description": "📦 Typescript DOM library starter template",
-      "stars": 3,
-      "issues": 1,
-      "forks": 1,
-      "watchers": 3,
-      "topics": [
-        "javascript",
-        "library",
-        "starter",
-        "typescript"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/0d7cbedf5324dccfd853bd18ba575ecbb281f001d2dc64e32af4f729315b7e60/AnandChowdhary/typestart"
-    }
-  },
-  {
     "date": "2019-02-06T00:00:00.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2019/inglorious-empire",
@@ -3692,32 +2471,6 @@
       "authors": [
         "Shashi Tharoor"
       ]
-    }
-  },
-  {
-    "date": "2019-01-16T15:51:01Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/calendar-link",
-    "url": "https://anandchowdhary.com/open-source/2019/calendar-link",
-    "source": "https://github.com/AnandChowdhary/calendar-link",
-    "data": {
-      "description": "📅 Calendar link generator for popular services",
-      "stars": 618,
-      "issues": 12,
-      "forks": 77,
-      "watchers": 618,
-      "topics": [
-        "calendar",
-        "calendar-link",
-        "google-calendar",
-        "javascript",
-        "library",
-        "outlook",
-        "yahoo"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/d70663baecfb0e266fd45f9af4e41bb6f06c17750361570e9f53cc49592b9ba1/AnandChowdhary/calendar-link"
     }
   },
   {
@@ -3764,54 +2517,6 @@
     "data": {
       "publisher": "RTV Oost",
       "href": "https://www.rtvoost.nl/media/137176/De-beste-ondernemers-van-de-UT"
-    }
-  },
-  {
-    "date": "2018-12-30T16:44:23Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/hello-bar",
-    "url": "https://anandchowdhary.com/open-source/2018/hello-bar",
-    "source": "https://github.com/AnandChowdhary/hello-bar",
-    "data": {
-      "description": "👋 Greet your visitors with a hello bar",
-      "stars": 76,
-      "issues": 6,
-      "forks": 10,
-      "watchers": 76,
-      "topics": [
-        "engagement",
-        "hellobar",
-        "js",
-        "library",
-        "marketing"
-      ],
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/dac3e0c3a55d3403dd8c12857ec47a35fb80390ec67ba100c06efb1659bf3c4d/AnandChowdhary/hello-bar"
-    }
-  },
-  {
-    "date": "2018-12-01T10:21:05Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/hovercard",
-    "url": "https://anandchowdhary.com/open-source/2018/hovercard",
-    "source": "https://github.com/AnandChowdhary/hovercard",
-    "data": {
-      "description": "🖱️ Wikipedia summary cards for the web",
-      "stars": 91,
-      "issues": 6,
-      "forks": 10,
-      "watchers": 91,
-      "topics": [
-        "a11y",
-        "hovercard",
-        "javascript",
-        "plugin",
-        "wikipedia"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/e104f699cfa359d1ea0653a09b8684b2df6a2f57e1e467ae00e9089a41c52b72/AnandChowdhary/hovercard"
     }
   },
   {
@@ -4244,32 +2949,6 @@
     }
   },
   {
-    "date": "2018-04-19T14:23:20Z",
-    "type": "open-source-project",
-    "title": "elninotech/uppload",
-    "url": "https://anandchowdhary.com/open-source/2018/uppload",
-    "source": "https://github.com/elninotech/uppload",
-    "data": {
-      "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1868,
-      "issues": 51,
-      "forks": 128,
-      "watchers": 1868,
-      "topics": [
-        "file-upload",
-        "hacktoberfest",
-        "image",
-        "javascript",
-        "plugin",
-        "uploader",
-        "widget"
-      ],
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/130227442/34995600-2f43-11ea-9dcd-8ffac16b392a"
-    }
-  },
-  {
     "date": "2018-04-12T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2018/ibm-iot-escape-room",
@@ -4384,29 +3063,6 @@
     }
   },
   {
-    "date": "2018-03-05T09:00:12Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/words",
-    "url": "https://anandchowdhary.com/open-source/2018/words",
-    "source": "https://github.com/AnandChowdhary/words",
-    "data": {
-      "description": "Words doesn't come in the way of you and your thoughts",
-      "stars": 3,
-      "issues": 1,
-      "forks": 1,
-      "watchers": 3,
-      "topics": [
-        "cms",
-        "json",
-        "php",
-        "writing"
-      ],
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/1c61330041b9245331a4f19c9e5c251b963f0a529e6ea3af7706224839908b10/AnandChowdhary/words"
-    }
-  },
-  {
     "date": "2018-02-10",
     "type": "video",
     "url": "https://anandchowdhary.com/videos/2018/in-conversation-with-anand-chowdhury",
@@ -4430,28 +3086,6 @@
     "data": {
       "href": "https://overcast.fm/+Oa3ivwUlI",
       "publisher": "Ready or Not"
-    }
-  },
-  {
-    "date": "2018-01-26T13:09:41Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/drumpad",
-    "url": "https://anandchowdhary.com/open-source/2018/drumpad",
-    "source": "https://github.com/AnandChowdhary/drumpad",
-    "data": {
-      "description": "Ardunio-based music generator",
-      "stars": 3,
-      "issues": 0,
-      "forks": 0,
-      "watchers": 3,
-      "topics": [
-        "arduino",
-        "music",
-        "processing"
-      ],
-      "language": "Processing",
-      "languageColor": "#0096D8",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/99bda286df8027d9f0aa7f74ccf90f96f0f57e1b4e9eb875cbb15789b2bec6b7/AnandChowdhary/drumpad"
     }
   },
   {
@@ -4607,30 +3241,6 @@
     }
   },
   {
-    "date": "2017-10-31T09:41:48Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/abendgebet",
-    "url": "https://anandchowdhary.com/open-source/2017/abendgebet",
-    "source": "https://github.com/AnandChowdhary/abendgebet",
-    "data": {
-      "description": "A game based on the painting Abendgebet by Milan Kunc",
-      "stars": 3,
-      "issues": 0,
-      "forks": 0,
-      "watchers": 3,
-      "topics": [
-        "creative-technology",
-        "game",
-        "homework",
-        "java",
-        "processing"
-      ],
-      "language": "Processing",
-      "languageColor": "#0096D8",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/f9500841812d9636f0fbbcecdefba7906103f1ce42e1973a1b1075943b61a30c/AnandChowdhary/abendgebet"
-    }
-  },
-  {
     "date": "2017-10-31T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2017/hardstart-pitch-training",
@@ -4708,31 +3318,6 @@
         "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/facematch/facematch_2x.png",
         "attachment": "cover"
       }
-    }
-  },
-  {
-    "date": "2017-09-18T15:10:55Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/wikibility",
-    "url": "https://anandchowdhary.com/open-source/2017/wikibility",
-    "source": "https://github.com/AnandChowdhary/wikibility",
-    "data": {
-      "description": "A beautiful, more legible, and accessible Wikipedia",
-      "stars": 3,
-      "issues": 0,
-      "forks": 1,
-      "watchers": 3,
-      "topics": [
-        "angularjs",
-        "css",
-        "encyclopedia",
-        "html",
-        "redesign",
-        "wikipedia"
-      ],
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/9e73c597a411327ebfd1481a13ed4f520c3c29dc6581e0d5150103e289218d26/AnandChowdhary/wikibility"
     }
   },
   {
@@ -4898,30 +3483,6 @@
     }
   },
   {
-    "date": "2017-04-02T13:29:53Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/access",
-    "url": "https://anandchowdhary.com/open-source/2017/access",
-    "source": "https://github.com/AnandChowdhary/access",
-    "data": {
-      "description": "An elegant, simple WordPress theme for writers",
-      "stars": 1,
-      "issues": 0,
-      "forks": 0,
-      "watchers": 1,
-      "topics": [
-        "php",
-        "sass",
-        "theme",
-        "wordpress",
-        "wordpress-theme"
-      ],
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/97bfcd3449cedb45c05fbf59b4a55c0eeb7644aa2ad9f86884110f43d699eeeb/AnandChowdhary/access"
-    }
-  },
-  {
     "date": "2017-03-01T00:00:00.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2017/college",
@@ -5083,28 +3644,6 @@
     "url": "https://anandchowdhary.com/versions/2016/assembly",
     "source": "https://anandchowdhary.github.io/versions/versions/2016/assembly",
     "title": "Assembly"
-  },
-  {
-    "date": "2016-12-02T12:58:28Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/precis",
-    "url": "https://anandchowdhary.com/open-source/2016/precis",
-    "source": "https://github.com/AnandChowdhary/precis",
-    "data": {
-      "description": "🔗 A simple and beautiful self-hostable URL Shortener",
-      "stars": 1,
-      "issues": 0,
-      "forks": 0,
-      "watchers": 1,
-      "topics": [
-        "jquery",
-        "php",
-        "url-shortener"
-      ],
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/2094b6df0931985bb317f3bdf994784b3248a77f6bf61d18b399af19b5ab0d2b/AnandChowdhary/precis"
-    }
   },
   {
     "date": "2016-11-15T00:00:00.000Z",
@@ -5320,24 +3859,6 @@
     "title": "Altitude"
   },
   {
-    "date": "2016-03-12T07:06:33Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/555-lazy-load",
-    "url": "https://anandchowdhary.com/open-source/2016/555-lazy-load",
-    "source": "https://github.com/AnandChowdhary/555-lazy-load",
-    "data": {
-      "description": "A super tiny JavaScript library for lazy loading (555 byes)",
-      "stars": 2,
-      "issues": 0,
-      "forks": 0,
-      "watchers": 2,
-      "topics": [],
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/5599e897b237929c9d933dae55b891427f583960b82017a8c6c4a95bbb377071/AnandChowdhary/555-lazy-load"
-    }
-  },
-  {
     "date": "2016-03-01T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2016/firangana",
@@ -5404,29 +3925,6 @@
         "attachment": "padded",
         "color": "#8d9ba6"
       }
-    }
-  },
-  {
-    "date": "2016-01-20T17:14:14Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/keeep",
-    "url": "https://anandchowdhary.com/open-source/2016/keeep",
-    "source": "https://github.com/AnandChowdhary/keeep",
-    "data": {
-      "description": "Password manager and text encoder",
-      "stars": 3,
-      "issues": 0,
-      "forks": 1,
-      "watchers": 3,
-      "topics": [
-        "c-plus-plus",
-        "encoder",
-        "password",
-        "password-manager"
-      ],
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/9483c8a485bb4d033e84be372b4bd87640b50022dfbcdae00e029000e6b62312/AnandChowdhary/keeep"
     }
   },
   {
@@ -5524,30 +4022,6 @@
     "source": "https://github.com/AnandChowdhary/everything/blob/main/data/life-events.json",
     "title": "Became an adult",
     "data": {}
-  },
-  {
-    "date": "2015-12-25T16:13:36Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/one-grid",
-    "url": "https://anandchowdhary.com/open-source/2015/one-grid",
-    "source": "https://github.com/AnandChowdhary/one-grid",
-    "data": {
-      "description": "One Grid is the simplest grid system in 1 KB",
-      "stars": 2,
-      "issues": 0,
-      "forks": 0,
-      "watchers": 2,
-      "topics": [
-        "css",
-        "grid",
-        "grid-system",
-        "javascript",
-        "library"
-      ],
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/6d931242f21ae0dfaa12ca41f978044f106397367f51c411a43b08d504b27a00/AnandChowdhary/one-grid"
-    }
   },
   {
     "date": "2015-12-11T00:00:00.000Z",
@@ -5830,55 +4304,6 @@
         "attachment": "padded",
         "color": "#e4e4e4"
       }
-    }
-  },
-  {
-    "date": "2014-08-08T13:15:13Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/aptitude",
-    "url": "https://anandchowdhary.com/open-source/2014/aptitude",
-    "source": "https://github.com/AnandChowdhary/aptitude",
-    "data": {
-      "description": "A super-simple theme for one-page articles and projects",
-      "stars": 1,
-      "issues": 0,
-      "forks": 1,
-      "watchers": 1,
-      "topics": [
-        "css",
-        "html",
-        "single-page",
-        "theme",
-        "typekit"
-      ],
-      "language": "CSS",
-      "languageColor": "#663399",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/363a807e8961564ddd0f99ef48bd8470ba93b1ff4ac489b63aa5ca65b416fbbe/AnandChowdhary/aptitude"
-    }
-  },
-  {
-    "date": "2014-07-05T17:10:51Z",
-    "type": "open-source-project",
-    "title": "AnandChowdhary/essential.css",
-    "url": "https://anandchowdhary.com/open-source/2014/essential.css",
-    "source": "https://github.com/AnandChowdhary/essential.css",
-    "data": {
-      "description": "A single CSS file to design beautiful webpages",
-      "stars": 3,
-      "issues": 0,
-      "forks": 0,
-      "watchers": 3,
-      "topics": [
-        "css",
-        "library",
-        "minimal",
-        "sass",
-        "scss",
-        "single-page"
-      ],
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/8fd871ebf0e01432fdb413b5b5757ed6e8e4de29ad61bf35ac0f298feec3fa9a/AnandChowdhary/essential.css"
     }
   },
   {
