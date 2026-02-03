@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-01-01T00:00:00.000Z",
+    "type": "theme",
+    "url": "https://anandchowdhary.com/themes/2026",
+    "source": "https://anandchowdhary.github.io/themes/themes/2026/year-of-discovery",
+    "title": "Year of Discovery",
+    "data": {
+      "year": 2026,
+      "description": "After exiting FirstQuadrant, I find myself at a crossroads that's both scary and liberating. For the first time in a decade, I have a clean slate: I'm not pivoting, no longer racing against a runway, not trying to make something work; I can actually choose what's next based on what resonates most. I want to explore ideas. Carlo and I are spending a few hours every other day thinking about new concepts, talking to users, and validating problems. But this time, I'm not rushing to build."
+    }
+  },
+  {
     "date": "2025-12-29T00:00:00.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2025/year-of-discovery",
@@ -70,7 +81,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/88dd227bb2792bc980ef03ae578ee19be84e2802b6d8f6327f81e597b32a5b79/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/ab77d73374fe03ca0e8697a890fd68651e0a0ca60d3d027e5cbcbddd9265bd21/AnandChowdhary/continuous-claude"
     }
   },
   {
