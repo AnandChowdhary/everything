@@ -68,10 +68,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1197,
+      "stars": 1204,
       "issues": 14,
       "forks": 89,
-      "watchers": 1197,
+      "watchers": 1204,
       "topics": [
         "ai",
         "ai-agents",
@@ -2400,10 +2400,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16836,
+      "stars": 16846,
       "issues": 114,
-      "forks": 1015,
-      "watchers": 16836,
+      "forks": 1017,
+      "watchers": 16846,
       "topics": [
         "incidents-reports",
         "status",
@@ -4264,7 +4264,7 @@
       "description": "📁 JavaScript image uploader and editor, no backend required",
       "stars": 1870,
       "issues": 51,
-      "forks": 129,
+      "forks": 128,
       "watchers": 1870,
       "topics": [
         "file-upload",
