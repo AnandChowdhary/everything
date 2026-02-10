@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-02-09T00:00:00.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2026/agentscript",
+    "source": "https://anandchowdhary.github.io/blog/blog/2026/agentscript",
+    "title": "AgentScript",
+    "data": {
+      "excerpt": "A few weeks ago, I was staring at a system prompt that was 127,000 tokens long. One hundred and twenty-seven thousand tokens - just the system prompt. Most of it was, you guessed it, tool schemas: JSON definitions for every possible thing the agent could do, most of which it would never touch in any given run. My solution? I propose AgentScript: a code-first execution language where the LLM can only interact with the outside world by writing programs."
+    }
+  },
+  {
     "date": "2026-01-01T00:00:00.000Z",
     "type": "theme",
     "url": "https://anandchowdhary.com/themes/2026",
@@ -81,7 +91,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/4b8a2a88d71871c91d78bbb91f7f236e9cf1765d38bbb363350c14ff374008ef/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/16b9f4ccdefe27d38f798bace355e9c2deecada37b004a161e53d58e247598ac/AnandChowdhary/continuous-claude"
     }
   },
   {
