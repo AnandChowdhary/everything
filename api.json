@@ -10,6 +10,18 @@
     }
   },
   {
+    "date": "2026-02-09",
+    "type": "podcast-interview",
+    "url": "https://anandchowdhary.com/press/2026/off-the-cuff-ima-sscbs",
+    "source": "https://github.com/AnandChowdhary/everything/blob/main/data/press.json",
+    "title": "Anand Chowdhary's Insights: From Entrepreneurship to Innovation",
+    "data": {
+      "href": "https://www.youtube.com/watch?v=0Z3Nmc3lACM",
+      "publisher": "Off the Cuff, IMA SSCBS",
+      "embed": "https://www.youtube.com/embed/0Z3Nmc3lACM?si=JNPxaM91A6iT0QFD"
+    }
+  },
+  {
     "date": "2026-01-01T00:00:00.000Z",
     "type": "theme",
     "url": "https://anandchowdhary.com/themes/2026",
@@ -3738,7 +3750,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/d70663baecfb0e266fd45f9af4e41bb6f06c17750361570e9f53cc49592b9ba1/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/955eb4a871151f7c4c19edea8ecea85331043f06e10e13ea4a67cc90b2aa87fe/AnandChowdhary/calendar-link"
     }
   },
   {
