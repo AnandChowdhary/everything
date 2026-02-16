@@ -90,10 +90,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1204,
+      "stars": 1210,
       "issues": 14,
-      "forks": 89,
-      "watchers": 1204,
+      "forks": 88,
+      "watchers": 1210,
       "topics": [
         "ai",
         "ai-agents",
@@ -2422,10 +2422,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16846,
+      "stars": 16867,
       "issues": 114,
       "forks": 1017,
-      "watchers": 16846,
+      "watchers": 16867,
       "topics": [
         "incidents-reports",
         "status",
@@ -3525,7 +3525,7 @@
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
       "stars": 25,
-      "issues": 15,
+      "issues": 16,
       "forks": 3,
       "watchers": 25,
       "topics": [
@@ -3735,10 +3735,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 619,
+      "stars": 620,
       "issues": 11,
       "forks": 77,
-      "watchers": 619,
+      "watchers": 620,
       "topics": [
         "calendar",
         "calendar-link",
