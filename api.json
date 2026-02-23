@@ -89,11 +89,11 @@
     "url": "https://anandchowdhary.com/open-source/2025/continuous-claude",
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
-      "description": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1210,
-      "issues": 14,
-      "forks": 88,
-      "watchers": 1210,
+      "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+      "stars": 1218,
+      "issues": 15,
+      "forks": 89,
+      "watchers": 1218,
       "topics": [
         "ai",
         "ai-agents",
@@ -187,10 +187,10 @@
     "source": "https://github.com/AnandChowdhary/priced-in",
     "data": {
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
-      "stars": 45,
+      "stars": 46,
       "issues": 5,
-      "forks": 15,
-      "watchers": 45,
+      "forks": 16,
+      "watchers": 46,
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
@@ -2422,10 +2422,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16867,
+      "stars": 16883,
       "issues": 114,
       "forks": 1017,
-      "watchers": 16867,
+      "watchers": 16883,
       "topics": [
         "incidents-reports",
         "status",
@@ -3736,7 +3736,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 620,
-      "issues": 11,
+      "issues": 14,
       "forks": 77,
       "watchers": 620,
       "topics": [
@@ -4284,10 +4284,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1870,
+      "stars": 1869,
       "issues": 51,
       "forks": 128,
-      "watchers": 1870,
+      "watchers": 1869,
       "topics": [
         "file-upload",
         "hacktoberfest",
