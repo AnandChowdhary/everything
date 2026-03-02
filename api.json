@@ -90,10 +90,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1218,
+      "stars": 1235,
       "issues": 15,
       "forks": 89,
-      "watchers": 1218,
+      "watchers": 1235,
       "topics": [
         "ai",
         "ai-agents",
@@ -134,10 +134,10 @@
     "source": "https://github.com/AnandChowdhary/claude-code-slack-bot",
     "data": {
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
-      "stars": 9,
+      "stars": 10,
       "issues": 1,
       "forks": 3,
-      "watchers": 9,
+      "watchers": 10,
       "topics": [
         "claude",
         "claude-ai",
@@ -2141,10 +2141,10 @@
     "source": "https://github.com/AnandChowdhary/bookshelf-action",
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
-      "stars": 71,
+      "stars": 72,
       "issues": 3,
-      "forks": 19,
-      "watchers": 71,
+      "forks": 20,
+      "watchers": 72,
       "topics": [
         "api",
         "books",
@@ -2422,10 +2422,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16883,
+      "stars": 16896,
       "issues": 114,
       "forks": 1017,
-      "watchers": 16883,
+      "watchers": 16896,
       "topics": [
         "incidents-reports",
         "status",
@@ -3736,7 +3736,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 620,
-      "issues": 14,
+      "issues": 13,
       "forks": 77,
       "watchers": 620,
       "topics": [
@@ -4284,10 +4284,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1869,
+      "stars": 1870,
       "issues": 51,
       "forks": 128,
-      "watchers": 1869,
+      "watchers": 1870,
       "topics": [
         "file-upload",
         "hacktoberfest",
