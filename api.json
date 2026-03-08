@@ -363,6 +363,31 @@
     }
   },
   {
+    "date": "2024-05-20T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2024/firstquadrant-actions",
+    "source": "https://anandchowdhary.github.io/projects/projects/2024/firstquadrant-actions",
+    "title": "Actions on FirstQuadrant",
+    "data": {
+      "description": "Human-in-the-loop AI inbox where sales teams review, approve, and refine AI-generated outreach actions",
+      "tags": [
+        "Web",
+        "FirstQuadrant",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "OpenAI GPT-4o",
+        "BullMQ"
+      ],
+      "collaborators": [],
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-actions/inbox-dark.jpg",
+        "attachment": "cover",
+        "color": "#1a1a2e"
+      }
+    }
+  },
+  {
     "date": "2024-03-24T15:28:15.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2024/never-split-the-difference",
@@ -388,6 +413,31 @@
         "Jason Fried",
         "David Heinemeier Hansson"
       ]
+    }
+  },
+  {
+    "date": "2024-02-21T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2024/firstquadrant-website",
+    "source": "https://anandchowdhary.github.io/projects/projects/2024/firstquadrant-website",
+    "title": "FirstQuadrant.ai",
+    "data": {
+      "description": "Marketing website, documentation, and changelog for FirstQuadrant's AI sales platform",
+      "tags": [
+        "Web",
+        "FirstQuadrant",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "MDX"
+      ],
+      "collaborators": [],
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-website/homepage-screenshot.jpg",
+        "attachment": "cover",
+        "color": "#1a1a2e"
+      }
     }
   },
   {
@@ -577,6 +627,31 @@
     }
   },
   {
+    "date": "2023-09-01T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2023/firstquadrant-campaigns",
+    "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-campaigns",
+    "title": "Campaigns on FirstQuadrant",
+    "data": {
+      "description": "AI-generated personalized email sequences with deliverability infrastructure for fully autonomous B2B outbound",
+      "tags": [
+        "Web",
+        "FirstQuadrant",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "OpenAI",
+        "SendGrid"
+      ],
+      "collaborators": [],
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-campaigns/sequence-timeline.jpg",
+        "attachment": "cover",
+        "color": "#1a1a2e"
+      }
+    }
+  },
+  {
     "date": "2023-08-24T13:15:59Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/deliverabilityguide.com",
@@ -613,106 +688,6 @@
       "href": "https://open.spotify.com/episode/1DCz9ZeH0FRXmzoHXVzGfD",
       "publisher": "From Pre-seed to Seed: 101",
       "embed": "https://open.spotify.com/embed/episode/1DCz9ZeH0FRXmzoHXVzGfD"
-    }
-  },
-  {
-    "date": "2023-08-01T00:00:00.000Z",
-    "type": "project",
-    "url": "https://anandchowdhary.com/projects/2023/firstquadrant-actions",
-    "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-actions",
-    "title": "Actions on FirstQuadrant",
-    "data": {
-      "description": "Human-in-the-loop AI inbox where sales teams review, approve, and refine AI-generated outreach actions",
-      "tags": [
-        "Web",
-        "FirstQuadrant",
-        "TypeScript",
-        "React",
-        "Next.js",
-        "OpenAI GPT-4o",
-        "BullMQ"
-      ],
-      "collaborators": [],
-      "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-actions/inbox-dark.jpg",
-        "attachment": "cover",
-        "color": "#1a1a2e"
-      }
-    }
-  },
-  {
-    "date": "2023-08-01T00:00:00.000Z",
-    "type": "project",
-    "url": "https://anandchowdhary.com/projects/2023/firstquadrant-campaigns",
-    "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-campaigns",
-    "title": "Campaigns on FirstQuadrant",
-    "data": {
-      "description": "AI-generated personalized email sequences with deliverability infrastructure for fully autonomous B2B outbound",
-      "tags": [
-        "Web",
-        "FirstQuadrant",
-        "TypeScript",
-        "React",
-        "Next.js",
-        "OpenAI",
-        "SendGrid"
-      ],
-      "collaborators": [],
-      "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-campaigns/sequence-timeline.jpg",
-        "attachment": "cover",
-        "color": "#1a1a2e"
-      }
-    }
-  },
-  {
-    "date": "2023-08-01T00:00:00.000Z",
-    "type": "project",
-    "url": "https://anandchowdhary.com/projects/2023/firstquadrant-prospecting",
-    "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-prospecting",
-    "title": "Prospecting & Qualification on FirstQuadrant",
-    "data": {
-      "description": "AI-powered lead finding, enrichment, and qualification engine for hyper-targeted B2B outbound sales",
-      "tags": [
-        "Web",
-        "FirstQuadrant",
-        "TypeScript",
-        "React",
-        "Next.js",
-        "Prisma",
-        "Apollo.io"
-      ],
-      "collaborators": [],
-      "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-prospecting/qualification-criteria.jpg",
-        "attachment": "cover",
-        "color": "#1a1a2e"
-      }
-    }
-  },
-  {
-    "date": "2023-08-01T00:00:00.000Z",
-    "type": "project",
-    "url": "https://anandchowdhary.com/projects/2023/firstquadrant-website",
-    "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-website",
-    "title": "FirstQuadrant.ai",
-    "data": {
-      "description": "Marketing website, documentation, and changelog for FirstQuadrant's AI sales platform",
-      "tags": [
-        "Web",
-        "FirstQuadrant",
-        "TypeScript",
-        "React",
-        "Next.js",
-        "Tailwind CSS",
-        "MDX"
-      ],
-      "collaborators": [],
-      "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-website/homepage-screenshot.jpg",
-        "attachment": "cover",
-        "color": "#1a1a2e"
-      }
     }
   },
   {
@@ -817,6 +792,31 @@
       "language": "TypeScript",
       "languageColor": "#3178c6",
       "openGraphImageUrl": "https://opengraph.githubassets.com/b62b601bf4019c8c64a15d41847cd756829c77fa5587da7a32aac653f29120e0/AnandChowdhary/gpt-search"
+    }
+  },
+  {
+    "date": "2023-06-01T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2023/firstquadrant-prospecting",
+    "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-prospecting",
+    "title": "Prospecting & Qualification on FirstQuadrant",
+    "data": {
+      "description": "AI-powered lead finding, enrichment, and qualification engine for hyper-targeted B2B outbound sales",
+      "tags": [
+        "Web",
+        "FirstQuadrant",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Prisma",
+        "Apollo.io"
+      ],
+      "collaborators": [],
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-prospecting/qualification-criteria.jpg",
+        "attachment": "cover",
+        "color": "#1a1a2e"
+      }
     }
   },
   {
