@@ -103,7 +103,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/95d145d0a39beb0cad7ecb23d57cf1d55de41c86d51a0fde75e4de899d0aa804/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/ab5b1cb0995a5adf71073af221d17df052e28614b60d74e2096a2e7d9fbc778c/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -613,6 +613,106 @@
       "href": "https://open.spotify.com/episode/1DCz9ZeH0FRXmzoHXVzGfD",
       "publisher": "From Pre-seed to Seed: 101",
       "embed": "https://open.spotify.com/embed/episode/1DCz9ZeH0FRXmzoHXVzGfD"
+    }
+  },
+  {
+    "date": "2023-08-01T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2023/firstquadrant-actions",
+    "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-actions",
+    "title": "Actions on FirstQuadrant",
+    "data": {
+      "description": "Human-in-the-loop AI inbox where sales teams review, approve, and refine AI-generated outreach actions",
+      "tags": [
+        "Web",
+        "FirstQuadrant",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "OpenAI GPT-4o",
+        "BullMQ"
+      ],
+      "collaborators": [],
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-actions/inbox-dark.jpg",
+        "attachment": "cover",
+        "color": "#1a1a2e"
+      }
+    }
+  },
+  {
+    "date": "2023-08-01T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2023/firstquadrant-campaigns",
+    "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-campaigns",
+    "title": "Campaigns on FirstQuadrant",
+    "data": {
+      "description": "AI-generated personalized email sequences with deliverability infrastructure for fully autonomous B2B outbound",
+      "tags": [
+        "Web",
+        "FirstQuadrant",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "OpenAI",
+        "SendGrid"
+      ],
+      "collaborators": [],
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-campaigns/sequence-timeline.jpg",
+        "attachment": "cover",
+        "color": "#1a1a2e"
+      }
+    }
+  },
+  {
+    "date": "2023-08-01T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2023/firstquadrant-prospecting",
+    "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-prospecting",
+    "title": "Prospecting & Qualification on FirstQuadrant",
+    "data": {
+      "description": "AI-powered lead finding, enrichment, and qualification engine for hyper-targeted B2B outbound sales",
+      "tags": [
+        "Web",
+        "FirstQuadrant",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Prisma",
+        "Apollo.io"
+      ],
+      "collaborators": [],
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-prospecting/qualification-criteria.jpg",
+        "attachment": "cover",
+        "color": "#1a1a2e"
+      }
+    }
+  },
+  {
+    "date": "2023-08-01T00:00:00.000Z",
+    "type": "project",
+    "url": "https://anandchowdhary.com/projects/2023/firstquadrant-website",
+    "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-website",
+    "title": "FirstQuadrant.ai",
+    "data": {
+      "description": "Marketing website, documentation, and changelog for FirstQuadrant's AI sales platform",
+      "tags": [
+        "Web",
+        "FirstQuadrant",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "MDX"
+      ],
+      "collaborators": [],
+      "image": {
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-website/homepage-screenshot.jpg",
+        "attachment": "cover",
+        "color": "#1a1a2e"
+      }
     }
   },
   {
