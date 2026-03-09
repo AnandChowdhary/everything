@@ -90,10 +90,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1235,
+      "stars": 1247,
       "issues": 15,
-      "forks": 89,
-      "watchers": 1235,
+      "forks": 88,
+      "watchers": 1247,
       "topics": [
         "ai",
         "ai-agents",
@@ -103,7 +103,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/5f97ed767307c3e680e7c216a0dd93e3004b79945b8110e20846194d3a4da1fe/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/83b38a3a819658923ab1b50bb3a8f873776c3d36ccea338262e622fccd39f279/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -2522,10 +2522,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16896,
+      "stars": 16913,
       "issues": 114,
-      "forks": 1017,
-      "watchers": 16896,
+      "forks": 1015,
+      "watchers": 16913,
       "topics": [
         "incidents-reports",
         "status",
@@ -3624,10 +3624,10 @@
     "source": "https://github.com/AnandChowdhary/sharer.link",
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
-      "stars": 25,
+      "stars": 26,
       "issues": 16,
       "forks": 3,
-      "watchers": 25,
+      "watchers": 26,
       "topics": [
         "links",
         "share",
@@ -4384,10 +4384,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1870,
+      "stars": 1871,
       "issues": 51,
       "forks": 128,
-      "watchers": 1870,
+      "watchers": 1871,
       "topics": [
         "file-upload",
         "hacktoberfest",
