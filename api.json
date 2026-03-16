@@ -90,10 +90,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1247,
+      "stars": 1256,
       "issues": 15,
       "forks": 88,
-      "watchers": 1247,
+      "watchers": 1256,
       "topics": [
         "ai",
         "ai-agents",
@@ -2522,10 +2522,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16913,
-      "issues": 114,
-      "forks": 1015,
-      "watchers": 16913,
+      "stars": 16926,
+      "issues": 113,
+      "forks": 1017,
+      "watchers": 16926,
       "topics": [
         "incidents-reports",
         "status",
@@ -4384,10 +4384,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1871,
+      "stars": 1870,
       "issues": 51,
       "forks": 128,
-      "watchers": 1871,
+      "watchers": 1870,
       "topics": [
         "file-upload",
         "hacktoberfest",
