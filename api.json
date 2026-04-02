@@ -3396,24 +3396,6 @@
   {
     "date": "2019-06-12T00:00:00.000Z",
     "type": "event",
-    "url": "https://anandchowdhary.com/events/2019/dutch-design-week",
-    "source": "https://anandchowdhary.github.io/events/events/2019/dutch-design-week",
-    "title": "Shravan Apps at Dutch Design Week",
-    "data": {
-      "remote": false,
-      "country": "NL",
-      "city": "Eindhoven",
-      "venue": "Klokgebouw Cultuurhallen",
-      "coordinates": [
-        51.44845,
-        5.4579645
-      ],
-      "event": "Dutch Design Week"
-    }
-  },
-  {
-    "date": "2019-06-12T00:00:00.000Z",
-    "type": "event",
     "url": "https://anandchowdhary.com/events/2019/hive-01-season-5",
     "source": "https://anandchowdhary.github.io/events/events/2019/hive-01-season-5",
     "title": "Dragon's Den at Hive 01 Season 5",
@@ -4047,6 +4029,24 @@
     }
   },
   {
+    "date": "2018-10-20T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2018/dutch-design-week",
+    "source": "https://anandchowdhary.github.io/events/events/2018/dutch-design-week",
+    "title": "Shravan Apps at Dutch Design Week",
+    "data": {
+      "remote": false,
+      "country": "NL",
+      "city": "Eindhoven",
+      "venue": "Klokgebouw Cultuurhallen",
+      "coordinates": [
+        51.44845,
+        5.4579645
+      ],
+      "event": "Dutch Design Week"
+    }
+  },
+  {
     "date": "2018-10-18T00:00:00.000Z",
     "type": "project",
     "url": "https://anandchowdhary.com/projects/2018/shravan-apps",
@@ -4100,7 +4100,7 @@
         52.2324775,
         6.8950055
       ],
-      "event": "SpeakUp Parnter & Jubileum Event"
+      "event": "SpeakUp Partner & Jubileum Event"
     }
   },
   {
@@ -4156,7 +4156,7 @@
         26.51,
         80.23
       ],
-      "event": "IIT Kanput eSummit"
+      "event": "IIT Kanpur eSummit"
     }
   },
   {
