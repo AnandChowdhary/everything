@@ -100,10 +100,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1275,
+      "stars": 1286,
       "issues": 15,
       "forks": 88,
-      "watchers": 1275,
+      "watchers": 1286,
       "topics": [
         "ai",
         "ai-agents",
@@ -113,7 +113,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/67e601528f1dac6cf51380ef5fd2b358d609dfef7eea168307920ce9ec787690/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/feeec9e777745f52604a75995b9262f8c0f73214e65123bbc36a186dcb3341a6/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -131,10 +131,10 @@
     "source": "https://github.com/AnandChowdhary/claude-code-slack-bot",
     "data": {
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
-      "stars": 10,
+      "stars": 11,
       "issues": 1,
       "forks": 3,
-      "watchers": 10,
+      "watchers": 11,
       "topics": [
         "claude",
         "claude-ai",
@@ -2480,10 +2480,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16958,
-      "issues": 115,
-      "forks": 1027,
-      "watchers": 16958,
+      "stars": 16967,
+      "issues": 116,
+      "forks": 1030,
+      "watchers": 16967,
       "topics": [
         "incidents-reports",
         "status",
@@ -3775,10 +3775,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 621,
+      "stars": 620,
       "issues": 10,
-      "forks": 76,
-      "watchers": 621,
+      "forks": 75,
+      "watchers": 620,
       "topics": [
         "calendar",
         "calendar-link",
@@ -4342,10 +4342,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1870,
+      "stars": 1878,
       "issues": 51,
       "forks": 128,
-      "watchers": 1870,
+      "watchers": 1878,
       "topics": [
         "file-upload",
         "hacktoberfest",
