@@ -53,16 +53,6 @@
     }
   },
   {
-    "date": "2025-11-27T00:00:00.000Z",
-    "type": "blog-post",
-    "url": "https://anandchowdhary.com/blog/2025/move-fast-and-save-things",
-    "source": "https://anandchowdhary.github.io/blog/blog/2025/move-fast-and-save-things",
-    "title": "Move fast and save things",
-    "data": {
-      "excerpt": "This is the third chapter in my five-year retrospective. After the life of Pabio, where we somehow convinced Y Combinator that sofas were SaaS and built an apartment in Zurich's main train station, we were about to discover that math doesn't care about your YC badge. Our culture was... unique? Carlo introduced the XX:59 meeting - every meeting started at 29 or 59 minutes past the hour so if you're on time at 8 am, you're already late. Miss the 7:59 am standup by even 30 seconds?"
-    }
-  },
-  {
     "date": "2025-11-25T00:00:00.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2025/the-life-of-pabio",
@@ -113,7 +103,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/7c6620b7f21d786eac1f93dd0f82c61ad0ad51ed76ebc68f21b4318d77e8ac8a/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/dd110f5d55a207b217a262da1a7e93b2cb2e012e896a490b75e3e7d8f82129de/AnandChowdhary/continuous-claude"
     }
   },
   {
