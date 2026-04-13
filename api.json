@@ -90,10 +90,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1286,
+      "stars": 1294,
       "issues": 15,
-      "forks": 88,
-      "watchers": 1286,
+      "forks": 87,
+      "watchers": 1294,
       "topics": [
         "ai",
         "ai-agents",
@@ -646,10 +646,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 24,
+      "stars": 25,
       "issues": 2,
       "forks": 2,
-      "watchers": 24,
+      "watchers": 25,
       "topics": [
         "deliverability",
         "dns",
@@ -2470,10 +2470,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16967,
-      "issues": 116,
-      "forks": 1030,
-      "watchers": 16967,
+      "stars": 16974,
+      "issues": 113,
+      "forks": 1031,
+      "watchers": 16974,
       "topics": [
         "incidents-reports",
         "status",
