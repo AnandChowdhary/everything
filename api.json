@@ -90,10 +90,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1294,
+      "stars": 1307,
       "issues": 15,
-      "forks": 87,
-      "watchers": 1294,
+      "forks": 89,
+      "watchers": 1307,
       "topics": [
         "ai",
         "ai-agents",
@@ -103,7 +103,20 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/08ec00bdcaf935cd9ae7eb81a8c2a3c39001cb6ccc739b88be441d6c919e7bd8/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/d16722d9067bbedb18b42e42e9314f0fcd24563a59969109c1bdfb3d7ec5b281/AnandChowdhary/continuous-claude"
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "type": "hacker-news",
+    "url": "https://news.ycombinator.com/item?id=45938517",
+    "source": "https://github.com/AnandChowdhary/continuous-claude",
+    "title": "Show HN: Continuous Claude – run Claude Code in a loop",
+    "data": {
+      "points": 170,
+      "comments": 62,
+      "url": "https://github.com/AnandChowdhary/continuous-claude",
+      "id": "45938517"
     }
   },
   {
@@ -1104,7 +1117,7 @@
       "description": "🎁 Daily messages for birthday reminders using GitHub Actions",
       "stars": 7,
       "issues": 2,
-      "forks": 2,
+      "forks": 3,
       "watchers": 7,
       "topics": [
         "birthday",
@@ -1631,6 +1644,19 @@
     }
   },
   {
+    "date": "2022-02-25",
+    "type": "hacker-news",
+    "url": "https://news.ycombinator.com/item?id=30468793",
+    "source": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
+    "title": "Explain the first 10 lines of Twitter's source code to me",
+    "data": {
+      "points": 260,
+      "comments": 290,
+      "url": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
+      "id": "30468793"
+    }
+  },
+  {
     "date": "2022-02-20T00:00:00.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2022/the-one-minute-manager",
@@ -2090,6 +2116,19 @@
     }
   },
   {
+    "date": "2021-07-09",
+    "type": "hacker-news",
+    "url": "https://news.ycombinator.com/item?id=27783939",
+    "source": "https://news.ycombinator.com/item?id=27783939",
+    "title": "Launch HN: Pabio (YC S21) – Interior design and furniture rental as a service",
+    "data": {
+      "points": 112,
+      "comments": 103,
+      "url": "https://news.ycombinator.com/item?id=27783939",
+      "id": "27783939"
+    }
+  },
+  {
     "date": "2021-06-30",
     "type": "life-event",
     "url": "https://anandchowdhary.com/life/2021/became-a-y-combinator-alum",
@@ -2297,6 +2336,19 @@
     }
   },
   {
+    "date": "2020-12-27",
+    "type": "hacker-news",
+    "url": "https://news.ycombinator.com/item?id=25553445",
+    "source": "https://upptime.js.org/",
+    "title": "Upptime – GitHub-powered open-source uptime monitor and status page",
+    "data": {
+      "points": 301,
+      "comments": 82,
+      "url": "https://upptime.js.org/",
+      "id": "25553445"
+    }
+  },
+  {
     "date": "2020-11-18T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2020/ut-global-entrepreneurship-week",
@@ -2470,10 +2522,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 16974,
+      "stars": 16995,
       "issues": 113,
-      "forks": 1031,
-      "watchers": 16974,
+      "forks": 1027,
+      "watchers": 16995,
       "topics": [
         "incidents-reports",
         "status",
@@ -3765,10 +3817,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 620,
-      "issues": 10,
+      "stars": 621,
+      "issues": 6,
       "forks": 75,
-      "watchers": 620,
+      "watchers": 621,
       "topics": [
         "calendar",
         "calendar-link",
@@ -4332,10 +4384,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1878,
+      "stars": 1879,
       "issues": 51,
       "forks": 128,
-      "watchers": 1878,
+      "watchers": 1879,
       "topics": [
         "file-upload",
         "hacktoberfest",
