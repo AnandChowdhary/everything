@@ -103,20 +103,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/ad6e5de0fa540a625a57577bfa610e5d1c8618d94ec379a5b8cc04894cc06fbf/AnandChowdhary/continuous-claude"
-    }
-  },
-  {
-    "date": "2025-11-15",
-    "type": "hacker-news",
-    "url": "https://news.ycombinator.com/item?id=45938517",
-    "source": "https://github.com/AnandChowdhary/continuous-claude",
-    "title": "Show HN: Continuous Claude – run Claude Code in a loop",
-    "data": {
-      "points": 170,
-      "comments": 62,
-      "url": "https://github.com/AnandChowdhary/continuous-claude",
-      "id": "45938517"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/9210b62191142b2b8bf51a4cc28f0925b71168944bf1b7d730d9247769eedab5/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -1644,19 +1631,6 @@
     }
   },
   {
-    "date": "2022-02-25",
-    "type": "hacker-news",
-    "url": "https://news.ycombinator.com/item?id=30468793",
-    "source": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
-    "title": "Explain the first 10 lines of Twitter's source code to me",
-    "data": {
-      "points": 260,
-      "comments": 290,
-      "url": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
-      "id": "30468793"
-    }
-  },
-  {
     "date": "2022-02-20T00:00:00.000Z",
     "type": "book",
     "url": "https://anandchowdhary.com/books/2022/the-one-minute-manager",
@@ -2116,19 +2090,6 @@
     }
   },
   {
-    "date": "2021-07-09",
-    "type": "hacker-news",
-    "url": "https://news.ycombinator.com/item?id=27783939",
-    "source": "https://news.ycombinator.com/item?id=27783939",
-    "title": "Launch HN: Pabio (YC S21) – Interior design and furniture rental as a service",
-    "data": {
-      "points": 112,
-      "comments": 103,
-      "url": "https://news.ycombinator.com/item?id=27783939",
-      "id": "27783939"
-    }
-  },
-  {
     "date": "2021-06-30",
     "type": "life-event",
     "url": "https://anandchowdhary.com/life/2021/became-a-y-combinator-alum",
@@ -2333,19 +2294,6 @@
     "data": {
       "year": 2021,
       "description": "I didn't write a blog post about my theme in 2021, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this theme:\n\nMy theme for 2021 was Year of Commitment. In a post-pandemic world, I decided to double down on long-term goals (work, health, and personal life), and after living in India for most of the year, I wanted to move back to the Netherlands -- but not alone this time. In the last quarter of"
-    }
-  },
-  {
-    "date": "2020-12-27",
-    "type": "hacker-news",
-    "url": "https://news.ycombinator.com/item?id=25553445",
-    "source": "https://upptime.js.org/",
-    "title": "Upptime – GitHub-powered open-source uptime monitor and status page",
-    "data": {
-      "points": 301,
-      "comments": 82,
-      "url": "https://upptime.js.org/",
-      "id": "25553445"
     }
   },
   {
