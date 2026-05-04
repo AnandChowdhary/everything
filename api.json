@@ -90,10 +90,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1313,
+      "stars": 1320,
       "issues": 15,
       "forks": 91,
-      "watchers": 1313,
+      "watchers": 1320,
       "topics": [
         "ai",
         "ai-agents",
@@ -104,6 +104,19 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "openGraphImageUrl": "https://opengraph.githubassets.com/53890172a53512fab669f6a576014345bdb1d604cfc0558c01a4423e0dc13e2b/AnandChowdhary/continuous-claude"
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "type": "hacker-news",
+    "url": "https://news.ycombinator.com/item?id=45938517",
+    "source": "https://github.com/AnandChowdhary/continuous-claude",
+    "title": "Show HN: Continuous Claude – run Claude Code in a loop",
+    "data": {
+      "points": 170,
+      "comments": 62,
+      "url": "https://github.com/AnandChowdhary/continuous-claude",
+      "id": "45938517"
     }
   },
   {
@@ -1614,10 +1627,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 100,
+      "stars": 101,
       "issues": 6,
       "forks": 17,
-      "watchers": 100,
+      "watchers": 101,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -1628,6 +1641,19 @@
       "language": "HTML",
       "languageColor": "#e34c26",
       "openGraphImageUrl": "https://repository-images.githubusercontent.com/465367050/848de093-5b6a-4c77-be9b-fe3ce0ab2827"
+    }
+  },
+  {
+    "date": "2022-02-25",
+    "type": "hacker-news",
+    "url": "https://news.ycombinator.com/item?id=30468793",
+    "source": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
+    "title": "Explain the first 10 lines of Twitter's source code to me",
+    "data": {
+      "points": 260,
+      "comments": 290,
+      "url": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
+      "id": "30468793"
     }
   },
   {
@@ -2090,6 +2116,19 @@
     }
   },
   {
+    "date": "2021-07-09",
+    "type": "hacker-news",
+    "url": "https://news.ycombinator.com/item?id=27783939",
+    "source": "https://news.ycombinator.com/item?id=27783939",
+    "title": "Launch HN: Pabio (YC S21) – Interior design and furniture rental as a service",
+    "data": {
+      "points": 112,
+      "comments": 103,
+      "url": "https://news.ycombinator.com/item?id=27783939",
+      "id": "27783939"
+    }
+  },
+  {
     "date": "2021-06-30",
     "type": "life-event",
     "url": "https://anandchowdhary.com/life/2021/became-a-y-combinator-alum",
@@ -2297,6 +2336,19 @@
     }
   },
   {
+    "date": "2020-12-27",
+    "type": "hacker-news",
+    "url": "https://news.ycombinator.com/item?id=25553445",
+    "source": "https://upptime.js.org/",
+    "title": "Upptime – GitHub-powered open-source uptime monitor and status page",
+    "data": {
+      "points": 301,
+      "comments": 82,
+      "url": "https://upptime.js.org/",
+      "id": "25553445"
+    }
+  },
+  {
     "date": "2020-11-18T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2020/ut-global-entrepreneurship-week",
@@ -2470,10 +2522,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17002,
-      "issues": 113,
-      "forks": 1027,
-      "watchers": 17002,
+      "stars": 17005,
+      "issues": 115,
+      "forks": 1029,
+      "watchers": 17005,
       "topics": [
         "incidents-reports",
         "status",
@@ -2727,7 +2779,7 @@
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
       "stars": 67,
       "issues": 10,
-      "forks": 11,
+      "forks": 12,
       "watchers": 67,
       "topics": [
         "google",
@@ -3766,7 +3818,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 622,
-      "issues": 4,
+      "issues": 7,
       "forks": 75,
       "watchers": 622,
       "topics": [
