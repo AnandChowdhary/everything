@@ -90,10 +90,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1320,
-      "issues": 15,
-      "forks": 91,
-      "watchers": 1320,
+      "stars": 1328,
+      "issues": 2,
+      "forks": 93,
+      "watchers": 1328,
       "topics": [
         "ai",
         "ai-agents",
@@ -228,15 +228,15 @@
     "url": "https://anandchowdhary.com/open-source/2025/chat",
     "source": "https://github.com/AnandChowdhary/chat",
     "data": {
-      "description": "💬 Use your GitHub repo's Issues as your own ChatGPT (yes, really!)",
+      "description": "💬 Use your GitHub repo's Issues as your own free ChatGPT (yes, really!)",
       "stars": 13,
-      "issues": 6,
-      "forks": 0,
+      "issues": 9,
+      "forks": 1,
       "watchers": 13,
       "topics": [],
       "language": null,
       "languageColor": null,
-      "openGraphImageUrl": "https://opengraph.githubassets.com/304fae033f206c0b12adc5953953b8069391c669c6f277b1b87028fbca993d6d/AnandChowdhary/chat"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/5c62a5252b5244fdfd8c5c80566f58c36cd47b9e9ce3587cd957cd00f2ea9837/AnandChowdhary/chat"
     }
   },
   {
@@ -2470,10 +2470,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17005,
-      "issues": 115,
-      "forks": 1029,
-      "watchers": 17005,
+      "stars": 17021,
+      "issues": 113,
+      "forks": 1028,
+      "watchers": 17021,
       "topics": [
         "incidents-reports",
         "status",
@@ -2482,8 +2482,8 @@
         "uptime",
         "uptime-monitor"
       ],
-      "language": "JSON",
-      "languageColor": "#292929",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
       "openGraphImageUrl": "https://repository-images.githubusercontent.com/286080143/14b2b180-19f1-11eb-991c-ced0b1719fe9"
     }
   },
@@ -2851,7 +2851,7 @@
     "data": {
       "description": "🏃 Run a Node.js file from a URL, easily \"npx run-url\"",
       "stars": 9,
-      "issues": 3,
+      "issues": 2,
       "forks": 2,
       "watchers": 9,
       "topics": [
@@ -3579,7 +3579,7 @@
     "data": {
       "description": "🌐 Automatically translate your JSON I18N files",
       "stars": 31,
-      "issues": 4,
+      "issues": 3,
       "forks": 3,
       "watchers": 31,
       "topics": [
@@ -3660,7 +3660,7 @@
       "description": "🈹 Better icons for languages, because flags just don't cut it",
       "stars": 69,
       "issues": 10,
-      "forks": 21,
+      "forks": 20,
       "watchers": 69,
       "topics": [
         "generator",
@@ -3766,7 +3766,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 622,
-      "issues": 7,
+      "issues": 1,
       "forks": 75,
       "watchers": 622,
       "topics": [
@@ -3780,7 +3780,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/13a4b0bc5cb87b7f3081ab74126570676ebee58b197fe373c5eae69ee1422cfd/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/5798fa10007127ff01d77e99a6fd9575f55aa3a83188ffa413bd35bf2697f69b/AnandChowdhary/calendar-link"
     }
   },
   {
