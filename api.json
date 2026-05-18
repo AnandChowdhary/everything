@@ -90,10 +90,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1328,
+      "stars": 1335,
       "issues": 2,
-      "forks": 93,
-      "watchers": 1328,
+      "forks": 92,
+      "watchers": 1335,
       "topics": [
         "ai",
         "ai-agents",
@@ -174,10 +174,10 @@
     "source": "https://github.com/AnandChowdhary/priced-in",
     "data": {
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
-      "stars": 46,
+      "stars": 47,
       "issues": 5,
       "forks": 16,
-      "watchers": 46,
+      "watchers": 47,
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
@@ -2470,10 +2470,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17021,
-      "issues": 113,
-      "forks": 1028,
-      "watchers": 17021,
+      "stars": 17030,
+      "issues": 111,
+      "forks": 1029,
+      "watchers": 17030,
       "topics": [
         "incidents-reports",
         "status",
@@ -2751,7 +2751,7 @@
     "data": {
       "description": "🎭 Natural language web automation with Puppeteer",
       "stars": 14,
-      "issues": 12,
+      "issues": 11,
       "forks": 2,
       "watchers": 14,
       "topics": [
@@ -3659,7 +3659,7 @@
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
       "stars": 69,
-      "issues": 10,
+      "issues": 9,
       "forks": 20,
       "watchers": 69,
       "topics": [
@@ -3765,10 +3765,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 622,
-      "issues": 1,
+      "stars": 621,
+      "issues": 3,
       "forks": 75,
-      "watchers": 622,
+      "watchers": 621,
       "topics": [
         "calendar",
         "calendar-link",
