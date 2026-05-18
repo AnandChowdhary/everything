@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-06-03T00:00:00.000Z",
+    "type": "event",
+    "url": "https://anandchowdhary.com/events/2026/devworld",
+    "source": "https://anandchowdhary.github.io/events/events/2026/devworld",
+    "title": "Reliable AI systems in production at DEVWorld",
+    "data": {
+      "remote": false,
+      "country": "NL",
+      "city": "Amsterdam",
+      "venue": "RAI Amsterdam",
+      "coordinates": [
+        52.3411938,
+        4.8860407
+      ],
+      "event": "DEVWorld 2026",
+      "talk": "Building reliable AI systems in production"
+    }
+  },
+  {
     "date": "2026-03-31T00:00:00.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2026/why-i-joined-sycamore",
