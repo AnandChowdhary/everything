@@ -119,10 +119,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1335,
+      "stars": 1339,
       "issues": 2,
       "forks": 92,
-      "watchers": 1335,
+      "watchers": 1339,
       "topics": [
         "ai",
         "ai-agents",
@@ -132,7 +132,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/2d471ee09aa29c1c6465b2707207aa070cf55377465c3d97b53b8ca4a1d4f209/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/e9175da6bcc465e690fedf0e33bafdb2fe38d51dfefc02421557319c95b00995/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -688,10 +688,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 25,
+      "stars": 26,
       "issues": 2,
       "forks": 2,
-      "watchers": 25,
+      "watchers": 26,
       "topics": [
         "deliverability",
         "dns",
@@ -1708,10 +1708,10 @@
     "source": "https://github.com/AnandChowdhary/remix-starter",
     "data": {
       "description": "💿 Starter for @remix-run with localized routing and i18n",
-      "stars": 56,
+      "stars": 55,
       "issues": 3,
       "forks": 3,
-      "watchers": 56,
+      "watchers": 55,
       "topics": [
         "i18n",
         "javascript",
@@ -2551,10 +2551,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17030,
-      "issues": 111,
-      "forks": 1029,
-      "watchers": 17030,
+      "stars": 17040,
+      "issues": 109,
+      "forks": 1032,
+      "watchers": 17040,
       "topics": [
         "incidents-reports",
         "status",
@@ -2808,7 +2808,7 @@
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
       "stars": 67,
       "issues": 10,
-      "forks": 12,
+      "forks": 11,
       "watchers": 67,
       "topics": [
         "google",
@@ -3635,10 +3635,10 @@
     "source": "https://github.com/AnandChowdhary/sharer.link",
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
-      "stars": 26,
+      "stars": 27,
       "issues": 16,
       "forks": 3,
-      "watchers": 26,
+      "watchers": 27,
       "topics": [
         "links",
         "share",
@@ -3846,10 +3846,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 621,
-      "issues": 3,
+      "stars": 620,
+      "issues": 5,
       "forks": 75,
-      "watchers": 621,
+      "watchers": 620,
       "topics": [
         "calendar",
         "calendar-link",
