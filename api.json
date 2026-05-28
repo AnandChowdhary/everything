@@ -1,6 +1,16 @@
 [
   {
-    "date": "2026-06-03T00:00:00.000Z",
+    "date": "2026-05-19T13:50:34.000Z",
+    "type": "blog-post",
+    "url": "https://anandchowdhary.com/blog/2026/six-weeks-in-palo-alto",
+    "source": "https://anandchowdhary.github.io/blog/blog/2026/six-weeks-in-palo-alto",
+    "title": "Reflections on six weeks in Palo Alto",
+    "data": {
+      "excerpt": "In February 2026, I moved to Palo Alto for six weeks to work in person with the Sycamore team. I plan on splitting my time between the Netherlands and California in the near future, and I wrote this blog post on the last day of my first trip as part of the founding team and Head of Product at Sycamore. The Commute as meditation\n\n100 miles a day. A few hours in the car. 50 miles each way... the longest commute of my life, and somehow one of the most valuable parts of my day. M"
+    }
+  },
+  {
+    "date": "2026-05-07T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2026/devworld",
     "source": "https://anandchowdhary.github.io/events/events/2026/devworld",
@@ -14,12 +24,13 @@
         52.3411938,
         4.8860407
       ],
+      "video": "https://www.youtube.com/watch?v=pBOWjwwpZJI",
       "event": "DEVWorld 2026",
       "talk": "Building reliable AI systems in production"
     }
   },
   {
-    "date": "2026-06-03T00:00:00.000Z",
+    "date": "2026-05-07T00:00:00.000Z",
     "type": "event",
     "url": "https://anandchowdhary.com/events/2026/el-nino-ai-meetup",
     "source": "https://anandchowdhary.github.io/events/events/2026/el-nino-ai-meetup",
@@ -35,16 +46,6 @@
       ],
       "event": "AI Meetup",
       "talk": "How AI agents can be used in practice"
-    }
-  },
-  {
-    "date": "2026-05-19T13:50:34.000Z",
-    "type": "blog-post",
-    "url": "https://anandchowdhary.com/blog/2026/six-weeks-in-palo-alto",
-    "source": "https://anandchowdhary.github.io/blog/blog/2026/six-weeks-in-palo-alto",
-    "title": "Reflections on six weeks in Palo Alto",
-    "data": {
-      "excerpt": "In February 2026, I moved to Palo Alto for six weeks to work in person with the Sycamore team. I plan on splitting my time between the Netherlands and California in the near future, and I wrote this blog post on the last day of my first trip as part of the founding team and Head of Product at Sycamore. The Commute as meditation\n\n100 miles a day. A few hours in the car. 50 miles each way... the longest commute of my life, and somehow one of the most valuable parts of my day. M"
     }
   },
   {
@@ -3880,7 +3881,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/47a5533e12b3ee0db25037506f72673db2a4ac2e134305e8cafdbc1d41c31eb1/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/b06d7c847a6c7412a13111769d5396202643007d60a99d5a3a7d5b32a8cc09c8/AnandChowdhary/calendar-link"
     }
   },
   {
