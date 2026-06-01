@@ -149,10 +149,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1339,
+      "stars": 1344,
       "issues": 2,
       "forks": 92,
-      "watchers": 1339,
+      "watchers": 1344,
       "topics": [
         "ai",
         "ai-agents",
@@ -1686,10 +1686,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 101,
+      "stars": 102,
       "issues": 6,
       "forks": 17,
-      "watchers": 101,
+      "watchers": 102,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -2581,10 +2581,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17040,
-      "issues": 109,
-      "forks": 1032,
-      "watchers": 17040,
+      "stars": 17044,
+      "issues": 103,
+      "forks": 1030,
+      "watchers": 17044,
       "topics": [
         "incidents-reports",
         "status",
@@ -3142,7 +3142,7 @@
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
       "stars": 12,
       "issues": 10,
-      "forks": 2,
+      "forks": 1,
       "watchers": 12,
       "topics": [
         "archive-dot-org",
@@ -3876,10 +3876,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 620,
+      "stars": 621,
       "issues": 5,
       "forks": 75,
-      "watchers": 620,
+      "watchers": 621,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3891,7 +3891,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/b06d7c847a6c7412a13111769d5396202643007d60a99d5a3a7d5b32a8cc09c8/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/ca79dd2c5c37229d7bf2b58af83ee93abc473a8db50d19c03ac4704d95b85554/AnandChowdhary/calendar-link"
     }
   },
   {
