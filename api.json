@@ -149,10 +149,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1344,
+      "stars": 1348,
       "issues": 2,
-      "forks": 92,
-      "watchers": 1344,
+      "forks": 93,
+      "watchers": 1348,
       "topics": [
         "ai",
         "ai-agents",
@@ -248,7 +248,7 @@
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
       "stars": 47,
       "issues": 5,
-      "forks": 16,
+      "forks": 17,
       "watchers": 47,
       "topics": [],
       "language": "TypeScript",
@@ -2581,10 +2581,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17044,
-      "issues": 103,
-      "forks": 1030,
-      "watchers": 17044,
+      "stars": 17048,
+      "issues": 100,
+      "forks": 1035,
+      "watchers": 17048,
       "topics": [
         "incidents-reports",
         "status",
@@ -2837,7 +2837,7 @@
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
       "stars": 67,
-      "issues": 10,
+      "issues": 11,
       "forks": 11,
       "watchers": 67,
       "topics": [
