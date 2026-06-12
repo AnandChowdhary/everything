@@ -428,7 +428,7 @@
     "source": "https://anandchowdhary.github.io/projects/projects/2024/firstquadrant-actions",
     "title": "Actions on FirstQuadrant",
     "data": {
-      "description": "Human-in-the-loop AI inbox where sales teams review, approve, and refine AI-generated outreach actions",
+      "description": "Human-in-the-loop command center where sales teams review, approve, and tune AI-generated next steps",
       "tags": [
         "Web",
         "FirstQuadrant",
@@ -440,7 +440,7 @@
       ],
       "collaborators": [],
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-actions/inbox-dark.jpg",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-actions/actions-overview.png",
         "attachment": "cover",
         "color": "#1a1a2e"
       }
@@ -481,7 +481,7 @@
     "source": "https://anandchowdhary.github.io/projects/projects/2024/firstquadrant-website",
     "title": "FirstQuadrant.ai",
     "data": {
-      "description": "Marketing website, documentation, and changelog for FirstQuadrant's AI sales platform",
+      "description": "Marketing website, documentation, changelog, and product infrastructure for FirstQuadrant's AI sales platform",
       "tags": [
         "Web",
         "FirstQuadrant",
@@ -493,7 +493,7 @@
       ],
       "collaborators": [],
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-website/homepage-screenshot.jpg",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-website/homepage.png",
         "attachment": "cover",
         "color": "#1a1a2e"
       }
@@ -692,7 +692,7 @@
     "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-campaigns",
     "title": "Campaigns on FirstQuadrant",
     "data": {
-      "description": "AI-generated personalized email sequences with deliverability infrastructure for fully autonomous B2B outbound",
+      "description": "AI-personalized outbound campaigns with sequence editing, audience qualification, deliverability, and pipeline tracking",
       "tags": [
         "Web",
         "FirstQuadrant",
@@ -704,7 +704,7 @@
       ],
       "collaborators": [],
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-campaigns/sequence-timeline.jpg",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-campaigns/sequence-editor.png",
         "attachment": "cover",
         "color": "#1a1a2e"
       }
@@ -860,7 +860,7 @@
     "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-prospecting",
     "title": "Prospecting & Qualification on FirstQuadrant",
     "data": {
-      "description": "AI-powered lead finding, enrichment, and qualification engine for hyper-targeted B2B outbound sales",
+      "description": "AI-powered contact ingestion, enrichment, and qualification for targeted B2B outbound workflows",
       "tags": [
         "Web",
         "FirstQuadrant",
@@ -872,7 +872,7 @@
       ],
       "collaborators": [],
       "image": {
-        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-prospecting/qualification-criteria.jpg",
+        "url": "https://raw.githubusercontent.com/AnandChowdhary/projects/main/assets/firstquadrant-prospecting/contacts.png",
         "attachment": "cover",
         "color": "#1a1a2e"
       }
