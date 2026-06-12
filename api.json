@@ -428,7 +428,7 @@
     "source": "https://anandchowdhary.github.io/projects/projects/2024/firstquadrant-actions",
     "title": "Actions on FirstQuadrant",
     "data": {
-      "description": "Human-in-the-loop command center where sales teams review, approve, and tune AI-generated next steps",
+      "description": "A review queue for AI-suggested sales tasks, with context, controls, and tuning",
       "tags": [
         "Web",
         "FirstQuadrant",
@@ -481,7 +481,7 @@
     "source": "https://anandchowdhary.github.io/projects/projects/2024/firstquadrant-website",
     "title": "FirstQuadrant.ai",
     "data": {
-      "description": "Marketing website, documentation, changelog, and product infrastructure for FirstQuadrant's AI sales platform",
+      "description": "The public site, docs, changelog, and platform settings around FirstQuadrant's sales product",
       "tags": [
         "Web",
         "FirstQuadrant",
@@ -692,7 +692,7 @@
     "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-campaigns",
     "title": "Campaigns on FirstQuadrant",
     "data": {
-      "description": "AI-personalized outbound campaigns with sequence editing, audience qualification, deliverability, and pipeline tracking",
+      "description": "Outbound campaigns with personal email sequences, qualified audiences, sending controls, and pipeline tracking",
       "tags": [
         "Web",
         "FirstQuadrant",
@@ -860,7 +860,7 @@
     "source": "https://anandchowdhary.github.io/projects/projects/2023/firstquadrant-prospecting",
     "title": "Prospecting & Qualification on FirstQuadrant",
     "data": {
-      "description": "AI-powered contact ingestion, enrichment, and qualification for targeted B2B outbound workflows",
+      "description": "Contact imports, enrichment, and qualification for focused B2B outreach",
       "tags": [
         "Web",
         "FirstQuadrant",
