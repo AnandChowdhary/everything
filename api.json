@@ -151,7 +151,7 @@
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
       "stars": 1355,
       "issues": 2,
-      "forks": 92,
+      "forks": 93,
       "watchers": 1355,
       "topics": [
         "ai",
@@ -718,10 +718,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 24,
+      "stars": 25,
       "issues": 2,
       "forks": 2,
-      "watchers": 24,
+      "watchers": 25,
       "topics": [
         "deliverability",
         "dns",
@@ -1175,7 +1175,7 @@
     "data": {
       "description": "🎁 Daily messages for birthday reminders using GitHub Actions",
       "stars": 7,
-      "issues": 2,
+      "issues": 1,
       "forks": 3,
       "watchers": 7,
       "topics": [
@@ -2301,7 +2301,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 72,
-      "issues": 3,
+      "issues": 4,
       "forks": 19,
       "watchers": 72,
       "topics": [
@@ -2581,10 +2581,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17065,
-      "issues": 97,
+      "stars": 17072,
+      "issues": 95,
       "forks": 1035,
-      "watchers": 17065,
+      "watchers": 17072,
       "topics": [
         "incidents-reports",
         "status",
@@ -2836,10 +2836,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 67,
+      "stars": 68,
       "issues": 11,
       "forks": 11,
-      "watchers": 67,
+      "watchers": 68,
       "topics": [
         "google",
         "google-docs",
@@ -3769,10 +3769,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 69,
+      "stars": 70,
       "issues": 8,
-      "forks": 20,
-      "watchers": 69,
+      "forks": 21,
+      "watchers": 70,
       "topics": [
         "generator",
         "icons",
@@ -3876,10 +3876,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 621,
+      "stars": 620,
       "issues": 6,
-      "forks": 75,
-      "watchers": 621,
+      "forks": 74,
+      "watchers": 620,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3891,7 +3891,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/ca0d648a78b1c206f89fe5278e354e237d20c41cdabe2c76df77d2d855abb352/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/6ec8824ba5a055a693e39ed9a361e252f61b02ae4bd1f03ea68eec13a9960e13/AnandChowdhary/calendar-link"
     }
   },
   {
