@@ -162,7 +162,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/41a125d280f59b14a9a3bf9e0c68a900b43a21ed6ee5b99d84f4a05b4e4a22a9/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/69489822a04c995361f40566a8407b93976561f1eba53617a0ebfd6801e81b59/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -321,6 +321,19 @@
       "image": "http://books.google.com/books/content?id=VJIrEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
       "authors": [
         "John Green"
+      ]
+    }
+  },
+  {
+    "date": "2025-02-15T19:36:15.000Z",
+    "type": "book",
+    "url": "https://anandchowdhary.com/books/2025/superintelligence",
+    "source": "https://github.com/AnandChowdhary/books/issues/77",
+    "title": "Superintelligence",
+    "data": {
+      "image": "http://books.google.com/books/content?id=7_H8AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "authors": [
+        "Nick Bostrom"
       ]
     }
   },
@@ -3704,7 +3717,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/281d53183f1bec0655e8291f74e3aa6381a936038eddc23539b0ed7ce497e8af/AnandChowdhary/auto-i18n"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/d01c48961ce183ce20567f5c9b815cd3de3ba9a794d68cf0064fcc5ea5f9ad21/AnandChowdhary/auto-i18n"
     }
   },
   {
