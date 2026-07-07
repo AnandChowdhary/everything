@@ -112,26 +112,6 @@
     }
   },
   {
-    "date": "2025-11-25T00:00:00.000Z",
-    "type": "blog-post",
-    "url": "https://anandchowdhary.com/blog/2025/the-life-of-pabio",
-    "source": "https://anandchowdhary.github.io/blog/blog/2025/the-life-of-pabio",
-    "title": "The Life of Pabio",
-    "data": {
-      "excerpt": "This is the second chapter in my five-year retrospective. After accidentally founding Koj, we somehow convinced Y Combinator to let a furniture company into their batch (I still don't know how) and embarked on what I can only describe as the wildest operational rollercoaster of my life. Convincing Silicon Valley that sofas are SaaS\n\nWe weren't building the next frontier AI model or developer tool, we were arguing about ottoman colors and d"
-    }
-  },
-  {
-    "date": "2025-11-23T00:00:00.000Z",
-    "type": "blog-post",
-    "url": "https://anandchowdhary.com/blog/2025/accidentally-founding-koj",
-    "source": "https://anandchowdhary.github.io/blog/blog/2025/accidentally-founding-koj",
-    "title": "Accidentally founding Koj",
-    "data": {
-      "excerpt": "This is the first chapter in a five-year retrospective about how two founders who'd never met in person built a furniture subscription company, got into Y Combinator, discovered we were losing money on every sofa, pivoted to AI in 48 hours, built the first AI SDR, and eventually sold everything. I'm writing this for myself as much as for anyone else - it's the kind of post-mortem I wish I'd read before starting. A real meet-cute\n\nMy cofounder Carlo Badini created a new Slack workspace"
-    }
-  },
-  {
     "date": "2025-11-15T15:22:04.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2025/running-claude-code-in-a-loop",
