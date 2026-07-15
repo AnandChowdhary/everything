@@ -142,7 +142,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/845f3a43b3c615c4befbc0ee1402bc83308069fc27de6d59ea61a8b2b13254eb/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/1a9cf87694173c787aae372c9e059208b3bbd55eb803c8d96bc8ac37a3eb0d05/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -4950,16 +4950,16 @@
     }
   },
   {
-    "date": "2017-08-22T10:34:19.660Z",
+    "date": "2017-08-22T19:23:15.796Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/location/2017/netherlands",
-    "source": "https://github.com/AnandChowdhary/location/commit/f54f433776c2eef8d64d00d1826065fdef4fa30e",
+    "source": "https://github.com/AnandChowdhary/location/commit/365eed40f41252f2a30fa4c6300e1079c7d792d6",
     "title": "Netherlands",
     "data": {
-      "hash": "f54f433776c2eef8d64d00d1826065fdef4fa30e",
+      "hash": "365eed40f41252f2a30fa4c6300e1079c7d792d6",
       "approximateCoordinates": [
-        52.31,
-        4.77
+        52.22,
+        6.89
       ],
       "label": "Netherlands",
       "countryCode": "nl"
