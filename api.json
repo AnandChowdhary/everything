@@ -129,10 +129,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1358,
+      "stars": 1362,
       "issues": 2,
       "forks": 94,
-      "watchers": 1358,
+      "watchers": 1362,
       "topics": [
         "ai",
         "ai-agents",
@@ -174,7 +174,7 @@
     "data": {
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
       "stars": 11,
-      "issues": 0,
+      "issues": 1,
       "forks": 3,
       "watchers": 11,
       "topics": [
@@ -226,10 +226,10 @@
     "source": "https://github.com/AnandChowdhary/priced-in",
     "data": {
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
-      "stars": 47,
+      "stars": 48,
       "issues": 5,
-      "forks": 18,
-      "watchers": 47,
+      "forks": 19,
+      "watchers": 48,
       "topics": [],
       "language": "TypeScript",
       "languageColor": "#3178c6",
@@ -281,10 +281,10 @@
     "source": "https://github.com/AnandChowdhary/chat",
     "data": {
       "description": "💬 Use your GitHub repo's Issues as your own free ChatGPT (yes, really!)",
-      "stars": 13,
+      "stars": 14,
       "issues": 9,
       "forks": 1,
-      "watchers": 13,
+      "watchers": 14,
       "topics": [],
       "language": null,
       "languageColor": null,
@@ -711,10 +711,10 @@
     "source": "https://github.com/AnandChowdhary/deliverabilityguide.com",
     "data": {
       "description": "📧 Never end in spam with the world's most comprehensive email deliverability checklist",
-      "stars": 25,
+      "stars": 26,
       "issues": 2,
       "forks": 2,
-      "watchers": 25,
+      "watchers": 26,
       "topics": [
         "deliverability",
         "dns",
@@ -1122,10 +1122,10 @@
     "source": "https://github.com/AnandChowdhary/NewsHaikusBot",
     "data": {
       "description": "🤖 Twitter bot which tweets news in haikus using GPT-3",
-      "stars": 5,
+      "stars": 4,
       "issues": 2,
       "forks": 1,
-      "watchers": 5,
+      "watchers": 4,
       "topics": [
         "gpt-3",
         "openai",
@@ -2574,10 +2574,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17093,
-      "issues": 74,
+      "stars": 17103,
+      "issues": 70,
       "forks": 1032,
-      "watchers": 17093,
+      "watchers": 17103,
       "topics": [
         "incidents-reports",
         "status",
@@ -3050,10 +3050,10 @@
     "source": "https://github.com/AnandChowdhary/mockingbird",
     "data": {
       "description": "Smartphone app to help people with multiple sclerosis read more easily",
-      "stars": 4,
+      "stars": 3,
       "issues": 3,
       "forks": 1,
-      "watchers": 4,
+      "watchers": 3,
       "topics": [
         "a11y",
         "android",
@@ -3941,10 +3941,10 @@
     "source": "https://github.com/AnandChowdhary/hello-bar",
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
-      "stars": 76,
+      "stars": 75,
       "issues": 6,
       "forks": 10,
-      "watchers": 76,
+      "watchers": 75,
       "topics": [
         "engagement",
         "hellobar",
