@@ -727,7 +727,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/682574392/3130d028-0a0d-49c0-9158-89ea366d38ff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260728T175913Z&X-Amz-Expires=300&X-Amz-Signature=596a31b2b134c8c720f73def3d74e39c7f8ccec4501071e1a53d95495b09f4da&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI2MTg1MywibmJmIjoxNzg1MjYxNTUzLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.a4G6_w0WI2vhAfZTVnjxXtlygH9td00w_qeIS1VZe9k"
+      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/682574392/3130d028-0a0d-49c0-9158-89ea366d38ff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260729T175446Z&X-Amz-Expires=300&X-Amz-Signature=61c55894676dd1bd3f3134f74b37cf47b843386cdfc165ba979d3df258ae20ee&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM0Nzk4NiwibmJmIjoxNzg1MzQ3Njg2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.6-IdErikWZsxoqJo1Vmi5z2bh4qP8vW1n6aVzCCOAyk"
     }
   },
   {
@@ -1136,7 +1136,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/573333314/73be3851-2097-430e-bb2b-d4b85243b53e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260728T175917Z&X-Amz-Expires=300&X-Amz-Signature=7a34f15549de843faeac0f848fff2c961d90af4de2b6d967158a65e92bfbbf16&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI2MTg1NywibmJmIjoxNzg1MjYxNTU3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.iGTrZ46-Xb7JYUsR05FaoVJn4yK5yjj3MesBtthVwWI"
+      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/573333314/73be3851-2097-430e-bb2b-d4b85243b53e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260729T175451Z&X-Amz-Expires=300&X-Amz-Signature=2157288906771630a1354ddb9aa53756063c113279951e87f6d1307c193c24a6&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM0Nzk5MSwibmJmIjoxNzg1MzQ3NjkxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.M9IOiUCiBSHkCwtc1fBZA6OEr5CJQ5rkmMCOyORDYwQ"
     }
   },
   {
@@ -1180,7 +1180,7 @@
       ],
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/7d503956a4181256a33e25085a683988a223e7facd2449e85d04f244960202bd/AnandChowdhary/birthday-reminders-action"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/cbaf63189c89c2dcf59f2b18df90744aa61bb73ff225c2162fe455fce241962a/AnandChowdhary/birthday-reminders-action"
     }
   },
   {
@@ -1518,7 +1518,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/492267193/82b137e2-78a6-4ea5-94cf-772bfc9ee1c4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260728T175915Z&X-Amz-Expires=300&X-Amz-Signature=a2b581c512d4dc7f57812a1fb02a1d9f2bc91b81868ffd7ddad92fd10496c06e&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI2MTg1NSwibmJmIjoxNzg1MjYxNTU1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.eoLhdlED0xHyInr0qze_YtaM-gO2IImRkdiAJuWm1t4"
+      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/492267193/82b137e2-78a6-4ea5-94cf-772bfc9ee1c4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260729T175448Z&X-Amz-Expires=300&X-Amz-Signature=38f01645b13447121f606397e93310469805964ea81d1307550f1fcc316760c8&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM0Nzk4OCwibmJmIjoxNzg1MzQ3Njg4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.nvCyZJgBljsxzCek2vOuYZwtgkyX6gk-Xqf92y5vT5E"
     }
   },
   {
@@ -1692,7 +1692,7 @@
       ],
       "language": "HTML",
       "languageColor": "#e34c26",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/465367050/848de093-5b6a-4c77-be9b-fe3ce0ab2827?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260728T175911Z&X-Amz-Expires=300&X-Amz-Signature=519813878a06c87a42cf90dee02e65b96543799dd77b8cff0b30ac5c7c2529b6&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI2MTg1MSwibmJmIjoxNzg1MjYxNTUxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.KfazLeLJFyYUrKeWM0tN_Q3MMYXhBcdcNU4Tk9sugsk"
+      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/465367050/848de093-5b6a-4c77-be9b-fe3ce0ab2827?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260729T175442Z&X-Amz-Expires=300&X-Amz-Signature=af550325795842c37e8053e8065321e2a9e620ab4b254b5689ff9175b274d7cb&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM0Nzk4MiwibmJmIjoxNzg1MzQ3NjgyLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.siBqi4FgDwEGliJvMl_9jKkip6th_mBjp-wP23dewoM"
     }
   },
   {
@@ -2588,7 +2588,7 @@
       ],
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/286080143/14b2b180-19f1-11eb-991c-ced0b1719fe9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260728T175910Z&X-Amz-Expires=300&X-Amz-Signature=24245a93afd06eab5d7875b79b5803f232c2d75865301f7e002425836b793c61&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI2MTg1MCwibmJmIjoxNzg1MjYxNTUwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.vK10ydFHp2-4A5SyOHIQgwcGzicnv7fmNNgtpKVAucs"
+      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/286080143/14b2b180-19f1-11eb-991c-ced0b1719fe9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260729T175441Z&X-Amz-Expires=300&X-Amz-Signature=24910eced836dfa1cce075c221c06b0b6bd7c99283cbb7f6d68a6f70afe17564&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM0Nzk4MSwibmJmIjoxNzg1MzQ3NjgxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.hebPHUBDsCh4dp-eTEI82xxX-IBJp6gsbX9gxqNahws"
     }
   },
   {
@@ -4451,7 +4451,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/130227442/34995600-2f43-11ea-9dcd-8ffac16b392a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260728T175910Z&X-Amz-Expires=300&X-Amz-Signature=ca12559206c6412db98be0b9f1589946b12b126c195f1566f3a83783694d3809&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI2MTg1MCwibmJmIjoxNzg1MjYxNTUwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.vK10ydFHp2-4A5SyOHIQgwcGzicnv7fmNNgtpKVAucs"
+      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/130227442/34995600-2f43-11ea-9dcd-8ffac16b392a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260729T175442Z&X-Amz-Expires=300&X-Amz-Signature=bd0fcd9deb7f2192550f93781a205be5aa2fd08100e71d455dca32f7d9db12a7&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM0Nzk4MiwibmJmIjoxNzg1MzQ3NjgyLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.siBqi4FgDwEGliJvMl_9jKkip6th_mBjp-wP23dewoM"
     }
   },
   {
