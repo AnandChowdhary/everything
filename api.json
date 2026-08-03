@@ -129,10 +129,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1362,
+      "stars": 1365,
       "issues": 2,
-      "forks": 94,
-      "watchers": 1362,
+      "forks": 93,
+      "watchers": 1365,
       "topics": [
         "ai",
         "ai-agents",
@@ -727,7 +727,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/682574392/3130d028-0a0d-49c0-9158-89ea366d38ff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T174922Z&X-Amz-Expires=300&X-Amz-Signature=ac99d0c0a3c0a7803534d7ef01a6f9d9021a2f027c75608550a33f6f0d34c00b&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTY5MzI2MiwibmJmIjoxNzg1NjkyOTYyLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.ahvKvv7dm6KM0TEA9hmXrO4gbq5nIyOiElgoAzzFDCQ"
+      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/682574392/3130d028-0a0d-49c0-9158-89ea366d38ff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260803T014051Z&X-Amz-Expires=300&X-Amz-Signature=04d55a4afb1fb0558a584e9f42e9bd0e35fd93a7f9d824c46ebeb9f85b9d05ed&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTcyMTU1MSwibmJmIjoxNzg1NzIxMjUxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.7LixZM5pU682RGoXuVAb8xR2-DXP_5BoZnENtj-GdGI"
     }
   },
   {
@@ -1136,7 +1136,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/573333314/73be3851-2097-430e-bb2b-d4b85243b53e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T174925Z&X-Amz-Expires=300&X-Amz-Signature=ea12357eedc8321beffb8527e0228ead094538b28c28d58adfb8ae6155e4f5ec&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTY5MzI2NSwibmJmIjoxNzg1NjkyOTY1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.upXF-aSnzUui_0OC7ifb8cNauYWNHihU6bX5dKPjiwk"
+      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/573333314/73be3851-2097-430e-bb2b-d4b85243b53e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260803T014056Z&X-Amz-Expires=300&X-Amz-Signature=5b3bdf062a815a55153d896004e2ec3adb818a9161151490dbf4519ba8d949b4&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTcyMTU1NiwibmJmIjoxNzg1NzIxMjU2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.lhVRpTWrEnqX9OoOkdI0Trx5nZD2aVmg2baZSs1IcwU"
     }
   },
   {
@@ -1518,7 +1518,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/492267193/82b137e2-78a6-4ea5-94cf-772bfc9ee1c4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T174923Z&X-Amz-Expires=300&X-Amz-Signature=7b0e76f46e2434513facb23bfd04ec2d388d768866e100e66d7cfeeb809c24c4&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTY5MzI2MywibmJmIjoxNzg1NjkyOTYzLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.xGs4taT29ROZ5rZisWVXmVHd5TQa95ng_T7P1zLVJgY"
+      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/492267193/82b137e2-78a6-4ea5-94cf-772bfc9ee1c4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260803T014053Z&X-Amz-Expires=300&X-Amz-Signature=8745899b1dfb59a6edb85d385117f8699cb9bf0f2545317e1da93e784a6df500&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTcyMTU1MywibmJmIjoxNzg1NzIxMjUzLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.-fROrH7l6XiUDOzeP6iQTwNruvjY-rrZ5xlQdaz6snc"
     }
   },
   {
@@ -1692,7 +1692,7 @@
       ],
       "language": "HTML",
       "languageColor": "#e34c26",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/465367050/848de093-5b6a-4c77-be9b-fe3ce0ab2827?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T174921Z&X-Amz-Expires=300&X-Amz-Signature=fbb1b50da2f7cb04a352213ecc781633b30853bd4c465490ab60363ee6603bbf&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTY5MzI2MSwibmJmIjoxNzg1NjkyOTYxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.jp8PZydnCnvEPIT7V0W3d-03MOCkKsNEyQl5xxPJ9HU"
+      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/465367050/848de093-5b6a-4c77-be9b-fe3ce0ab2827?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260803T014049Z&X-Amz-Expires=300&X-Amz-Signature=a3fffe450a224f63ecfa8377d801305ab391d72380183387f6a178ba34979a98&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTcyMTU0OSwibmJmIjoxNzg1NzIxMjQ5LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.IWPsGVu9Mykg4jWil1HXiCItaiPQ-QyJjgY-a47mycE"
     }
   },
   {
@@ -2574,10 +2574,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17103,
+      "stars": 17109,
       "issues": 70,
-      "forks": 1032,
-      "watchers": 17103,
+      "forks": 1035,
+      "watchers": 17109,
       "topics": [
         "incidents-reports",
         "status",
@@ -2588,7 +2588,7 @@
       ],
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/286080143/14b2b180-19f1-11eb-991c-ced0b1719fe9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T174920Z&X-Amz-Expires=300&X-Amz-Signature=ca62fa9e65a3c661805cd2f3b16a138f542fc281042a9e9f1c5656cc8dd803eb&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTY5MzI2MCwibmJmIjoxNzg1NjkyOTYwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.-vIt6hlXLVqnouDP4_uN3Eb6-ekEa4QiMGIy8MBGUE4"
+      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/286080143/14b2b180-19f1-11eb-991c-ced0b1719fe9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260803T014048Z&X-Amz-Expires=300&X-Amz-Signature=61f54c3f3c21f27d6d999838ea94e62a0d08629e3e35d9f98c42c2cbe3698bf5&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTcyMTU0OCwibmJmIjoxNzg1NzIxMjQ4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.yXXEC6iD-4BKDpEbpeB0DB22RyfcNJ7KinGEI8jMAK0"
     }
   },
   {
@@ -3762,10 +3762,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 70,
+      "stars": 71,
       "issues": 8,
       "forks": 21,
-      "watchers": 70,
+      "watchers": 71,
       "topics": [
         "generator",
         "icons",
@@ -3870,7 +3870,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 622,
-      "issues": 7,
+      "issues": 8,
       "forks": 74,
       "watchers": 622,
       "topics": [
@@ -4451,7 +4451,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/130227442/34995600-2f43-11ea-9dcd-8ffac16b392a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T174920Z&X-Amz-Expires=300&X-Amz-Signature=4f9d9fa247d5b7483914dc916f48a5ad63e921b3a4f2eb77e3829fb4674883aa&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTY5MzI2MCwibmJmIjoxNzg1NjkyOTYwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.-vIt6hlXLVqnouDP4_uN3Eb6-ekEa4QiMGIy8MBGUE4"
+      "openGraphImageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/130227442/34995600-2f43-11ea-9dcd-8ffac16b392a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260803T014048Z&X-Amz-Expires=300&X-Amz-Signature=1bf1cfbb785deebbbe20c0efafe35547ebfe72f2133530071021cd5c70c98e83&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTcyMTU0OCwibmJmIjoxNzg1NzIxMjQ4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.yXXEC6iD-4BKDpEbpeB0DB22RyfcNJ7KinGEI8jMAK0"
     }
   },
   {
