@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-08-04T17:42:03Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/aagent",
+    "url": "https://anandchowdhary.com/open-source/2026/aagent",
+    "source": "https://github.com/AnandChowdhary/aagent",
+    "data": {
+      "description": "Run whichever CLI coding agent you already have with one command",
+      "stars": 1,
+      "issues": 0,
+      "forks": 0,
+      "watchers": 1,
+      "topics": [],
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "openGraphImageUrl": "https://opengraph.githubassets.com/74e91dcee43ea49aca39a505f245f3ece1e987625c97cb4d6d90dfd229b1742d/AnandChowdhary/aagent"
+    }
+  },
+  {
+    "date": "2026-08-04T17:01:27Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/cr",
+    "url": "https://anandchowdhary.com/open-source/2026/cr",
+    "source": "https://github.com/AnandChowdhary/cr",
+    "data": {
+      "description": "Rust CLI for file-based database with HTTP API and UI",
+      "stars": 1,
+      "issues": 0,
+      "forks": 0,
+      "watchers": 1,
+      "topics": [],
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "openGraphImageUrl": "https://opengraph.githubassets.com/4348f7d4c22505508bdfe6ab45d760cba7ebb88a66009152703ce7c2ae663640/AnandChowdhary/cr"
+    }
+  },
+  {
     "date": "2026-05-28T16:00:51.000Z",
     "type": "blog-post",
     "url": "https://anandchowdhary.com/blog/2026/future-ai-native-work",
@@ -129,10 +165,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1365,
+      "stars": 1368,
       "issues": 2,
-      "forks": 93,
-      "watchers": 1365,
+      "forks": 92,
+      "watchers": 1368,
       "topics": [
         "ai",
         "ai-agents",
@@ -142,7 +178,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/4335dda4e545732e7d30ab052a96b424dbda9f8b575058413874e44278489add/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/6b84c274db2b1bcfc44eb27dab8f0dfbd1df1830962224cfa415092ff0fd58cd/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -174,7 +210,7 @@
     "data": {
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
       "stars": 11,
-      "issues": 1,
+      "issues": 0,
       "forks": 3,
       "watchers": 11,
       "topics": [
@@ -228,7 +264,7 @@
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
       "stars": 48,
       "issues": 5,
-      "forks": 19,
+      "forks": 18,
       "watchers": 48,
       "topics": [],
       "language": "TypeScript",
@@ -2574,10 +2610,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17109,
-      "issues": 70,
-      "forks": 1035,
-      "watchers": 17109,
+      "stars": 17120,
+      "issues": 68,
+      "forks": 1036,
+      "watchers": 17120,
       "topics": [
         "incidents-reports",
         "status",
@@ -2805,10 +2841,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-slots",
     "data": {
       "description": "🗓️ Find empty appointment slots in a user's calendar",
-      "stars": 20,
+      "stars": 21,
       "issues": 10,
       "forks": 5,
-      "watchers": 20,
+      "watchers": 21,
       "topics": [
         "calendar",
         "calendar-api",
@@ -2818,7 +2854,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/75a14c00b93c157f29905a9eff3e044f7445f8362d5b322b49435f994247f79f/AnandChowdhary/calendar-slots"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/a1d6e461bd6cb7e23cfabf06d52917ae7a93d728b7ff8eda2a3caed17826ead2/AnandChowdhary/calendar-slots"
     }
   },
   {
@@ -3011,10 +3047,10 @@
     "source": "https://github.com/AnandChowdhary/hackerbadge",
     "data": {
       "description": "📛 Embeddable badges for Hacker News posts/launches",
-      "stars": 18,
+      "stars": 19,
       "issues": 1,
       "forks": 2,
-      "watchers": 18,
+      "watchers": 19,
       "topics": [
         "badge",
         "hacker-news",
@@ -3658,10 +3694,10 @@
     "source": "https://github.com/AnandChowdhary/sharer.link",
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
-      "stars": 27,
+      "stars": 28,
       "issues": 16,
       "forks": 3,
-      "watchers": 27,
+      "watchers": 28,
       "topics": [
         "links",
         "share",
@@ -3869,10 +3905,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 622,
+      "stars": 623,
       "issues": 8,
       "forks": 74,
-      "watchers": 622,
+      "watchers": 623,
       "topics": [
         "calendar",
         "calendar-link",
@@ -3884,7 +3920,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/9bb14dcb53390672cf1ba0653c67c59e6e0ac884a42777b4b904d8b7b52d459f/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/679e6998e00f8bd15d34ad8e011ecd2b066efd14ecca1af84ba6be523c2a05a6/AnandChowdhary/calendar-link"
     }
   },
   {
