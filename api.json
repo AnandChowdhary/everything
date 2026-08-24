@@ -165,10 +165,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1370,
+      "stars": 1371,
       "issues": 2,
       "forks": 92,
-      "watchers": 1370,
+      "watchers": 1371,
       "topics": [
         "ai",
         "ai-agents",
@@ -264,7 +264,7 @@
       "description": "💰 Autonomous AI stock trading agent running on GitHub Actions",
       "stars": 48,
       "issues": 5,
-      "forks": 18,
+      "forks": 19,
       "watchers": 48,
       "topics": [],
       "language": "TypeScript",
@@ -2610,10 +2610,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17135,
-      "issues": 68,
+      "stars": 17142,
+      "issues": 65,
       "forks": 1038,
-      "watchers": 17135,
+      "watchers": 17142,
       "topics": [
         "incidents-reports",
         "status",
