@@ -165,10 +165,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1371,
+      "stars": 1376,
       "issues": 2,
       "forks": 92,
-      "watchers": 1371,
+      "watchers": 1376,
       "topics": [
         "ai",
         "ai-agents",
@@ -1715,10 +1715,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 102,
+      "stars": 101,
       "issues": 6,
       "forks": 17,
-      "watchers": 102,
+      "watchers": 101,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -2330,7 +2330,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 72,
-      "issues": 4,
+      "issues": 3,
       "forks": 20,
       "watchers": 72,
       "topics": [
@@ -2610,10 +2610,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17142,
+      "stars": 17148,
       "issues": 65,
-      "forks": 1038,
-      "watchers": 17142,
+      "forks": 1039,
+      "watchers": 17148,
       "topics": [
         "incidents-reports",
         "status",
@@ -3906,7 +3906,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 624,
-      "issues": 8,
+      "issues": 6,
       "forks": 74,
       "watchers": 624,
       "topics": [
@@ -3920,7 +3920,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/a63d8ad2fc8537b2f24376286fa1548b8ff8a6affb02db788968a47afaccfae7/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/d9dede1244c8a5267c644a2497d012c8e1f2afb0b0e1a1cd572197f36a1e8fbc/AnandChowdhary/calendar-link"
     }
   },
   {
@@ -4472,10 +4472,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1879,
+      "stars": 1880,
       "issues": 52,
       "forks": 129,
-      "watchers": 1879,
+      "watchers": 1880,
       "topics": [
         "file-upload",
         "hacktoberfest",
