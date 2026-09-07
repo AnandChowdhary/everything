@@ -165,10 +165,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1376,
+      "stars": 1380,
       "issues": 2,
-      "forks": 92,
-      "watchers": 1376,
+      "forks": 91,
+      "watchers": 1380,
       "topics": [
         "ai",
         "ai-agents",
@@ -2610,10 +2610,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17148,
+      "stars": 17152,
       "issues": 65,
-      "forks": 1039,
-      "watchers": 17148,
+      "forks": 1038,
+      "watchers": 17152,
       "topics": [
         "incidents-reports",
         "status",
@@ -3798,10 +3798,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 71,
+      "stars": 72,
       "issues": 8,
       "forks": 21,
-      "watchers": 71,
+      "watchers": 72,
       "topics": [
         "generator",
         "icons",
@@ -3906,7 +3906,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 624,
-      "issues": 6,
+      "issues": 1,
       "forks": 74,
       "watchers": 624,
       "topics": [
