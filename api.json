@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-12T11:23:23.254Z",
+    "type": "travel",
+    "url": "https://anandchowdhary.com/location/2026/greece",
+    "source": "https://github.com/AnandChowdhary/location/commit/23ecb225ce700f9ccf1b9c70036577c139bd7b10",
+    "title": "Greece",
+    "data": {
+      "hash": "23ecb225ce700f9ccf1b9c70036577c139bd7b10",
+      "approximateCoordinates": [
+        37.99,
+        23.77
+      ],
+      "label": "Greece",
+      "countryCode": "gr"
+    }
+  },
+  {
     "date": "2026-08-04T17:42:03Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/aagent",
@@ -178,7 +194,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/83cc81448e74a0ab89eb2d3435ac79257ac4ae6963dc705630b889443ccd8409/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/eced23b80b1b3166209089cebdc13b20c6e3fd6daff3214df6bd4224658ade4f/AnandChowdhary/continuous-claude"
     }
   },
   {
