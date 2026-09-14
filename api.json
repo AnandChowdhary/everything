@@ -226,7 +226,7 @@
     "data": {
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
       "stars": 11,
-      "issues": 0,
+      "issues": 1,
       "forks": 3,
       "watchers": 11,
       "topics": [
@@ -2626,10 +2626,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17152,
+      "stars": 17157,
       "issues": 65,
-      "forks": 1038,
-      "watchers": 17152,
+      "forks": 1039,
+      "watchers": 17157,
       "topics": [
         "incidents-reports",
         "status",
@@ -3185,10 +3185,10 @@
     "source": "https://github.com/AnandChowdhary/archiver",
     "data": {
       "description": "🗄️ Auto-archive your webpages on the Internet Archive",
-      "stars": 12,
+      "stars": 13,
       "issues": 10,
       "forks": 1,
-      "watchers": 12,
+      "watchers": 13,
       "topics": [
         "archive-dot-org",
         "automation",
@@ -3922,7 +3922,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 624,
-      "issues": 1,
+      "issues": 6,
       "forks": 74,
       "watchers": 624,
       "topics": [
@@ -4488,10 +4488,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1880,
+      "stars": 1879,
       "issues": 52,
       "forks": 129,
-      "watchers": 1880,
+      "watchers": 1879,
       "topics": [
         "file-upload",
         "hacktoberfest",
@@ -4628,10 +4628,10 @@
     "source": "https://github.com/AnandChowdhary/words",
     "data": {
       "description": "Words doesn't come in the way of you and your thoughts",
-      "stars": 3,
+      "stars": 4,
       "issues": 1,
       "forks": 1,
-      "watchers": 3,
+      "watchers": 4,
       "topics": [
         "cms",
         "json",
