@@ -1,5 +1,48 @@
 [
   {
+    "date": "2026-09-18T19:21:33Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/word-clock",
+    "url": "https://anandchowdhary.com/open-source/2026/word-clock",
+    "source": "https://github.com/AnandChowdhary/word-clock",
+    "data": {
+      "description": "A native macOS menu-bar clock that writes the time in words and keeps your calendar one click away.",
+      "stars": 1,
+      "issues": 0,
+      "forks": 0,
+      "watchers": 1,
+      "topics": [
+        "appkit",
+        "calendar",
+        "eventkit",
+        "macos",
+        "menu-bar",
+        "swift"
+      ],
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "openGraphImageUrl": "https://opengraph.githubassets.com/89918c91bf6d936044a8838889f2f161d84040a863770736bab5b1ae930ca0d8/AnandChowdhary/word-clock"
+    }
+  },
+  {
+    "date": "2026-09-17T11:09:54Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/gpu-utils",
+    "url": "https://anandchowdhary.com/open-source/2026/gpu-utils",
+    "source": "https://github.com/AnandChowdhary/gpu-utils",
+    "data": {
+      "description": "Tiny libraries for doing things in the browser with WebGPU",
+      "stars": 8,
+      "issues": 0,
+      "forks": 0,
+      "watchers": 8,
+      "topics": [],
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "openGraphImageUrl": "https://opengraph.githubassets.com/c778e486c2aeae226aa9494de00894907ab570fc9f9a274966960766940c0ebb/AnandChowdhary/gpu-utils"
+    }
+  },
+  {
     "date": "2026-09-12T11:23:23.254Z",
     "type": "travel",
     "url": "https://anandchowdhary.com/location/2026/greece",
@@ -42,7 +85,7 @@
     "data": {
       "description": "Rust CLI for file-based database with HTTP API and UI",
       "stars": 1,
-      "issues": 0,
+      "issues": 2,
       "forks": 0,
       "watchers": 1,
       "topics": [],
@@ -181,10 +224,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1380,
+      "stars": 1381,
       "issues": 2,
       "forks": 91,
-      "watchers": 1380,
+      "watchers": 1381,
       "topics": [
         "ai",
         "ai-agents",
@@ -194,7 +237,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/d4489b93dfa320f373db93761302ab37e156477ed8d7af40eabfaa86d51cdadd/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/ddb067a3044ec7290fe992b0d133454708968f9b9ad58bd3101255669ec2aa3d/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -225,10 +268,10 @@
     "source": "https://github.com/AnandChowdhary/claude-code-slack-bot",
     "data": {
       "description": "🤖 Use Claude Code from a Slack bot, built on top of Claude Code Action",
-      "stars": 11,
+      "stars": 12,
       "issues": 1,
       "forks": 3,
-      "watchers": 11,
+      "watchers": 12,
       "topics": [
         "claude",
         "claude-ai",
@@ -2626,10 +2669,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17157,
+      "stars": 17169,
       "issues": 65,
-      "forks": 1039,
-      "watchers": 17157,
+      "forks": 1043,
+      "watchers": 17169,
       "topics": [
         "incidents-reports",
         "status",
@@ -3710,10 +3753,10 @@
     "source": "https://github.com/AnandChowdhary/sharer.link",
     "data": {
       "description": "🔗 Share links for songs, places, podcasts, and more",
-      "stars": 28,
+      "stars": 27,
       "issues": 16,
       "forks": 3,
-      "watchers": 28,
+      "watchers": 27,
       "topics": [
         "links",
         "share",
@@ -4490,7 +4533,7 @@
       "description": "📁 JavaScript image uploader and editor, no backend required",
       "stars": 1879,
       "issues": 52,
-      "forks": 129,
+      "forks": 130,
       "watchers": 1879,
       "topics": [
         "file-upload",
