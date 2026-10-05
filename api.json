@@ -1,5 +1,32 @@
 [
   {
+    "date": "2026-09-28T11:26:48Z",
+    "type": "open-source-project",
+    "title": "AnandChowdhary/codex-usage",
+    "url": "https://anandchowdhary.com/open-source/2026/codex-usage",
+    "source": "https://github.com/AnandChowdhary/codex-usage",
+    "data": {
+      "description": "See how much Codex and Claude Code usage is left across all your accounts, and switch to the one with the most left",
+      "stars": 1,
+      "issues": 0,
+      "forks": 0,
+      "watchers": 1,
+      "topics": [
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "cli",
+        "codex",
+        "golang",
+        "openai",
+        "rate-limits"
+      ],
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "openGraphImageUrl": "https://opengraph.githubassets.com/cd10652efbfeb433aad88dad95fbf941ec21f6d919ae08e233512763b7133480/AnandChowdhary/codex-usage"
+    }
+  },
+  {
     "date": "2026-09-18T19:21:33Z",
     "type": "open-source-project",
     "title": "AnandChowdhary/word-clock",
@@ -32,10 +59,10 @@
     "source": "https://github.com/AnandChowdhary/gpu-utils",
     "data": {
       "description": "Tiny libraries for doing things in the browser with WebGPU",
-      "stars": 9,
+      "stars": 10,
       "issues": 0,
       "forks": 0,
-      "watchers": 9,
+      "watchers": 10,
       "topics": [],
       "language": "Python",
       "languageColor": "#3572A5",
@@ -85,7 +112,7 @@
     "data": {
       "description": "Rust CLI for file-based database with HTTP API and UI",
       "stars": 1,
-      "issues": 0,
+      "issues": 1,
       "forks": 0,
       "watchers": 1,
       "topics": [],
@@ -224,10 +251,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1381,
+      "stars": 1383,
       "issues": 2,
       "forks": 93,
-      "watchers": 1381,
+      "watchers": 1383,
       "topics": [
         "ai",
         "ai-agents",
@@ -237,7 +264,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/89875cf5fb5700be2414a8b6315737396eac5afe3c48c3bec5de5ce98c5900dc/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/2fb7caa9e277af50ee29bb40a23259d0b708a0243e4ba58f45e33fd3a3c9eefc/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -1217,10 +1244,10 @@
     "source": "https://github.com/AnandChowdhary/NewsHaikusBot",
     "data": {
       "description": "🤖 Twitter bot which tweets news in haikus using GPT-3",
-      "stars": 4,
+      "stars": 5,
       "issues": 2,
       "forks": 1,
-      "watchers": 4,
+      "watchers": 5,
       "topics": [
         "gpt-3",
         "openai",
@@ -2669,10 +2696,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17170,
+      "stars": 17176,
       "issues": 64,
-      "forks": 1040,
-      "watchers": 17170,
+      "forks": 1041,
+      "watchers": 17176,
       "topics": [
         "incidents-reports",
         "status",
@@ -2924,10 +2951,10 @@
     "source": "https://github.com/AnandChowdhary/docs-markdown",
     "data": {
       "description": "📝 Convert a Google Docs file (API response) to Markdown",
-      "stars": 68,
+      "stars": 69,
       "issues": 11,
       "forks": 11,
-      "watchers": 68,
+      "watchers": 69,
       "topics": [
         "google",
         "google-docs",
@@ -3145,10 +3172,10 @@
     "source": "https://github.com/AnandChowdhary/mockingbird",
     "data": {
       "description": "Smartphone app to help people with multiple sclerosis read more easily",
-      "stars": 3,
+      "stars": 4,
       "issues": 3,
       "forks": 1,
-      "watchers": 3,
+      "watchers": 4,
       "topics": [
         "a11y",
         "android",
@@ -4036,10 +4063,10 @@
     "source": "https://github.com/AnandChowdhary/hello-bar",
     "data": {
       "description": "👋 Greet your visitors with a hello bar",
-      "stars": 75,
+      "stars": 76,
       "issues": 6,
       "forks": 10,
-      "watchers": 75,
+      "watchers": 76,
       "topics": [
         "engagement",
         "hellobar",
