@@ -59,10 +59,10 @@
     "source": "https://github.com/AnandChowdhary/gpu-utils",
     "data": {
       "description": "Tiny libraries for doing things in the browser with WebGPU",
-      "stars": 10,
-      "issues": 0,
+      "stars": 12,
+      "issues": 1,
       "forks": 0,
-      "watchers": 10,
+      "watchers": 12,
       "topics": [],
       "language": "Python",
       "languageColor": "#3572A5",
@@ -112,7 +112,7 @@
     "data": {
       "description": "Rust CLI for file-based database with HTTP API and UI",
       "stars": 2,
-      "issues": 0,
+      "issues": 1,
       "forks": 0,
       "watchers": 2,
       "topics": [],
@@ -251,10 +251,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1385,
+      "stars": 1387,
       "issues": 2,
-      "forks": 104,
-      "watchers": 1385,
+      "forks": 93,
+      "watchers": 1387,
       "topics": [
         "ai",
         "ai-agents",
@@ -1801,10 +1801,10 @@
     "source": "https://github.com/pabio/redirect-russia",
     "data": {
       "description": "🇺🇦 Redirect Russian traffic from your site to support Ukraine",
-      "stars": 100,
+      "stars": 101,
       "issues": 6,
       "forks": 17,
-      "watchers": 100,
+      "watchers": 101,
       "topics": [
         "help-ukraine",
         "javascript",
@@ -2416,7 +2416,7 @@
     "data": {
       "description": "📚 Track your reading using GitHub Actions",
       "stars": 72,
-      "issues": 3,
+      "issues": 2,
       "forks": 20,
       "watchers": 72,
       "topics": [
@@ -2696,10 +2696,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17182,
+      "stars": 17187,
       "issues": 65,
-      "forks": 1041,
-      "watchers": 17182,
+      "forks": 1042,
+      "watchers": 17187,
       "topics": [
         "incidents-reports",
         "status",
@@ -2977,7 +2977,7 @@
     "data": {
       "description": "🎭 Natural language web automation with Puppeteer",
       "stars": 14,
-      "issues": 11,
+      "issues": 10,
       "forks": 2,
       "watchers": 14,
       "topics": [
@@ -3884,10 +3884,10 @@
     "source": "https://github.com/AnandChowdhary/language-icons",
     "data": {
       "description": "🈹 Better icons for languages, because flags just don't cut it",
-      "stars": 72,
+      "stars": 73,
       "issues": 7,
       "forks": 21,
-      "watchers": 72,
+      "watchers": 73,
       "topics": [
         "generator",
         "icons",
@@ -3991,10 +3991,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 626,
+      "stars": 627,
       "issues": 6,
       "forks": 74,
-      "watchers": 626,
+      "watchers": 627,
       "topics": [
         "calendar",
         "calendar-link",
@@ -4558,10 +4558,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1879,
+      "stars": 1878,
       "issues": 52,
       "forks": 130,
-      "watchers": 1879,
+      "watchers": 1878,
       "topics": [
         "file-upload",
         "hacktoberfest",
