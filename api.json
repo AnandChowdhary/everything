@@ -60,7 +60,7 @@
     "data": {
       "description": "Tiny libraries for doing things in the browser with WebGPU",
       "stars": 12,
-      "issues": 1,
+      "issues": 2,
       "forks": 0,
       "watchers": 12,
       "topics": [],
@@ -112,7 +112,7 @@
     "data": {
       "description": "Rust CLI for file-based database with HTTP API and UI",
       "stars": 2,
-      "issues": 1,
+      "issues": 3,
       "forks": 0,
       "watchers": 2,
       "topics": [],
@@ -251,10 +251,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1387,
+      "stars": 1388,
       "issues": 2,
       "forks": 93,
-      "watchers": 1387,
+      "watchers": 1388,
       "topics": [
         "ai",
         "ai-agents",
@@ -264,7 +264,7 @@
       ],
       "language": "Shell",
       "languageColor": "#89e051",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/da5b90f39b56334de56fa5fc5a5c7aed4777e3b3ca85cdfe96846223e87f0afd/AnandChowdhary/continuous-claude"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/166c3fd6bb68f5e703b0697f7442bdaf1820ff66909b24f85d0a3c9f92f1d1ed/AnandChowdhary/continuous-claude"
     }
   },
   {
@@ -2696,10 +2696,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17187,
+      "stars": 17191,
       "issues": 65,
-      "forks": 1042,
-      "watchers": 17187,
+      "forks": 1044,
+      "watchers": 17191,
       "topics": [
         "incidents-reports",
         "status",
@@ -3992,7 +3992,7 @@
     "data": {
       "description": "📅 Calendar link generator for popular services",
       "stars": 627,
-      "issues": 6,
+      "issues": 5,
       "forks": 74,
       "watchers": 627,
       "topics": [
