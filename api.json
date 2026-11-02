@@ -251,10 +251,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1388,
+      "stars": 1389,
       "issues": 2,
       "forks": 93,
-      "watchers": 1388,
+      "watchers": 1389,
       "topics": [
         "ai",
         "ai-agents",
@@ -1290,7 +1290,7 @@
     "data": {
       "description": "🎁 Daily messages for birthday reminders using GitHub Actions",
       "stars": 7,
-      "issues": 1,
+      "issues": 2,
       "forks": 3,
       "watchers": 7,
       "topics": [
@@ -2696,10 +2696,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17191,
-      "issues": 65,
+      "stars": 17195,
+      "issues": 64,
       "forks": 1044,
-      "watchers": 17191,
+      "watchers": 17195,
       "topics": [
         "incidents-reports",
         "status",
@@ -4006,7 +4006,7 @@
       ],
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "openGraphImageUrl": "https://opengraph.githubassets.com/717d04f88232f17f16c881abb728a52a18af4641a376cb74c9aca1ee269066c4/AnandChowdhary/calendar-link"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/837614494bbf811710dba2141df2f3daafd50ee15eff66d7438df5bdd8acff2f/AnandChowdhary/calendar-link"
     }
   },
   {
