@@ -251,10 +251,10 @@
     "source": "https://github.com/AnandChowdhary/continuous-claude",
     "data": {
       "description": "🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
-      "stars": 1387,
+      "stars": 1389,
       "issues": 2,
       "forks": 93,
-      "watchers": 1387,
+      "watchers": 1389,
       "topics": [
         "ai",
         "ai-agents",
@@ -2696,10 +2696,10 @@
     "source": "https://github.com/upptime/upptime",
     "data": {
       "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "stars": 17197,
+      "stars": 17200,
       "issues": 64,
       "forks": 1043,
-      "watchers": 17197,
+      "watchers": 17200,
       "topics": [
         "incidents-reports",
         "status",
@@ -3991,10 +3991,10 @@
     "source": "https://github.com/AnandChowdhary/calendar-link",
     "data": {
       "description": "📅 Calendar link generator for popular services",
-      "stars": 628,
-      "issues": 6,
-      "forks": 75,
-      "watchers": 628,
+      "stars": 630,
+      "issues": 7,
+      "forks": 76,
+      "watchers": 630,
       "topics": [
         "calendar",
         "calendar-link",
@@ -4558,10 +4558,10 @@
     "source": "https://github.com/elninotech/uppload",
     "data": {
       "description": "📁 JavaScript image uploader and editor, no backend required",
-      "stars": 1879,
+      "stars": 1876,
       "issues": 52,
       "forks": 130,
-      "watchers": 1879,
+      "watchers": 1876,
       "topics": [
         "file-upload",
         "hacktoberfest",
